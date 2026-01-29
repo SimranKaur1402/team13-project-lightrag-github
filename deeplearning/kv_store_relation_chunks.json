@@ -1,0 +1,5197 @@
+{
+  "Goodfellow<SEP>Gülçehre": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911180,
+    "update_time": 1768911180,
+    "_id": "Goodfellow<SEP>Gülçehre"
+  },
+  "Atari Video Games<SEP>DeepMind": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911180,
+    "update_time": 1768911180,
+    "_id": "Atari Video Games<SEP>DeepMind"
+  },
+  "Deep Learning<SEP>Google": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911180,
+    "update_time": 1768911180,
+    "_id": "Deep Learning<SEP>Google"
+  },
+  "Bengio<SEP>Goodfellow": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911181,
+    "update_time": 1768911181,
+    "_id": "Bengio<SEP>Goodfellow"
+  },
+  "Deep Learning<SEP>Microsoft": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911181,
+    "update_time": 1768911181,
+    "_id": "Deep Learning<SEP>Microsoft"
+  },
+  "Goodfellow<SEP>Sutskever": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911182,
+    "update_time": 1768911182,
+    "_id": "Goodfellow<SEP>Sutskever"
+  },
+  "Bengio<SEP>Gülçehre": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911182,
+    "update_time": 1768911182,
+    "_id": "Bengio<SEP>Gülçehre"
+  },
+  "Apple<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911182,
+    "update_time": 1768911182,
+    "_id": "Apple<SEP>Deep Learning"
+  },
+  "Data Processing in Scientific Fields<SEP>Neuroscientists": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911182,
+    "update_time": 1768911182,
+    "_id": "Data Processing in Scientific Fields<SEP>Neuroscientists"
+  },
+  "Goodfellow<SEP>Graves": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911182,
+    "update_time": 1768911182,
+    "_id": "Goodfellow<SEP>Graves"
+  },
+  "Graves<SEP>Neural Turing Machines": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911183,
+    "update_time": 1768911183,
+    "_id": "Graves<SEP>Neural Turing Machines"
+  },
+  "DeepMind<SEP>Goodfellow": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911183,
+    "update_time": 1768911183,
+    "_id": "DeepMind<SEP>Goodfellow"
+  },
+  "Adversarial Training<SEP>Optimization for Training Deep Models": {
+    "chunk_ids": [
+      "chunk-9cf30497ed510e2d805d75144cf54c86"
+    ],
+    "count": 1,
+    "create_time": 1768911183,
+    "update_time": 1768911183,
+    "_id": "Adversarial Training<SEP>Optimization for Training Deep Models"
+  },
+  "Deep Learning<SEP>Noah Carter": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911183,
+    "update_time": 1768911183,
+    "_id": "Deep Learning<SEP>Noah Carter"
+  },
+  "Challenges in Neural Network Optimization<SEP>Optimization for Training Deep Models": {
+    "chunk_ids": [
+      "chunk-9cf30497ed510e2d805d75144cf54c86"
+    ],
+    "count": 1,
+    "create_time": 1768911183,
+    "update_time": 1768911183,
+    "_id": "Challenges in Neural Network Optimization<SEP>Optimization for Training Deep Models"
+  },
+  "Goodfellow<SEP>LSTM Sequence Model": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911183,
+    "update_time": 1768911183,
+    "_id": "Goodfellow<SEP>LSTM Sequence Model"
+  },
+  "Long Short-Term Memory<SEP>Sequence Modeling: Recurrent and Recursive Nets": {
+    "chunk_ids": [
+      "chunk-9cf30497ed510e2d805d75144cf54c86"
+    ],
+    "count": 1,
+    "create_time": 1768911183,
+    "update_time": 1768911183,
+    "_id": "Long Short-Term Memory<SEP>Sequence Modeling: Recurrent and Recursive Nets"
+  },
+  "Basic Algorithms<SEP>Optimization for Training Deep Models": {
+    "chunk_ids": [
+      "chunk-9cf30497ed510e2d805d75144cf54c86"
+    ],
+    "count": 1,
+    "create_time": 1768911184,
+    "update_time": 1768911184,
+    "_id": "Basic Algorithms<SEP>Optimization for Training Deep Models"
+  },
+  "Deep Learning<SEP>Pharmaceutical Companies": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31",
+      "chunk-85cefddcaecd1949b3492b6883a08ac6"
+    ],
+    "count": 2,
+    "create_time": 1768911184,
+    "update_time": 1768911184,
+    "_id": "Deep Learning<SEP>Pharmaceutical Companies"
+  },
+  "Deep Recurrent Networks<SEP>Sequence Modeling: Recurrent and Recursive Nets": {
+    "chunk_ids": [
+      "chunk-9cf30497ed510e2d805d75144cf54c86"
+    ],
+    "count": 1,
+    "create_time": 1768911184,
+    "update_time": 1768911184,
+    "_id": "Deep Recurrent Networks<SEP>Sequence Modeling: Recurrent and Recursive Nets"
+  },
+  "Basic Algorithms<SEP>Parameter Initialization Strategies": {
+    "chunk_ids": [
+      "chunk-9cf30497ed510e2d805d75144cf54c86"
+    ],
+    "count": 1,
+    "create_time": 1768911184,
+    "update_time": 1768911184,
+    "_id": "Basic Algorithms<SEP>Parameter Initialization Strategies"
+  },
+  "David Warde-Farley<SEP>Representation Learning": {
+    "chunk_ids": [
+      "chunk-d052846d3bce5d76b5380e3fe4a4925e"
+    ],
+    "count": 1,
+    "create_time": 1768911184,
+    "update_time": 1768911184,
+    "_id": "David Warde-Farley<SEP>Representation Learning"
+  },
+  "Deep Learning<SEP>Neural Turing Machines": {
+    "chunk_ids": [
+      "chunk-66aff914b7f169ba4042067f08398d31"
+    ],
+    "count": 1,
+    "create_time": 1768911184,
+    "update_time": 1768911184,
+    "_id": "Deep Learning<SEP>Neural Turing Machines"
+  },
+  "Echo State Networks<SEP>Sequence Modeling: Recurrent and Recursive Nets": {
+    "chunk_ids": [
+      "chunk-9cf30497ed510e2d805d75144cf54c86"
+    ],
+    "count": 1,
+    "create_time": 1768911185,
+    "update_time": 1768911185,
+    "_id": "Echo State Networks<SEP>Sequence Modeling: Recurrent and Recursive Nets"
+  },
+  "Deep Recurrent Networks<SEP>Leaky Units and Other Strategies for Multiple Time Scales": {
+    "chunk_ids": [
+      "chunk-9cf30497ed510e2d805d75144cf54c86"
+    ],
+    "count": 1,
+    "create_time": 1768911185,
+    "update_time": 1768911185,
+    "_id": "Deep Recurrent Networks<SEP>Leaky Units and Other Strategies for Multiple Time Scales"
+  },
+  "Factors<SEP>Variation": {
+    "chunk_ids": [
+      "chunk-d052846d3bce5d76b5380e3fe4a4925e"
+    ],
+    "count": 1,
+    "create_time": 1768911185,
+    "update_time": 1768911185,
+    "_id": "Factors<SEP>Variation"
+  },
+  "Autoencoder<SEP>Representation Learning": {
+    "chunk_ids": [
+      "chunk-d052846d3bce5d76b5380e3fe4a4925e"
+    ],
+    "count": 1,
+    "create_time": 1768911185,
+    "update_time": 1768911185,
+    "_id": "Autoencoder<SEP>Representation Learning"
+  },
+  "Recursive Neural Networks<SEP>Sequence Modeling: Recurrent and Recursive Nets": {
+    "chunk_ids": [
+      "chunk-9cf30497ed510e2d805d75144cf54c86"
+    ],
+    "count": 1,
+    "create_time": 1768911185,
+    "update_time": 1768911185,
+    "_id": "Recursive Neural Networks<SEP>Sequence Modeling: Recurrent and Recursive Nets"
+  },
+  "Deep Learning<SEP>Representation Learning": {
+    "chunk_ids": [
+      "chunk-d052846d3bce5d76b5380e3fe4a4925e",
+      "chunk-bac272cb401529a36c7732284f3da738",
+      "chunk-ec8cde6747414a42b9f90501d7dd0d2a"
+    ],
+    "count": 3,
+    "create_time": 1768911186,
+    "update_time": 1768911186,
+    "_id": "Deep Learning<SEP>Representation Learning"
+  },
+  "Factors of Variation<SEP>Representation Learning": {
+    "chunk_ids": [
+      "chunk-d052846d3bce5d76b5380e3fe4a4925e"
+    ],
+    "count": 1,
+    "create_time": 1768911186,
+    "update_time": 1768911186,
+    "_id": "Factors of Variation<SEP>Representation Learning"
+  },
+  "Deep Learning<SEP>Neuroscientists": {
+    "chunk_ids": [
+      "chunk-85cefddcaecd1949b3492b6883a08ac6"
+    ],
+    "count": 1,
+    "create_time": 1768911186,
+    "update_time": 1768911186,
+    "_id": "Deep Learning<SEP>Neuroscientists"
+  },
+  "Klaus Strobl<SEP>Nicholas Turner": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911186,
+    "update_time": 1768911186,
+    "_id": "Klaus Strobl<SEP>Nicholas Turner"
+  },
+  "Eugene Brevdo<SEP>Martín Arjovsky": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911187,
+    "update_time": 1768911187,
+    "_id": "Eugene Brevdo<SEP>Martín Arjovsky"
+  },
+  "Alex Paino<SEP>Mehdi Mirza": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911187,
+    "update_time": 1768911187,
+    "_id": "Alex Paino<SEP>Mehdi Mirza"
+  },
+  "3-D Map of the Human Brain<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-85cefddcaecd1949b3492b6883a08ac6"
+    ],
+    "count": 1,
+    "create_time": 1768911187,
+    "update_time": 1768911187,
+    "_id": "3-D Map of the Human Brain<SEP>Deep Learning"
+  },
+  "Gökçen Eraslan<SEP>Steven Hickson": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911187,
+    "update_time": 1768911187,
+    "_id": "Gökçen Eraslan<SEP>Steven Hickson"
+  },
+  "Dmitriy Serdyuk<SEP>Rui Rodrigues": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911187,
+    "update_time": 1768911187,
+    "_id": "Dmitriy Serdyuk<SEP>Rui Rodrigues"
+  },
+  "Daniel Beckstein<SEP>Practical Methodology": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911188,
+    "update_time": 1768911188,
+    "_id": "Daniel Beckstein<SEP>Practical Methodology"
+  },
+  "Deep Learning<SEP>Human Brain": {
+    "chunk_ids": [
+      "chunk-85cefddcaecd1949b3492b6883a08ac6"
+    ],
+    "count": 1,
+    "create_time": 1768911188,
+    "update_time": 1768911188,
+    "_id": "Deep Learning<SEP>Human Brain"
+  },
+  "Applications<SEP>George Dahl": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911188,
+    "update_time": 1768911188,
+    "_id": "Applications<SEP>George Dahl"
+  },
+  "Ribana Roscher<SEP>Vladimir Nekrasov": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911188,
+    "update_time": 1768911188,
+    "_id": "Ribana Roscher<SEP>Vladimir Nekrasov"
+  },
+  "Jayanth Koushik<SEP>Linear Factor Models": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911188,
+    "update_time": 1768911188,
+    "_id": "Jayanth Koushik<SEP>Linear Factor Models"
+  },
+  "Deep Learning<SEP>Larger Datasets": {
+    "chunk_ids": [
+      "chunk-85cefddcaecd1949b3492b6883a08ac6"
+    ],
+    "count": 1,
+    "create_time": 1768911188,
+    "update_time": 1768911188,
+    "_id": "Deep Learning<SEP>Larger Datasets"
+  },
+  "Kunal Ghosh<SEP>Representation Learning": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911188,
+    "update_time": 1768911188,
+    "_id": "Kunal Ghosh<SEP>Representation Learning"
+  },
+  "Anton Varfolom<SEP>Minh Lê": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911189,
+    "update_time": 1768911189,
+    "_id": "Anton Varfolom<SEP>Minh Lê"
+  },
+  "Sam Bowman<SEP>Yujia Bao": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911189,
+    "update_time": 1768911189,
+    "_id": "Sam Bowman<SEP>Yujia Bao"
+  },
+  "Artificial Neural Networks<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-85cefddcaecd1949b3492b6883a08ac6",
+      "chunk-7030ceb5e481db7469c5a663054ab0ff"
+    ],
+    "count": 2,
+    "create_time": 1768911189,
+    "update_time": 1768911189,
+    "_id": "Artificial Neural Networks<SEP>Deep Learning"
+  },
+  "Daniel Galvez<SEP>Nicolas Chapados": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911189,
+    "update_time": 1768911189,
+    "_id": "Daniel Galvez<SEP>Nicolas Chapados"
+  },
+  "Lu Wang<SEP>pdf2htmlEX": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911189,
+    "update_time": 1768911189,
+    "_id": "Lu Wang<SEP>pdf2htmlEX"
+  },
+  "Daniela Flori Goodfellow<SEP>Ian": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911189,
+    "update_time": 1768911189,
+    "_id": "Daniela Flori Goodfellow<SEP>Ian"
+  },
+  "Artificial Neural Networks<SEP>Hidden Units": {
+    "chunk_ids": [
+      "chunk-85cefddcaecd1949b3492b6883a08ac6"
+    ],
+    "count": 1,
+    "create_time": 1768911189,
+    "update_time": 1768911189,
+    "_id": "Artificial Neural Networks<SEP>Hidden Units"
+  },
+  "Chapter 9: Convolutional Networks<SEP>Martín Arjovsky": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911189,
+    "update_time": 1768911189,
+    "_id": "Chapter 9: Convolutional Networks<SEP>Martín Arjovsky"
+  },
+  "Chapter 10: Sequence Modeling<SEP>Gökçen Eraslan": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911190,
+    "update_time": 1768911190,
+    "_id": "Chapter 10: Sequence Modeling<SEP>Gökçen Eraslan"
+  },
+  "Chapter 9: Convolutional Networks<SEP>Eugene Brevdo": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911190,
+    "update_time": 1768911190,
+    "_id": "Chapter 9: Convolutional Networks<SEP>Eugene Brevdo"
+  },
+  "Chapter 12: Applications<SEP>George Dahl": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911190,
+    "update_time": 1768911190,
+    "_id": "Chapter 12: Applications<SEP>George Dahl"
+  },
+  "Google Brain Team<SEP>Ian": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911190,
+    "update_time": 1768911190,
+    "_id": "Google Brain Team<SEP>Ian"
+  },
+  "Chapter 10: Sequence Modeling<SEP>Steven Hickson": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911190,
+    "update_time": 1768911190,
+    "_id": "Chapter 10: Sequence Modeling<SEP>Steven Hickson"
+  },
+  "Chapter 20: Deep Generative Models<SEP>Nicolas Chapados": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911190,
+    "update_time": 1768911190,
+    "_id": "Chapter 20: Deep Generative Models<SEP>Nicolas Chapados"
+  },
+  "Geoffrey Hinton<SEP>Ian": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911191,
+    "update_time": 1768911191,
+    "_id": "Geoffrey Hinton<SEP>Ian"
+  },
+  "Chapter 12: Applications<SEP>Vladimir Nekrasov": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911191,
+    "update_time": 1768911191,
+    "_id": "Chapter 12: Applications<SEP>Vladimir Nekrasov"
+  },
+  "Artificial Intelligence (AI)<SEP>Pygmalion": {
+    "chunk_ids": [
+      "chunk-1cab33350eba1be65fc00415923198c9"
+    ],
+    "count": 1,
+    "create_time": 1768911191,
+    "update_time": 1768911191,
+    "_id": "Artificial Intelligence (AI)<SEP>Pygmalion"
+  },
+  "Chapter 20: Deep Generative Models<SEP>Fady Medhat": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911191,
+    "update_time": 1768911191,
+    "_id": "Chapter 20: Deep Generative Models<SEP>Fady Medhat"
+  },
+  "Chapter 12: Applications<SEP>Ribana Roscher": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911191,
+    "update_time": 1768911191,
+    "_id": "Chapter 12: Applications<SEP>Ribana Roscher"
+  },
+  "Artificial Intelligence (AI)<SEP>Daedalus": {
+    "chunk_ids": [
+      "chunk-1cab33350eba1be65fc00415923198c9"
+    ],
+    "count": 1,
+    "create_time": 1768911191,
+    "update_time": 1768911191,
+    "_id": "Artificial Intelligence (AI)<SEP>Daedalus"
+  },
+  "Chapter 20: Deep Generative Models<SEP>Shakir Mohamed": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911192,
+    "update_time": 1768911192,
+    "_id": "Chapter 20: Deep Generative Models<SEP>Shakir Mohamed"
+  },
+  "Artificial Intelligence (AI)<SEP>Hephaestus": {
+    "chunk_ids": [
+      "chunk-1cab33350eba1be65fc00415923198c9"
+    ],
+    "count": 1,
+    "create_time": 1768911192,
+    "update_time": 1768911192,
+    "_id": "Artificial Intelligence (AI)<SEP>Hephaestus"
+  },
+  "Deep Blue<SEP>Garry Kasparov": {
+    "chunk_ids": [
+      "chunk-1cab33350eba1be65fc00415923198c9"
+    ],
+    "count": 1,
+    "create_time": 1768911192,
+    "update_time": 1768911192,
+    "_id": "Deep Blue<SEP>Garry Kasparov"
+  },
+  "Chapter 20: Deep Generative Models<SEP>Grégoire Montavon": {
+    "chunk_ids": [
+      "chunk-e1db65daaf210c57b95c0176b870ff21"
+    ],
+    "count": 1,
+    "create_time": 1768911192,
+    "update_time": 1768911192,
+    "_id": "Chapter 20: Deep Generative Models<SEP>Grégoire Montavon"
+  },
+  "Input Example<SEP>Training Set": {
+    "chunk_ids": [
+      "chunk-1cab33350eba1be65fc00415923198c9"
+    ],
+    "count": 1,
+    "create_time": 1768911192,
+    "update_time": 1768911192,
+    "_id": "Input Example<SEP>Training Set"
+  },
+  "Artificial Intelligence (AI)<SEP>Galatea": {
+    "chunk_ids": [
+      "chunk-1cab33350eba1be65fc00415923198c9"
+    ],
+    "count": 1,
+    "create_time": 1768911193,
+    "update_time": 1768911193,
+    "_id": "Artificial Intelligence (AI)<SEP>Galatea"
+  },
+  "Eigenvalues<SEP>Eigenvectors": {
+    "chunk_ids": [
+      "chunk-f81436ceefbaa6d5dc02610dd8127f9b"
+    ],
+    "count": 1,
+    "create_time": 1768911193,
+    "update_time": 1768911193,
+    "_id": "Eigenvalues<SEP>Eigenvectors"
+  },
+  "Artificial Intelligence (AI)<SEP>Talos": {
+    "chunk_ids": [
+      "chunk-1cab33350eba1be65fc00415923198c9"
+    ],
+    "count": 1,
+    "create_time": 1768911193,
+    "update_time": 1768911193,
+    "_id": "Artificial Intelligence (AI)<SEP>Talos"
+  },
+  "Orthogonal Matrix<SEP>Real Symmetric Matrix": {
+    "chunk_ids": [
+      "chunk-f81436ceefbaa6d5dc02610dd8127f9b"
+    ],
+    "count": 1,
+    "create_time": 1768911193,
+    "update_time": 1768911193,
+    "_id": "Orthogonal Matrix<SEP>Real Symmetric Matrix"
+  },
+  "Matrices<SEP>Singular Value Decomposition (SVD)": {
+    "chunk_ids": [
+      "chunk-f81436ceefbaa6d5dc02610dd8127f9b"
+    ],
+    "count": 1,
+    "create_time": 1768911193,
+    "update_time": 1768911193,
+    "_id": "Matrices<SEP>Singular Value Decomposition (SVD)"
+  },
+  "Eigenvalues<SEP>Real Symmetric Matrix": {
+    "chunk_ids": [
+      "chunk-f81436ceefbaa6d5dc02610dd8127f9b"
+    ],
+    "count": 1,
+    "create_time": 1768911194,
+    "update_time": 1768911194,
+    "_id": "Eigenvalues<SEP>Real Symmetric Matrix"
+  },
+  "Artificial Intelligence (AI)<SEP>Pandora": {
+    "chunk_ids": [
+      "chunk-1cab33350eba1be65fc00415923198c9"
+    ],
+    "count": 1,
+    "create_time": 1768911194,
+    "update_time": 1768911194,
+    "_id": "Artificial Intelligence (AI)<SEP>Pandora"
+  },
+  "Eigendecomposition<SEP>Matrix": {
+    "chunk_ids": [
+      "chunk-f81436ceefbaa6d5dc02610dd8127f9b",
+      "chunk-0139bf2dedbbf7d4064d9e8be650befc"
+    ],
+    "count": 2,
+    "create_time": 1768911194,
+    "update_time": 1768911194,
+    "_id": "Eigendecomposition<SEP>Matrix"
+  },
+  "Eigenvalues<SEP>Quadratic Expressions": {
+    "chunk_ids": [
+      "chunk-f81436ceefbaa6d5dc02610dd8127f9b"
+    ],
+    "count": 1,
+    "create_time": 1768911194,
+    "update_time": 1768911194,
+    "_id": "Eigenvalues<SEP>Quadratic Expressions"
+  },
+  "Artificial Intelligence (AI)<SEP>Deep Blue": {
+    "chunk_ids": [
+      "chunk-1cab33350eba1be65fc00415923198c9"
+    ],
+    "count": 1,
+    "create_time": 1768911194,
+    "update_time": 1768911194,
+    "_id": "Artificial Intelligence (AI)<SEP>Deep Blue"
+  },
+  "1940s-1960s Wave<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-7030ceb5e481db7469c5a663054ab0ff"
+    ],
+    "count": 1,
+    "create_time": 1768911194,
+    "update_time": 1768911194,
+    "_id": "1940s-1960s Wave<SEP>Deep Learning"
+  },
+  "Eigenvalues<SEP>Positive Definite Matrices": {
+    "chunk_ids": [
+      "chunk-f81436ceefbaa6d5dc02610dd8127f9b"
+    ],
+    "count": 1,
+    "create_time": 1768911195,
+    "update_time": 1768911195,
+    "_id": "Eigenvalues<SEP>Positive Definite Matrices"
+  },
+  "Learning Algorithms<SEP>Neuroscience Perspective": {
+    "chunk_ids": [
+      "chunk-7030ceb5e481db7469c5a663054ab0ff"
+    ],
+    "count": 1,
+    "create_time": 1768911195,
+    "update_time": 1768911195,
+    "_id": "Learning Algorithms<SEP>Neuroscience Perspective"
+  },
+  "Artificial Intelligence (AI)<SEP>Human Operators": {
+    "chunk_ids": [
+      "chunk-1cab33350eba1be65fc00415923198c9"
+    ],
+    "count": 1,
+    "create_time": 1768911195,
+    "update_time": 1768911195,
+    "_id": "Artificial Intelligence (AI)<SEP>Human Operators"
+  },
+  "1980s-1990s Wave<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-7030ceb5e481db7469c5a663054ab0ff"
+    ],
+    "count": 1,
+    "create_time": 1768911195,
+    "update_time": 1768911195,
+    "_id": "1980s-1990s Wave<SEP>Deep Learning"
+  },
+  "1940s-1960s Wave<SEP>Cybernetics": {
+    "chunk_ids": [
+      "chunk-7030ceb5e481db7469c5a663054ab0ff"
+    ],
+    "count": 1,
+    "create_time": 1768911195,
+    "update_time": 1768911195,
+    "_id": "1940s-1960s Wave<SEP>Cybernetics"
+  },
+  "Eigenvalues<SEP>Positive Semidefinite Matrices": {
+    "chunk_ids": [
+      "chunk-f81436ceefbaa6d5dc02610dd8127f9b"
+    ],
+    "count": 1,
+    "create_time": 1768911195,
+    "update_time": 1768911195,
+    "_id": "Eigenvalues<SEP>Positive Semidefinite Matrices"
+  },
+  "Eigenvalue Decomposition<SEP>SVD": {
+    "chunk_ids": [
+      "chunk-0139bf2dedbbf7d4064d9e8be650befc"
+    ],
+    "count": 1,
+    "create_time": 1768911195,
+    "update_time": 1768911195,
+    "_id": "Eigenvalue Decomposition<SEP>SVD"
+  },
+  "Artificial Intelligence (AI)<SEP>Formal Languages": {
+    "chunk_ids": [
+      "chunk-1cab33350eba1be65fc00415923198c9"
+    ],
+    "count": 1,
+    "create_time": 1768911195,
+    "update_time": 1768911195,
+    "_id": "Artificial Intelligence (AI)<SEP>Formal Languages"
+  },
+  "Matrix<SEP>Matrix Inversion": {
+    "chunk_ids": [
+      "chunk-0139bf2dedbbf7d4064d9e8be650befc",
+      "chunk-e325d64a50359748cfb47987a361fbb1"
+    ],
+    "count": 2,
+    "create_time": 1768911196,
+    "update_time": 1768911196,
+    "_id": "Matrix<SEP>Matrix Inversion"
+  },
+  "Deep Learning<SEP>Deep Learning Waves": {
+    "chunk_ids": [
+      "chunk-7030ceb5e481db7469c5a663054ab0ff"
+    ],
+    "count": 1,
+    "create_time": 1768911196,
+    "update_time": 1768911196,
+    "_id": "Deep Learning<SEP>Deep Learning Waves"
+  },
+  "1980s-1990s Wave<SEP>Connectionism": {
+    "chunk_ids": [
+      "chunk-7030ceb5e481db7469c5a663054ab0ff"
+    ],
+    "count": 1,
+    "create_time": 1768911196,
+    "update_time": 1768911196,
+    "_id": "1980s-1990s Wave<SEP>Connectionism"
+  },
+  "Diagonal Matrix<SEP>Matrix": {
+    "chunk_ids": [
+      "chunk-0139bf2dedbbf7d4064d9e8be650befc"
+    ],
+    "count": 1,
+    "create_time": 1768911196,
+    "update_time": 1768911196,
+    "_id": "Diagonal Matrix<SEP>Matrix"
+  },
+  "Pseudoinverse<SEP>SVD": {
+    "chunk_ids": [
+      "chunk-0139bf2dedbbf7d4064d9e8be650befc"
+    ],
+    "count": 1,
+    "create_time": 1768911196,
+    "update_time": 1768911196,
+    "_id": "Pseudoinverse<SEP>SVD"
+  },
+  "Deep Learning<SEP>Linear Algebra": {
+    "chunk_ids": [
+      "chunk-d9a143ce5c66baaa2cee5e90f9622516",
+      "chunk-bac272cb401529a36c7732284f3da738",
+      "chunk-2aff4303e41c5babfaf2c4d7bf68299d"
+    ],
+    "count": 3,
+    "create_time": 1768911197,
+    "update_time": 1768911197,
+    "_id": "Deep Learning<SEP>Linear Algebra"
+  },
+  "Deep Learning Approach to Structured Probabilistic Models<SEP>Monte Carlo Methods": {
+    "chunk_ids": [
+      "chunk-e50469f832851b636f2df3ba1727f237"
+    ],
+    "count": 1,
+    "create_time": 1768911197,
+    "update_time": 1768911197,
+    "_id": "Deep Learning Approach to Structured Probabilistic Models<SEP>Monte Carlo Methods"
+  },
+  "Matrix<SEP>Orthogonal Matrices": {
+    "chunk_ids": [
+      "chunk-0139bf2dedbbf7d4064d9e8be650befc"
+    ],
+    "count": 1,
+    "create_time": 1768911197,
+    "update_time": 1768911197,
+    "_id": "Matrix<SEP>Orthogonal Matrices"
+  },
+  "Contrastive Divergence<SEP>Stochastic Maximum Likelihood": {
+    "chunk_ids": [
+      "chunk-e50469f832851b636f2df3ba1727f237"
+    ],
+    "count": 1,
+    "create_time": 1768911197,
+    "update_time": 1768911197,
+    "_id": "Contrastive Divergence<SEP>Stochastic Maximum Likelihood"
+  },
+  "Gibbs Sampling<SEP>Monte Carlo Methods": {
+    "chunk_ids": [
+      "chunk-e50469f832851b636f2df3ba1727f237"
+    ],
+    "count": 1,
+    "create_time": 1768911197,
+    "update_time": 1768911197,
+    "_id": "Gibbs Sampling<SEP>Monte Carlo Methods"
+  },
+  "Expectation Maximization<SEP>MAP Inference": {
+    "chunk_ids": [
+      "chunk-e50469f832851b636f2df3ba1727f237"
+    ],
+    "count": 1,
+    "create_time": 1768911197,
+    "update_time": 1768911197,
+    "_id": "Expectation Maximization<SEP>MAP Inference"
+  },
+  "Deep Belief Networks<SEP>Generative Stochastic Networks": {
+    "chunk_ids": [
+      "chunk-e50469f832851b636f2df3ba1727f237"
+    ],
+    "count": 1,
+    "create_time": 1768911197,
+    "update_time": 1768911197,
+    "_id": "Deep Belief Networks<SEP>Generative Stochastic Networks"
+  },
+  "Matrix<SEP>Non-Square Matrix": {
+    "chunk_ids": [
+      "chunk-0139bf2dedbbf7d4064d9e8be650befc"
+    ],
+    "count": 1,
+    "create_time": 1768911197,
+    "update_time": 1768911197,
+    "_id": "Matrix<SEP>Non-Square Matrix"
+  },
+  "Noise-Contrastive Estimation<SEP>Partition Function": {
+    "chunk_ids": [
+      "chunk-e50469f832851b636f2df3ba1727f237"
+    ],
+    "count": 1,
+    "create_time": 1768911197,
+    "update_time": 1768911197,
+    "_id": "Noise-Contrastive Estimation<SEP>Partition Function"
+  },
+  "Applied Math<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-d9a143ce5c66baaa2cee5e90f9622516"
+    ],
+    "count": 1,
+    "create_time": 1768911198,
+    "update_time": 1768911198,
+    "_id": "Applied Math<SEP>Deep Learning"
+  },
+  "Flowchart 1.6<SEP>Machine Learning Basics": {
+    "chunk_ids": [
+      "chunk-bac272cb401529a36c7732284f3da738"
+    ],
+    "count": 1,
+    "create_time": 1768911198,
+    "update_time": 1768911198,
+    "_id": "Flowchart 1.6<SEP>Machine Learning Basics"
+  },
+  "Computer Science<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-bac272cb401529a36c7732284f3da738"
+    ],
+    "count": 1,
+    "create_time": 1768911198,
+    "update_time": 1768911198,
+    "_id": "Computer Science<SEP>Deep Learning"
+  },
+  "AI Technologies<SEP>Rule-based Systems": {
+    "chunk_ids": [
+      "chunk-bac272cb401529a36c7732284f3da738"
+    ],
+    "count": 1,
+    "create_time": 1768911198,
+    "update_time": 1768911198,
+    "_id": "AI Technologies<SEP>Rule-based Systems"
+  },
+  "Classic Machine Learning<SEP>Rule-based Systems": {
+    "chunk_ids": [
+      "chunk-bac272cb401529a36c7732284f3da738"
+    ],
+    "count": 1,
+    "create_time": 1768911199,
+    "update_time": 1768911199,
+    "_id": "Classic Machine Learning<SEP>Rule-based Systems"
+  },
+  "Computer Vision<SEP>Large-Scale Deep Learning": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911199,
+    "update_time": 1768911199,
+    "_id": "Computer Vision<SEP>Large-Scale Deep Learning"
+  },
+  "Deep Learning<SEP>Probability and Information Theory": {
+    "chunk_ids": [
+      "chunk-bac272cb401529a36c7732284f3da738"
+    ],
+    "count": 1,
+    "create_time": 1768911199,
+    "update_time": 1768911199,
+    "_id": "Deep Learning<SEP>Probability and Information Theory"
+  },
+  "Large-Scale Deep Learning<SEP>Speech Recognition": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911199,
+    "update_time": 1768911199,
+    "_id": "Large-Scale Deep Learning<SEP>Speech Recognition"
+  },
+  "Deep Learning<SEP>Numerical Computation": {
+    "chunk_ids": [
+      "chunk-bac272cb401529a36c7732284f3da738"
+    ],
+    "count": 1,
+    "create_time": 1768911200,
+    "update_time": 1768911200,
+    "_id": "Deep Learning<SEP>Numerical Computation"
+  },
+  "Deep Learning Research<SEP>Probabilistic PCA and Factor Analysis": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911200,
+    "update_time": 1768911200,
+    "_id": "Deep Learning Research<SEP>Probabilistic PCA and Factor Analysis"
+  },
+  "Large-Scale Deep Learning<SEP>Natural Language Processing": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911200,
+    "update_time": 1768911200,
+    "_id": "Large-Scale Deep Learning<SEP>Natural Language Processing"
+  },
+  "Deep Learning<SEP>Machine Learning Basics": {
+    "chunk_ids": [
+      "chunk-bac272cb401529a36c7732284f3da738"
+    ],
+    "count": 1,
+    "create_time": 1768911200,
+    "update_time": 1768911200,
+    "_id": "Deep Learning<SEP>Machine Learning Basics"
+  },
+  "Autoencoders<SEP>Stochastic Encoders and Decoders": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911200,
+    "update_time": 1768911200,
+    "_id": "Autoencoders<SEP>Stochastic Encoders and Decoders"
+  },
+  "Deep Learning Research<SEP>Independent Component Analysis (ICA)": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911200,
+    "update_time": 1768911200,
+    "_id": "Deep Learning Research<SEP>Independent Component Analysis (ICA)"
+  },
+  "Natural Language Processing<SEP>Transfer Learning and Domain Adaptation": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911201,
+    "update_time": 1768911201,
+    "_id": "Natural Language Processing<SEP>Transfer Learning and Domain Adaptation"
+  },
+  "Monte Carlo Methods<SEP>Sampling and Monte Carlo Methods": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911201,
+    "update_time": 1768911201,
+    "_id": "Monte Carlo Methods<SEP>Sampling and Monte Carlo Methods"
+  },
+  "Deep Learning<SEP>Deep Networks: Modern Practices": {
+    "chunk_ids": [
+      "chunk-bac272cb401529a36c7732284f3da738"
+    ],
+    "count": 1,
+    "create_time": 1768911201,
+    "update_time": 1768911201,
+    "_id": "Deep Learning<SEP>Deep Networks: Modern Practices"
+  },
+  "Deep Learning Research<SEP>Sparse Coding": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911201,
+    "update_time": 1768911201,
+    "_id": "Deep Learning Research<SEP>Sparse Coding"
+  },
+  "Real-Valued Scalar<SEP>Scalar": {
+    "chunk_ids": [
+      "chunk-0d55b6724597822ab76201288059bd8f"
+    ],
+    "count": 1,
+    "create_time": 1768911201,
+    "update_time": 1768911201,
+    "_id": "Real-Valued Scalar<SEP>Scalar"
+  },
+  "Deep Learning Research<SEP>Learning Manifolds with Autoencoders": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911202,
+    "update_time": 1768911202,
+    "_id": "Deep Learning Research<SEP>Learning Manifolds with Autoencoders"
+  },
+  "Natural Number Scalar<SEP>Scalar": {
+    "chunk_ids": [
+      "chunk-0d55b6724597822ab76201288059bd8f"
+    ],
+    "count": 1,
+    "create_time": 1768911202,
+    "update_time": 1768911202,
+    "_id": "Natural Number Scalar<SEP>Scalar"
+  },
+  "Indices<SEP>Vector": {
+    "chunk_ids": [
+      "chunk-0d55b6724597822ab76201288059bd8f"
+    ],
+    "count": 1,
+    "create_time": 1768911202,
+    "update_time": 1768911202,
+    "_id": "Indices<SEP>Vector"
+  },
+  "Deep Learning Research<SEP>Predictive Sparse Decomposition": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911202,
+    "update_time": 1768911202,
+    "_id": "Deep Learning Research<SEP>Predictive Sparse Decomposition"
+  },
+  "Subscript<SEP>Vector": {
+    "chunk_ids": [
+      "chunk-0d55b6724597822ab76201288059bd8f"
+    ],
+    "count": 1,
+    "create_time": 1768911203,
+    "update_time": 1768911203,
+    "_id": "Subscript<SEP>Vector"
+  },
+  "Linear Equation<SEP>Pseudoinverse": {
+    "chunk_ids": [
+      "chunk-443f6360d2d3fc61bef3f5a8c109e2f2"
+    ],
+    "count": 1,
+    "create_time": 1768911203,
+    "update_time": 1768911203,
+    "_id": "Linear Equation<SEP>Pseudoinverse"
+  },
+  "Deep Learning Research<SEP>Providing Clues to Discover Underlying Causes": {
+    "chunk_ids": [
+      "chunk-11ce15464424cd55fa29c0ee197674cc"
+    ],
+    "count": 1,
+    "create_time": 1768911203,
+    "update_time": 1768911203,
+    "_id": "Deep Learning Research<SEP>Providing Clues to Discover Underlying Causes"
+  },
+  "Frobenius Norm<SEP>Trace Operator": {
+    "chunk_ids": [
+      "chunk-443f6360d2d3fc61bef3f5a8c109e2f2"
+    ],
+    "count": 1,
+    "create_time": 1768911203,
+    "update_time": 1768911203,
+    "_id": "Frobenius Norm<SEP>Trace Operator"
+  },
+  "Determinant<SEP>Diagonal Matrix": {
+    "chunk_ids": [
+      "chunk-443f6360d2d3fc61bef3f5a8c109e2f2"
+    ],
+    "count": 1,
+    "create_time": 1768911203,
+    "update_time": 1768911203,
+    "_id": "Determinant<SEP>Diagonal Matrix"
+  },
+  "Euclidean Norm<SEP>Pseudoinverse": {
+    "chunk_ids": [
+      "chunk-443f6360d2d3fc61bef3f5a8c109e2f2"
+    ],
+    "count": 1,
+    "create_time": 1768911203,
+    "update_time": 1768911203,
+    "_id": "Euclidean Norm<SEP>Pseudoinverse"
+  },
+  "Matrix<SEP>Subscript": {
+    "chunk_ids": [
+      "chunk-0d55b6724597822ab76201288059bd8f"
+    ],
+    "count": 1,
+    "create_time": 1768911203,
+    "update_time": 1768911203,
+    "_id": "Matrix<SEP>Subscript"
+  },
+  "Constrained Optimization<SEP>Gradient-Based Optimization": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911203,
+    "update_time": 1768911203,
+    "_id": "Constrained Optimization<SEP>Gradient-Based Optimization"
+  },
+  "Deep Learning<SEP>Deep Learning Research": {
+    "chunk_ids": [
+      "chunk-bac272cb401529a36c7732284f3da738"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Deep Learning<SEP>Deep Learning Research"
+  },
+  "Learning Algorithms<SEP>Machine Learning Basics": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Learning Algorithms<SEP>Machine Learning Basics"
+  },
+  "Determinant<SEP>Eigenvalues": {
+    "chunk_ids": [
+      "chunk-443f6360d2d3fc61bef3f5a8c109e2f2"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Determinant<SEP>Eigenvalues"
+  },
+  "Capacity, Overfitting and Underfitting<SEP>Hyperparameters and Validation Sets": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Capacity, Overfitting and Underfitting<SEP>Hyperparameters and Validation Sets"
+  },
+  "Bayesian Statistics<SEP>Maximum Likelihood Estimation": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Bayesian Statistics<SEP>Maximum Likelihood Estimation"
+  },
+  "Indices<SEP>Matrix": {
+    "chunk_ids": [
+      "chunk-0d55b6724597822ab76201288059bd8f"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Indices<SEP>Matrix"
+  },
+  "Supervised Learning Algorithms<SEP>Unsupervised Learning Algorithms": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Supervised Learning Algorithms<SEP>Unsupervised Learning Algorithms"
+  },
+  "Building a Machine Learning Algorithm<SEP>Challenges Motivating Deep Learning": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Building a Machine Learning Algorithm<SEP>Challenges Motivating Deep Learning"
+  },
+  "Back-Propagation<SEP>Deep Feedforward Networks": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Back-Propagation<SEP>Deep Feedforward Networks"
+  },
+  "Maximum Likelihood Estimation<SEP>Stochastic Gradient Descent": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Maximum Likelihood Estimation<SEP>Stochastic Gradient Descent"
+  },
+  "Dataset Augmentation<SEP>Regularization for Deep Learning": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Dataset Augmentation<SEP>Regularization for Deep Learning"
+  },
+  "Noise Robustness<SEP>Semi-Supervised Learning": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Noise Robustness<SEP>Semi-Supervised Learning"
+  },
+  "Multi-Task Learning<SEP>Parameter Tying and Parameter Sharing": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911204,
+    "update_time": 1768911204,
+    "_id": "Multi-Task Learning<SEP>Parameter Tying and Parameter Sharing"
+  },
+  "Adversarial Training<SEP>Dropout": {
+    "chunk_ids": [
+      "chunk-75a72890ca7e75a102e4315a3bcba1da"
+    ],
+    "count": 1,
+    "create_time": 1768911205,
+    "update_time": 1768911205,
+    "_id": "Adversarial Training<SEP>Dropout"
+  },
+  "Cybernetics<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-5f255acea8c3a7b10af84028b23d7ead"
+    ],
+    "count": 1,
+    "create_time": 1768911205,
+    "update_time": 1768911205,
+    "_id": "Cybernetics<SEP>Deep Learning"
+  },
+  "Perceptron<SEP>XOR Function": {
+    "chunk_ids": [
+      "chunk-5f255acea8c3a7b10af84028b23d7ead"
+    ],
+    "count": 1,
+    "create_time": 1768911205,
+    "update_time": 1768911205,
+    "_id": "Perceptron<SEP>XOR Function"
+  },
+  "Back-Propagation<SEP>Rumelhart et al.": {
+    "chunk_ids": [
+      "chunk-5f255acea8c3a7b10af84028b23d7ead"
+    ],
+    "count": 1,
+    "create_time": 1768911205,
+    "update_time": 1768911205,
+    "_id": "Back-Propagation<SEP>Rumelhart et al."
+  },
+  "Array<SEP>Matrix": {
+    "chunk_ids": [
+      "chunk-52465e8bb143dc190c7efa3f3e89fda6"
+    ],
+    "count": 1,
+    "create_time": 1768911205,
+    "update_time": 1768911205,
+    "_id": "Array<SEP>Matrix"
+  },
+  "Perceptron<SEP>Rosenblatt": {
+    "chunk_ids": [
+      "chunk-5f255acea8c3a7b10af84028b23d7ead"
+    ],
+    "count": 1,
+    "create_time": 1768911205,
+    "update_time": 1768911205,
+    "_id": "Perceptron<SEP>Rosenblatt"
+  },
+  "Deep Learning<SEP>Perceptron": {
+    "chunk_ids": [
+      "chunk-5f255acea8c3a7b10af84028b23d7ead"
+    ],
+    "count": 1,
+    "create_time": 1768911206,
+    "update_time": 1768911206,
+    "_id": "Deep Learning<SEP>Perceptron"
+  },
+  "ADALINE<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-5f255acea8c3a7b10af84028b23d7ead"
+    ],
+    "count": 1,
+    "create_time": 1768911206,
+    "update_time": 1768911206,
+    "_id": "ADALINE<SEP>Deep Learning"
+  },
+  "Function<SEP>Matrix-Valued Expression": {
+    "chunk_ids": [
+      "chunk-52465e8bb143dc190c7efa3f3e89fda6"
+    ],
+    "count": 1,
+    "create_time": 1768911206,
+    "update_time": 1768911206,
+    "_id": "Function<SEP>Matrix-Valued Expression"
+  },
+  "Deep Learning<SEP>Neuroscience": {
+    "chunk_ids": [
+      "chunk-5f255acea8c3a7b10af84028b23d7ead"
+    ],
+    "count": 1,
+    "create_time": 1768911207,
+    "update_time": 1768911207,
+    "_id": "Deep Learning<SEP>Neuroscience"
+  },
+  "ImageNet Large Scale Visual Recognition Challenge<SEP>Russakovsky et al.": {
+    "chunk_ids": [
+      "chunk-2aff4303e41c5babfaf2c4d7bf68299d"
+    ],
+    "count": 1,
+    "create_time": 1768911207,
+    "update_time": 1768911207,
+    "_id": "ImageNet Large Scale Visual Recognition Challenge<SEP>Russakovsky et al."
+  },
+  "Matrix<SEP>Transpose": {
+    "chunk_ids": [
+      "chunk-52465e8bb143dc190c7efa3f3e89fda6"
+    ],
+    "count": 1,
+    "create_time": 1768911207,
+    "update_time": 1768911207,
+    "_id": "Matrix<SEP>Transpose"
+  },
+  "Linear Algebra<SEP>The Matrix Cookbook": {
+    "chunk_ids": [
+      "chunk-2aff4303e41c5babfaf2c4d7bf68299d"
+    ],
+    "count": 1,
+    "create_time": 1768911207,
+    "update_time": 1768911207,
+    "_id": "Linear Algebra<SEP>The Matrix Cookbook"
+  },
+  "Linear Algebra<SEP>Shilov 1977": {
+    "chunk_ids": [
+      "chunk-2aff4303e41c5babfaf2c4d7bf68299d"
+    ],
+    "count": 1,
+    "create_time": 1768911208,
+    "update_time": 1768911208,
+    "_id": "Linear Algebra<SEP>Shilov 1977"
+  },
+  "2014<SEP>ImageNet Large Scale Visual Recognition Challenge": {
+    "chunk_ids": [
+      "chunk-2aff4303e41c5babfaf2c4d7bf68299d"
+    ],
+    "count": 1,
+    "create_time": 1768911208,
+    "update_time": 1768911208,
+    "_id": "2014<SEP>ImageNet Large Scale Visual Recognition Challenge"
+  },
+  "2015<SEP>ImageNet Large Scale Visual Recognition Challenge": {
+    "chunk_ids": [
+      "chunk-2aff4303e41c5babfaf2c4d7bf68299d"
+    ],
+    "count": 1,
+    "create_time": 1768911208,
+    "update_time": 1768911208,
+    "_id": "2015<SEP>ImageNet Large Scale Visual Recognition Challenge"
+  },
+  "Matrix Multiplication<SEP>Matrix Product": {
+    "chunk_ids": [
+      "chunk-1d2e722934164a54c6a816c106572c75"
+    ],
+    "count": 1,
+    "create_time": 1768911208,
+    "update_time": 1768911208,
+    "_id": "Matrix Multiplication<SEP>Matrix Product"
+  },
+  "Dot Product<SEP>Matrix Product": {
+    "chunk_ids": [
+      "chunk-1d2e722934164a54c6a816c106572c75"
+    ],
+    "count": 1,
+    "create_time": 1768911209,
+    "update_time": 1768911209,
+    "_id": "Dot Product<SEP>Matrix Product"
+  },
+  "Linear Equations<SEP>Matrix Multiplication": {
+    "chunk_ids": [
+      "chunk-1d2e722934164a54c6a816c106572c75"
+    ],
+    "count": 1,
+    "create_time": 1768911209,
+    "update_time": 1768911209,
+    "_id": "Linear Equations<SEP>Matrix Multiplication"
+  },
+  "Matrix<SEP>Tensor": {
+    "chunk_ids": [
+      "chunk-52465e8bb143dc190c7efa3f3e89fda6"
+    ],
+    "count": 1,
+    "create_time": 1768911209,
+    "update_time": 1768911209,
+    "_id": "Matrix<SEP>Tensor"
+  },
+  "Matrix Product<SEP>Transpose": {
+    "chunk_ids": [
+      "chunk-1d2e722934164a54c6a816c106572c75"
+    ],
+    "count": 1,
+    "create_time": 1768911210,
+    "update_time": 1768911210,
+    "_id": "Matrix Product<SEP>Transpose"
+  },
+  "Dot Product<SEP>Scalar": {
+    "chunk_ids": [
+      "chunk-1d2e722934164a54c6a816c106572c75"
+    ],
+    "count": 1,
+    "create_time": 1768911210,
+    "update_time": 1768911210,
+    "_id": "Dot Product<SEP>Scalar"
+  },
+  "Matrix Product<SEP>Shape of Matrix": {
+    "chunk_ids": [
+      "chunk-1d2e722934164a54c6a816c106572c75"
+    ],
+    "count": 1,
+    "create_time": 1768911210,
+    "update_time": 1768911210,
+    "_id": "Matrix Product<SEP>Shape of Matrix"
+  },
+  "Cognitive Science<SEP>Connectionism": {
+    "chunk_ids": [
+      "chunk-24b6e16206da653229333e2acff91797"
+    ],
+    "count": 1,
+    "create_time": 1768911210,
+    "update_time": 1768911210,
+    "_id": "Cognitive Science<SEP>Connectionism"
+  },
+  "Matrix<SEP>Scalar": {
+    "chunk_ids": [
+      "chunk-52465e8bb143dc190c7efa3f3e89fda6"
+    ],
+    "count": 1,
+    "create_time": 1768911211,
+    "update_time": 1768911211,
+    "_id": "Matrix<SEP>Scalar"
+  },
+  "Dot Product<SEP>Vector": {
+    "chunk_ids": [
+      "chunk-1d2e722934164a54c6a816c106572c75"
+    ],
+    "count": 1,
+    "create_time": 1768911211,
+    "update_time": 1768911211,
+    "_id": "Dot Product<SEP>Vector"
+  },
+  "Neural Networks<SEP>Symbolic Reasoning": {
+    "chunk_ids": [
+      "chunk-24b6e16206da653229333e2acff91797"
+    ],
+    "count": 1,
+    "create_time": 1768911211,
+    "update_time": 1768911211,
+    "_id": "Neural Networks<SEP>Symbolic Reasoning"
+  },
+  "Connectionism<SEP>Donald Hebb": {
+    "chunk_ids": [
+      "chunk-24b6e16206da653229333e2acff91797"
+    ],
+    "count": 1,
+    "create_time": 1768911211,
+    "update_time": 1768911211,
+    "_id": "Connectionism<SEP>Donald Hebb"
+  },
+  "Deep Learning<SEP>Matrix": {
+    "chunk_ids": [
+      "chunk-52465e8bb143dc190c7efa3f3e89fda6"
+    ],
+    "count": 1,
+    "create_time": 1768911211,
+    "update_time": 1768911211,
+    "_id": "Deep Learning<SEP>Matrix"
+  },
+  "Canadian Institute for Advanced Research (CIFAR)<SEP>Geoffrey Hinton": {
+    "chunk_ids": [
+      "chunk-24b6e16206da653229333e2acff91797"
+    ],
+    "count": 1,
+    "create_time": 1768911212,
+    "update_time": 1768911212,
+    "_id": "Canadian Institute for Advanced Research (CIFAR)<SEP>Geoffrey Hinton"
+  },
+  "Matrix<SEP>Matrix Multiplication": {
+    "chunk_ids": [
+      "chunk-1d2e722934164a54c6a816c106572c75"
+    ],
+    "count": 1,
+    "create_time": 1768911212,
+    "update_time": 1768911212,
+    "_id": "Matrix<SEP>Matrix Multiplication"
+  },
+  "Chapter 2<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-2aff4303e41c5babfaf2c4d7bf68299d"
+    ],
+    "count": 1,
+    "create_time": 1768911212,
+    "update_time": 1768911212,
+    "_id": "Chapter 2<SEP>Deep Learning"
+  },
+  "Back-Propagation<SEP>Neural Networks": {
+    "chunk_ids": [
+      "chunk-24b6e16206da653229333e2acff91797"
+    ],
+    "count": 1,
+    "create_time": 1768911212,
+    "update_time": 1768911212,
+    "_id": "Back-Propagation<SEP>Neural Networks"
+  },
+  "Canadian Institute for Advanced Research (CIFAR)<SEP>Yoshua Bengio": {
+    "chunk_ids": [
+      "chunk-24b6e16206da653229333e2acff91797"
+    ],
+    "count": 1,
+    "create_time": 1768911212,
+    "update_time": 1768911212,
+    "_id": "Canadian Institute for Advanced Research (CIFAR)<SEP>Yoshua Bengio"
+  },
+  "Connectionism<SEP>Neurons": {
+    "chunk_ids": [
+      "chunk-24b6e16206da653229333e2acff91797"
+    ],
+    "count": 1,
+    "create_time": 1768911212,
+    "update_time": 1768911212,
+    "_id": "Connectionism<SEP>Neurons"
+  },
+  "CIFAR<SEP>Neural Computation and Adaptive Perception (NCAP)": {
+    "chunk_ids": [
+      "chunk-24b6e16206da653229333e2acff91797"
+    ],
+    "count": 1,
+    "create_time": 1768911212,
+    "update_time": 1768911212,
+    "_id": "CIFAR<SEP>Neural Computation and Adaptive Perception (NCAP)"
+  },
+  "Long Short-Term Memory (LSTM)<SEP>Neural Networks": {
+    "chunk_ids": [
+      "chunk-24b6e16206da653229333e2acff91797"
+    ],
+    "count": 1,
+    "create_time": 1768911212,
+    "update_time": 1768911212,
+    "_id": "Long Short-Term Memory (LSTM)<SEP>Neural Networks"
+  },
+  "Deep Learning<SEP>Neurons": {
+    "chunk_ids": [
+      "chunk-cd0905a2bbd4a2e98ea5834719f28254"
+    ],
+    "count": 1,
+    "create_time": 1768911213,
+    "update_time": 1768911213,
+    "_id": "Deep Learning<SEP>Neurons"
+  },
+  "Deep Learning<SEP>Ferrets": {
+    "chunk_ids": [
+      "chunk-cd0905a2bbd4a2e98ea5834719f28254"
+    ],
+    "count": 1,
+    "create_time": 1768911213,
+    "update_time": 1768911213,
+    "_id": "Deep Learning<SEP>Ferrets"
+  },
+  "Canadian Institute for Advanced Research (CIFAR)<SEP>Yann LeCun": {
+    "chunk_ids": [
+      "chunk-24b6e16206da653229333e2acff91797"
+    ],
+    "count": 1,
+    "create_time": 1768911214,
+    "update_time": 1768911214,
+    "_id": "Canadian Institute for Advanced Research (CIFAR)<SEP>Yann LeCun"
+  },
+  "Ferrets<SEP>Von Melchner 2000": {
+    "chunk_ids": [
+      "chunk-cd0905a2bbd4a2e98ea5834719f28254"
+    ],
+    "count": 1,
+    "create_time": 1768911214,
+    "update_time": 1768911214,
+    "_id": "Ferrets<SEP>Von Melchner 2000"
+  },
+  "Deep Learning<SEP>Neocognitron": {
+    "chunk_ids": [
+      "chunk-cd0905a2bbd4a2e98ea5834719f28254"
+    ],
+    "count": 1,
+    "create_time": 1768911214,
+    "update_time": 1768911214,
+    "_id": "Deep Learning<SEP>Neocognitron"
+  },
+  "CIFAR<SEP>Neural Computation and Adaptive Perception": {
+    "chunk_ids": [
+      "chunk-a141800f1c44ebc302d730822f4d8c41"
+    ],
+    "count": 1,
+    "create_time": 1768911215,
+    "update_time": 1768911215,
+    "_id": "CIFAR<SEP>Neural Computation and Adaptive Perception"
+  },
+  "Computational Neuroscience<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-cd0905a2bbd4a2e98ea5834719f28254"
+    ],
+    "count": 1,
+    "create_time": 1768911215,
+    "update_time": 1768911215,
+    "_id": "Computational Neuroscience<SEP>Deep Learning"
+  },
+  "Geo Geoffrey Hinton<SEP>University of Toronto": {
+    "chunk_ids": [
+      "chunk-a141800f1c44ebc302d730822f4d8c41"
+    ],
+    "count": 1,
+    "create_time": 1768911215,
+    "update_time": 1768911215,
+    "_id": "Geo Geoffrey Hinton<SEP>University of Toronto"
+  },
+  "University of Montreal<SEP>Yoshua Bengio": {
+    "chunk_ids": [
+      "chunk-a141800f1c44ebc302d730822f4d8c41"
+    ],
+    "count": 1,
+    "create_time": 1768911215,
+    "update_time": 1768911215,
+    "_id": "University of Montreal<SEP>Yoshua Bengio"
+  },
+  "New York University<SEP>Yann LeCun": {
+    "chunk_ids": [
+      "chunk-a141800f1c44ebc302d730822f4d8c41"
+    ],
+    "count": 1,
+    "create_time": 1768911215,
+    "update_time": 1768911215,
+    "_id": "New York University<SEP>Yann LeCun"
+  },
+  "Connectionism<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-cd0905a2bbd4a2e98ea5834719f28254"
+    ],
+    "count": 1,
+    "create_time": 1768911216,
+    "update_time": 1768911216,
+    "_id": "Connectionism<SEP>Deep Learning"
+  },
+  "Deep Belief Network<SEP>Geo Geoffrey Hinton": {
+    "chunk_ids": [
+      "chunk-a141800f1c44ebc302d730822f4d8c41"
+    ],
+    "count": 1,
+    "create_time": 1768911216,
+    "update_time": 1768911216,
+    "_id": "Deep Belief Network<SEP>Geo Geoffrey Hinton"
+  },
+  "CIFAR<SEP>CIFAR NCAP": {
+    "chunk_ids": [
+      "chunk-a141800f1c44ebc302d730822f4d8c41"
+    ],
+    "count": 1,
+    "create_time": 1768911216,
+    "update_time": 1768911216,
+    "_id": "CIFAR<SEP>CIFAR NCAP"
+  },
+  "Deep Learning<SEP>Olshausen and Field 2005": {
+    "chunk_ids": [
+      "chunk-cd0905a2bbd4a2e98ea5834719f28254"
+    ],
+    "count": 1,
+    "create_time": 1768911216,
+    "update_time": 1768911216,
+    "_id": "Deep Learning<SEP>Olshausen and Field 2005"
+  },
+  "Deep Belief Network<SEP>Greedy Layer-Wise Pre-Training": {
+    "chunk_ids": [
+      "chunk-a141800f1c44ebc302d730822f4d8c41"
+    ],
+    "count": 1,
+    "create_time": 1768911216,
+    "update_time": 1768911216,
+    "_id": "Deep Belief Network<SEP>Greedy Layer-Wise Pre-Training"
+  },
+  "Deep Learning<SEP>Nair and Hinton 2010": {
+    "chunk_ids": [
+      "chunk-cd0905a2bbd4a2e98ea5834719f28254"
+    ],
+    "count": 1,
+    "create_time": 1768911217,
+    "update_time": 1768911217,
+    "_id": "Deep Learning<SEP>Nair and Hinton 2010"
+  },
+  "Column Space<SEP>Linear Combination": {
+    "chunk_ids": [
+      "chunk-88935c9c850ad773b6af22d7912a351e"
+    ],
+    "count": 1,
+    "create_time": 1768911217,
+    "update_time": 1768911217,
+    "_id": "Column Space<SEP>Linear Combination"
+  },
+  "Deep Learning<SEP>Glorot 2011a": {
+    "chunk_ids": [
+      "chunk-cd0905a2bbd4a2e98ea5834719f28254"
+    ],
+    "count": 1,
+    "create_time": 1768911218,
+    "update_time": 1768911218,
+    "_id": "Deep Learning<SEP>Glorot 2011a"
+  },
+  "Linearly Independent Columns<SEP>Matrix": {
+    "chunk_ids": [
+      "chunk-88935c9c850ad773b6af22d7912a351e"
+    ],
+    "count": 1,
+    "create_time": 1768911218,
+    "update_time": 1768911218,
+    "_id": "Linearly Independent Columns<SEP>Matrix"
+  },
+  "Column Space<SEP>Dimensionality": {
+    "chunk_ids": [
+      "chunk-88935c9c850ad773b6af22d7912a351e"
+    ],
+    "count": 1,
+    "create_time": 1768911218,
+    "update_time": 1768911218,
+    "_id": "Column Space<SEP>Dimensionality"
+  },
+  "Matrix<SEP>Vector": {
+    "chunk_ids": [
+      "chunk-88935c9c850ad773b6af22d7912a351e"
+    ],
+    "count": 1,
+    "create_time": 1768911218,
+    "update_time": 1768911218,
+    "_id": "Matrix<SEP>Vector"
+  },
+  "Necessary Condition<SEP>Sufficient Condition": {
+    "chunk_ids": [
+      "chunk-88935c9c850ad773b6af22d7912a351e"
+    ],
+    "count": 1,
+    "create_time": 1768911218,
+    "update_time": 1768911218,
+    "_id": "Necessary Condition<SEP>Sufficient Condition"
+  },
+  "Equation<SEP>R2": {
+    "chunk_ids": [
+      "chunk-88935c9c850ad773b6af22d7912a351e"
+    ],
+    "count": 1,
+    "create_time": 1768911218,
+    "update_time": 1768911218,
+    "_id": "Equation<SEP>R2"
+  },
+  "Deep Learning<SEP>Jarrett 2009": {
+    "chunk_ids": [
+      "chunk-cd0905a2bbd4a2e98ea5834719f28254"
+    ],
+    "count": 1,
+    "create_time": 1768911219,
+    "update_time": 1768911219,
+    "_id": "Deep Learning<SEP>Jarrett 2009"
+  },
+  "Artificial Intelligence<SEP>Machine Learning": {
+    "chunk_ids": [
+      "chunk-010a987a088000cbaebd51b9889052f3"
+    ],
+    "count": 1,
+    "create_time": 1768911219,
+    "update_time": 1768911219,
+    "_id": "Artificial Intelligence<SEP>Machine Learning"
+  },
+  "3x2 Matrix<SEP>R2": {
+    "chunk_ids": [
+      "chunk-88935c9c850ad773b6af22d7912a351e"
+    ],
+    "count": 1,
+    "create_time": 1768911219,
+    "update_time": 1768911219,
+    "_id": "3x2 Matrix<SEP>R2"
+  },
+  "Equation<SEP>R3": {
+    "chunk_ids": [
+      "chunk-88935c9c850ad773b6af22d7912a351e"
+    ],
+    "count": 1,
+    "create_time": 1768911219,
+    "update_time": 1768911219,
+    "_id": "Equation<SEP>R3"
+  },
+  "Cyc<SEP>CycL": {
+    "chunk_ids": [
+      "chunk-010a987a088000cbaebd51b9889052f3"
+    ],
+    "count": 1,
+    "create_time": 1768911219,
+    "update_time": 1768911219,
+    "_id": "Cyc<SEP>CycL"
+  },
+  "Cyc<SEP>Fred": {
+    "chunk_ids": [
+      "chunk-010a987a088000cbaebd51b9889052f3"
+    ],
+    "count": 1,
+    "create_time": 1768911220,
+    "update_time": 1768911220,
+    "_id": "Cyc<SEP>Fred"
+  },
+  "Logistic Regression<SEP>Machine Learning": {
+    "chunk_ids": [
+      "chunk-010a987a088000cbaebd51b9889052f3"
+    ],
+    "count": 1,
+    "create_time": 1768911220,
+    "update_time": 1768911220,
+    "_id": "Logistic Regression<SEP>Machine Learning"
+  },
+  "Artificial Intelligence<SEP>Inference Rules": {
+    "chunk_ids": [
+      "chunk-010a987a088000cbaebd51b9889052f3"
+    ],
+    "count": 1,
+    "create_time": 1768911220,
+    "update_time": 1768911220,
+    "_id": "Artificial Intelligence<SEP>Inference Rules"
+  },
+  "Big Data<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-a141800f1c44ebc302d730822f4d8c41"
+    ],
+    "count": 1,
+    "create_time": 1768911220,
+    "update_time": 1768911220,
+    "_id": "Big Data<SEP>Deep Learning"
+  },
+  "Machine Learning<SEP>Patterns": {
+    "chunk_ids": [
+      "chunk-010a987a088000cbaebd51b9889052f3"
+    ],
+    "count": 1,
+    "create_time": 1768911220,
+    "update_time": 1768911220,
+    "_id": "Machine Learning<SEP>Patterns"
+  },
+  "Features<SEP>Logistic Regression": {
+    "chunk_ids": [
+      "chunk-010a987a088000cbaebd51b9889052f3"
+    ],
+    "count": 1,
+    "create_time": 1768911220,
+    "update_time": 1768911220,
+    "_id": "Features<SEP>Logistic Regression"
+  },
+  "Electric Razor<SEP>Fred": {
+    "chunk_ids": [
+      "chunk-010a987a088000cbaebd51b9889052f3"
+    ],
+    "count": 1,
+    "create_time": 1768911220,
+    "update_time": 1768911220,
+    "_id": "Electric Razor<SEP>Fred"
+  },
+  "Cyc<SEP>Inference Rules": {
+    "chunk_ids": [
+      "chunk-010a987a088000cbaebd51b9889052f3"
+    ],
+    "count": 1,
+    "create_time": 1768911220,
+    "update_time": 1768911220,
+    "_id": "Cyc<SEP>Inference Rules"
+  },
+  "Human Performance<SEP>Neural Networks": {
+    "chunk_ids": [
+      "chunk-3e301584dbc493504e638dde9613d0a9"
+    ],
+    "count": 1,
+    "create_time": 1768911220,
+    "update_time": 1768911220,
+    "_id": "Human Performance<SEP>Neural Networks"
+  },
+  "Deep Learning<SEP>Small Datasets": {
+    "chunk_ids": [
+      "chunk-a141800f1c44ebc302d730822f4d8c41"
+    ],
+    "count": 1,
+    "create_time": 1768911220,
+    "update_time": 1768911220,
+    "_id": "Deep Learning<SEP>Small Datasets"
+  },
+  "Artificial Neural Networks<SEP>Biological Neurons": {
+    "chunk_ids": [
+      "chunk-3e301584dbc493504e638dde9613d0a9"
+    ],
+    "count": 1,
+    "create_time": 1768911221,
+    "update_time": 1768911221,
+    "_id": "Artificial Neural Networks<SEP>Biological Neurons"
+  },
+  "Dataset Sizes<SEP>MNIST Dataset": {
+    "chunk_ids": [
+      "chunk-3e301584dbc493504e638dde9613d0a9"
+    ],
+    "count": 1,
+    "create_time": 1768911221,
+    "update_time": 1768911221,
+    "_id": "Dataset Sizes<SEP>MNIST Dataset"
+  },
+  "CIFAR-10 Dataset<SEP>ImageNet Dataset": {
+    "chunk_ids": [
+      "chunk-3e301584dbc493504e638dde9613d0a9"
+    ],
+    "count": 1,
+    "create_time": 1768911221,
+    "update_time": 1768911221,
+    "_id": "CIFAR-10 Dataset<SEP>ImageNet Dataset"
+  },
+  "Deep Learning<SEP>Supervised Learning Algorithms": {
+    "chunk_ids": [
+      "chunk-a141800f1c44ebc302d730822f4d8c41"
+    ],
+    "count": 1,
+    "create_time": 1768911221,
+    "update_time": 1768911221,
+    "_id": "Deep Learning<SEP>Supervised Learning Algorithms"
+  },
+  "Neural Networks<SEP>Unsupervised Learning": {
+    "chunk_ids": [
+      "chunk-3e301584dbc493504e638dde9613d0a9"
+    ],
+    "count": 1,
+    "create_time": 1768911221,
+    "update_time": 1768911221,
+    "_id": "Neural Networks<SEP>Unsupervised Learning"
+  },
+  "Artificial Intelligence<SEP>Neural Networks": {
+    "chunk_ids": [
+      "chunk-3e301584dbc493504e638dde9613d0a9"
+    ],
+    "count": 1,
+    "create_time": 1768911221,
+    "update_time": 1768911221,
+    "_id": "Artificial Intelligence<SEP>Neural Networks"
+  },
+  "Gaussian Distribution<SEP>Random Variable": {
+    "chunk_ids": [
+      "chunk-3f2b9c7716a8cfdb253e66aff0aa4394"
+    ],
+    "count": 1,
+    "create_time": 1768911221,
+    "update_time": 1768911221,
+    "_id": "Gaussian Distribution<SEP>Random Variable"
+  },
+  "Derivative<SEP>Gradient": {
+    "chunk_ids": [
+      "chunk-3f2b9c7716a8cfdb253e66aff0aa4394"
+    ],
+    "count": 1,
+    "create_time": 1768911222,
+    "update_time": 1768911222,
+    "_id": "Derivative<SEP>Gradient"
+  },
+  "Deep Learning<SEP>Neural Networks": {
+    "chunk_ids": [
+      "chunk-3e301584dbc493504e638dde9613d0a9"
+    ],
+    "count": 1,
+    "create_time": 1768911222,
+    "update_time": 1768911222,
+    "_id": "Deep Learning<SEP>Neural Networks"
+  },
+  "3-D Tensor<SEP>Element": {
+    "chunk_ids": [
+      "chunk-3f2b9c7716a8cfdb253e66aff0aa4394"
+    ],
+    "count": 1,
+    "create_time": 1768911222,
+    "update_time": 1768911222,
+    "_id": "3-D Tensor<SEP>Element"
+  },
+  "Random Variable<SEP>Shannon Entropy": {
+    "chunk_ids": [
+      "chunk-3f2b9c7716a8cfdb253e66aff0aa4394"
+    ],
+    "count": 1,
+    "create_time": 1768911222,
+    "update_time": 1768911222,
+    "_id": "Random Variable<SEP>Shannon Entropy"
+  },
+  "Gaussian Distribution<SEP>Kullback-Leibler Divergence": {
+    "chunk_ids": [
+      "chunk-3f2b9c7716a8cfdb253e66aff0aa4394"
+    ],
+    "count": 1,
+    "create_time": 1768911222,
+    "update_time": 1768911222,
+    "_id": "Gaussian Distribution<SEP>Kullback-Leibler Divergence"
+  },
+  "Gradient<SEP>Hessian Matrix": {
+    "chunk_ids": [
+      "chunk-3f2b9c7716a8cfdb253e66aff0aa4394"
+    ],
+    "count": 1,
+    "create_time": 1768911222,
+    "update_time": 1768911222,
+    "_id": "Gradient<SEP>Hessian Matrix"
+  },
+  "Definite Integral<SEP>Function": {
+    "chunk_ids": [
+      "chunk-3f2b9c7716a8cfdb253e66aff0aa4394"
+    ],
+    "count": 1,
+    "create_time": 1768911222,
+    "update_time": 1768911222,
+    "_id": "Definite Integral<SEP>Function"
+  },
+  "Element<SEP>Matrix": {
+    "chunk_ids": [
+      "chunk-3f2b9c7716a8cfdb253e66aff0aa4394"
+    ],
+    "count": 1,
+    "create_time": 1768911223,
+    "update_time": 1768911223,
+    "_id": "Element<SEP>Matrix"
+  },
+  "Logistic Sigmoid<SEP>Natural Logarithm": {
+    "chunk_ids": [
+      "chunk-3f2b9c7716a8cfdb253e66aff0aa4394"
+    ],
+    "count": 1,
+    "create_time": 1768911223,
+    "update_time": 1768911223,
+    "_id": "Logistic Sigmoid<SEP>Natural Logarithm"
+  },
+  "Deep Learning<SEP>Research Area": {
+    "chunk_ids": [
+      "chunk-3e301584dbc493504e638dde9613d0a9"
+    ],
+    "count": 1,
+    "create_time": 1768911223,
+    "update_time": 1768911223,
+    "_id": "Deep Learning<SEP>Research Area"
+  },
+  "Lp Norm<SEP>Matrix": {
+    "chunk_ids": [
+      "chunk-e325d64a50359748cfb47987a361fbb1"
+    ],
+    "count": 1,
+    "create_time": 1768911223,
+    "update_time": 1768911223,
+    "_id": "Lp Norm<SEP>Matrix"
+  },
+  "Deep Learning<SEP>Machine Learning": {
+    "chunk_ids": [
+      "chunk-bd2a057016fddbfc53fb1a5ab4973351"
+    ],
+    "count": 1,
+    "create_time": 1768911224,
+    "update_time": 1768911224,
+    "_id": "Deep Learning<SEP>Machine Learning"
+  },
+  "Linear Independence<SEP>Matrix": {
+    "chunk_ids": [
+      "chunk-e325d64a50359748cfb47987a361fbb1"
+    ],
+    "count": 1,
+    "create_time": 1768911224,
+    "update_time": 1768911224,
+    "_id": "Linear Independence<SEP>Matrix"
+  },
+  "Lp Norm<SEP>Squared Lp Norm": {
+    "chunk_ids": [
+      "chunk-e325d64a50359748cfb47987a361fbb1"
+    ],
+    "count": 1,
+    "create_time": 1768911224,
+    "update_time": 1768911224,
+    "_id": "Lp Norm<SEP>Squared Lp Norm"
+  },
+  "Artificial Intelligence<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-bd2a057016fddbfc53fb1a5ab4973351"
+    ],
+    "count": 1,
+    "create_time": 1768911224,
+    "update_time": 1768911224,
+    "_id": "Artificial Intelligence<SEP>Deep Learning"
+  },
+  "L1 Norm<SEP>Lp Norm": {
+    "chunk_ids": [
+      "chunk-e325d64a50359748cfb47987a361fbb1"
+    ],
+    "count": 1,
+    "create_time": 1768911224,
+    "update_time": 1768911224,
+    "_id": "L1 Norm<SEP>Lp Norm"
+  },
+  "Deep Learning<SEP>University Students": {
+    "chunk_ids": [
+      "chunk-bd2a057016fddbfc53fb1a5ab4973351"
+    ],
+    "count": 1,
+    "create_time": 1768911225,
+    "update_time": 1768911225,
+    "_id": "Deep Learning<SEP>University Students"
+  },
+  "AI Disciplines<SEP>Artificial Intelligence": {
+    "chunk_ids": [
+      "chunk-bd2a057016fddbfc53fb1a5ab4973351"
+    ],
+    "count": 1,
+    "create_time": 1768911225,
+    "update_time": 1768911225,
+    "_id": "AI Disciplines<SEP>Artificial Intelligence"
+  },
+  "Lp Norm<SEP>L∞ Norm": {
+    "chunk_ids": [
+      "chunk-e325d64a50359748cfb47987a361fbb1"
+    ],
+    "count": 1,
+    "create_time": 1768911225,
+    "update_time": 1768911225,
+    "_id": "Lp Norm<SEP>L∞ Norm"
+  },
+  "Canadian Hansard<SEP>WMT 2014 English to French Dataset": {
+    "chunk_ids": [
+      "chunk-75f946bb765a1d045314c19725bfbd25"
+    ],
+    "count": 1,
+    "create_time": 1768911225,
+    "update_time": 1768911225,
+    "_id": "Canadian Hansard<SEP>WMT 2014 English to French Dataset"
+  },
+  "Deep Learning<SEP>Software Engineers": {
+    "chunk_ids": [
+      "chunk-bd2a057016fddbfc53fb1a5ab4973351"
+    ],
+    "count": 1,
+    "create_time": 1768911225,
+    "update_time": 1768911225,
+    "_id": "Deep Learning<SEP>Software Engineers"
+  },
+  "MNIST Dataset<SEP>National Institute of Standards and Technology": {
+    "chunk_ids": [
+      "chunk-75f946bb765a1d045314c19725bfbd25"
+    ],
+    "count": 1,
+    "create_time": 1768911225,
+    "update_time": 1768911225,
+    "_id": "MNIST Dataset<SEP>National Institute of Standards and Technology"
+  },
+  "Deep Learning<SEP>Nested Hierarchy of Concepts": {
+    "chunk_ids": [
+      "chunk-bd2a057016fddbfc53fb1a5ab4973351"
+    ],
+    "count": 1,
+    "create_time": 1768911226,
+    "update_time": 1768911226,
+    "_id": "Deep Learning<SEP>Nested Hierarchy of Concepts"
+  },
+  "Feedforward Deep Network<SEP>Object Identity": {
+    "chunk_ids": [
+      "chunk-ec8cde6747414a42b9f90501d7dd0d2a"
+    ],
+    "count": 1,
+    "create_time": 1768911226,
+    "update_time": 1768911226,
+    "_id": "Feedforward Deep Network<SEP>Object Identity"
+  },
+  "Computational Graph<SEP>Deep Learning": {
+    "chunk_ids": [
+      "chunk-bd2a057016fddbfc53fb1a5ab4973351"
+    ],
+    "count": 1,
+    "create_time": 1768911226,
+    "update_time": 1768911226,
+    "_id": "Computational Graph<SEP>Deep Learning"
+  },
+  "Hidden Layers<SEP>Object Identity": {
+    "chunk_ids": [
+      "chunk-ec8cde6747414a42b9f90501d7dd0d2a"
+    ],
+    "count": 1,
+    "create_time": 1768911227,
+    "update_time": 1768911227,
+    "_id": "Hidden Layers<SEP>Object Identity"
+  },
+  "Deep Learning<SEP>Probabilistic Modeling Graph": {
+    "chunk_ids": [
+      "chunk-bd2a057016fddbfc53fb1a5ab4973351"
+    ],
+    "count": 1,
+    "create_time": 1768911227,
+    "update_time": 1768911227,
+    "_id": "Deep Learning<SEP>Probabilistic Modeling Graph"
+  },
+  "Computational Graphs<SEP>Mathematical Functions": {
+    "chunk_ids": [
+      "chunk-ec8cde6747414a42b9f90501d7dd0d2a"
+    ],
+    "count": 1,
+    "create_time": 1768911227,
+    "update_time": 1768911227,
+    "_id": "Computational Graphs<SEP>Mathematical Functions"
+  },
+  "Deep Learning<SEP>Georey Hinton": {
+    "chunk_ids": [
+      "chunk-75f946bb765a1d045314c19725bfbd25"
+    ],
+    "count": 1,
+    "create_time": 1768911228,
+    "update_time": 1768911228,
+    "_id": "Deep Learning<SEP>Georey Hinton"
+  },
+  "Artificial Neural Networks<SEP>Cat": {
+    "chunk_ids": [
+      "chunk-95ce81b8a88d7af76b627732161bfd8d"
+    ],
+    "count": 1,
+    "create_time": 1768911228,
+    "update_time": 1768911228,
+    "_id": "Artificial Neural Networks<SEP>Cat"
+  },
+  "Artificial Neural Networks<SEP>Mice": {
+    "chunk_ids": [
+      "chunk-95ce81b8a88d7af76b627732161bfd8d"
+    ],
+    "count": 1,
+    "create_time": 1768911229,
+    "update_time": 1768911229,
+    "_id": "Artificial Neural Networks<SEP>Mice"
+  },
+  "Deep Learning<SEP>ImageNet Large Scale Visual Recognition Challenge": {
+    "chunk_ids": [
+      "chunk-75f946bb765a1d045314c19725bfbd25"
+    ],
+    "count": 1,
+    "create_time": 1768911229,
+    "update_time": 1768911229,
+    "_id": "Deep Learning<SEP>ImageNet Large Scale Visual Recognition Challenge"
+  },
+  "Eigenvalue<SEP>Eigenvector": {
+    "chunk_ids": [
+      "chunk-d0d3be7ce3dfb930212c12aac0c54ff0"
+    ],
+    "count": 1,
+    "create_time": 1768911229,
+    "update_time": 1768911229,
+    "_id": "Eigenvalue<SEP>Eigenvector"
+  },
+  "Matrix Decomposition<SEP>Orthogonal Matrix": {
+    "chunk_ids": [
+      "chunk-d0d3be7ce3dfb930212c12aac0c54ff0"
+    ],
+    "count": 1,
+    "create_time": 1768911229,
+    "update_time": 1768911229,
+    "_id": "Matrix Decomposition<SEP>Orthogonal Matrix"
+  },
+  "Deep Learning<SEP>Speech Recognition": {
+    "chunk_ids": [
+      "chunk-75f946bb765a1d045314c19725bfbd25"
+    ],
+    "count": 1,
+    "create_time": 1768911229,
+    "update_time": 1768911229,
+    "_id": "Deep Learning<SEP>Speech Recognition"
+  },
+  "Integer Decomposition<SEP>Prime Factorization": {
+    "chunk_ids": [
+      "chunk-d0d3be7ce3dfb930212c12aac0c54ff0"
+    ],
+    "count": 1,
+    "create_time": 1768911229,
+    "update_time": 1768911229,
+    "_id": "Integer Decomposition<SEP>Prime Factorization"
+  },
+  "Eigenvector<SEP>Square Matrix": {
+    "chunk_ids": [
+      "chunk-d0d3be7ce3dfb930212c12aac0c54ff0"
+    ],
+    "count": 1,
+    "create_time": 1768911229,
+    "update_time": 1768911229,
+    "_id": "Eigenvector<SEP>Square Matrix"
+  },
+  "Eigenvalue<SEP>Linearly Independent Eigenvectors": {
+    "chunk_ids": [
+      "chunk-d0d3be7ce3dfb930212c12aac0c54ff0"
+    ],
+    "count": 1,
+    "create_time": 1768911229,
+    "update_time": 1768911229,
+    "_id": "Eigenvalue<SEP>Linearly Independent Eigenvectors"
+  },
+  "Norm<SEP>Vector": {
+    "chunk_ids": [
+      "chunk-d0d3be7ce3dfb930212c12aac0c54ff0"
+    ],
+    "count": 1,
+    "create_time": 1768911230,
+    "update_time": 1768911230,
+    "_id": "Norm<SEP>Vector"
+  },
+  "Mutually Orthogonal Vectors<SEP>Orthogonal Matrix": {
+    "chunk_ids": [
+      "chunk-d0d3be7ce3dfb930212c12aac0c54ff0"
+    ],
+    "count": 1,
+    "create_time": 1768911230,
+    "update_time": 1768911230,
+    "_id": "Mutually Orthogonal Vectors<SEP>Orthogonal Matrix"
+  },
+  "Eigenvector<SEP>Unit Norm": {
+    "chunk_ids": [
+      "chunk-d0d3be7ce3dfb930212c12aac0c54ff0"
+    ],
+    "count": 1,
+    "create_time": 1768911230,
+    "update_time": 1768911230,
+    "_id": "Eigenvector<SEP>Unit Norm"
+  },
+  "Deep Learning<SEP>Feedforward Deep Network": {
+    "chunk_ids": [
+      "chunk-ec8cde6747414a42b9f90501d7dd0d2a"
+    ],
+    "count": 1,
+    "create_time": 1768911230,
+    "update_time": 1768911230,
+    "_id": "Deep Learning<SEP>Feedforward Deep Network"
+  },
+  "Deep Learning<SEP>Logistic Regression": {
+    "chunk_ids": [
+      "chunk-ec8cde6747414a42b9f90501d7dd0d2a"
+    ],
+    "count": 1,
+    "create_time": 1768911231,
+    "update_time": 1768911231,
+    "_id": "Deep Learning<SEP>Logistic Regression"
+  },
+  "Deep Learning<SEP>State Information": {
+    "chunk_ids": [
+      "chunk-ec8cde6747414a42b9f90501d7dd0d2a"
+    ],
+    "count": 1,
+    "create_time": 1768911232,
+    "update_time": 1768911232,
+    "_id": "Deep Learning<SEP>State Information"
+  },
+  "Aspirin Therapy<SEP>Dyslipidaemia": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768915098,
+    "update_time": 1768915098,
+    "_id": "Aspirin Therapy<SEP>Dyslipidaemia"
+  },
+  "Diabetes Mellitus<SEP>Hypoglycaemia": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f",
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 2,
+    "create_time": 1768915098,
+    "update_time": 1768915098,
+    "_id": "Diabetes Mellitus<SEP>Hypoglycaemia"
+  },
+  "Lipid-Lowering Agents<SEP>Statin": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768915098,
+    "update_time": 1768915098,
+    "_id": "Lipid-Lowering Agents<SEP>Statin"
+  },
+  "Hypoglycaemia<SEP>Insulin": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768915098,
+    "update_time": 1768915098,
+    "_id": "Hypoglycaemia<SEP>Insulin"
+  },
+  "Bile Acid-Binding Resin<SEP>Lipid-Lowering Agents": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768915098,
+    "update_time": 1768915098,
+    "_id": "Bile Acid-Binding Resin<SEP>Lipid-Lowering Agents"
+  },
+  "Hypoglycaemia<SEP>Oral Hypoglycaemic Agents": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768915099,
+    "update_time": 1768915099,
+    "_id": "Hypoglycaemia<SEP>Oral Hypoglycaemic Agents"
+  },
+  "Ezetimibe<SEP>Lipid-Lowering Agents": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768915099,
+    "update_time": 1768915099,
+    "_id": "Ezetimibe<SEP>Lipid-Lowering Agents"
+  },
+  "Autonomic Neuropathy<SEP>Hypoglycaemia": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768915099,
+    "update_time": 1768915099,
+    "_id": "Autonomic Neuropathy<SEP>Hypoglycaemia"
+  },
+  "Diabetes<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915099,
+    "update_time": 1768915099,
+    "_id": "Diabetes<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Cardiovascular Disease<SEP>Dyslipidaemia": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768915099,
+    "update_time": 1768915099,
+    "_id": "Cardiovascular Disease<SEP>Dyslipidaemia"
+  },
+  "Fibrate<SEP>Lipid-Lowering Agents": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768915100,
+    "update_time": 1768915100,
+    "_id": "Fibrate<SEP>Lipid-Lowering Agents"
+  },
+  "Emergency Medical Personnel<SEP>Hypoglycaemia": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f",
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 2,
+    "create_time": 1768915100,
+    "update_time": 1768915100,
+    "_id": "Emergency Medical Personnel<SEP>Hypoglycaemia"
+  },
+  "Lipid-Lowering Agents<SEP>Nicotinic Acid": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768915100,
+    "update_time": 1768915100,
+    "_id": "Lipid-Lowering Agents<SEP>Nicotinic Acid"
+  },
+  "Professor Sameh Abdul-Shakour<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915101,
+    "update_time": 1768915101,
+    "_id": "Professor Sameh Abdul-Shakour<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Professor Kamel Ajlouni<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915101,
+    "update_time": 1768915101,
+    "_id": "Professor Kamel Ajlouni<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Professor Khalid Al Rubeean<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915102,
+    "update_time": 1768915102,
+    "_id": "Professor Khalid Al Rubeean<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Professor Fereiddoun Azizi<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915103,
+    "update_time": 1768915103,
+    "_id": "Professor Fereiddoun Azizi<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Dr Hussein A. Gezairy<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915103,
+    "update_time": 1768915103,
+    "_id": "Dr Hussein A. Gezairy<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Professor Nahla Hwalla<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915104,
+    "update_time": 1768915104,
+    "_id": "Professor Nahla Hwalla<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Dr Oussama M. N. Khatib<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915104,
+    "update_time": 1768915104,
+    "_id": "Dr Oussama M. N. Khatib<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Diabetes<SEP>Secondary Prevention Activities": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915104,
+    "update_time": 1768915104,
+    "_id": "Diabetes<SEP>Secondary Prevention Activities"
+  },
+  "Dr Jawad Lawati<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915105,
+    "update_time": 1768915105,
+    "_id": "Dr Jawad Lawati<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Diabetes Education<SEP>National Diabetes Control Programme": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915105,
+    "update_time": 1768915105,
+    "_id": "Diabetes Education<SEP>National Diabetes Control Programme"
+  },
+  "Diabetes<SEP>Healthy Lifestyles Programmes": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915105,
+    "update_time": 1768915105,
+    "_id": "Diabetes<SEP>Healthy Lifestyles Programmes"
+  },
+  "Professor Atord Modjtabai<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915106,
+    "update_time": 1768915106,
+    "_id": "Professor Atord Modjtabai<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Diabetes<SEP>Primary Prevention": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915106,
+    "update_time": 1768915106,
+    "_id": "Diabetes<SEP>Primary Prevention"
+  },
+  "Professor Khamis Nagati<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915106,
+    "update_time": 1768915106,
+    "_id": "Professor Khamis Nagati<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Diabetes<SEP>Screening for Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915107,
+    "update_time": 1768915107,
+    "_id": "Diabetes<SEP>Screening for Type 2 Diabetes Mellitus"
+  },
+  "Hypoglycaemia<SEP>Insulin Treatment": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768915107,
+    "update_time": 1768915107,
+    "_id": "Hypoglycaemia<SEP>Insulin Treatment"
+  },
+  "Dr Samir Owais<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915107,
+    "update_time": 1768915107,
+    "_id": "Dr Samir Owais<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Ketoacidosis<SEP>Type 1 Diabetes": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768915107,
+    "update_time": 1768915107,
+    "_id": "Ketoacidosis<SEP>Type 1 Diabetes"
+  },
+  "Hyperglycaemic Crisis<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768915107,
+    "update_time": 1768915107,
+    "_id": "Hyperglycaemic Crisis<SEP>Type 2 Diabetes"
+  },
+  "Diabetes<SEP>Regional Training Course for Diabetes Educators": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915107,
+    "update_time": 1768915107,
+    "_id": "Diabetes<SEP>Regional Training Course for Diabetes Educators"
+  },
+  "Diabetes Mellitus<SEP>Urinary Tract Infections": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768915107,
+    "update_time": 1768915107,
+    "_id": "Diabetes Mellitus<SEP>Urinary Tract Infections"
+  },
+  "Hypoglycaemia<SEP>Subtle Clues": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768915108,
+    "update_time": 1768915108,
+    "_id": "Hypoglycaemia<SEP>Subtle Clues"
+  },
+  "Acute Complications of Diabetes Mellitus<SEP>Ketoacidosis": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768915108,
+    "update_time": 1768915108,
+    "_id": "Acute Complications of Diabetes Mellitus<SEP>Ketoacidosis"
+  },
+  "Professor Abdul-Samad Sheera<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915108,
+    "update_time": 1768915108,
+    "_id": "Professor Abdul-Samad Sheera<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Diabetes Mellitus<SEP>Nutrition Management": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768915108,
+    "update_time": 1768915108,
+    "_id": "Diabetes Mellitus<SEP>Nutrition Management"
+  },
+  "Diabetes<SEP>National Strategy for Diabetes Management": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915108,
+    "update_time": 1768915108,
+    "_id": "Diabetes<SEP>National Strategy for Diabetes Management"
+  },
+  "Health Care Workers<SEP>Hypoglycaemia": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768915109,
+    "update_time": 1768915109,
+    "_id": "Health Care Workers<SEP>Hypoglycaemia"
+  },
+  "Cardiovascular Disease<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768915109,
+    "update_time": 1768915109,
+    "_id": "Cardiovascular Disease<SEP>Hypertension"
+  },
+  "Professor Ibrahim Sherif<SEP>WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768915109,
+    "update_time": 1768915109,
+    "_id": "Professor Ibrahim Sherif<SEP>WHO Eastern Mediterranean Region"
+  },
+  "Blood Pressure<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768915109,
+    "update_time": 1768915109,
+    "_id": "Blood Pressure<SEP>Hypertension"
+  },
+  "Diabetes<SEP>Metabolic Syndrome": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768915109,
+    "update_time": 1768915109,
+    "_id": "Diabetes<SEP>Metabolic Syndrome"
+  },
+  "Diagnostic Criteria for Gestational Diabetes<SEP>Oral Glucose Tolerance Test (OGTT)": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768915109,
+    "update_time": 1768915109,
+    "_id": "Diagnostic Criteria for Gestational Diabetes<SEP>Oral Glucose Tolerance Test (OGTT)"
+  },
+  "Diabetes Mellitus<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045",
+      "chunk-a560aca3f99b145384c2b736c2ceea1c",
+      "chunk-8361af576f7e73b0bd2ea813976f60b3",
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 4,
+    "create_time": 1768915110,
+    "update_time": 1768915110,
+    "_id": "Diabetes Mellitus<SEP>Hypertension"
+  },
+  "Brittle Diabetes<SEP>Type 1 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768915110,
+    "update_time": 1768915110,
+    "_id": "Brittle Diabetes<SEP>Type 1 Diabetes Mellitus"
+  },
+  "Metabolic Syndrome<SEP>Table 5": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768915110,
+    "update_time": 1768915110,
+    "_id": "Metabolic Syndrome<SEP>Table 5"
+  },
+  "Diabetes<SEP>Hyperglycaemia": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768915110,
+    "update_time": 1768915110,
+    "_id": "Diabetes<SEP>Hyperglycaemia"
+  },
+  "Individuals at Risk<SEP>Population Screening": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768915110,
+    "update_time": 1768915110,
+    "_id": "Individuals at Risk<SEP>Population Screening"
+  },
+  "Hypertension<SEP>Table 6": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768915110,
+    "update_time": 1768915110,
+    "_id": "Hypertension<SEP>Table 6"
+  },
+  "Diabetes Mellitus<SEP>Mass Community Screening": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768915110,
+    "update_time": 1768915110,
+    "_id": "Diabetes Mellitus<SEP>Mass Community Screening"
+  },
+  "Brittle Diabetes<SEP>Insulin Regimen": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768915111,
+    "update_time": 1768915111,
+    "_id": "Brittle Diabetes<SEP>Insulin Regimen"
+  },
+  "Individuals at Risk<SEP>Selective Screening": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768915111,
+    "update_time": 1768915111,
+    "_id": "Individuals at Risk<SEP>Selective Screening"
+  },
+  "Bacterial Infections<SEP>Diabetics": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768915111,
+    "update_time": 1768915111,
+    "_id": "Bacterial Infections<SEP>Diabetics"
+  },
+  "Diabetes Mellitus<SEP>Screening Programmes": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768915111,
+    "update_time": 1768915111,
+    "_id": "Diabetes Mellitus<SEP>Screening Programmes"
+  },
+  "Brittle Diabetes<SEP>Health-Care Providers": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768915111,
+    "update_time": 1768915111,
+    "_id": "Brittle Diabetes<SEP>Health-Care Providers"
+  },
+  "Atherosclerosis<SEP>Diabetic Nephropathy": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768915111,
+    "update_time": 1768915111,
+    "_id": "Atherosclerosis<SEP>Diabetic Nephropathy"
+  },
+  "Diabetics<SEP>Fungal Infections": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768915111,
+    "update_time": 1768915111,
+    "_id": "Diabetics<SEP>Fungal Infections"
+  },
+  "Diabetic Retinopathy<SEP>Pregnancy": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768915111,
+    "update_time": 1768915111,
+    "_id": "Diabetic Retinopathy<SEP>Pregnancy"
+  },
+  "Diabetes Mellitus<SEP>Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f",
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51",
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 3,
+    "create_time": 1768915112,
+    "update_time": 1768915112,
+    "_id": "Diabetes Mellitus<SEP>Type 2 Diabetes Mellitus"
+  },
+  "Chronic Infections<SEP>Diabetes": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768915112,
+    "update_time": 1768915112,
+    "_id": "Chronic Infections<SEP>Diabetes"
+  },
+  "Diabetics<SEP>Urinary Tract Infections": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768915113,
+    "update_time": 1768915113,
+    "_id": "Diabetics<SEP>Urinary Tract Infections"
+  },
+  "Atherosclerosis<SEP>Hyperglycaemia": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768915113,
+    "update_time": 1768915113,
+    "_id": "Atherosclerosis<SEP>Hyperglycaemia"
+  },
+  "Micro-Vascular Complications<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915113,
+    "update_time": 1768915113,
+    "_id": "Micro-Vascular Complications<SEP>Type 2 Diabetes"
+  },
+  "Diabetes<SEP>Neurogenic Bladder": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768915113,
+    "update_time": 1768915113,
+    "_id": "Diabetes<SEP>Neurogenic Bladder"
+  },
+  "Eastern Mediterranean Region<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915113,
+    "update_time": 1768915113,
+    "_id": "Eastern Mediterranean Region<SEP>Type 2 Diabetes"
+  },
+  "Diabetes<SEP>Tuberculosis": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768915114,
+    "update_time": 1768915114,
+    "_id": "Diabetes<SEP>Tuberculosis"
+  },
+  "High-Risk Characteristics<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915114,
+    "update_time": 1768915114,
+    "_id": "High-Risk Characteristics<SEP>Type 2 Diabetes"
+  },
+  "Diabetes<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768915115,
+    "update_time": 1768915115,
+    "_id": "Diabetes<SEP>Hypertension"
+  },
+  "Insulin Resistance<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915115,
+    "update_time": 1768915115,
+    "_id": "Insulin Resistance<SEP>Type 2 Diabetes"
+  },
+  "Gestational Diabetes Mellitus<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915115,
+    "update_time": 1768915115,
+    "_id": "Gestational Diabetes Mellitus<SEP>Type 2 Diabetes"
+  },
+  "Insulin Resistance<SEP>Polycystic Ovarian Syndrome": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915115,
+    "update_time": 1768915115,
+    "_id": "Insulin Resistance<SEP>Polycystic Ovarian Syndrome"
+  },
+  "HbA1c<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915116,
+    "update_time": 1768915116,
+    "_id": "HbA1c<SEP>Type 2 Diabetes"
+  },
+  "Body Mass Index<SEP>High-Risk Characteristics": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915116,
+    "update_time": 1768915116,
+    "_id": "Body Mass Index<SEP>High-Risk Characteristics"
+  },
+  "Acanthosis Nigricans<SEP>Insulin Resistance": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915116,
+    "update_time": 1768915116,
+    "_id": "Acanthosis Nigricans<SEP>Insulin Resistance"
+  },
+  "Diabetes Mellitus<SEP>Type 1 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51",
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 2,
+    "create_time": 1768915116,
+    "update_time": 1768915116,
+    "_id": "Diabetes Mellitus<SEP>Type 1 Diabetes Mellitus"
+  },
+  "Type 2 Diabetes<SEP>United Kingdom Prospective Diabetes Study": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915117,
+    "update_time": 1768915117,
+    "_id": "Type 2 Diabetes<SEP>United Kingdom Prospective Diabetes Study"
+  },
+  "Diabetes Mellitus<SEP>Impaired Glucose Tolerance (IGT)": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768915117,
+    "update_time": 1768915117,
+    "_id": "Diabetes Mellitus<SEP>Impaired Glucose Tolerance (IGT)"
+  },
+  "Cystic Fibrosis<SEP>Type 1 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768915117,
+    "update_time": 1768915117,
+    "_id": "Cystic Fibrosis<SEP>Type 1 Diabetes Mellitus"
+  },
+  "Diabetes Control and Complications Trial<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95",
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 2,
+    "create_time": 1768915117,
+    "update_time": 1768915117,
+    "_id": "Diabetes Control and Complications Trial<SEP>Type 2 Diabetes"
+  },
+  "Mitochondrial Defect<SEP>Type 1 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768915118,
+    "update_time": 1768915118,
+    "_id": "Mitochondrial Defect<SEP>Type 1 Diabetes Mellitus"
+  },
+  "Hypertension<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915118,
+    "update_time": 1768915118,
+    "_id": "Hypertension<SEP>Type 2 Diabetes"
+  },
+  "Diabetes Mellitus<SEP>Impaired Fasting Glycaemia (IFG)": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768915118,
+    "update_time": 1768915118,
+    "_id": "Diabetes Mellitus<SEP>Impaired Fasting Glycaemia (IFG)"
+  },
+  "Ophthalmologist<SEP>Retinopathy": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768915118,
+    "update_time": 1768915118,
+    "_id": "Ophthalmologist<SEP>Retinopathy"
+  },
+  "Dyslipidaemia<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768915119,
+    "update_time": 1768915119,
+    "_id": "Dyslipidaemia<SEP>Type 2 Diabetes"
+  },
+  "Diabetes Mellitus<SEP>Malnutrition-Related Diabetes (MRDM)": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768915119,
+    "update_time": 1768915119,
+    "_id": "Diabetes Mellitus<SEP>Malnutrition-Related Diabetes (MRDM)"
+  },
+  "Laser Photocoagulation<SEP>Retinopathy": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768915119,
+    "update_time": 1768915119,
+    "_id": "Laser Photocoagulation<SEP>Retinopathy"
+  },
+  "Diabetes Mellitus<SEP>Fibrocalculous Pancreatic Diabetes (FCPD)": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768915120,
+    "update_time": 1768915120,
+    "_id": "Diabetes Mellitus<SEP>Fibrocalculous Pancreatic Diabetes (FCPD)"
+  },
+  "Diabetes<SEP>Poly-Unsaturated Fatty Acids": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915120,
+    "update_time": 1768915120,
+    "_id": "Diabetes<SEP>Poly-Unsaturated Fatty Acids"
+  },
+  "Primary Care Physician<SEP>Retinopathy": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768915120,
+    "update_time": 1768915120,
+    "_id": "Primary Care Physician<SEP>Retinopathy"
+  },
+  "Diabetes<SEP>Mono-Unsaturated Fatty Acids": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915120,
+    "update_time": 1768915120,
+    "_id": "Diabetes<SEP>Mono-Unsaturated Fatty Acids"
+  },
+  "Ophthalmologist<SEP>Primary Care Physician": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768915120,
+    "update_time": 1768915120,
+    "_id": "Ophthalmologist<SEP>Primary Care Physician"
+  },
+  "Diabetes Mellitus<SEP>Pregnancy": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768915120,
+    "update_time": 1768915120,
+    "_id": "Diabetes Mellitus<SEP>Pregnancy"
+  },
+  "Exercise<SEP>Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915120,
+    "update_time": 1768915120,
+    "_id": "Exercise<SEP>Type 2 Diabetes Mellitus"
+  },
+  "Diabetes<SEP>Trans-Fatty Acids": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915121,
+    "update_time": 1768915121,
+    "_id": "Diabetes<SEP>Trans-Fatty Acids"
+  },
+  "Diabetes Mellitus<SEP>United Kingdom Prospective Diabetes Study": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768915121,
+    "update_time": 1768915121,
+    "_id": "Diabetes Mellitus<SEP>United Kingdom Prospective Diabetes Study"
+  },
+  "Diabetes<SEP>Insulin": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915121,
+    "update_time": 1768915121,
+    "_id": "Diabetes<SEP>Insulin"
+  },
+  "Diabetes Mellitus<SEP>Retinopathy": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768915122,
+    "update_time": 1768915122,
+    "_id": "Diabetes Mellitus<SEP>Retinopathy"
+  },
+  "Diabetes<SEP>Sulfonylureas": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915122,
+    "update_time": 1768915122,
+    "_id": "Diabetes<SEP>Sulfonylureas"
+  },
+  "Dyslipidaemia<SEP>Obesity": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915122,
+    "update_time": 1768915122,
+    "_id": "Dyslipidaemia<SEP>Obesity"
+  },
+  "Diabetes<SEP>Metformin": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915123,
+    "update_time": 1768915123,
+    "_id": "Diabetes<SEP>Metformin"
+  },
+  "Glycaemic Control<SEP>Retinopathy": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768915123,
+    "update_time": 1768915123,
+    "_id": "Glycaemic Control<SEP>Retinopathy"
+  },
+  "Diabetes<SEP>Rosiglitazone": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915123,
+    "update_time": 1768915123,
+    "_id": "Diabetes<SEP>Rosiglitazone"
+  },
+  "Diabetic Nephropathy<SEP>Type 1 Diabetes": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768915123,
+    "update_time": 1768915123,
+    "_id": "Diabetic Nephropathy<SEP>Type 1 Diabetes"
+  },
+  "Photocoagulation<SEP>Retinopathy": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768915124,
+    "update_time": 1768915124,
+    "_id": "Photocoagulation<SEP>Retinopathy"
+  },
+  "Diabetic Nephropathy<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768915124,
+    "update_time": 1768915124,
+    "_id": "Diabetic Nephropathy<SEP>Type 2 Diabetes"
+  },
+  "Diabetes<SEP>Pioglitazone": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915124,
+    "update_time": 1768915124,
+    "_id": "Diabetes<SEP>Pioglitazone"
+  },
+  "Albumin Excretion Rate<SEP>Diabetic Nephropathy": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768915125,
+    "update_time": 1768915125,
+    "_id": "Albumin Excretion Rate<SEP>Diabetic Nephropathy"
+  },
+  "Diabetes<SEP>Exercise": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915125,
+    "update_time": 1768915125,
+    "_id": "Diabetes<SEP>Exercise"
+  },
+  "Blood Pressure<SEP>Diabetic Nephropathy": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768915125,
+    "update_time": 1768915125,
+    "_id": "Blood Pressure<SEP>Diabetic Nephropathy"
+  },
+  "Diabetic Nephropathy<SEP>Urinary Albumin Excretion": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768915126,
+    "update_time": 1768915126,
+    "_id": "Diabetic Nephropathy<SEP>Urinary Albumin Excretion"
+  },
+  "Diabetes Mellitus<SEP>Self-Monitoring of Blood Glucose (SMBG)": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768915126,
+    "update_time": 1768915126,
+    "_id": "Diabetes Mellitus<SEP>Self-Monitoring of Blood Glucose (SMBG)"
+  },
+  "Diabetes<SEP>Obesity": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915126,
+    "update_time": 1768915126,
+    "_id": "Diabetes<SEP>Obesity"
+  },
+  "Diabetic Nephropathy<SEP>HbA1c": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768915127,
+    "update_time": 1768915127,
+    "_id": "Diabetic Nephropathy<SEP>HbA1c"
+  },
+  "Diabetes Mellitus<SEP>Lipid Profile": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768915127,
+    "update_time": 1768915127,
+    "_id": "Diabetes Mellitus<SEP>Lipid Profile"
+  },
+  "Diabetic Nephropathy<SEP>Serum Creatinine": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768915127,
+    "update_time": 1768915127,
+    "_id": "Diabetic Nephropathy<SEP>Serum Creatinine"
+  },
+  "Diabetes<SEP>Dyslipidaemia": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768915127,
+    "update_time": 1768915127,
+    "_id": "Diabetes<SEP>Dyslipidaemia"
+  },
+  "Diabetic Nephropathy<SEP>Serum Lipids": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768915128,
+    "update_time": 1768915128,
+    "_id": "Diabetic Nephropathy<SEP>Serum Lipids"
+  },
+  "Body Mass Index (BMI)<SEP>Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768915129,
+    "update_time": 1768915129,
+    "_id": "Body Mass Index (BMI)<SEP>Diabetes Mellitus"
+  },
+  "Blood Pressure<SEP>Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768915130,
+    "update_time": 1768915130,
+    "_id": "Blood Pressure<SEP>Diabetes Mellitus"
+  },
+  "Diabetes Mellitus<SEP>HbA1c": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768915130,
+    "update_time": 1768915130,
+    "_id": "Diabetes Mellitus<SEP>HbA1c"
+  },
+  "Diabetes Mellitus<SEP>Metabolic and Non-Metabolic Targets": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768915131,
+    "update_time": 1768915131,
+    "_id": "Diabetes Mellitus<SEP>Metabolic and Non-Metabolic Targets"
+  },
+  "Diabetes Mellitus<SEP>Multidisciplinary Diabetes Team": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08",
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 2,
+    "create_time": 1768915131,
+    "update_time": 1768915131,
+    "_id": "Diabetes Mellitus<SEP>Multidisciplinary Diabetes Team"
+  },
+  "Diabetes Mellitus<SEP>Hyperglycaemia": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08",
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 2,
+    "create_time": 1768915132,
+    "update_time": 1768915132,
+    "_id": "Diabetes Mellitus<SEP>Hyperglycaemia"
+  },
+  "Diabetes Mellitus<SEP>Ketoacidosis": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08",
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 2,
+    "create_time": 1768915133,
+    "update_time": 1768915133,
+    "_id": "Diabetes Mellitus<SEP>Ketoacidosis"
+  },
+  "Diabetes Educator<SEP>Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768915133,
+    "update_time": 1768915133,
+    "_id": "Diabetes Educator<SEP>Diabetes Mellitus"
+  },
+  "Diabetes Mellitus<SEP>United Arab Emirates": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768915134,
+    "update_time": 1768915134,
+    "_id": "Diabetes Mellitus<SEP>United Arab Emirates"
+  },
+  "Diabetes Mellitus<SEP>Qatar": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768915135,
+    "update_time": 1768915135,
+    "_id": "Diabetes Mellitus<SEP>Qatar"
+  },
+  "Diabetes Care<SEP>Diabetes Centres": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768915135,
+    "update_time": 1768915135,
+    "_id": "Diabetes Care<SEP>Diabetes Centres"
+  },
+  "Bahrain<SEP>Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768915136,
+    "update_time": 1768915136,
+    "_id": "Bahrain<SEP>Diabetes Mellitus"
+  },
+  "Diabetes Care<SEP>Diabetes Nurses": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768915136,
+    "update_time": 1768915136,
+    "_id": "Diabetes Care<SEP>Diabetes Nurses"
+  },
+  "Diabetes Mellitus<SEP>Pakistan": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768915136,
+    "update_time": 1768915136,
+    "_id": "Diabetes Mellitus<SEP>Pakistan"
+  },
+  "Diabetes Prevention Guidelines<SEP>Health Professionals": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768915136,
+    "update_time": 1768915136,
+    "_id": "Diabetes Prevention Guidelines<SEP>Health Professionals"
+  },
+  "Diabetes Care<SEP>Health Care Services": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768915137,
+    "update_time": 1768915137,
+    "_id": "Diabetes Care<SEP>Health Care Services"
+  },
+  "Diabetes Management Guidelines<SEP>Health Professionals": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768915137,
+    "update_time": 1768915137,
+    "_id": "Diabetes Management Guidelines<SEP>Health Professionals"
+  },
+  "Fasting Plasma Glucose<SEP>Glucose Tolerance Test": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768915137,
+    "update_time": 1768915137,
+    "_id": "Fasting Plasma Glucose<SEP>Glucose Tolerance Test"
+  },
+  "Diabetes Mellitus<SEP>Kuwait": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768915137,
+    "update_time": 1768915137,
+    "_id": "Diabetes Mellitus<SEP>Kuwait"
+  },
+  "Africa<SEP>Diabetes Management Guidelines": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768915138,
+    "update_time": 1768915138,
+    "_id": "Africa<SEP>Diabetes Management Guidelines"
+  },
+  "Diabetes Mellitus<SEP>Oman": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768915138,
+    "update_time": 1768915138,
+    "_id": "Diabetes Mellitus<SEP>Oman"
+  },
+  "Americas<SEP>Diabetes Management Guidelines": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768915138,
+    "update_time": 1768915138,
+    "_id": "Americas<SEP>Diabetes Management Guidelines"
+  },
+  "Diabetes Mellitus<SEP>Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1",
+      "chunk-d8c827cc2249067692290d6a8a0e8018",
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 3,
+    "create_time": 1768915139,
+    "update_time": 1768915139,
+    "_id": "Diabetes Mellitus<SEP>Eastern Mediterranean Region"
+  },
+  "Children and Adolescents<SEP>Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768915139,
+    "update_time": 1768915139,
+    "_id": "Children and Adolescents<SEP>Type 2 Diabetes Mellitus"
+  },
+  "Diabetes Management Guidelines<SEP>Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768915139,
+    "update_time": 1768915139,
+    "_id": "Diabetes Management Guidelines<SEP>Eastern Mediterranean Region"
+  },
+  "Diabetes Mellitus<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1",
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559",
+      "chunk-b253411e54c35aa95f5f9179723bba3b",
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 4,
+    "create_time": 1768915139,
+    "update_time": 1768915139,
+    "_id": "Diabetes Mellitus<SEP>World Health Organization"
+  },
+  "Diabetes Management Guidelines<SEP>Europe": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768915140,
+    "update_time": 1768915140,
+    "_id": "Diabetes Management Guidelines<SEP>Europe"
+  },
+  "Gestational Diabetes<SEP>Pregnant Women": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768915140,
+    "update_time": 1768915140,
+    "_id": "Gestational Diabetes<SEP>Pregnant Women"
+  },
+  "Eastern Mediterranean Region<SEP>Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768915140,
+    "update_time": 1768915140,
+    "_id": "Eastern Mediterranean Region<SEP>Type 2 Diabetes Mellitus"
+  },
+  "Diabetes Mellitus<SEP>Noncommunicable Diseases": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768915140,
+    "update_time": 1768915140,
+    "_id": "Diabetes Mellitus<SEP>Noncommunicable Diseases"
+  },
+  "Metabolic Syndrome<SEP>Syndrome X": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768915140,
+    "update_time": 1768915140,
+    "_id": "Metabolic Syndrome<SEP>Syndrome X"
+  },
+  "Diabetes Management Guidelines<SEP>South East Asia": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768915140,
+    "update_time": 1768915140,
+    "_id": "Diabetes Management Guidelines<SEP>South East Asia"
+  },
+  "Diabetes Management Guidelines<SEP>Western Pacific": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768915141,
+    "update_time": 1768915141,
+    "_id": "Diabetes Management Guidelines<SEP>Western Pacific"
+  },
+  "Diabetes Mellitus<SEP>Metabolic Syndrome": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768915141,
+    "update_time": 1768915141,
+    "_id": "Diabetes Mellitus<SEP>Metabolic Syndrome"
+  },
+  "Hypertension<SEP>Kidney Disease": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768915141,
+    "update_time": 1768915141,
+    "_id": "Hypertension<SEP>Kidney Disease"
+  },
+  "Angiotensin-Converting Enzyme Inhibitors<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768915142,
+    "update_time": 1768915142,
+    "_id": "Angiotensin-Converting Enzyme Inhibitors<SEP>Hypertension"
+  },
+  "Diabetic Nephropathy<SEP>Loop Diuretics": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768915142,
+    "update_time": 1768915142,
+    "_id": "Diabetic Nephropathy<SEP>Loop Diuretics"
+  },
+  "Obesity<SEP>Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263",
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 2,
+    "create_time": 1768915142,
+    "update_time": 1768915142,
+    "_id": "Obesity<SEP>Type 2 Diabetes Mellitus"
+  },
+  "Diabetes Mellitus<SEP>Kidney Disease": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768915142,
+    "update_time": 1768915142,
+    "_id": "Diabetes Mellitus<SEP>Kidney Disease"
+  },
+  "Diabetic Nephropathy<SEP>Education Programs": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768915142,
+    "update_time": 1768915142,
+    "_id": "Diabetic Nephropathy<SEP>Education Programs"
+  },
+  "Diabetes Mellitus<SEP>Nephrotoxic Drugs": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768915142,
+    "update_time": 1768915142,
+    "_id": "Diabetes Mellitus<SEP>Nephrotoxic Drugs"
+  },
+  "Insulin Resistance<SEP>Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768915143,
+    "update_time": 1768915143,
+    "_id": "Insulin Resistance<SEP>Type 2 Diabetes Mellitus"
+  },
+  "Economic Resources<SEP>Education Programs": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768915143,
+    "update_time": 1768915143,
+    "_id": "Economic Resources<SEP>Education Programs"
+  },
+  "Diabetic Nephropathy<SEP>Lipid Abnormalities": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768915143,
+    "update_time": 1768915143,
+    "_id": "Diabetic Nephropathy<SEP>Lipid Abnormalities"
+  },
+  "Type 1 Diabetes Mellitus<SEP>Urine Glucose Measurement": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768915143,
+    "update_time": 1768915143,
+    "_id": "Type 1 Diabetes Mellitus<SEP>Urine Glucose Measurement"
+  },
+  "Oral Glucose Tolerance Test<SEP>Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768915143,
+    "update_time": 1768915143,
+    "_id": "Oral Glucose Tolerance Test<SEP>Type 2 Diabetes Mellitus"
+  },
+  "Human Leukocyte Antigen<SEP>Type 1 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768915144,
+    "update_time": 1768915144,
+    "_id": "Human Leukocyte Antigen<SEP>Type 1 Diabetes Mellitus"
+  },
+  "Fasting Plasma Glucose<SEP>Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768915144,
+    "update_time": 1768915144,
+    "_id": "Fasting Plasma Glucose<SEP>Type 2 Diabetes Mellitus"
+  },
+  "Diabetes Mellitus<SEP>WHO Regional Office for the Eastern Mediterranean": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768915144,
+    "update_time": 1768915144,
+    "_id": "Diabetes Mellitus<SEP>WHO Regional Office for the Eastern Mediterranean"
+  },
+  "Casual Blood Glucose Measurement<SEP>Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768915144,
+    "update_time": 1768915144,
+    "_id": "Casual Blood Glucose Measurement<SEP>Type 2 Diabetes Mellitus"
+  },
+  "Islet-Cell Cytoplasmic Antibodies<SEP>Type 1 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768915144,
+    "update_time": 1768915144,
+    "_id": "Islet-Cell Cytoplasmic Antibodies<SEP>Type 1 Diabetes Mellitus"
+  },
+  "Fereiddoun Azizi<SEP>WHO Regional Office for the Eastern Mediterranean": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768915144,
+    "update_time": 1768915144,
+    "_id": "Fereiddoun Azizi<SEP>WHO Regional Office for the Eastern Mediterranean"
+  },
+  "Diabetes Mellitus<SEP>Quick Reference Cards": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768915144,
+    "update_time": 1768915144,
+    "_id": "Diabetes Mellitus<SEP>Quick Reference Cards"
+  },
+  "Diabetes Prevention and Control<SEP>Teheran": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768915144,
+    "update_time": 1768915144,
+    "_id": "Diabetes Prevention and Control<SEP>Teheran"
+  },
+  "Imad M. El-Kebbi<SEP>WHO Regional Office for the Eastern Mediterranean": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768915145,
+    "update_time": 1768915145,
+    "_id": "Imad M. El-Kebbi<SEP>WHO Regional Office for the Eastern Mediterranean"
+  },
+  "Insulin Resistance<SEP>Myocardial Infarctions": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915145,
+    "update_time": 1768915145,
+    "_id": "Insulin Resistance<SEP>Myocardial Infarctions"
+  },
+  "Antibodies to Glutamic Acid Decarboxylase<SEP>Type 1 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768915145,
+    "update_time": 1768915145,
+    "_id": "Antibodies to Glutamic Acid Decarboxylase<SEP>Type 1 Diabetes Mellitus"
+  },
+  "Diabetes Prevention and Control<SEP>February 2003": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768915145,
+    "update_time": 1768915145,
+    "_id": "Diabetes Prevention and Control<SEP>February 2003"
+  },
+  "Dyslipidaemia<SEP>Myocardial Infarctions": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915146,
+    "update_time": 1768915146,
+    "_id": "Dyslipidaemia<SEP>Myocardial Infarctions"
+  },
+  "Study of Screening Methods<SEP>Type 1 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768915146,
+    "update_time": 1768915146,
+    "_id": "Study of Screening Methods<SEP>Type 1 Diabetes Mellitus"
+  },
+  "Hypertension<SEP>Myocardial Infarctions": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915146,
+    "update_time": 1768915146,
+    "_id": "Hypertension<SEP>Myocardial Infarctions"
+  },
+  "Dyslipidaemia<SEP>Lipid-Lowering Therapy": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915146,
+    "update_time": 1768915146,
+    "_id": "Dyslipidaemia<SEP>Lipid-Lowering Therapy"
+  },
+  "Fasting Lipid Profile<SEP>Optimal Lipid Levels": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915146,
+    "update_time": 1768915146,
+    "_id": "Fasting Lipid Profile<SEP>Optimal Lipid Levels"
+  },
+  "Cardiovascular Mortality<SEP>Patients with Diabetes": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915147,
+    "update_time": 1768915147,
+    "_id": "Cardiovascular Mortality<SEP>Patients with Diabetes"
+  },
+  "Antiplatelet Therapy<SEP>Myocardial Infarctions": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915147,
+    "update_time": 1768915147,
+    "_id": "Antiplatelet Therapy<SEP>Myocardial Infarctions"
+  },
+  "Hypertension<SEP>Obesity": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915147,
+    "update_time": 1768915147,
+    "_id": "Hypertension<SEP>Obesity"
+  },
+  "Antihypertensive Therapy<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915147,
+    "update_time": 1768915147,
+    "_id": "Antihypertensive Therapy<SEP>Hypertension"
+  },
+  "Educational Programmes<SEP>Primary Care Physicians": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768915147,
+    "update_time": 1768915147,
+    "_id": "Educational Programmes<SEP>Primary Care Physicians"
+  },
+  "Dyslipidaemia<SEP>Triglycerides": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915147,
+    "update_time": 1768915147,
+    "_id": "Dyslipidaemia<SEP>Triglycerides"
+  },
+  "Diabetes<SEP>Diabetic Neuropathy": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768915147,
+    "update_time": 1768915147,
+    "_id": "Diabetes<SEP>Diabetic Neuropathy"
+  },
+  "Economic Barriers<SEP>Patients": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768915148,
+    "update_time": 1768915148,
+    "_id": "Economic Barriers<SEP>Patients"
+  },
+  "Glycaemic Control<SEP>Neuropathy": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768915148,
+    "update_time": 1768915148,
+    "_id": "Glycaemic Control<SEP>Neuropathy"
+  },
+  "Cholesterol<SEP>Dyslipidaemia": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915148,
+    "update_time": 1768915148,
+    "_id": "Cholesterol<SEP>Dyslipidaemia"
+  },
+  "Diabetic Foot<SEP>Screening Programme": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768915148,
+    "update_time": 1768915148,
+    "_id": "Diabetic Foot<SEP>Screening Programme"
+  },
+  "Hypertension<SEP>Hypertension Optimal Treatment (HOT) Trial": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915148,
+    "update_time": 1768915148,
+    "_id": "Hypertension<SEP>Hypertension Optimal Treatment (HOT) Trial"
+  },
+  "Diabetic Patients<SEP>Doppler Ultrasonography": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768915148,
+    "update_time": 1768915148,
+    "_id": "Diabetic Patients<SEP>Doppler Ultrasonography"
+  },
+  "Electrophysiological Study<SEP>Neuropathy": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768915149,
+    "update_time": 1768915149,
+    "_id": "Electrophysiological Study<SEP>Neuropathy"
+  },
+  "Aldose Reductase Inhibitors<SEP>Diabetic Neuropathy": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7",
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 2,
+    "create_time": 1768915149,
+    "update_time": 1768915149,
+    "_id": "Aldose Reductase Inhibitors<SEP>Diabetic Neuropathy"
+  },
+  "Diabetic Foot<SEP>Preventive Strategies": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768915149,
+    "update_time": 1768915149,
+    "_id": "Diabetic Foot<SEP>Preventive Strategies"
+  },
+  "EMRO Technical Publications Series 32<SEP>Oussama MN Khatib": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768915149,
+    "update_time": 1768915149,
+    "_id": "EMRO Technical Publications Series 32<SEP>Oussama MN Khatib"
+  },
+  "Diabetes Mellitus<SEP>Diabetes Prevention Guidelines": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768915149,
+    "update_time": 1768915149,
+    "_id": "Diabetes Mellitus<SEP>Diabetes Prevention Guidelines"
+  },
+  "Eastern Mediterranean Region<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768915149,
+    "update_time": 1768915149,
+    "_id": "Eastern Mediterranean Region<SEP>World Health Organization"
+  },
+  "Doppler Ultrasonography<SEP>Nephropathy": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768915150,
+    "update_time": 1768915150,
+    "_id": "Doppler Ultrasonography<SEP>Nephropathy"
+  },
+  "Diabetes Educator<SEP>Patient": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915150,
+    "update_time": 1768915150,
+    "_id": "Diabetes Educator<SEP>Patient"
+  },
+  "Cairo<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b",
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 2,
+    "create_time": 1768915150,
+    "update_time": 1768915150,
+    "_id": "Cairo<SEP>World Health Organization"
+  },
+  "Cardiovascular Mortality<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768915150,
+    "update_time": 1768915150,
+    "_id": "Cardiovascular Mortality<SEP>Hypertension"
+  },
+  "Oussama MN Khatib<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768915150,
+    "update_time": 1768915150,
+    "_id": "Oussama MN Khatib<SEP>World Health Organization"
+  },
+  "Diabetes Management<SEP>Gestational Diabetes": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915151,
+    "update_time": 1768915151,
+    "_id": "Diabetes Management<SEP>Gestational Diabetes"
+  },
+  "Dietician<SEP>Patient": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915151,
+    "update_time": 1768915151,
+    "_id": "Dietician<SEP>Patient"
+  },
+  "Diabetes Management<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915152,
+    "update_time": 1768915152,
+    "_id": "Diabetes Management<SEP>Type 2 Diabetes"
+  },
+  "Foot-Care Specialist<SEP>Patient": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915152,
+    "update_time": 1768915152,
+    "_id": "Foot-Care Specialist<SEP>Patient"
+  },
+  "Diabetes Mellitus<SEP>Obesity": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915152,
+    "update_time": 1768915152,
+    "_id": "Diabetes Mellitus<SEP>Obesity"
+  },
+  "Diabetes Mellitus<SEP>Physical Inactivity": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915152,
+    "update_time": 1768915152,
+    "_id": "Diabetes Mellitus<SEP>Physical Inactivity"
+  },
+  "Ophthalmologist<SEP>Patient": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915153,
+    "update_time": 1768915153,
+    "_id": "Ophthalmologist<SEP>Patient"
+  },
+  "Diabetes Management<SEP>Nutritional Recommendations": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915153,
+    "update_time": 1768915153,
+    "_id": "Diabetes Management<SEP>Nutritional Recommendations"
+  },
+  "Nephrologist<SEP>Patient": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915153,
+    "update_time": 1768915153,
+    "_id": "Nephrologist<SEP>Patient"
+  },
+  "Developing Countries<SEP>IGT": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768915153,
+    "update_time": 1768915153,
+    "_id": "Developing Countries<SEP>IGT"
+  },
+  "Diabetes Mellitus<SEP>Smoking": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915153,
+    "update_time": 1768915153,
+    "_id": "Diabetes Mellitus<SEP>Smoking"
+  },
+  "IFG<SEP>WHO": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768915154,
+    "update_time": 1768915154,
+    "_id": "IFG<SEP>WHO"
+  },
+  "Neurologist<SEP>Patient": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915154,
+    "update_time": 1768915154,
+    "_id": "Neurologist<SEP>Patient"
+  },
+  "Ketoacidosis<SEP>Type 1 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768915154,
+    "update_time": 1768915154,
+    "_id": "Ketoacidosis<SEP>Type 1 Diabetes Mellitus"
+  },
+  "Taiwan<SEP>Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768915154,
+    "update_time": 1768915154,
+    "_id": "Taiwan<SEP>Type 2 Diabetes Mellitus"
+  },
+  "Glycated Haemoglobin Levels<SEP>IGT": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768915154,
+    "update_time": 1768915154,
+    "_id": "Glycated Haemoglobin Levels<SEP>IGT"
+  },
+  "IFG<SEP>Oral Glucose Tolerance Test (OGTT)": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768915155,
+    "update_time": 1768915155,
+    "_id": "IFG<SEP>Oral Glucose Tolerance Test (OGTT)"
+  },
+  "Cardiologist<SEP>Patient": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915155,
+    "update_time": 1768915155,
+    "_id": "Cardiologist<SEP>Patient"
+  },
+  "Angiography<SEP>Nephropathy": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768915155,
+    "update_time": 1768915155,
+    "_id": "Angiography<SEP>Nephropathy"
+  },
+  "Diabetes Care Team<SEP>Foot Ulcers": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768915155,
+    "update_time": 1768915155,
+    "_id": "Diabetes Care Team<SEP>Foot Ulcers"
+  },
+  "Diabetes Mellitus<SEP>Dyslipidaemia": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768915155,
+    "update_time": 1768915155,
+    "_id": "Diabetes Mellitus<SEP>Dyslipidaemia"
+  },
+  "General Practitioners<SEP>Home Visiting Nurses": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768915155,
+    "update_time": 1768915155,
+    "_id": "General Practitioners<SEP>Home Visiting Nurses"
+  },
+  "National Diabetes Programme<SEP>Primary Prevention": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768915155,
+    "update_time": 1768915155,
+    "_id": "National Diabetes Programme<SEP>Primary Prevention"
+  },
+  "Diabetes Care Team<SEP>Vascular Radiologist": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768915155,
+    "update_time": 1768915155,
+    "_id": "Diabetes Care Team<SEP>Vascular Radiologist"
+  },
+  "Secondary Prevention<SEP>Tertiary Prevention": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768915156,
+    "update_time": 1768915156,
+    "_id": "Secondary Prevention<SEP>Tertiary Prevention"
+  },
+  "Diabetes Care Team<SEP>Vascular Surgeon": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768915156,
+    "update_time": 1768915156,
+    "_id": "Diabetes Care Team<SEP>Vascular Surgeon"
+  },
+  "Diabetes Mellitus<SEP>IFG": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768915156,
+    "update_time": 1768915156,
+    "_id": "Diabetes Mellitus<SEP>IFG"
+  },
+  "Lifestyle Changes<SEP>Primary Prevention": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768915156,
+    "update_time": 1768915156,
+    "_id": "Lifestyle Changes<SEP>Primary Prevention"
+  },
+  "Diabetic Neuropathy<SEP>Distal Symmetrical Sensory-Motor Polyneuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768915156,
+    "update_time": 1768915156,
+    "_id": "Diabetic Neuropathy<SEP>Distal Symmetrical Sensory-Motor Polyneuropathy"
+  },
+  "Diabetes Care Team<SEP>Diabetic Foot Lesions": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768915157,
+    "update_time": 1768915157,
+    "_id": "Diabetes Care Team<SEP>Diabetic Foot Lesions"
+  },
+  "Cardiovascular Autonomic Neuropathy<SEP>Diabetic Neuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768915157,
+    "update_time": 1768915157,
+    "_id": "Cardiovascular Autonomic Neuropathy<SEP>Diabetic Neuropathy"
+  },
+  "Diabetes Care Service<SEP>Diabetes Care Team": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768915157,
+    "update_time": 1768915157,
+    "_id": "Diabetes Care Service<SEP>Diabetes Care Team"
+  },
+  "Diabetic Neuropathy<SEP>Hyperglycemia": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768915158,
+    "update_time": 1768915158,
+    "_id": "Diabetic Neuropathy<SEP>Hyperglycemia"
+  },
+  "Cardiovascular Autonomic Neuropathy<SEP>Neuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768915158,
+    "update_time": 1768915158,
+    "_id": "Cardiovascular Autonomic Neuropathy<SEP>Neuropathy"
+  },
+  "Education and Training Needs<SEP>Patient Education": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768915158,
+    "update_time": 1768915158,
+    "_id": "Education and Training Needs<SEP>Patient Education"
+  },
+  "Diabetes Care Service<SEP>Diabetic Patients": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768915158,
+    "update_time": 1768915158,
+    "_id": "Diabetes Care Service<SEP>Diabetic Patients"
+  },
+  "The Da Quing Study<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768915158,
+    "update_time": 1768915158,
+    "_id": "The Da Quing Study<SEP>Type 2 Diabetes"
+  },
+  "Diabetic Neuropathy<SEP>Screening Strategies": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768915158,
+    "update_time": 1768915158,
+    "_id": "Diabetic Neuropathy<SEP>Screening Strategies"
+  },
+  "Finland Study<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768915159,
+    "update_time": 1768915159,
+    "_id": "Finland Study<SEP>Type 2 Diabetes"
+  },
+  "Diabetes<SEP>Laser Photocoagulation": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768915159,
+    "update_time": 1768915159,
+    "_id": "Diabetes<SEP>Laser Photocoagulation"
+  },
+  "Diabetic Neuropathy<SEP>Patient Education": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768915159,
+    "update_time": 1768915159,
+    "_id": "Diabetic Neuropathy<SEP>Patient Education"
+  },
+  "Diabetes Prevention Programme Research Group<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768915159,
+    "update_time": 1768915159,
+    "_id": "Diabetes Prevention Programme Research Group<SEP>Type 2 Diabetes"
+  },
+  "Chronic Complications of Diabetes<SEP>Diabetic Neuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768915159,
+    "update_time": 1768915159,
+    "_id": "Chronic Complications of Diabetes<SEP>Diabetic Neuropathy"
+  },
+  "Hussein A. Gezairy<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 1,
+    "create_time": 1768915160,
+    "update_time": 1768915160,
+    "_id": "Hussein A. Gezairy<SEP>World Health Organization"
+  },
+  "Eastern Mediterranean Countries<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768915160,
+    "update_time": 1768915160,
+    "_id": "Eastern Mediterranean Countries<SEP>Type 2 Diabetes"
+  },
+  "Diabetes Mellitus<SEP>National Epidemiological Studies": {
+    "chunk_ids": [
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 1,
+    "create_time": 1768915160,
+    "update_time": 1768915160,
+    "_id": "Diabetes Mellitus<SEP>National Epidemiological Studies"
+  },
+  "Diabetes<SEP>Diabetes Control Programmes": {
+    "chunk_ids": [
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 1,
+    "create_time": 1768915160,
+    "update_time": 1768915160,
+    "_id": "Diabetes<SEP>Diabetes Control Programmes"
+  },
+  "Diabetes Mellitus<SEP>Guidelines for Diabetes Management": {
+    "chunk_ids": [
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 1,
+    "create_time": 1768915160,
+    "update_time": 1768915160,
+    "_id": "Diabetes Mellitus<SEP>Guidelines for Diabetes Management"
+  },
+  "Regional Consultation on Diabetes Prevention and Care<SEP>Teheran": {
+    "chunk_ids": [
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 1,
+    "create_time": 1768915160,
+    "update_time": 1768915160,
+    "_id": "Regional Consultation on Diabetes Prevention and Care<SEP>Teheran"
+  },
+  "Type 2 Diabetes<SEP>United Kingdom Prospective Diabetes Study Group": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768915161,
+    "update_time": 1768915161,
+    "_id": "Type 2 Diabetes<SEP>United Kingdom Prospective Diabetes Study Group"
+  },
+  "Blood Pressure<SEP>Organ Hypoperfusion": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768915161,
+    "update_time": 1768915161,
+    "_id": "Blood Pressure<SEP>Organ Hypoperfusion"
+  },
+  "Dyslipidaemia<SEP>LDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768915161,
+    "update_time": 1768915161,
+    "_id": "Dyslipidaemia<SEP>LDL Cholesterol"
+  },
+  "Diabetes Mellitus<SEP>Lifestyle Changes": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768915161,
+    "update_time": 1768915161,
+    "_id": "Diabetes Mellitus<SEP>Lifestyle Changes"
+  },
+  "Triglyceride-Lowering Therapy<SEP>Triglycerides": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768915162,
+    "update_time": 1768915162,
+    "_id": "Triglyceride-Lowering Therapy<SEP>Triglycerides"
+  },
+  "LDL Cholesterol<SEP>Statins": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3",
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 2,
+    "create_time": 1768915162,
+    "update_time": 1768915162,
+    "_id": "LDL Cholesterol<SEP>Statins"
+  },
+  "IGT<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768915162,
+    "update_time": 1768915162,
+    "_id": "IGT<SEP>Type 2 Diabetes"
+  },
+  "Dyslipidaemia<SEP>Weight Reduction": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768915162,
+    "update_time": 1768915162,
+    "_id": "Dyslipidaemia<SEP>Weight Reduction"
+  },
+  "Acarbose<SEP>α-Glucosidase Inhibitors": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768915162,
+    "update_time": 1768915162,
+    "_id": "Acarbose<SEP>α-Glucosidase Inhibitors"
+  },
+  "IFG<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768915162,
+    "update_time": 1768915162,
+    "_id": "IFG<SEP>Type 2 Diabetes"
+  },
+  "Coronary Procedures<SEP>Statins": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768915162,
+    "update_time": 1768915162,
+    "_id": "Coronary Procedures<SEP>Statins"
+  },
+  "Coronary Heart Disease<SEP>LDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768915162,
+    "update_time": 1768915162,
+    "_id": "Coronary Heart Disease<SEP>LDL Cholesterol"
+  },
+  "Insulin<SEP>Short-Acting Insulin": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768915162,
+    "update_time": 1768915162,
+    "_id": "Insulin<SEP>Short-Acting Insulin"
+  },
+  "Miglitol<SEP>α-Glucosidase Inhibitors": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768915163,
+    "update_time": 1768915163,
+    "_id": "Miglitol<SEP>α-Glucosidase Inhibitors"
+  },
+  "Cessation of Smoking<SEP>Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768915163,
+    "update_time": 1768915163,
+    "_id": "Cessation of Smoking<SEP>Type 2 Diabetes"
+  },
+  "Hypertension<SEP>Multidisciplinary Mini Clinics": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768915163,
+    "update_time": 1768915163,
+    "_id": "Hypertension<SEP>Multidisciplinary Mini Clinics"
+  },
+  "Diabetes Management<SEP>Metformin": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768915163,
+    "update_time": 1768915163,
+    "_id": "Diabetes Management<SEP>Metformin"
+  },
+  "Insulin<SEP>Intermediate-Acting Insulin": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768915163,
+    "update_time": 1768915163,
+    "_id": "Insulin<SEP>Intermediate-Acting Insulin"
+  },
+  "Diabetes Mellitus<SEP>Sweets and Sweetened Drinks": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768915163,
+    "update_time": 1768915163,
+    "_id": "Diabetes Mellitus<SEP>Sweets and Sweetened Drinks"
+  },
+  "Diabetic Medicine<SEP>Herman W": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768915163,
+    "update_time": 1768915163,
+    "_id": "Diabetic Medicine<SEP>Herman W"
+  },
+  "Insulin<SEP>Long-Acting Insulin": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768915164,
+    "update_time": 1768915164,
+    "_id": "Insulin<SEP>Long-Acting Insulin"
+  },
+  "Eastern Mediterranean Health Journal<SEP>Kadiki OA": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768915164,
+    "update_time": 1768915164,
+    "_id": "Eastern Mediterranean Health Journal<SEP>Kadiki OA"
+  },
+  "Al-Lawati JA<SEP>Diabetic Medicine": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768915164,
+    "update_time": 1768915164,
+    "_id": "Al-Lawati JA<SEP>Diabetic Medicine"
+  },
+  "Diabetes Care<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768915164,
+    "update_time": 1768915164,
+    "_id": "Diabetes Care<SEP>World Health Organization"
+  },
+  "Insulin<SEP>Multidisciplinary Mini Clinics": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768915164,
+    "update_time": 1768915164,
+    "_id": "Insulin<SEP>Multidisciplinary Mini Clinics"
+  },
+  "Abdella N<SEP>Diabetes Research and Clinical Practice": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768915164,
+    "update_time": 1768915164,
+    "_id": "Abdella N<SEP>Diabetes Research and Clinical Practice"
+  },
+  "Diabetes Management<SEP>Thiazolidinediones": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768915165,
+    "update_time": 1768915165,
+    "_id": "Diabetes Management<SEP>Thiazolidinediones"
+  },
+  "Diabetic Medicine<SEP>Shera AS": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768915165,
+    "update_time": 1768915165,
+    "_id": "Diabetic Medicine<SEP>Shera AS"
+  },
+  "Nicotinic Acid<SEP>Triglycerides": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768915165,
+    "update_time": 1768915165,
+    "_id": "Nicotinic Acid<SEP>Triglycerides"
+  },
+  "Al-Mahroos F<SEP>Diabetes Care": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768915165,
+    "update_time": 1768915165,
+    "_id": "Al-Mahroos F<SEP>Diabetes Care"
+  },
+  "HDL Cholesterol<SEP>Statins": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768915165,
+    "update_time": 1768915165,
+    "_id": "HDL Cholesterol<SEP>Statins"
+  },
+  "Amini M<SEP>Diabetes Research and Clinical Practice": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768915165,
+    "update_time": 1768915165,
+    "_id": "Amini M<SEP>Diabetes Research and Clinical Practice"
+  },
+  "Aspirin Therapy<SEP>Insulin": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768915165,
+    "update_time": 1768915165,
+    "_id": "Aspirin Therapy<SEP>Insulin"
+  },
+  "Cholesterol Absorption Inhibitor<SEP>Cholestyramine": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768915165,
+    "update_time": 1768915165,
+    "_id": "Cholesterol Absorption Inhibitor<SEP>Cholestyramine"
+  },
+  "Fibric Acids<SEP>Triglycerides": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768915165,
+    "update_time": 1768915165,
+    "_id": "Fibric Acids<SEP>Triglycerides"
+  },
+  "International Diabetes Federation<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768915166,
+    "update_time": 1768915166,
+    "_id": "International Diabetes Federation<SEP>World Health Organization"
+  },
+  "Cholesterol Absorption Inhibitor<SEP>Colestipol": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768915166,
+    "update_time": 1768915166,
+    "_id": "Cholesterol Absorption Inhibitor<SEP>Colestipol"
+  },
+  "Diabetes Care<SEP>UK Prospective Diabetes Study": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768915166,
+    "update_time": 1768915166,
+    "_id": "Diabetes Care<SEP>UK Prospective Diabetes Study"
+  },
+  "Fenofibrate<SEP>Fibric Acids": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768915166,
+    "update_time": 1768915166,
+    "_id": "Fenofibrate<SEP>Fibric Acids"
+  },
+  "Diabetes Care<SEP>Diabetes Control and Complications Trial": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768915166,
+    "update_time": 1768915166,
+    "_id": "Diabetes Care<SEP>Diabetes Control and Complications Trial"
+  },
+  "UK Prospective Diabetes Study<SEP>UKPDS 38": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768915166,
+    "update_time": 1768915166,
+    "_id": "UK Prospective Diabetes Study<SEP>UKPDS 38"
+  },
+  "Cholesterol Absorption Inhibitor<SEP>Colesevelam": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768915167,
+    "update_time": 1768915167,
+    "_id": "Cholesterol Absorption Inhibitor<SEP>Colesevelam"
+  },
+  "Geneva<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768915167,
+    "update_time": 1768915167,
+    "_id": "Geneva<SEP>World Health Organization"
+  },
+  "Da Qing IGT and Diabetes Study<SEP>Diabetes Care": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768915167,
+    "update_time": 1768915167,
+    "_id": "Da Qing IGT and Diabetes Study<SEP>Diabetes Care"
+  },
+  "UK Prospective Diabetes Study<SEP>UKPDS 33": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768915167,
+    "update_time": 1768915167,
+    "_id": "UK Prospective Diabetes Study<SEP>UKPDS 33"
+  },
+  "Islamic Republic of Iran<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768915167,
+    "update_time": 1768915167,
+    "_id": "Islamic Republic of Iran<SEP>World Health Organization"
+  },
+  "National Collaborating Centre for Chronic Conditions<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768915168,
+    "update_time": 1768915168,
+    "_id": "National Collaborating Centre for Chronic Conditions<SEP>World Health Organization"
+  }
+}

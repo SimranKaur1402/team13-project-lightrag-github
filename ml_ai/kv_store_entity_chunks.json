@@ -1,0 +1,675 @@
+{
+  "Andrew Ng": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023",
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763",
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 6,
+    "create_time": 1767942407,
+    "update_time": 1767942407,
+    "_id": "Andrew Ng"
+  },
+  "Generalized Linear Models": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-674af09a64beddbff4e4e4b6e543709a",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 4,
+    "create_time": 1767942407,
+    "update_time": 1767942407,
+    "_id": "Generalized Linear Models"
+  },
+  "Logistic Regression": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763",
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 5,
+    "create_time": 1767942407,
+    "update_time": 1767942407,
+    "_id": "Logistic Regression"
+  },
+  "Gaussian Distribution": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-486f08627d119b0879789e4cf88e8904",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 5,
+    "create_time": 1767942407,
+    "update_time": 1767942407,
+    "_id": "Gaussian Distribution"
+  },
+  "K Possible Outcomes": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767942407,
+    "update_time": 1767942407,
+    "_id": "K Possible Outcomes"
+  },
+  "Newtons Method": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 2,
+    "create_time": 1767942407,
+    "update_time": 1767942407,
+    "_id": "Newtons Method"
+  },
+  "Gradient Ascent": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023",
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763",
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 5,
+    "create_time": 1767942407,
+    "update_time": 1767942407,
+    "_id": "Gradient Ascent"
+  },
+  "Multi-Cause Classification Problems": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767942407,
+    "update_time": 1767942407,
+    "_id": "Multi-Cause Classification Problems"
+  },
+  "Log Likelihood": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767942408,
+    "update_time": 1767942408,
+    "_id": "Log Likelihood"
+  },
+  "Exponential Family Distribution": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7",
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-486f08627d119b0879789e4cf88e8904",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 5,
+    "create_time": 1767942408,
+    "update_time": 1767942408,
+    "_id": "Exponential Family Distribution"
+  },
+  "Theta": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023",
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2",
+      "chunk-674af09a64beddbff4e4e4b6e543709a",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd",
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 5,
+    "create_time": 1767942408,
+    "update_time": 1767942408,
+    "_id": "Theta"
+  },
+  "Likelihood": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767942408,
+    "update_time": 1767942408,
+    "_id": "Likelihood"
+  },
+  "Training Set": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023",
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 2,
+    "create_time": 1767942409,
+    "update_time": 1767942409,
+    "_id": "Training Set"
+  },
+  "K": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767942409,
+    "update_time": 1767942409,
+    "_id": "K"
+  },
+  "N": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767942409,
+    "update_time": 1767942409,
+    "_id": "N"
+  },
+  "Indicator Function Notation": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767942409,
+    "update_time": 1767942409,
+    "_id": "Indicator Function Notation"
+  },
+  "K Values": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767942409,
+    "update_time": 1767942409,
+    "_id": "K Values"
+  },
+  "Parameters": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767942409,
+    "update_time": 1767942409,
+    "_id": "Parameters"
+  },
+  "T of Y": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 2,
+    "create_time": 1767942409,
+    "update_time": 1767942409,
+    "_id": "T of Y"
+  },
+  "Y": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7",
+      "chunk-674af09a64beddbff4e4e4b6e543709a",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 4,
+    "create_time": 1767942409,
+    "update_time": 1767942409,
+    "_id": "Y"
+  },
+  "Phi Values": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767942409,
+    "update_time": 1767942409,
+    "_id": "Phi Values"
+  },
+  "Dimension": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767942409,
+    "update_time": 1767942409,
+    "_id": "Dimension"
+  },
+  "Student": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767942409,
+    "update_time": 1767942409,
+    "_id": "Student"
+  },
+  "Normal Distribution": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 2,
+    "create_time": 1767942410,
+    "update_time": 1767942410,
+    "_id": "Normal Distribution"
+  },
+  "Probability Mass Function": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767942410,
+    "update_time": 1767942410,
+    "_id": "Probability Mass Function"
+  },
+  "Parameters of Ordinary Least Squares": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767942410,
+    "update_time": 1767942410,
+    "_id": "Parameters of Ordinary Least Squares"
+  },
+  "Scaler": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767942410,
+    "update_time": 1767942410,
+    "_id": "Scaler"
+  },
+  "Probability Distribution": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 2,
+    "create_time": 1767942410,
+    "update_time": 1767942410,
+    "_id": "Probability Distribution"
+  },
+  "Function F": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767942410,
+    "update_time": 1767942410,
+    "_id": "Function F"
+  },
+  "Derivative": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767942410,
+    "update_time": 1767942410,
+    "_id": "Derivative"
+  },
+  "Instructor Andrew Ng": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767942410,
+    "update_time": 1767942410,
+    "_id": "Instructor Andrew Ng"
+  },
+  "F of Theta": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767942410,
+    "update_time": 1767942410,
+    "_id": "F of Theta"
+  },
+  "L of Theta": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767942411,
+    "update_time": 1767942411,
+    "_id": "L of Theta"
+  },
+  "Parson Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904",
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 2,
+    "create_time": 1767942411,
+    "update_time": 1767942411,
+    "_id": "Parson Distribution"
+  },
+  "Gamma Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904",
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 2,
+    "create_time": 1767942411,
+    "update_time": 1767942411,
+    "_id": "Gamma Distribution"
+  },
+  "Exponential Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904",
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 2,
+    "create_time": 1767942411,
+    "update_time": 1767942411,
+    "_id": "Exponential Distribution"
+  },
+  "Generalized Linear Model": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904",
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 2,
+    "create_time": 1767942411,
+    "update_time": 1767942411,
+    "_id": "Generalized Linear Model"
+  },
+  "Input X": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767942411,
+    "update_time": 1767942411,
+    "_id": "Input X"
+  },
+  "Response Variable Y": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767942411,
+    "update_time": 1767942411,
+    "_id": "Response Variable Y"
+  },
+  "Wisha Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767942411,
+    "update_time": 1767942411,
+    "_id": "Wisha Distribution"
+  },
+  "Softmax Regression": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942411,
+    "update_time": 1767942411,
+    "_id": "Softmax Regression"
+  },
+  "Parameterization by Theta": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942411,
+    "update_time": 1767942411,
+    "_id": "Parameterization by Theta"
+  },
+  "Indicator Functions": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942412,
+    "update_time": 1767942412,
+    "_id": "Indicator Functions"
+  },
+  "Maximum Likelihood": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942412,
+    "update_time": 1767942412,
+    "_id": "Maximum Likelihood"
+  },
+  "X": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 2,
+    "create_time": 1767942412,
+    "update_time": 1767942412,
+    "_id": "X"
+  },
+  "E to the Theta I, Transpose X": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942412,
+    "update_time": 1767942412,
+    "_id": "E to the Theta I, Transpose X"
+  },
+  "Sufficient Statistic": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 2,
+    "create_time": 1767942412,
+    "update_time": 1767942412,
+    "_id": "Sufficient Statistic"
+  },
+  "Natural Parameter": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767942412,
+    "update_time": 1767942412,
+    "_id": "Natural Parameter"
+  },
+  "Data": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767942412,
+    "update_time": 1767942412,
+    "_id": "Data"
+  },
+  "Value of Y": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767942412,
+    "update_time": 1767942412,
+    "_id": "Value of Y"
+  },
+  "Exponential Family Distributions": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767942412,
+    "update_time": 1767942412,
+    "_id": "Exponential Family Distributions"
+  },
+  "Logistic Function": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767942412,
+    "update_time": 1767942412,
+    "_id": "Logistic Function"
+  },
+  "Phi": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767942412,
+    "update_time": 1767942412,
+    "_id": "Phi"
+  },
+  "Newton's Method": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763",
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 2,
+    "create_time": 1767942413,
+    "update_time": 1767942413,
+    "_id": "Newton's Method"
+  },
+  "Hessian": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767942413,
+    "update_time": 1767942413,
+    "_id": "Hessian"
+  },
+  "Features": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767942413,
+    "update_time": 1767942413,
+    "_id": "Features"
+  },
+  "PFY": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767942413,
+    "update_time": 1767942413,
+    "_id": "PFY"
+  },
+  "Machine Learning": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942413,
+    "update_time": 1767942413,
+    "_id": "Machine Learning"
+  },
+  "Course Website": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942413,
+    "update_time": 1767942413,
+    "_id": "Course Website"
+  },
+  "Project Proposals": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942413,
+    "update_time": 1767942413,
+    "_id": "Project Proposals"
+  },
+  "Office Hours": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942413,
+    "update_time": 1767942413,
+    "_id": "Office Hours"
+  },
+  "Discussion Section": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942413,
+    "update_time": 1767942413,
+    "_id": "Discussion Section"
+  },
+  "TA": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942413,
+    "update_time": 1767942413,
+    "_id": "TA"
+  },
+  "Problem Set One": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942413,
+    "update_time": 1767942413,
+    "_id": "Problem Set One"
+  },
+  "Logistic Regression Model": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942414,
+    "update_time": 1767942414,
+    "_id": "Logistic Regression Model"
+  },
+  "Logistic Regression Algorithm": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942414,
+    "update_time": 1767942414,
+    "_id": "Logistic Regression Algorithm"
+  },
+  "Expected Value": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942414,
+    "update_time": 1767942414,
+    "_id": "Expected Value"
+  },
+  "Canonical Response Function": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942414,
+    "update_time": 1767942414,
+    "_id": "Canonical Response Function"
+  },
+  "Canonical Link Function": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942414,
+    "update_time": 1767942414,
+    "_id": "Canonical Link Function"
+  },
+  "Parson Regression Models": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942414,
+    "update_time": 1767942414,
+    "_id": "Parson Regression Models"
+  }
+}

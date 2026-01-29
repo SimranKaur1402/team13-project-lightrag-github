@@ -1,0 +1,30 @@
+{
+  "doc-0fed72d1c9e10f98f51ef5c1b3b1715e": {
+    "status": "processed",
+    "chunks_count": 12,
+    "chunks_list": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe",
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd",
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-486f08627d119b0879789e4cf88e8904",
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a",
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7",
+      "chunk-674af09a64beddbff4e4e4b6e543709a",
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "content_summary": "MachineLearning-Lecture04  \nInstructor (Andrew Ng):Okay, good morning. Just a few administrative announcements \nbefore we jump into today’s technical material. So let’s see, by later today, I’ll post on \nthe course website a handout with the sort of ...",
+    "content_length": 52583,
+    "created_at": "2026-01-09T07:05:56.019116+00:00",
+    "updated_at": "2026-01-09T07:07:11.997351+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260109_123556_dbaac66e",
+    "metadata": {
+      "processing_start_time": 1767942356,
+      "processing_end_time": 1767942431
+    }
+  }
+}

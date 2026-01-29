@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Energy Systems">
+      <data key="d0">Energy Systems</data>
+      <data key="d1">concept</data>
+      <data key="d2">Energy systems are critical for modern economies, supporting various sectors such as industrial production, transportation, communication, and household activities.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709047</data>
+      <data key="d6" />
+    </node>
+    <node id="Energy Generation">
+      <data key="d0">Energy Generation</data>
+      <data key="d1">concept</data>
+      <data key="d2">Energy generation refers to the process of producing energy from various sources, including fossil fuels, nuclear power, and renewable options.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709047</data>
+      <data key="d6" />
+    </node>
+    <node id="Energy Distribution">
+      <data key="d0">Energy Distribution</data>
+      <data key="d1">concept</data>
+      <data key="d2">Energy distribution involves the methods and infrastructure used to deliver produced energy to consumers and various sectors.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709047</data>
+      <data key="d6" />
+    </node>
+    <node id="Energy Policy">
+      <data key="d0">Energy Policy</data>
+      <data key="d1">concept</data>
+      <data key="d2">Energy policy governs the regulations surrounding energy pricing, market access, safety standards, and environmental compliance.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709047</data>
+      <data key="d6" />
+    </node>
+    <node id="Sustainability Challenges">
+      <data key="d0">Sustainability Challenges</data>
+      <data key="d1">concept</data>
+      <data key="d2">Sustainability challenges in energy systems relate to environmental impacts, resource depletion, and promoting sustainable practices.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709047</data>
+      <data key="d6" />
+    </node>
+    <node id="Fossil Fuels">
+      <data key="d0">Fossil Fuels</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Fossil fuels are traditional energy sources, such as coal, oil, and natural gas, with significant economic and environmental implications.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709047</data>
+      <data key="d6" />
+    </node>
+    <node id="Nuclear Power">
+      <data key="d0">Nuclear Power</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Nuclear power is an energy generation method that uses nuclear reactions to produce electricity.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709047</data>
+      <data key="d6" />
+    </node>
+    <node id="Solar Energy">
+      <data key="d0">Solar Energy</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Solar energy is a renewable energy source harnessed from sunlight and is key for sustainable energy transitions.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709047</data>
+      <data key="d6" />
+    </node>
+    <node id="Wind Energy">
+      <data key="d0">Wind Energy</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Wind energy is another renewable energy source that utilizes wind to generate electricity.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709048</data>
+      <data key="d6" />
+    </node>
+    <node id="Hydroelectric Power">
+      <data key="d0">Hydroelectric Power</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Hydroelectric power is generated by harnessing the energy of flowing water, contributing to renewable energy efforts.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709048</data>
+      <data key="d6" />
+    </node>
+    <node id="Carbon Pricing">
+      <data key="d0">Carbon Pricing</data>
+      <data key="d1">method</data>
+      <data key="d2">Carbon pricing is a strategy aimed at reducing greenhouse gas emissions by assigning a cost to carbon output.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709048</data>
+      <data key="d6" />
+    </node>
+    <node id="Region R">
+      <data key="d0">Region R</data>
+      <data key="d1">location</data>
+      <data key="d2">Region R is an example of a location where large-scale investment in solar and wind energy has been made to reduce fossil fuel dependence and improve energy access.&lt;SEP&gt;Region R is mentioned as a location where significant investments in renewable energy sources improved energy access.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f&lt;SEP&gt;chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709048</data>
+      <data key="d6" />
+    </node>
+    <node id="Energy Efficiency">
+      <data key="d0">Energy Efficiency</data>
+      <data key="d1">method</data>
+      <data key="d2">Energy efficiency encompasses strategies and technologies aimed at reducing energy consumption while maintaining the same level of service or output.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709048</data>
+      <data key="d6" />
+    </node>
+    <node id="Clean Energy Technologies">
+      <data key="d0">Clean Energy Technologies</data>
+      <data key="d1">concept</data>
+      <data key="d2">Clean energy technologies refer to methods and tools designed to generate energy from renewable sources, contributing to sustainability and reducing environmental impacts.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709049</data>
+      <data key="d6" />
+    </node>
+    <node id="Energy Poverty">
+      <data key="d0">Energy Poverty</data>
+      <data key="d1">concept</data>
+      <data key="d2">Energy poverty is a significant concern affecting education, healthcare, and social development in many regions due to lack of energy availability.&lt;SEP&gt;Energy poverty refers to the lack of access to modern energy services, which affects quality of life and economic development, particularly in underprivileged regions.</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f&lt;SEP&gt;chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709049</data>
+      <data key="d6" />
+    </node>
+    <node id="Environmental Compliance">
+      <data key="d0">Environmental Compliance</data>
+      <data key="d1">concept</data>
+      <data key="d2">Environmental compliance refers to the adherence to regulations that ensure reliable, affordable, and sustainable energy supply.</data>
+      <data key="d3">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709049</data>
+      <data key="d6" />
+    </node>
+    <node id="Economic Impact">
+      <data key="d0">Economic Impact</data>
+      <data key="d1">concept</data>
+      <data key="d2">Economic impact describes how energy availability affects economic growth, employment, and quality of life.</data>
+      <data key="d3">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709049</data>
+      <data key="d6" />
+    </node>
+    <node id="Environmental Considerations">
+      <data key="d0">Environmental Considerations</data>
+      <data key="d1">concept</data>
+      <data key="d2">Environmental considerations involve evaluating the impact of energy production and consumption on greenhouse gas emissions.</data>
+      <data key="d3">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709049</data>
+      <data key="d6" />
+    </node>
+    <node id="Mitigation Strategies">
+      <data key="d0">Mitigation Strategies</data>
+      <data key="d1">concept</data>
+      <data key="d2">Mitigation strategies aim to reduce greenhouse gas emissions and include energy efficiency, carbon pricing, and investments in low-carbon technologies.</data>
+      <data key="d3">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709049</data>
+      <data key="d6" />
+    </node>
+    <node id="Future Energy Systems">
+      <data key="d0">Future Energy Systems</data>
+      <data key="d1">concept</data>
+      <data key="d2">Future energy systems are anticipated to be decentralized, digitalized, and increasingly reliant on renewable sources, with a focus on innovation and cooperation.</data>
+      <data key="d3">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709049</data>
+      <data key="d6" />
+    </node>
+    <node id="Sustainable Energy Development">
+      <data key="d0">Sustainable Energy Development</data>
+      <data key="d1">concept</data>
+      <data key="d2">Sustainable energy development emphasizes the need for long-term planning, policy coordination, and technological innovation to balance economic growth with environmental protection.</data>
+      <data key="d3">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709049</data>
+      <data key="d6" />
+    </node>
+    <node id="Energy Availability">
+      <data key="d0">Energy Availability</data>
+      <data key="d1">concept</data>
+      <data key="d2">Energy availability refers to the accessibility of energy resources, which influences economic growth, employment, and quality of life.</data>
+      <data key="d3">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709049</data>
+      <data key="d6" />
+    </node>
+    <node id="Renewable Energy Transition">
+      <data key="d0">Renewable Energy Transition</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d2">The transition to solar energy is part of the broader shift towards renewable energy solutions in response to climate change.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709050</data>
+      <data key="d6" />
+    </node>
+    <node id="Economic and Social Impact">
+      <data key="d0">Economic and Social Impact</data>
+      <data key="d3">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d2">Energy poverty significantly impacts economic growth and social development, affecting education, healthcare, and overall quality of life.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709052</data>
+      <data key="d6" />
+    </node>
+    <node id="Energy Production and Consumption">
+      <data key="d0">Energy Production and Consumption</data>
+      <data key="d3">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d2">Energy production and consumption have significant effects on greenhouse gas emissions, necessitating environmental considerations.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767709052</data>
+      <data key="d6" />
+    </node>
+    <edge source="Energy Systems" target="Energy Generation">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy systems provide the necessary infrastructure and framework for energy generation to support modern economies.</data>
+      <data key="d9">economic foundation,infrastructure</data>
+      <data key="d10">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709050</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Distribution" target="Energy Policy">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy policies regulate how energy is distributed and accessed within markets, ensuring compliance and safety.</data>
+      <data key="d9">market access,regulatory framework</data>
+      <data key="d10">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709050</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Policy" target="Energy Efficiency">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy efficiency measures are often included in energy policies to improve sustainability and compliance with environmental standards.</data>
+      <data key="d9">regulatory framework,sustainability strategy</data>
+      <data key="d10">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709051</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Sustainability Challenges" target="Fossil Fuels">
+      <data key="d7">1.0</data>
+      <data key="d8">The reliance on fossil fuels creates sustainability challenges due to their environmental impacts and finite nature.</data>
+      <data key="d9">environmental impact,resource depletion</data>
+      <data key="d10">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709050</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Solar Energy" target="Renewable Energy Transition">
+      <data key="d7">1.0</data>
+      <data key="d8">The transition to solar energy is part of the broader shift towards renewable energy solutions in response to climate change.</data>
+      <data key="d9">climate change response,energy diversification</data>
+      <data key="d10">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709051</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Solar Energy" target="Region R">
+      <data key="d7">1.0</data>
+      <data key="d8">In Region R, investments in solar energy have improved energy access for rural communities.</data>
+      <data key="d9">energy access,investment</data>
+      <data key="d10">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709052</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wind Energy" target="Renewable Energy Transition">
+      <data key="d7">1.0</data>
+      <data key="d8">Investments in wind energy support the transition to renewable energy, addressing climate change concerns.</data>
+      <data key="d9">climate change response,energy diversification</data>
+      <data key="d10">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709052</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wind Energy" target="Region R">
+      <data key="d7">1.0</data>
+      <data key="d8">In Region R, large-scale investments in wind energy have bolstered energy access improvements.</data>
+      <data key="d9">energy access,investment</data>
+      <data key="d10">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709052</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Hydroelectric Power" target="Renewable Energy Transition">
+      <data key="d7">1.0</data>
+      <data key="d8">The promotion of hydroelectric power is crucial for the transition towards sustainable energy sources in light of climate change.</data>
+      <data key="d9">climate change response,energy diversification</data>
+      <data key="d10">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709052</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Region R" target="Future Energy Systems">
+      <data key="d7">1.0</data>
+      <data key="d8">The experience in Region R demonstrates the potential of future energy systems that rely on renewable energy sources to improve energy access.</data>
+      <data key="d9">energy access,renewable energy</data>
+      <data key="d10">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709053</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Clean Energy Technologies" target="Renewable Energy Transition">
+      <data key="d7">1.0</data>
+      <data key="d8">The adoption of clean energy technologies facilitates the transition towards renewable energy to combat climate change.</data>
+      <data key="d9">climate action,technological advancement</data>
+      <data key="d10">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709053</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Poverty" target="Economic and Social Impact">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy poverty significantly impacts economic growth and social development, affecting education, healthcare, and overall quality of life.</data>
+      <data key="d9">development challenge,quality of life</data>
+      <data key="d10">chunk-0d92e720e7cfbfc2155b52aa88b0156f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709053</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Poverty" target="Economic Impact">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy poverty negatively impacts economic growth, employment opportunities, and quality of life.</data>
+      <data key="d9">quality of life,social development</data>
+      <data key="d10">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709053</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Environmental Compliance" target="Sustainable Energy Development">
+      <data key="d7">1.0</data>
+      <data key="d8">Environmental compliance is essential for achieving sustainable energy development through proper regulation and planning.</data>
+      <data key="d9">planning,regulation</data>
+      <data key="d10">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709052</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Economic Impact" target="Energy Availability">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy availability has a direct impact on economic growth and employment rates, contributing to quality of life.</data>
+      <data key="d9">economic growth,energy supply</data>
+      <data key="d10">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709054</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Environmental Considerations" target="Energy Production and Consumption">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy production and consumption have significant effects on greenhouse gas emissions, necessitating environmental considerations.</data>
+      <data key="d9">environmental impact,greenhouse gas emissions</data>
+      <data key="d10">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709053</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Environmental Considerations" target="Mitigation Strategies">
+      <data key="d7">1.0</data>
+      <data key="d8">Mitigation strategies address environmental considerations by focusing on emission reduction and investment in low-carbon technologies.</data>
+      <data key="d9">emission reduction,technology investment</data>
+      <data key="d10">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709054</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mitigation Strategies" target="Sustainable Energy Development">
+      <data key="d7">1.0</data>
+      <data key="d8">Sustainable energy development relies on effective mitigation strategies, including policy coordination and technological innovation.</data>
+      <data key="d9">policy coordination,technological innovation</data>
+      <data key="d10">chunk-ba30ff765cf7628b7d0bf16fe4039b48</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767709053</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

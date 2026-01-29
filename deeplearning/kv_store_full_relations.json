@@ -1,0 +1,2314 @@
+{
+  "doc-c403220a2df85efb329645f3a5e220c0": {
+    "relation_pairs": [
+      [
+        "Data Processing in Scientific Fields",
+        "Neuroscientists"
+      ],
+      [
+        "Factors of Variation",
+        "Representation Learning"
+      ],
+      [
+        "Pseudoinverse",
+        "SVD"
+      ],
+      [
+        "Deep Learning",
+        "Perceptron"
+      ],
+      [
+        "CIFAR",
+        "CIFAR NCAP"
+      ],
+      [
+        "Frobenius Norm",
+        "Trace Operator"
+      ],
+      [
+        "Equation",
+        "R2"
+      ],
+      [
+        "Logistic Sigmoid",
+        "Natural Logarithm"
+      ],
+      [
+        "Canadian Institute for Advanced Research (CIFAR)",
+        "Yann LeCun"
+      ],
+      [
+        "Artificial Intelligence (AI)",
+        "Human Operators"
+      ],
+      [
+        "Logistic Regression",
+        "Machine Learning"
+      ],
+      [
+        "Linear Equations",
+        "Matrix Multiplication"
+      ],
+      [
+        "Computer Science",
+        "Deep Learning"
+      ],
+      [
+        "Deep Learning",
+        "Deep Learning Research"
+      ],
+      [
+        "Eigenvalues",
+        "Quadratic Expressions"
+      ],
+      [
+        "Artificial Neural Networks",
+        "Hidden Units"
+      ],
+      [
+        "Artificial Intelligence (AI)",
+        "Deep Blue"
+      ],
+      [
+        "Ferrets",
+        "Von Melchner 2000"
+      ],
+      [
+        "Matrix",
+        "Transpose"
+      ],
+      [
+        "Deep Learning",
+        "Machine Learning Basics"
+      ],
+      [
+        "Recursive Neural Networks",
+        "Sequence Modeling: Recurrent and Recursive Nets"
+      ],
+      [
+        "Noise-Contrastive Estimation",
+        "Partition Function"
+      ],
+      [
+        "Computational Graph",
+        "Deep Learning"
+      ],
+      [
+        "Artificial Neural Networks",
+        "Mice"
+      ],
+      [
+        "Goodfellow",
+        "Gülçehre"
+      ],
+      [
+        "Eigenvalues",
+        "Positive Semidefinite Matrices"
+      ],
+      [
+        "Function",
+        "Matrix-Valued Expression"
+      ],
+      [
+        "Artificial Intelligence (AI)",
+        "Pandora"
+      ],
+      [
+        "ImageNet Large Scale Visual Recognition Challenge",
+        "Russakovsky et al."
+      ],
+      [
+        "Lp Norm",
+        "Squared Lp Norm"
+      ],
+      [
+        "Matrix",
+        "Scalar"
+      ],
+      [
+        "Deep Learning",
+        "Noah Carter"
+      ],
+      [
+        "Matrices",
+        "Singular Value Decomposition (SVD)"
+      ],
+      [
+        "Matrix",
+        "Non-Square Matrix"
+      ],
+      [
+        "Deep Learning",
+        "Research Area"
+      ],
+      [
+        "Eigenvector",
+        "Square Matrix"
+      ],
+      [
+        "Element",
+        "Matrix"
+      ],
+      [
+        "AI Technologies",
+        "Rule-based Systems"
+      ],
+      [
+        "Artificial Intelligence (AI)",
+        "Pygmalion"
+      ],
+      [
+        "Anton Varfolom",
+        "Minh Lê"
+      ],
+      [
+        "Artificial Intelligence (AI)",
+        "Galatea"
+      ],
+      [
+        "Learning Algorithms",
+        "Machine Learning Basics"
+      ],
+      [
+        "Machine Learning",
+        "Patterns"
+      ],
+      [
+        "Noise Robustness",
+        "Semi-Supervised Learning"
+      ],
+      [
+        "Large-Scale Deep Learning",
+        "Natural Language Processing"
+      ],
+      [
+        "Eigenvalue Decomposition",
+        "SVD"
+      ],
+      [
+        "Input Example",
+        "Training Set"
+      ],
+      [
+        "Back-Propagation",
+        "Neural Networks"
+      ],
+      [
+        "Canadian Institute for Advanced Research (CIFAR)",
+        "Yoshua Bengio"
+      ],
+      [
+        "Back-Propagation",
+        "Deep Feedforward Networks"
+      ],
+      [
+        "Artificial Intelligence",
+        "Inference Rules"
+      ],
+      [
+        "ADALINE",
+        "Deep Learning"
+      ],
+      [
+        "L1 Norm",
+        "Lp Norm"
+      ],
+      [
+        "Deep Learning",
+        "Neurons"
+      ],
+      [
+        "Building a Machine Learning Algorithm",
+        "Challenges Motivating Deep Learning"
+      ],
+      [
+        "Column Space",
+        "Linear Combination"
+      ],
+      [
+        "Deep Learning",
+        "Nested Hierarchy of Concepts"
+      ],
+      [
+        "Eugene Brevdo",
+        "Martín Arjovsky"
+      ],
+      [
+        "Deep Learning",
+        "Neural Networks"
+      ],
+      [
+        "Contrastive Divergence",
+        "Stochastic Maximum Likelihood"
+      ],
+      [
+        "Determinant",
+        "Eigenvalues"
+      ],
+      [
+        "Deep Belief Network",
+        "Geo Geoffrey Hinton"
+      ],
+      [
+        "Gradient",
+        "Hessian Matrix"
+      ],
+      [
+        "Matrix",
+        "Vector"
+      ],
+      [
+        "Deep Learning",
+        "Logistic Regression"
+      ],
+      [
+        "Dataset Sizes",
+        "MNIST Dataset"
+      ],
+      [
+        "Neural Networks",
+        "Symbolic Reasoning"
+      ],
+      [
+        "Large-Scale Deep Learning",
+        "Speech Recognition"
+      ],
+      [
+        "Basic Algorithms",
+        "Parameter Initialization Strategies"
+      ],
+      [
+        "Echo State Networks",
+        "Sequence Modeling: Recurrent and Recursive Nets"
+      ],
+      [
+        "Deep Learning",
+        "Linear Algebra"
+      ],
+      [
+        "Feedforward Deep Network",
+        "Object Identity"
+      ],
+      [
+        "AI Disciplines",
+        "Artificial Intelligence"
+      ],
+      [
+        "Cyc",
+        "CycL"
+      ],
+      [
+        "3-D Map of the Human Brain",
+        "Deep Learning"
+      ],
+      [
+        "Chapter 12: Applications",
+        "Ribana Roscher"
+      ],
+      [
+        "Necessary Condition",
+        "Sufficient Condition"
+      ],
+      [
+        "Lp Norm",
+        "L∞ Norm"
+      ],
+      [
+        "Matrix Multiplication",
+        "Matrix Product"
+      ],
+      [
+        "Chapter 12: Applications",
+        "Vladimir Nekrasov"
+      ],
+      [
+        "Deep Learning",
+        "Neural Turing Machines"
+      ],
+      [
+        "Deep Learning",
+        "ImageNet Large Scale Visual Recognition Challenge"
+      ],
+      [
+        "Natural Language Processing",
+        "Transfer Learning and Domain Adaptation"
+      ],
+      [
+        "Deep Learning Research",
+        "Independent Component Analysis (ICA)"
+      ],
+      [
+        "Matrix",
+        "Tensor"
+      ],
+      [
+        "CIFAR",
+        "Neural Computation and Adaptive Perception (NCAP)"
+      ],
+      [
+        "Linear Independence",
+        "Matrix"
+      ],
+      [
+        "Deep Learning",
+        "Olshausen and Field 2005"
+      ],
+      [
+        "Array",
+        "Matrix"
+      ],
+      [
+        "Artificial Neural Networks",
+        "Cat"
+      ],
+      [
+        "Computational Graphs",
+        "Mathematical Functions"
+      ],
+      [
+        "Deep Learning",
+        "Ferrets"
+      ],
+      [
+        "Deep Learning",
+        "Representation Learning"
+      ],
+      [
+        "Artificial Intelligence (AI)",
+        "Talos"
+      ],
+      [
+        "Linear Equation",
+        "Pseudoinverse"
+      ],
+      [
+        "Deep Learning",
+        "University Students"
+      ],
+      [
+        "Matrix",
+        "Matrix Multiplication"
+      ],
+      [
+        "Definite Integral",
+        "Function"
+      ],
+      [
+        "Human Performance",
+        "Neural Networks"
+      ],
+      [
+        "Deep Belief Networks",
+        "Generative Stochastic Networks"
+      ],
+      [
+        "Multi-Task Learning",
+        "Parameter Tying and Parameter Sharing"
+      ],
+      [
+        "Equation",
+        "R3"
+      ],
+      [
+        "Eigenvalues",
+        "Eigenvectors"
+      ],
+      [
+        "Determinant",
+        "Diagonal Matrix"
+      ],
+      [
+        "Canadian Institute for Advanced Research (CIFAR)",
+        "Geoffrey Hinton"
+      ],
+      [
+        "Cognitive Science",
+        "Connectionism"
+      ],
+      [
+        "Chapter 20: Deep Generative Models",
+        "Shakir Mohamed"
+      ],
+      [
+        "Matrix",
+        "Subscript"
+      ],
+      [
+        "Deep Learning",
+        "Software Engineers"
+      ],
+      [
+        "Chapter 12: Applications",
+        "George Dahl"
+      ],
+      [
+        "Gaussian Distribution",
+        "Kullback-Leibler Divergence"
+      ],
+      [
+        "Capacity, Overfitting and Underfitting",
+        "Hyperparameters and Validation Sets"
+      ],
+      [
+        "2015",
+        "ImageNet Large Scale Visual Recognition Challenge"
+      ],
+      [
+        "Deep Learning",
+        "Jarrett 2009"
+      ],
+      [
+        "Klaus Strobl",
+        "Nicholas Turner"
+      ],
+      [
+        "Deep Learning",
+        "Human Brain"
+      ],
+      [
+        "Deep Learning",
+        "Neuroscience"
+      ],
+      [
+        "Chapter 9: Convolutional Networks",
+        "Eugene Brevdo"
+      ],
+      [
+        "Hidden Layers",
+        "Object Identity"
+      ],
+      [
+        "Artificial Intelligence",
+        "Neural Networks"
+      ],
+      [
+        "Expectation Maximization",
+        "MAP Inference"
+      ],
+      [
+        "Chapter 20: Deep Generative Models",
+        "Grégoire Montavon"
+      ],
+      [
+        "Artificial Intelligence",
+        "Deep Learning"
+      ],
+      [
+        "Bayesian Statistics",
+        "Maximum Likelihood Estimation"
+      ],
+      [
+        "MNIST Dataset",
+        "National Institute of Standards and Technology"
+      ],
+      [
+        "Supervised Learning Algorithms",
+        "Unsupervised Learning Algorithms"
+      ],
+      [
+        "Dataset Augmentation",
+        "Regularization for Deep Learning"
+      ],
+      [
+        "Matrix Product",
+        "Transpose"
+      ],
+      [
+        "Dmitriy Serdyuk",
+        "Rui Rodrigues"
+      ],
+      [
+        "Column Space",
+        "Dimensionality"
+      ],
+      [
+        "Perceptron",
+        "XOR Function"
+      ],
+      [
+        "Neural Networks",
+        "Unsupervised Learning"
+      ],
+      [
+        "Dot Product",
+        "Scalar"
+      ],
+      [
+        "2014",
+        "ImageNet Large Scale Visual Recognition Challenge"
+      ],
+      [
+        "Autoencoder",
+        "Representation Learning"
+      ],
+      [
+        "Google Brain Team",
+        "Ian"
+      ],
+      [
+        "Big Data",
+        "Deep Learning"
+      ],
+      [
+        "Electric Razor",
+        "Fred"
+      ],
+      [
+        "Deep Learning",
+        "Probabilistic Modeling Graph"
+      ],
+      [
+        "Matrix Product",
+        "Shape of Matrix"
+      ],
+      [
+        "Deep Learning Research",
+        "Providing Clues to Discover Underlying Causes"
+      ],
+      [
+        "Deep Learning",
+        "Supervised Learning Algorithms"
+      ],
+      [
+        "Diagonal Matrix",
+        "Matrix"
+      ],
+      [
+        "Kunal Ghosh",
+        "Representation Learning"
+      ],
+      [
+        "Norm",
+        "Vector"
+      ],
+      [
+        "Basic Algorithms",
+        "Optimization for Training Deep Models"
+      ],
+      [
+        "Dot Product",
+        "Matrix Product"
+      ],
+      [
+        "Deep Learning Research",
+        "Predictive Sparse Decomposition"
+      ],
+      [
+        "Goodfellow",
+        "Graves"
+      ],
+      [
+        "Deep Learning",
+        "Glorot 2011a"
+      ],
+      [
+        "DeepMind",
+        "Goodfellow"
+      ],
+      [
+        "Deep Learning",
+        "Deep Networks: Modern Practices"
+      ],
+      [
+        "Deep Learning",
+        "Google"
+      ],
+      [
+        "1980s-1990s Wave",
+        "Connectionism"
+      ],
+      [
+        "Graves",
+        "Neural Turing Machines"
+      ],
+      [
+        "Artificial Intelligence (AI)",
+        "Formal Languages"
+      ],
+      [
+        "Lu Wang",
+        "pdf2htmlEX"
+      ],
+      [
+        "Random Variable",
+        "Shannon Entropy"
+      ],
+      [
+        "Deep Learning",
+        "Neuroscientists"
+      ],
+      [
+        "Bengio",
+        "Gülçehre"
+      ],
+      [
+        "Dot Product",
+        "Vector"
+      ],
+      [
+        "1940s-1960s Wave",
+        "Cybernetics"
+      ],
+      [
+        "Adversarial Training",
+        "Optimization for Training Deep Models"
+      ],
+      [
+        "Atari Video Games",
+        "DeepMind"
+      ],
+      [
+        "Linearly Independent Columns",
+        "Matrix"
+      ],
+      [
+        "Apple",
+        "Deep Learning"
+      ],
+      [
+        "Deep Learning",
+        "Larger Datasets"
+      ],
+      [
+        "3-D Tensor",
+        "Element"
+      ],
+      [
+        "Gökçen Eraslan",
+        "Steven Hickson"
+      ],
+      [
+        "Indices",
+        "Matrix"
+      ],
+      [
+        "Deep Learning",
+        "Matrix"
+      ],
+      [
+        "Learning Algorithms",
+        "Neuroscience Perspective"
+      ],
+      [
+        "Chapter 10: Sequence Modeling",
+        "Gökçen Eraslan"
+      ],
+      [
+        "Deep Learning Approach to Structured Probabilistic Models",
+        "Monte Carlo Methods"
+      ],
+      [
+        "Alex Paino",
+        "Mehdi Mirza"
+      ],
+      [
+        "Matrix Decomposition",
+        "Orthogonal Matrix"
+      ],
+      [
+        "Deep Learning Research",
+        "Sparse Coding"
+      ],
+      [
+        "Deep Recurrent Networks",
+        "Sequence Modeling: Recurrent and Recursive Nets"
+      ],
+      [
+        "Flowchart 1.6",
+        "Machine Learning Basics"
+      ],
+      [
+        "Deep Recurrent Networks",
+        "Leaky Units and Other Strategies for Multiple Time Scales"
+      ],
+      [
+        "Euclidean Norm",
+        "Pseudoinverse"
+      ],
+      [
+        "Lp Norm",
+        "Matrix"
+      ],
+      [
+        "Integer Decomposition",
+        "Prime Factorization"
+      ],
+      [
+        "Eigenvalues",
+        "Real Symmetric Matrix"
+      ],
+      [
+        "Deep Learning",
+        "Feedforward Deep Network"
+      ],
+      [
+        "Monte Carlo Methods",
+        "Sampling and Monte Carlo Methods"
+      ],
+      [
+        "Ribana Roscher",
+        "Vladimir Nekrasov"
+      ],
+      [
+        "Deep Learning",
+        "Machine Learning"
+      ],
+      [
+        "Deep Learning Research",
+        "Probabilistic PCA and Factor Analysis"
+      ],
+      [
+        "Cyc",
+        "Fred"
+      ],
+      [
+        "Goodfellow",
+        "Sutskever"
+      ],
+      [
+        "David Warde-Farley",
+        "Representation Learning"
+      ],
+      [
+        "Deep Learning",
+        "Speech Recognition"
+      ],
+      [
+        "Deep Learning",
+        "Microsoft"
+      ],
+      [
+        "3x2 Matrix",
+        "R2"
+      ],
+      [
+        "Deep Learning",
+        "Small Datasets"
+      ],
+      [
+        "Indices",
+        "Vector"
+      ],
+      [
+        "Deep Blue",
+        "Garry Kasparov"
+      ],
+      [
+        "Deep Learning",
+        "Neocognitron"
+      ],
+      [
+        "Cybernetics",
+        "Deep Learning"
+      ],
+      [
+        "Natural Number Scalar",
+        "Scalar"
+      ],
+      [
+        "1980s-1990s Wave",
+        "Deep Learning"
+      ],
+      [
+        "Matrix",
+        "Matrix Inversion"
+      ],
+      [
+        "Eigendecomposition",
+        "Matrix"
+      ],
+      [
+        "Subscript",
+        "Vector"
+      ],
+      [
+        "Chapter 9: Convolutional Networks",
+        "Martín Arjovsky"
+      ],
+      [
+        "Gibbs Sampling",
+        "Monte Carlo Methods"
+      ],
+      [
+        "Linear Algebra",
+        "Shilov 1977"
+      ],
+      [
+        "Eigenvalue",
+        "Eigenvector"
+      ],
+      [
+        "Bengio",
+        "Goodfellow"
+      ],
+      [
+        "Deep Learning",
+        "Nair and Hinton 2010"
+      ],
+      [
+        "Eigenvalue",
+        "Linearly Independent Eigenvectors"
+      ],
+      [
+        "Applications",
+        "George Dahl"
+      ],
+      [
+        "Eigenvector",
+        "Unit Norm"
+      ],
+      [
+        "Chapter 20: Deep Generative Models",
+        "Nicolas Chapados"
+      ],
+      [
+        "CIFAR",
+        "Neural Computation and Adaptive Perception"
+      ],
+      [
+        "University of Montreal",
+        "Yoshua Bengio"
+      ],
+      [
+        "Deep Learning",
+        "Georey Hinton"
+      ],
+      [
+        "Computer Vision",
+        "Large-Scale Deep Learning"
+      ],
+      [
+        "Daniel Beckstein",
+        "Practical Methodology"
+      ],
+      [
+        "Perceptron",
+        "Rosenblatt"
+      ],
+      [
+        "Artificial Intelligence (AI)",
+        "Daedalus"
+      ],
+      [
+        "Geoffrey Hinton",
+        "Ian"
+      ],
+      [
+        "Chapter 2",
+        "Deep Learning"
+      ],
+      [
+        "Daniela Flori Goodfellow",
+        "Ian"
+      ],
+      [
+        "Daniel Galvez",
+        "Nicolas Chapados"
+      ],
+      [
+        "New York University",
+        "Yann LeCun"
+      ],
+      [
+        "Geo Geoffrey Hinton",
+        "University of Toronto"
+      ],
+      [
+        "Connectionism",
+        "Donald Hebb"
+      ],
+      [
+        "Chapter 20: Deep Generative Models",
+        "Fady Medhat"
+      ],
+      [
+        "Features",
+        "Logistic Regression"
+      ],
+      [
+        "CIFAR-10 Dataset",
+        "ImageNet Dataset"
+      ],
+      [
+        "Goodfellow",
+        "LSTM Sequence Model"
+      ],
+      [
+        "Sam Bowman",
+        "Yujia Bao"
+      ],
+      [
+        "Constrained Optimization",
+        "Gradient-Based Optimization"
+      ],
+      [
+        "Back-Propagation",
+        "Rumelhart et al."
+      ],
+      [
+        "1940s-1960s Wave",
+        "Deep Learning"
+      ],
+      [
+        "Challenges in Neural Network Optimization",
+        "Optimization for Training Deep Models"
+      ],
+      [
+        "Long Short-Term Memory (LSTM)",
+        "Neural Networks"
+      ],
+      [
+        "Deep Learning",
+        "Deep Learning Waves"
+      ],
+      [
+        "Derivative",
+        "Gradient"
+      ],
+      [
+        "Applied Math",
+        "Deep Learning"
+      ],
+      [
+        "Linear Algebra",
+        "The Matrix Cookbook"
+      ],
+      [
+        "Matrix",
+        "Orthogonal Matrices"
+      ],
+      [
+        "Factors",
+        "Variation"
+      ],
+      [
+        "Cyc",
+        "Inference Rules"
+      ],
+      [
+        "Artificial Neural Networks",
+        "Deep Learning"
+      ],
+      [
+        "Deep Learning",
+        "Pharmaceutical Companies"
+      ],
+      [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
+      [
+        "Deep Learning",
+        "Probability and Information Theory"
+      ],
+      [
+        "Mutually Orthogonal Vectors",
+        "Orthogonal Matrix"
+      ],
+      [
+        "Deep Belief Network",
+        "Greedy Layer-Wise Pre-Training"
+      ],
+      [
+        "Gaussian Distribution",
+        "Random Variable"
+      ],
+      [
+        "Chapter 10: Sequence Modeling",
+        "Steven Hickson"
+      ],
+      [
+        "Artificial Intelligence (AI)",
+        "Hephaestus"
+      ],
+      [
+        "Long Short-Term Memory",
+        "Sequence Modeling: Recurrent and Recursive Nets"
+      ],
+      [
+        "Connectionism",
+        "Neurons"
+      ],
+      [
+        "Orthogonal Matrix",
+        "Real Symmetric Matrix"
+      ],
+      [
+        "Deep Learning",
+        "Numerical Computation"
+      ],
+      [
+        "Eigenvalues",
+        "Positive Definite Matrices"
+      ],
+      [
+        "Autoencoders",
+        "Stochastic Encoders and Decoders"
+      ],
+      [
+        "Real-Valued Scalar",
+        "Scalar"
+      ],
+      [
+        "Computational Neuroscience",
+        "Deep Learning"
+      ],
+      [
+        "Maximum Likelihood Estimation",
+        "Stochastic Gradient Descent"
+      ],
+      [
+        "Adversarial Training",
+        "Dropout"
+      ],
+      [
+        "Classic Machine Learning",
+        "Rule-based Systems"
+      ],
+      [
+        "Deep Learning Research",
+        "Learning Manifolds with Autoencoders"
+      ],
+      [
+        "Deep Learning",
+        "State Information"
+      ],
+      [
+        "Jayanth Koushik",
+        "Linear Factor Models"
+      ],
+      [
+        "Artificial Neural Networks",
+        "Biological Neurons"
+      ],
+      [
+        "Connectionism",
+        "Deep Learning"
+      ],
+      [
+        "Canadian Hansard",
+        "WMT 2014 English to French Dataset"
+      ]
+    ],
+    "count": 272,
+    "create_time": 1768911233,
+    "update_time": 1768911233,
+    "_id": "doc-c403220a2df85efb329645f3a5e220c0"
+  },
+  "doc-a79e5ae30fdaea183f187cc166989f6d": {
+    "relation_pairs": [
+      [
+        "Miglitol",
+        "α-Glucosidase Inhibitors"
+      ],
+      [
+        "Glycaemic Control",
+        "Retinopathy"
+      ],
+      [
+        "Diabetes",
+        "Mono-Unsaturated Fatty Acids"
+      ],
+      [
+        "Economic Barriers",
+        "Patients"
+      ],
+      [
+        "Metabolic Syndrome",
+        "Syndrome X"
+      ],
+      [
+        "Diabetes",
+        "Insulin"
+      ],
+      [
+        "International Diabetes Federation",
+        "World Health Organization"
+      ],
+      [
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Hypertension"
+      ],
+      [
+        "Diabetes",
+        "Rosiglitazone"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Dyslipidaemia"
+      ],
+      [
+        "Diabetes Prevention and Control",
+        "Teheran"
+      ],
+      [
+        "Emergency Medical Personnel",
+        "Hypoglycaemia"
+      ],
+      [
+        "Dyslipidaemia",
+        "LDL Cholesterol"
+      ],
+      [
+        "Cairo",
+        "World Health Organization"
+      ],
+      [
+        "Diabetic Nephropathy",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Diabetes Educator",
+        "Patient"
+      ],
+      [
+        "Diabetes",
+        "Primary Prevention"
+      ],
+      [
+        "Diabetes",
+        "Trans-Fatty Acids"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Impaired Glucose Tolerance (IGT)"
+      ],
+      [
+        "Mitochondrial Defect",
+        "Type 1 Diabetes Mellitus"
+      ],
+      [
+        "Diabetic Nephropathy",
+        "Urinary Albumin Excretion"
+      ],
+      [
+        "Blood Pressure",
+        "Organ Hypoperfusion"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Diabetes Prevention Guidelines"
+      ],
+      [
+        "Diabetes Management Guidelines",
+        "South East Asia"
+      ],
+      [
+        "Diabetes Prevention Programme Research Group",
+        "Type 2 Diabetes"
+      ],
+      [
+        "UK Prospective Diabetes Study",
+        "UKPDS 38"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Physical Inactivity"
+      ],
+      [
+        "Diabetes Mellitus",
+        "United Arab Emirates"
+      ],
+      [
+        "Diabetic Patients",
+        "Doppler Ultrasonography"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Lipid Profile"
+      ],
+      [
+        "Diabetes Mellitus",
+        "WHO Regional Office for the Eastern Mediterranean"
+      ],
+      [
+        "Neurologist",
+        "Patient"
+      ],
+      [
+        "IGT",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Angiography",
+        "Nephropathy"
+      ],
+      [
+        "Educational Programmes",
+        "Primary Care Physicians"
+      ],
+      [
+        "Lipid-Lowering Agents",
+        "Statin"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Sweets and Sweetened Drinks"
+      ],
+      [
+        "Diabetes Mellitus",
+        "IFG"
+      ],
+      [
+        "Insulin Resistance",
+        "Polycystic Ovarian Syndrome"
+      ],
+      [
+        "Cardiovascular Autonomic Neuropathy",
+        "Diabetic Neuropathy"
+      ],
+      [
+        "Casual Blood Glucose Measurement",
+        "Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Qatar"
+      ],
+      [
+        "Children and Adolescents",
+        "Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Dr Samir Owais",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Electrophysiological Study",
+        "Neuropathy"
+      ],
+      [
+        "Hypertension",
+        "Hypertension Optimal Treatment (HOT) Trial"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Eastern Mediterranean Region"
+      ],
+      [
+        "Oussama MN Khatib",
+        "World Health Organization"
+      ],
+      [
+        "Diabetes Mellitus",
+        "United Kingdom Prospective Diabetes Study"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Lifestyle Changes"
+      ],
+      [
+        "Acarbose",
+        "α-Glucosidase Inhibitors"
+      ],
+      [
+        "Type 1 Diabetes Mellitus",
+        "Urine Glucose Measurement"
+      ],
+      [
+        "Cholesterol Absorption Inhibitor",
+        "Colestipol"
+      ],
+      [
+        "Diabetic Nephropathy",
+        "Education Programs"
+      ],
+      [
+        "Cardiovascular Disease",
+        "Hypertension"
+      ],
+      [
+        "Professor Fereiddoun Azizi",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Diabetes Care",
+        "Diabetes Centres"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Noncommunicable Diseases"
+      ],
+      [
+        "Diabetes Management",
+        "Nutritional Recommendations"
+      ],
+      [
+        "Fereiddoun Azizi",
+        "WHO Regional Office for the Eastern Mediterranean"
+      ],
+      [
+        "Hypertension",
+        "Obesity"
+      ],
+      [
+        "Diabetic Nephropathy",
+        "Type 1 Diabetes"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Quick Reference Cards"
+      ],
+      [
+        "Photocoagulation",
+        "Retinopathy"
+      ],
+      [
+        "Hypertension",
+        "Multidisciplinary Mini Clinics"
+      ],
+      [
+        "Diabetes",
+        "Screening for Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Diabetes Management",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Fasting Lipid Profile",
+        "Optimal Lipid Levels"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Multidisciplinary Diabetes Team"
+      ],
+      [
+        "Cardiovascular Mortality",
+        "Hypertension"
+      ],
+      [
+        "Professor Atord Modjtabai",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Dr Jawad Lawati",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Guidelines for Diabetes Management"
+      ],
+      [
+        "Ketoacidosis",
+        "Type 1 Diabetes"
+      ],
+      [
+        "Blood Pressure",
+        "Diabetes Mellitus"
+      ],
+      [
+        "Diabetes",
+        "Neurogenic Bladder"
+      ],
+      [
+        "Hypertension",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Fibrocalculous Pancreatic Diabetes (FCPD)"
+      ],
+      [
+        "Ophthalmologist",
+        "Patient"
+      ],
+      [
+        "Diabetes Prevention Guidelines",
+        "Health Professionals"
+      ],
+      [
+        "Islamic Republic of Iran",
+        "World Health Organization"
+      ],
+      [
+        "Insulin Resistance",
+        "Myocardial Infarctions"
+      ],
+      [
+        "Diabetes",
+        "Diabetes Control Programmes"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Smoking"
+      ],
+      [
+        "Diabetes",
+        "Sulfonylureas"
+      ],
+      [
+        "Cardiovascular Mortality",
+        "Patients with Diabetes"
+      ],
+      [
+        "Diabetes",
+        "Poly-Unsaturated Fatty Acids"
+      ],
+      [
+        "Diabetes Prevention and Control",
+        "February 2003"
+      ],
+      [
+        "Eastern Mediterranean Region",
+        "Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Diabetes Management",
+        "Metformin"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Kidney Disease"
+      ],
+      [
+        "Diabetes Educator",
+        "Diabetes Mellitus"
+      ],
+      [
+        "Insulin Resistance",
+        "Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Brittle Diabetes",
+        "Health-Care Providers"
+      ],
+      [
+        "LDL Cholesterol",
+        "Statins"
+      ],
+      [
+        "High-Risk Characteristics",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Bile Acid-Binding Resin",
+        "Lipid-Lowering Agents"
+      ],
+      [
+        "Bacterial Infections",
+        "Diabetics"
+      ],
+      [
+        "Economic Resources",
+        "Education Programs"
+      ],
+      [
+        "Cessation of Smoking",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Diabetes Mellitus",
+        "HbA1c"
+      ],
+      [
+        "Insulin",
+        "Long-Acting Insulin"
+      ],
+      [
+        "Diabetes Care Service",
+        "Diabetes Care Team"
+      ],
+      [
+        "Glycaemic Control",
+        "Neuropathy"
+      ],
+      [
+        "Micro-Vascular Complications",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Atherosclerosis",
+        "Hyperglycaemia"
+      ],
+      [
+        "Ophthalmologist",
+        "Primary Care Physician"
+      ],
+      [
+        "Diabetic Neuropathy",
+        "Hyperglycemia"
+      ],
+      [
+        "Diabetes",
+        "Diabetic Neuropathy"
+      ],
+      [
+        "Acanthosis Nigricans",
+        "Insulin Resistance"
+      ],
+      [
+        "Antihypertensive Therapy",
+        "Hypertension"
+      ],
+      [
+        "Diabetes Management Guidelines",
+        "Western Pacific"
+      ],
+      [
+        "Diabetes",
+        "Exercise"
+      ],
+      [
+        "Professor Khamis Nagati",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Diabetes",
+        "Hypertension"
+      ],
+      [
+        "Diabetes Management Guidelines",
+        "Eastern Mediterranean Region"
+      ],
+      [
+        "IFG",
+        "Oral Glucose Tolerance Test (OGTT)"
+      ],
+      [
+        "Professor Kamel Ajlouni",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Diabetic Nephropathy",
+        "Serum Lipids"
+      ],
+      [
+        "Body Mass Index (BMI)",
+        "Diabetes Mellitus"
+      ],
+      [
+        "Chronic Complications of Diabetes",
+        "Diabetic Neuropathy"
+      ],
+      [
+        "Brittle Diabetes",
+        "Type 1 Diabetes Mellitus"
+      ],
+      [
+        "Diabetes",
+        "Metabolic Syndrome"
+      ],
+      [
+        "Dyslipidaemia",
+        "Myocardial Infarctions"
+      ],
+      [
+        "Oral Glucose Tolerance Test",
+        "Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Professor Sameh Abdul-Shakour",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Coronary Heart Disease",
+        "LDL Cholesterol"
+      ],
+      [
+        "Hypoglycaemia",
+        "Subtle Clues"
+      ],
+      [
+        "Diabetes Management Guidelines",
+        "Health Professionals"
+      ],
+      [
+        "Health Care Workers",
+        "Hypoglycaemia"
+      ],
+      [
+        "Ophthalmologist",
+        "Retinopathy"
+      ],
+      [
+        "Antiplatelet Therapy",
+        "Myocardial Infarctions"
+      ],
+      [
+        "Insulin",
+        "Multidisciplinary Mini Clinics"
+      ],
+      [
+        "Dyslipidaemia",
+        "Lipid-Lowering Therapy"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Metabolic Syndrome"
+      ],
+      [
+        "Insulin",
+        "Short-Acting Insulin"
+      ],
+      [
+        "Diabetes Care",
+        "World Health Organization"
+      ],
+      [
+        "Diabetes",
+        "Healthy Lifestyles Programmes"
+      ],
+      [
+        "Fibrate",
+        "Lipid-Lowering Agents"
+      ],
+      [
+        "The Da Quing Study",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Eastern Mediterranean Countries",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Bahrain",
+        "Diabetes Mellitus"
+      ],
+      [
+        "General Practitioners",
+        "Home Visiting Nurses"
+      ],
+      [
+        "Diabetics",
+        "Urinary Tract Infections"
+      ],
+      [
+        "Cystic Fibrosis",
+        "Type 1 Diabetes Mellitus"
+      ],
+      [
+        "Blood Pressure",
+        "Hypertension"
+      ],
+      [
+        "Dr Hussein A. Gezairy",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "National Collaborating Centre for Chronic Conditions",
+        "World Health Organization"
+      ],
+      [
+        "Atherosclerosis",
+        "Diabetic Nephropathy"
+      ],
+      [
+        "Diabetic Foot",
+        "Screening Programme"
+      ],
+      [
+        "Ezetimibe",
+        "Lipid-Lowering Agents"
+      ],
+      [
+        "Metabolic Syndrome",
+        "Table 5"
+      ],
+      [
+        "Hypertension",
+        "Table 6"
+      ],
+      [
+        "Diabetic Medicine",
+        "Shera AS"
+      ],
+      [
+        "Blood Pressure",
+        "Diabetic Nephropathy"
+      ],
+      [
+        "Diabetes Care",
+        "Health Care Services"
+      ],
+      [
+        "Diabetics",
+        "Fungal Infections"
+      ],
+      [
+        "Aldose Reductase Inhibitors",
+        "Diabetic Neuropathy"
+      ],
+      [
+        "Diabetes",
+        "Hyperglycaemia"
+      ],
+      [
+        "Brittle Diabetes",
+        "Insulin Regimen"
+      ],
+      [
+        "Dr Oussama M. N. Khatib",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Professor Nahla Hwalla",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Metabolic and Non-Metabolic Targets"
+      ],
+      [
+        "Exercise",
+        "Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Nutrition Management"
+      ],
+      [
+        "Diabetes Care",
+        "UK Prospective Diabetes Study"
+      ],
+      [
+        "Dyslipidaemia",
+        "Triglycerides"
+      ],
+      [
+        "Cholesterol",
+        "Dyslipidaemia"
+      ],
+      [
+        "Al-Lawati JA",
+        "Diabetic Medicine"
+      ],
+      [
+        "Doppler Ultrasonography",
+        "Nephropathy"
+      ],
+      [
+        "Diabetic Neuropathy",
+        "Screening Strategies"
+      ],
+      [
+        "UK Prospective Diabetes Study",
+        "UKPDS 33"
+      ],
+      [
+        "Taiwan",
+        "Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Hypoglycaemia",
+        "Insulin"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Hyperglycaemia"
+      ],
+      [
+        "Insulin",
+        "Intermediate-Acting Insulin"
+      ],
+      [
+        "Da Qing IGT and Diabetes Study",
+        "Diabetes Care"
+      ],
+      [
+        "Diabetes",
+        "Pioglitazone"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Mass Community Screening"
+      ],
+      [
+        "Hypertension",
+        "Kidney Disease"
+      ],
+      [
+        "Gestational Diabetes",
+        "Pregnant Women"
+      ],
+      [
+        "Diabetes",
+        "Obesity"
+      ],
+      [
+        "Antibodies to Glutamic Acid Decarboxylase",
+        "Type 1 Diabetes Mellitus"
+      ],
+      [
+        "Triglyceride-Lowering Therapy",
+        "Triglycerides"
+      ],
+      [
+        "Eastern Mediterranean Region",
+        "World Health Organization"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Self-Monitoring of Blood Glucose (SMBG)"
+      ],
+      [
+        "Americas",
+        "Diabetes Management Guidelines"
+      ],
+      [
+        "Hypoglycaemia",
+        "Insulin Treatment"
+      ],
+      [
+        "Amini M",
+        "Diabetes Research and Clinical Practice"
+      ],
+      [
+        "Diabetes Mellitus",
+        "National Epidemiological Studies"
+      ],
+      [
+        "Diabetic Medicine",
+        "Herman W"
+      ],
+      [
+        "Diabetes Care Team",
+        "Foot Ulcers"
+      ],
+      [
+        "Laser Photocoagulation",
+        "Retinopathy"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Impaired Fasting Glycaemia (IFG)"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Retinopathy"
+      ],
+      [
+        "Regional Consultation on Diabetes Prevention and Care",
+        "Teheran"
+      ],
+      [
+        "Autonomic Neuropathy",
+        "Hypoglycaemia"
+      ],
+      [
+        "Diabetic Nephropathy",
+        "HbA1c"
+      ],
+      [
+        "Fasting Plasma Glucose",
+        "Glucose Tolerance Test"
+      ],
+      [
+        "Diabetes",
+        "Tuberculosis"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Oman"
+      ],
+      [
+        "Diabetic Nephropathy",
+        "Lipid Abnormalities"
+      ],
+      [
+        "Diabetic Neuropathy",
+        "Distal Symmetrical Sensory-Motor Polyneuropathy"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Malnutrition-Related Diabetes (MRDM)"
+      ],
+      [
+        "Diabetes",
+        "Laser Photocoagulation"
+      ],
+      [
+        "Islet-Cell Cytoplasmic Antibodies",
+        "Type 1 Diabetes Mellitus"
+      ],
+      [
+        "Cardiovascular Autonomic Neuropathy",
+        "Neuropathy"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Hypertension"
+      ],
+      [
+        "Geneva",
+        "World Health Organization"
+      ],
+      [
+        "Glycated Haemoglobin Levels",
+        "IGT"
+      ],
+      [
+        "Diagnostic Criteria for Gestational Diabetes",
+        "Oral Glucose Tolerance Test (OGTT)"
+      ],
+      [
+        "Individuals at Risk",
+        "Population Screening"
+      ],
+      [
+        "Type 2 Diabetes",
+        "United Kingdom Prospective Diabetes Study Group"
+      ],
+      [
+        "Hypoglycaemia",
+        "Oral Hypoglycaemic Agents"
+      ],
+      [
+        "Human Leukocyte Antigen",
+        "Type 1 Diabetes Mellitus"
+      ],
+      [
+        "Dietician",
+        "Patient"
+      ],
+      [
+        "Hypertension",
+        "Myocardial Infarctions"
+      ],
+      [
+        "IFG",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Fenofibrate",
+        "Fibric Acids"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Type 1 Diabetes Mellitus"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Urinary Tract Infections"
+      ],
+      [
+        "Dyslipidaemia",
+        "Weight Reduction"
+      ],
+      [
+        "Cardiologist",
+        "Patient"
+      ],
+      [
+        "Lifestyle Changes",
+        "Primary Prevention"
+      ],
+      [
+        "Diabetes",
+        "Metformin"
+      ],
+      [
+        "Al-Mahroos F",
+        "Diabetes Care"
+      ],
+      [
+        "Study of Screening Methods",
+        "Type 1 Diabetes Mellitus"
+      ],
+      [
+        "Gestational Diabetes Mellitus",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Individuals at Risk",
+        "Selective Screening"
+      ],
+      [
+        "Cardiovascular Disease",
+        "Dyslipidaemia"
+      ],
+      [
+        "Albumin Excretion Rate",
+        "Diabetic Nephropathy"
+      ],
+      [
+        "Professor Abdul-Samad Sheera",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Diabetes Management",
+        "Gestational Diabetes"
+      ],
+      [
+        "Diabetes Care Service",
+        "Diabetic Patients"
+      ],
+      [
+        "Diabetes Mellitus",
+        "World Health Organization"
+      ],
+      [
+        "Education and Training Needs",
+        "Patient Education"
+      ],
+      [
+        "Hyperglycaemic Crisis",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Coronary Procedures",
+        "Statins"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Hypoglycaemia"
+      ],
+      [
+        "Diabetes",
+        "National Strategy for Diabetes Management"
+      ],
+      [
+        "Cholesterol Absorption Inhibitor",
+        "Colesevelam"
+      ],
+      [
+        "Hussein A. Gezairy",
+        "World Health Organization"
+      ],
+      [
+        "Diabetes Care Team",
+        "Vascular Surgeon"
+      ],
+      [
+        "Diabetes Care Team",
+        "Vascular Radiologist"
+      ],
+      [
+        "Finland Study",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Eastern Mediterranean Region",
+        "Type 2 Diabetes"
+      ],
+      [
+        "National Diabetes Programme",
+        "Primary Prevention"
+      ],
+      [
+        "EMRO Technical Publications Series 32",
+        "Oussama MN Khatib"
+      ],
+      [
+        "Africa",
+        "Diabetes Management Guidelines"
+      ],
+      [
+        "Developing Countries",
+        "IGT"
+      ],
+      [
+        "Insulin Resistance",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Aspirin Therapy",
+        "Dyslipidaemia"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Pakistan"
+      ],
+      [
+        "Diabetic Neuropathy",
+        "Patient Education"
+      ],
+      [
+        "Diabetes Education",
+        "National Diabetes Control Programme"
+      ],
+      [
+        "Diabetes Care",
+        "Diabetes Nurses"
+      ],
+      [
+        "IFG",
+        "WHO"
+      ],
+      [
+        "Fibric Acids",
+        "Triglycerides"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Nephrotoxic Drugs"
+      ],
+      [
+        "Eastern Mediterranean Health Journal",
+        "Kadiki OA"
+      ],
+      [
+        "Acute Complications of Diabetes Mellitus",
+        "Ketoacidosis"
+      ],
+      [
+        "Diabetic Nephropathy",
+        "Loop Diuretics"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Pregnancy"
+      ],
+      [
+        "Diabetes",
+        "Regional Training Course for Diabetes Educators"
+      ],
+      [
+        "Primary Care Physician",
+        "Retinopathy"
+      ],
+      [
+        "Aspirin Therapy",
+        "Insulin"
+      ],
+      [
+        "Diabetes",
+        "Secondary Prevention Activities"
+      ],
+      [
+        "Obesity",
+        "Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Diabetic Nephropathy",
+        "Serum Creatinine"
+      ],
+      [
+        "Diabetes Control and Complications Trial",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Chronic Infections",
+        "Diabetes"
+      ],
+      [
+        "Ketoacidosis",
+        "Type 1 Diabetes Mellitus"
+      ],
+      [
+        "Dyslipidaemia",
+        "Obesity"
+      ],
+      [
+        "Body Mass Index",
+        "High-Risk Characteristics"
+      ],
+      [
+        "Nephrologist",
+        "Patient"
+      ],
+      [
+        "Diabetic Foot",
+        "Preventive Strategies"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Screening Programmes"
+      ],
+      [
+        "Foot-Care Specialist",
+        "Patient"
+      ],
+      [
+        "Diabetes Management Guidelines",
+        "Europe"
+      ],
+      [
+        "HDL Cholesterol",
+        "Statins"
+      ],
+      [
+        "Cholesterol Absorption Inhibitor",
+        "Cholestyramine"
+      ],
+      [
+        "HbA1c",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Obesity"
+      ],
+      [
+        "Fasting Plasma Glucose",
+        "Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Secondary Prevention",
+        "Tertiary Prevention"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Kuwait"
+      ],
+      [
+        "Imad M. El-Kebbi",
+        "WHO Regional Office for the Eastern Mediterranean"
+      ],
+      [
+        "Lipid-Lowering Agents",
+        "Nicotinic Acid"
+      ],
+      [
+        "Diabetes Management",
+        "Thiazolidinediones"
+      ],
+      [
+        "Professor Khalid Al Rubeean",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Type 2 Diabetes",
+        "United Kingdom Prospective Diabetes Study"
+      ],
+      [
+        "Dyslipidaemia",
+        "Type 2 Diabetes"
+      ],
+      [
+        "Diabetes",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Diabetes Care Team",
+        "Diabetic Foot Lesions"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Ketoacidosis"
+      ],
+      [
+        "Nicotinic Acid",
+        "Triglycerides"
+      ],
+      [
+        "Diabetes",
+        "Dyslipidaemia"
+      ],
+      [
+        "Diabetes Care",
+        "Diabetes Control and Complications Trial"
+      ],
+      [
+        "Abdella N",
+        "Diabetes Research and Clinical Practice"
+      ],
+      [
+        "Professor Ibrahim Sherif",
+        "WHO Eastern Mediterranean Region"
+      ],
+      [
+        "Diabetic Retinopathy",
+        "Pregnancy"
+      ]
+    ],
+    "count": 302,
+    "create_time": 1768915169,
+    "update_time": 1768915169,
+    "_id": "doc-a79e5ae30fdaea183f187cc166989f6d"
+  }
+}

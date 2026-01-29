@@ -1,0 +1,1360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Andrew Ng">
+      <data key="d0">Andrew Ng</data>
+      <data key="d1">person</data>
+      <data key="d2">Andrew Ng is an instructor discussing algorithms related to logistic regression and Newton's Method in the context of a classroom setting.&lt;SEP&gt;Andrew Ng is the instructor for the Machine Learning course who provides administrative announcements regarding class projects and materials.&lt;SEP&gt;Andrew Ng is an instructor who discusses mathematical and statistical concepts in the context of statistics and probability.&lt;SEP&gt;Andrew Ng is an instructor who is guiding students through concepts in a lecture, including scalers and distributions.&lt;SEP&gt;Andrew Ng is an instructor discussing logistic regression and generalized linear models in a lecture setting.&lt;SEP&gt;Andrew Ng is an instructor involved in a discussion about maximum likelihood and logistic regression principles.</data>
+      <data key="d3">chunk-023cc775f8b1adeebc9c45d2e9f6fe90&lt;SEP&gt;chunk-ac0a1ea80eae7c222bf0ffd73875b023&lt;SEP&gt;chunk-1dcfa4fdc2012c4e3a3c336e39e4afec&lt;SEP&gt;chunk-e92ae48716b56f03feed3a2648edf8bd&lt;SEP&gt;chunk-1aa4c1f1bcccecc7faef4f12ad096763&lt;SEP&gt;chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942407</data>
+      <data key="d6" />
+    </node>
+    <node id="Generalized Linear Models">
+      <data key="d0">Generalized Linear Models</data>
+      <data key="d1">concept</data>
+      <data key="d2">Generalized linear models represent a broad class of models that generalize traditional linear models to accommodate various types of response variables.&lt;SEP&gt;Generalized Linear Models are a flexible generalization of ordinary least squares regression, encompassing logistic regression among other forms.&lt;SEP&gt;Generalized Linear Models are statistical models used for modeling outcomes which can take on multiple values, including logistic regression.&lt;SEP&gt;Generalized Linear Models are a framework for modeling response variables through linear combinations of explanatory variables, used in conjunction with softmax regression.</data>
+      <data key="d3">chunk-023cc775f8b1adeebc9c45d2e9f6fe90&lt;SEP&gt;chunk-674af09a64beddbff4e4e4b6e543709a&lt;SEP&gt;chunk-38d7cccd02d2282bbd339ef51ba43f85&lt;SEP&gt;chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942407</data>
+      <data key="d6" />
+    </node>
+    <node id="Logistic Regression">
+      <data key="d0">Logistic Regression</data>
+      <data key="d1">method</data>
+      <data key="d2">Logistic regression is a statistical method used for binary classification problems where outcomes are typically 0 or 1.&lt;SEP&gt;Logistic Regression is a statistical method for binary classification, which models the probability of a binary outcome using a logistic function.&lt;SEP&gt;Logistic Regression is a modeling technique mentioned in the text that benefits from the application of algorithms like Newton’s Method.&lt;SEP&gt;Logistic Regression is a statistical method for predicting binary outcomes based on one or more predictor variables.&lt;SEP&gt;Logistic Regression is a statistical method used for binary classification problems, modeling the probability of outcomes based on predictor variables.</data>
+      <data key="d3">chunk-023cc775f8b1adeebc9c45d2e9f6fe90&lt;SEP&gt;chunk-7d9737bbcc99dd55bb4b79cf055977a2&lt;SEP&gt;chunk-38d7cccd02d2282bbd339ef51ba43f85&lt;SEP&gt;chunk-1aa4c1f1bcccecc7faef4f12ad096763&lt;SEP&gt;chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942407</data>
+      <data key="d6" />
+    </node>
+    <node id="Gaussian Distribution">
+      <data key="d0">Gaussian Distribution</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Gaussian distribution, also known as the normal distribution, is a continuous probability distribution characterized by its bell-shaped curve, defined by its mean and variance.&lt;SEP&gt;Gaussian Distribution is a statistical distribution characterized by its bell-shaped curve, often used to model real-valued random variables.&lt;SEP&gt;The Gaussian Distribution is a statistical distribution that is frequently referenced in the lecture and is related to normal distributions and the exponential family.&lt;SEP&gt;The Gaussian Distribution, also known as the normal distribution, is a continuous probability distribution that is symmetric about the mean.&lt;SEP&gt;Gaussian Distribution refers to a continuous probability distribution characterized by a symmetric bell-shaped curve.</data>
+      <data key="d3">chunk-023cc775f8b1adeebc9c45d2e9f6fe90&lt;SEP&gt;chunk-1dcfa4fdc2012c4e3a3c336e39e4afec&lt;SEP&gt;chunk-486f08627d119b0879789e4cf88e8904&lt;SEP&gt;chunk-38d7cccd02d2282bbd339ef51ba43f85&lt;SEP&gt;chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942407</data>
+      <data key="d6" />
+    </node>
+    <node id="K Possible Outcomes">
+      <data key="d0">K Possible Outcomes</data>
+      <data key="d1">concept</data>
+      <data key="d2">K Possible Outcomes refer to scenarios where predictions can involve more than two outcomes in a classification problem.</data>
+      <data key="d3">chunk-023cc775f8b1adeebc9c45d2e9f6fe90</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942407</data>
+      <data key="d6" />
+    </node>
+    <node id="Newtons Method">
+      <data key="d0">Newtons Method</data>
+      <data key="d1">method</data>
+      <data key="d2">Newton's Method is a faster alternative algorithm for fitting models like logistic regression, utilizing derivatives to find optimal values.&lt;SEP&gt;Newton’s Method is an iterative numerical method used for finding successively better approximations to the roots (or zeroes) of a real-valued function.</data>
+      <data key="d3">chunk-023cc775f8b1adeebc9c45d2e9f6fe90&lt;SEP&gt;chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942407</data>
+      <data key="d6" />
+    </node>
+    <node id="Gradient Ascent">
+      <data key="d0">Gradient Ascent</data>
+      <data key="d1">method</data>
+      <data key="d2">Gradient Ascent is an optimization algorithm used for finding the maximum of a function by iteratively moving in the direction of the steepest ascent.&lt;SEP&gt;Gradient Ascent is an algorithm used for optimizing models, mentioned as a viable option but contrasted with another method.&lt;SEP&gt;Gradient Ascent is an optimization algorithm used to find the maximum of a function, often applied in machine learning models.&lt;SEP&gt;Gradient Ascent is an optimization algorithm used to find the maximum of a function by iteratively moving in the direction of the steepest ascent.&lt;SEP&gt;Gradient ascent is a mathematical optimization technique used to maximize the likelihood in model training.</data>
+      <data key="d3">chunk-023cc775f8b1adeebc9c45d2e9f6fe90&lt;SEP&gt;chunk-ac0a1ea80eae7c222bf0ffd73875b023&lt;SEP&gt;chunk-7d9737bbcc99dd55bb4b79cf055977a2&lt;SEP&gt;chunk-1aa4c1f1bcccecc7faef4f12ad096763&lt;SEP&gt;chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942407</data>
+      <data key="d6" />
+    </node>
+    <node id="Multi-Cause Classification Problems">
+      <data key="d0">Multi-Cause Classification Problems</data>
+      <data key="d1">concept</data>
+      <data key="d2">Multi-Cause Classification Problems involve scenarios where multiple causes or categories must be predicted from a set of outcomes.</data>
+      <data key="d3">chunk-023cc775f8b1adeebc9c45d2e9f6fe90</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942408</data>
+      <data key="d6" />
+    </node>
+    <node id="Log Likelihood">
+      <data key="d0">Log Likelihood</data>
+      <data key="d1">concept</data>
+      <data key="d2">Log Likelihood is a statistical measure used to estimate the parameters of a statistical model, particularly in the context of training sets.</data>
+      <data key="d3">chunk-023cc775f8b1adeebc9c45d2e9f6fe90</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942408</data>
+      <data key="d6" />
+    </node>
+    <node id="Exponential Family Distribution">
+      <data key="d0">Exponential Family Distribution</data>
+      <data key="d1">concept</data>
+      <data key="d2">The exponential family distribution is a group of probability distributions that can be expressed in a specific mathematical form, allowing for flexibility in modeling.&lt;SEP&gt;The Exponential Family Distribution is a class of distributions that includes the Gaussian, mentioned in relation to various statistical properties.&lt;SEP&gt;The Exponential Family Distribution is a class of probability distributions that can be characterized by certain parameters, used in various statistical models.&lt;SEP&gt;Exponential family distribution is a class of probability distributions characterized by a specific functional form, often used in statistical modeling.&lt;SEP&gt;Exponential Family Distribution refers to a class of probability distributions that includes many commonly used distributions in statistics and is useful for modeling outcomes with dependencies.</data>
+      <data key="d3">chunk-023cc775f8b1adeebc9c45d2e9f6fe90&lt;SEP&gt;chunk-49f40563b7c8469bddeeb04d56b3cec7&lt;SEP&gt;chunk-1dcfa4fdc2012c4e3a3c336e39e4afec&lt;SEP&gt;chunk-486f08627d119b0879789e4cf88e8904&lt;SEP&gt;chunk-38d7cccd02d2282bbd339ef51ba43f85</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942408</data>
+      <data key="d6" />
+    </node>
+    <node id="Theta">
+      <data key="d0">Theta</data>
+      <data key="d1">concept</data>
+      <data key="d2">Theta is a variable representing parameters that are being estimated or optimized within the context of the algorithms.&lt;SEP&gt;Theta is a parameter discussed in the context of probability and is determined as a function of phi.&lt;SEP&gt;Theta is a parameter in statistical modeling that represents the relationships defined in regression models.&lt;SEP&gt;Theta is a set of parameters that plays a critical role in statistical models, such as logistic regression.&lt;SEP&gt;Theta represents the parameters in the statistical models, influencing the probabilities computed in softmax regression.</data>
+      <data key="d3">chunk-ac0a1ea80eae7c222bf0ffd73875b023&lt;SEP&gt;chunk-7d9737bbcc99dd55bb4b79cf055977a2&lt;SEP&gt;chunk-674af09a64beddbff4e4e4b6e543709a&lt;SEP&gt;chunk-e92ae48716b56f03feed3a2648edf8bd&lt;SEP&gt;chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942408</data>
+      <data key="d6" />
+    </node>
+    <node id="Likelihood">
+      <data key="d0">Likelihood</data>
+      <data key="d1">concept</data>
+      <data key="d2">Likelihood refers to the probability of the parameters given the training set, which is maximized during model training.</data>
+      <data key="d3">chunk-ac0a1ea80eae7c222bf0ffd73875b023</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942408</data>
+      <data key="d6" />
+    </node>
+    <node id="Training Set">
+      <data key="d0">Training Set</data>
+      <data key="d1">data</data>
+      <data key="d2">The Training Set consists of input-output pairs (X, Y) used to estimate the parameters of the model through maximum likelihood.&lt;SEP&gt;The training set consists of data points used to estimate the parameters of the model through likelihood optimization.</data>
+      <data key="d3">chunk-ac0a1ea80eae7c222bf0ffd73875b023&lt;SEP&gt;chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942409</data>
+      <data key="d6" />
+    </node>
+    <node id="K">
+      <data key="d0">K</data>
+      <data key="d1">concept</data>
+      <data key="d2">K refers to the number of classes or categories in the context of parameter models discussed in the text.</data>
+      <data key="d3">chunk-ac0a1ea80eae7c222bf0ffd73875b023</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942409</data>
+      <data key="d6" />
+    </node>
+    <node id="N">
+      <data key="d0">N</data>
+      <data key="d1">concept</data>
+      <data key="d2">N indicates the number of dimensions or parameters involved in the statistical model, as mentioned in the instructional dialogue.</data>
+      <data key="d3">chunk-ac0a1ea80eae7c222bf0ffd73875b023</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942409</data>
+      <data key="d6" />
+    </node>
+    <node id="Indicator Function Notation">
+      <data key="d0">Indicator Function Notation</data>
+      <data key="d1">concept</data>
+      <data key="d2">Indicator function notation is a mathematical notation used for indicating the truth value of statements inside curly braces.</data>
+      <data key="d3">chunk-49f40563b7c8469bddeeb04d56b3cec7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942409</data>
+      <data key="d6" />
+    </node>
+    <node id="K Values">
+      <data key="d0">K Values</data>
+      <data key="d1">concept</data>
+      <data key="d2">K values refer to the set of potential distinct values that a variable Y can take in a given context.</data>
+      <data key="d3">chunk-49f40563b7c8469bddeeb04d56b3cec7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942409</data>
+      <data key="d6" />
+    </node>
+    <node id="Parameters">
+      <data key="d0">Parameters</data>
+      <data key="d1">concept</data>
+      <data key="d2">Parameters are variables in statistical models that define the behavior and characteristics of distributions or functions.</data>
+      <data key="d3">chunk-49f40563b7c8469bddeeb04d56b3cec7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942409</data>
+      <data key="d6" />
+    </node>
+    <node id="T of Y">
+      <data key="d0">T of Y</data>
+      <data key="d1">function</data>
+      <data key="d2">T of Y is a statistical term representing a sufficient statistic for a probability distribution, often used in probabilistic models.&lt;SEP&gt;T of Y is a transformation function that outputs specific K-dimensional vectors based on the input Y value.</data>
+      <data key="d3">chunk-49f40563b7c8469bddeeb04d56b3cec7&lt;SEP&gt;chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942409</data>
+      <data key="d6" />
+    </node>
+    <node id="Y">
+      <data key="d0">Y</data>
+      <data key="d1">variable</data>
+      <data key="d2">Y is the output variable in classification problems, often taking on binary values of zero or one.&lt;SEP&gt;Y is a variable whose properties are discussed in relation to sufficient statistics and probability distributions.&lt;SEP&gt;Y is a variable representing one of the K possible values used in the context of statistical functions.&lt;SEP&gt;Y is a random variable used in the context of softmax regression, taking on one of K possible values.</data>
+      <data key="d3">chunk-49f40563b7c8469bddeeb04d56b3cec7&lt;SEP&gt;chunk-674af09a64beddbff4e4e4b6e543709a&lt;SEP&gt;chunk-e92ae48716b56f03feed3a2648edf8bd&lt;SEP&gt;chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942409</data>
+      <data key="d6" />
+    </node>
+    <node id="Phi Values">
+      <data key="d0">Phi Values</data>
+      <data key="d1">concept</data>
+      <data key="d2">Phi values refer to the parameters used in the context of the exponential family distribution, excluding phi K, which is treated as a shorthand.</data>
+      <data key="d3">chunk-49f40563b7c8469bddeeb04d56b3cec7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942409</data>
+      <data key="d6" />
+    </node>
+    <node id="Dimension">
+      <data key="d0">Dimension</data>
+      <data key="d1">concept</data>
+      <data key="d2">Dimension refers to the number of parameters or coordinates used in vector spaces or statistical contexts, particularly in relation to K minus one-dimensional vectors.</data>
+      <data key="d3">chunk-49f40563b7c8469bddeeb04d56b3cec7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942409</data>
+      <data key="d6" />
+    </node>
+    <node id="Student">
+      <data key="d0">Student</data>
+      <data key="d1">person</data>
+      <data key="d2">The Student participates in the lecture by asking questions and making comments regarding the topics discussed, including scalers and distributions.</data>
+      <data key="d3">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942409</data>
+      <data key="d6" />
+    </node>
+    <node id="Normal Distribution">
+      <data key="d0">Normal Distribution</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Normal Distribution is a specific type of Gaussian Distribution, discussed in terms of its parameters and properties during the lecture.&lt;SEP&gt;The Normal Distribution is a specific type of Gaussian distribution, often used in statistics for modeling real-valued random variables.</data>
+      <data key="d3">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec&lt;SEP&gt;chunk-486f08627d119b0879789e4cf88e8904</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942410</data>
+      <data key="d6" />
+    </node>
+    <node id="Probability Mass Function">
+      <data key="d0">Probability Mass Function</data>
+      <data key="d1">concept</data>
+      <data key="d2">Probability Mass Function relates to the distribution of discrete random variables, highlighted with respect to specific values like zero and one.</data>
+      <data key="d3">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942410</data>
+      <data key="d6" />
+    </node>
+    <node id="Parameters of Ordinary Least Squares">
+      <data key="d0">Parameters of Ordinary Least Squares</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Parameters of Ordinary Least Squares refer to statistical estimations discussed in the context of Gaussian distributions and maximal likelihood estimations.</data>
+      <data key="d3">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942410</data>
+      <data key="d6" />
+    </node>
+    <node id="Scaler">
+      <data key="d0">Scaler</data>
+      <data key="d1">concept</data>
+      <data key="d2">A Scaler is a mathematical entity referenced during the lecture, noted for its properties in relation to dimensions and values in statistics.</data>
+      <data key="d3">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942410</data>
+      <data key="d6" />
+    </node>
+    <node id="Probability Distribution">
+      <data key="d0">Probability Distribution</data>
+      <data key="d1">concept</data>
+      <data key="d2">A probability distribution describes the likelihood of different outcomes for a random variable.&lt;SEP&gt;Probability Distribution refers to the function that defines the likelihood of different outcomes, mentioned in the context of the lecture.</data>
+      <data key="d3">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec&lt;SEP&gt;chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942410</data>
+      <data key="d6" />
+    </node>
+    <node id="Function F">
+      <data key="d0">Function F</data>
+      <data key="d1">concept</data>
+      <data key="d2">Function F represents a mathematical function that is evaluated to find the value of theta where F of theta equals zero.</data>
+      <data key="d3">chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942410</data>
+      <data key="d6" />
+    </node>
+    <node id="Derivative">
+      <data key="d0">Derivative</data>
+      <data key="d1">concept</data>
+      <data key="d2">A Derivative is a fundamental concept in calculus that represents the rate of change of a function, crucial for optimization.</data>
+      <data key="d3">chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942410</data>
+      <data key="d6" />
+    </node>
+    <node id="Instructor Andrew Ng">
+      <data key="d0">Instructor Andrew Ng</data>
+      <data key="d1">person</data>
+      <data key="d2">Instructor Andrew Ng is a teacher who explains the nuances of algorithms for fitting models, particularly in relation to logistic regression.</data>
+      <data key="d3">chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942410</data>
+      <data key="d6" />
+    </node>
+    <node id="F of Theta">
+      <data key="d0">F of Theta</data>
+      <data key="d1">concept</data>
+      <data key="d2">F of Theta is a mathematical function referenced in the context of finding where it equals zero, essential for determining theta values.</data>
+      <data key="d3">chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942410</data>
+      <data key="d6" />
+    </node>
+    <node id="L of Theta">
+      <data key="d0">L of Theta</data>
+      <data key="d1">concept</data>
+      <data key="d2">L of Theta is a function that is maximized using Newton's Method, focusing on optimizing values for the parameter theta.</data>
+      <data key="d3">chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942411</data>
+      <data key="d6" />
+    </node>
+    <node id="Parson Distribution">
+      <data key="d0">Parson Distribution</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Parson Distribution is often utilized for modeling counts, such as the number of events or occurrences in a given time or space.&lt;SEP&gt;The Parson distribution is a statistical model used in regression with specific parameterization for predictions.</data>
+      <data key="d3">chunk-486f08627d119b0879789e4cf88e8904&lt;SEP&gt;chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942411</data>
+      <data key="d6" />
+    </node>
+    <node id="Gamma Distribution">
+      <data key="d0">Gamma Distribution</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Gamma Distribution is a continuous probability distribution often applied in statistics and representing waiting times or intervals.&lt;SEP&gt;The Gamma Distribution is a two-parameter family of continuous probability distributions used in various statistical modeling contexts.</data>
+      <data key="d3">chunk-486f08627d119b0879789e4cf88e8904&lt;SEP&gt;chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942411</data>
+      <data key="d6" />
+    </node>
+    <node id="Exponential Distribution">
+      <data key="d0">Exponential Distribution</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Exponential Distribution is a continuous probability distribution that is commonly used to model the time between independent events in a Poisson process.&lt;SEP&gt;The Exponential Distribution is a continuous probability distribution often used to model time until an event occurs.</data>
+      <data key="d3">chunk-486f08627d119b0879789e4cf88e8904&lt;SEP&gt;chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942411</data>
+      <data key="d6" />
+    </node>
+    <node id="Generalized Linear Model">
+      <data key="d0">Generalized Linear Model</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Generalized Linear Model (GLM) is a flexible generalization of ordinary linear regression that allows for response variables to have error distribution models other than normal.&lt;SEP&gt;The Generalized Linear Model is a flexible generalization of ordinary linear regression for modeling various distributions.</data>
+      <data key="d3">chunk-486f08627d119b0879789e4cf88e8904&lt;SEP&gt;chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942411</data>
+      <data key="d6" />
+    </node>
+    <node id="Input X">
+      <data key="d0">Input X</data>
+      <data key="d1">concept</data>
+      <data key="d2">Input X represents the predictor variables or features in a statistical model, influencing the predicted outcome.</data>
+      <data key="d3">chunk-486f08627d119b0879789e4cf88e8904</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942411</data>
+      <data key="d6" />
+    </node>
+    <node id="Response Variable Y">
+      <data key="d0">Response Variable Y</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Response Variable Y is the output or dependent variable that is being predicted or modeled in relation to the input variables.</data>
+      <data key="d3">chunk-486f08627d119b0879789e4cf88e8904</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942411</data>
+      <data key="d6" />
+    </node>
+    <node id="Wisha Distribution">
+      <data key="d0">Wisha Distribution</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Wisha Distribution is a probability distribution that models distributions over covariance matrices, belonging to the exponential family.</data>
+      <data key="d3">chunk-486f08627d119b0879789e4cf88e8904</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942411</data>
+      <data key="d6" />
+    </node>
+    <node id="Softmax Regression">
+      <data key="d0">Softmax Regression</data>
+      <data key="d1">method</data>
+      <data key="d2">Softmax Regression is a statistical method used for multi-class classification problems, generalizing logistic regression to handle K classes instead of just two.</data>
+      <data key="d3">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942411</data>
+      <data key="d6" />
+    </node>
+    <node id="Parameterization by Theta">
+      <data key="d0">Parameterization by Theta</data>
+      <data key="d1">concept</data>
+      <data key="d2">Parameterization by Theta refers to the process of defining a statistical model using parameters represented by theta, which influence the probabilities in softmax regression.</data>
+      <data key="d3">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942411</data>
+      <data key="d6" />
+    </node>
+    <node id="Indicator Functions">
+      <data key="d0">Indicator Functions</data>
+      <data key="d1">concept</data>
+      <data key="d2">Indicator Functions are binary functions that take the value of one for specific conditions and zero otherwise, used in calculating probabilities in softmax regression.</data>
+      <data key="d3">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942412</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Likelihood">
+      <data key="d0">Maximum Likelihood</data>
+      <data key="d1">method</data>
+      <data key="d2">Maximum Likelihood is a statistical method for estimating the parameters of a statistical model by maximizing the likelihood function.</data>
+      <data key="d3">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942412</data>
+      <data key="d6" />
+    </node>
+    <node id="X">
+      <data key="d0">X</data>
+      <data key="d1">data</data>
+      <data key="d2">X represents the independent variables used in models for predicting the dependent variable PFY.&lt;SEP&gt;X refers to the input data features in the machine learning problem associated with softmax regression.</data>
+      <data key="d3">chunk-674af09a64beddbff4e4e4b6e543709a&lt;SEP&gt;chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942412</data>
+      <data key="d6" />
+    </node>
+    <node id="E to the Theta I, Transpose X">
+      <data key="d0">E to the Theta I, Transpose X</data>
+      <data key="d1">expression</data>
+      <data key="d2">E to the Theta I, Transpose X is a mathematical expression related to the calculation of probabilities in softmax regression.</data>
+      <data key="d3">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942412</data>
+      <data key="d6" />
+    </node>
+    <node id="Sufficient Statistic">
+      <data key="d0">Sufficient Statistic</data>
+      <data key="d1">concept</data>
+      <data key="d2">A sufficient statistic is a function of the data that captures all necessary information for parameter estimation in a statistical model.&lt;SEP&gt;A sufficient statistic summarizes information from a sample to make inferences about a population parameter.</data>
+      <data key="d3">chunk-38d7cccd02d2282bbd339ef51ba43f85&lt;SEP&gt;chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942412</data>
+      <data key="d6" />
+    </node>
+    <node id="Natural Parameter">
+      <data key="d0">Natural Parameter</data>
+      <data key="d1">concept</data>
+      <data key="d2">The natural parameter is a specific parameterization of a distribution that simplifies the form of the probability functions in exponential family distributions.</data>
+      <data key="d3">chunk-38d7cccd02d2282bbd339ef51ba43f85</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942412</data>
+      <data key="d6" />
+    </node>
+    <node id="Data">
+      <data key="d0">Data</data>
+      <data key="d1">concept</data>
+      <data key="d2">Data refers to the information that is being modeled or analyzed in statistical methods, including values that take on specific distributions.</data>
+      <data key="d3">chunk-38d7cccd02d2282bbd339ef51ba43f85</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942412</data>
+      <data key="d6" />
+    </node>
+    <node id="Value of Y">
+      <data key="d0">Value of Y</data>
+      <data key="d1">concept</data>
+      <data key="d2">The value of Y represents the dependent variable in a statistical model, particularly in the context of classification problems where Y can be 0 or 1.</data>
+      <data key="d3">chunk-38d7cccd02d2282bbd339ef51ba43f85</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942412</data>
+      <data key="d6" />
+    </node>
+    <node id="Exponential Family Distributions">
+      <data key="d0">Exponential Family Distributions</data>
+      <data key="d1">concept</data>
+      <data key="d2">Exponential family distributions are a class of probability distributions that have specific mathematical properties.</data>
+      <data key="d3">chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942412</data>
+      <data key="d6" />
+    </node>
+    <node id="Logistic Function">
+      <data key="d0">Logistic Function</data>
+      <data key="d1">concept</data>
+      <data key="d2">The logistic function is a mathematical function used to model a variety of phenomena, including probabilities in statistics.</data>
+      <data key="d3">chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942412</data>
+      <data key="d6" />
+    </node>
+    <node id="Phi">
+      <data key="d0">Phi</data>
+      <data key="d1">parameter</data>
+      <data key="d2">Phi is a parameter that specifies probabilities in relation to the variable Y in statistical formulas.</data>
+      <data key="d3">chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942412</data>
+      <data key="d6" />
+    </node>
+    <node id="Newton's Method">
+      <data key="d0">Newton's Method</data>
+      <data key="d1">method</data>
+      <data key="d2">Newton's Method is an algorithm noted for its fast convergence, allowing solutions to achieve higher accuracy with each iteration.&lt;SEP&gt;Newton's Method is an algorithm for finding successively better approximations to the roots of a real-valued function, often used for modeling in machine learning.</data>
+      <data key="d3">chunk-1aa4c1f1bcccecc7faef4f12ad096763&lt;SEP&gt;chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942413</data>
+      <data key="d6" />
+    </node>
+    <node id="Hessian">
+      <data key="d0">Hessian</data>
+      <data key="d1">matrix</data>
+      <data key="d2">The Hessian is a matrix of second derivatives used in the context of Newton's Method to assist with optimization problems.</data>
+      <data key="d3">chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942413</data>
+      <data key="d6" />
+    </node>
+    <node id="Features">
+      <data key="d0">Features</data>
+      <data key="d1">concept</data>
+      <data key="d2">Features refer to the input variables used in a model for training purposes, essential in determining the behavior of algorithms like logistic regression.</data>
+      <data key="d3">chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942413</data>
+      <data key="d6" />
+    </node>
+    <node id="PFY">
+      <data key="d0">PFY</data>
+      <data key="d1">concept</data>
+      <data key="d2">PFY refers to the dependent variable in a model being discussed, which is influenced by independent variables parameterized by theta.</data>
+      <data key="d3">chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942413</data>
+      <data key="d6" />
+    </node>
+    <node id="Machine Learning">
+      <data key="d0">Machine Learning</data>
+      <data key="d1">concept</data>
+      <data key="d2">Machine Learning is a field of study that focuses on algorithms that allow computers to learn from and make predictions based on data.</data>
+      <data key="d3">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942413</data>
+      <data key="d6" />
+    </node>
+    <node id="Course Website">
+      <data key="d0">Course Website</data>
+      <data key="d1">content</data>
+      <data key="d2">The Course Website is an online platform where course materials, handouts, and project proposals are posted for students.</data>
+      <data key="d3">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942413</data>
+      <data key="d6" />
+    </node>
+    <node id="Project Proposals">
+      <data key="d0">Project Proposals</data>
+      <data key="d1">data</data>
+      <data key="d2">Project Proposals refer to suggested projects that students need to submit for their term project in the Machine Learning course.</data>
+      <data key="d3">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942413</data>
+      <data key="d6" />
+    </node>
+    <node id="Office Hours">
+      <data key="d0">Office Hours</data>
+      <data key="d1">concept</data>
+      <data key="d2">Office Hours are designated times when students can meet with instructors or teaching assistants to discuss project ideas and course material.</data>
+      <data key="d3">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942413</data>
+      <data key="d6" />
+    </node>
+    <node id="Discussion Section">
+      <data key="d0">Discussion Section</data>
+      <data key="d1">event</data>
+      <data key="d2">The Discussion Section is a supplementary class taught by teaching assistants to reinforce concepts covered in lectures.</data>
+      <data key="d3">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942413</data>
+      <data key="d6" />
+    </node>
+    <node id="TA">
+      <data key="d0">TA</data>
+      <data key="d1">person</data>
+      <data key="d2">TA refers to Teaching Assistants who assist the instructor and are available during office hours for student support regarding project ideas and course material.</data>
+      <data key="d3">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942413</data>
+      <data key="d6" />
+    </node>
+    <node id="Problem Set One">
+      <data key="d0">Problem Set One</data>
+      <data key="d1">data</data>
+      <data key="d2">Problem Set One is an assignment in the Machine Learning course that is scheduled to be posted online and due in two weeks.</data>
+      <data key="d3">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942413</data>
+      <data key="d6" />
+    </node>
+    <node id="Logistic Regression Model">
+      <data key="d0">Logistic Regression Model</data>
+      <data key="d1">method</data>
+      <data key="d2">The Logistic Regression Model is a statistical model used for predicting outcomes, specifically when the dependent variable is binary.</data>
+      <data key="d3">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942414</data>
+      <data key="d6" />
+    </node>
+    <node id="Logistic Regression Algorithm">
+      <data key="d0">Logistic Regression Algorithm</data>
+      <data key="d1">method</data>
+      <data key="d2">The Logistic Regression Algorithm is a model predicting a binary outcome based on the probability of having a certain value.</data>
+      <data key="d3">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942414</data>
+      <data key="d6" />
+    </node>
+    <node id="Expected Value">
+      <data key="d0">Expected Value</data>
+      <data key="d1">concept</data>
+      <data key="d2">Expected value represents the average outcome in a probability distribution, reflecting the anticipated value of a random variable.</data>
+      <data key="d3">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942414</data>
+      <data key="d6" />
+    </node>
+    <node id="Canonical Response Function">
+      <data key="d0">Canonical Response Function</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Canonical Response Function relates natural parameters in statistical models to expected values of outcomes.</data>
+      <data key="d3">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942414</data>
+      <data key="d6" />
+    </node>
+    <node id="Canonical Link Function">
+      <data key="d0">Canonical Link Function</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Canonical Link Function connects the linear predictors to the response variable in a generalized linear model.</data>
+      <data key="d3">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942414</data>
+      <data key="d6" />
+    </node>
+    <node id="Parson Regression Models">
+      <data key="d0">Parson Regression Models</data>
+      <data key="d1">method</data>
+      <data key="d2">Parson Regression Models refer to statistical models used in regression analysis characterized by specific assumptions about the distribution of the response variable.</data>
+      <data key="d3">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1767942414</data>
+      <data key="d6" />
+    </node>
+    <edge source="Andrew Ng" target="Logistic Regression">
+      <data key="d7">2.0</data>
+      <data key="d8">Andrew Ng discusses logistic regression as a statistical method for binary classification.&lt;SEP&gt;Andrew Ng teaches the concept of Logistic Regression as part of his lecture on generalized linear models.</data>
+      <data key="d9">instruction,method discussion,teaching</data>
+      <data key="d10">chunk-023cc775f8b1adeebc9c45d2e9f6fe90&lt;SEP&gt;chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942415</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Gradient Ascent">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng discusses Gradient Ascent in the context of maximizing parameters for Logistic Regression.</data>
+      <data key="d9">optimization method,teaching</data>
+      <data key="d10">chunk-023cc775f8b1adeebc9c45d2e9f6fe90</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942417</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Log Likelihood">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng explains the concept of Log Likelihood in the context of determining parameter values that maximize predictions in models.</data>
+      <data key="d9">model training,statistical teaching</data>
+      <data key="d10">chunk-023cc775f8b1adeebc9c45d2e9f6fe90</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942417</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Theta">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng discusses the significance of theta in statistical modeling during instructional dialogue.</data>
+      <data key="d9">educational content,instruction</data>
+      <data key="d10">chunk-ac0a1ea80eae7c222bf0ffd73875b023</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942418</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Student">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng teaches the Student about statistical concepts and interacts with the Student's inquiries during the lecture.</data>
+      <data key="d9">interaction,teaching</data>
+      <data key="d10">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942418</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Sufficient Statistic">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng explains the concept of sufficient statistics in a statistical context.</data>
+      <data key="d9">explaining,teaching</data>
+      <data key="d10">chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942424</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Probability Distribution">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng discusses the nature of probability distributions as part of a statistical explanation.</data>
+      <data key="d9">explaining,teaching</data>
+      <data key="d10">chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942425</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Exponential Family Distributions">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng educates students about exponential family distributions and their properties.</data>
+      <data key="d9">explaining,teaching</data>
+      <data key="d10">chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942426</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Logistic Function">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng describes the logistic function, illustrating its relevance to probability.</data>
+      <data key="d9">explaining,teaching</data>
+      <data key="d10">chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942426</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Newton's Method">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng instructs on Newton's Method, highlighting its fast convergence properties in optimization.</data>
+      <data key="d9">algorithm explanation,instruction</data>
+      <data key="d10">chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942427</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Generalized Linear Models">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng provides a recap of Generalized Linear Models and their relation to logistic regression and other algorithms.</data>
+      <data key="d9">instruction,model overview</data>
+      <data key="d10">chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942427</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Machine Learning">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng teaches the Machine Learning course, providing guidance and instruction on the subject.</data>
+      <data key="d9">course subject,instructor role</data>
+      <data key="d10">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942428</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="Course Website">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng uses the Course Website to post handouts and announcements related to class projects and materials.</data>
+      <data key="d9">announcements,content source</data>
+      <data key="d10">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942429</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Andrew Ng" target="TA">
+      <data key="d7">1.0</data>
+      <data key="d8">Andrew Ng collaborates with TAs to provide support to students during office hours.</data>
+      <data key="d9">advisor role,student support</data>
+      <data key="d10">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942429</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Generalized Linear Models" target="Logistic Regression">
+      <data key="d7">3.0</data>
+      <data key="d8">Logistic regression is an application of generalized linear models designed for binary outcome variables.&lt;SEP&gt;Logistic Regression is categorized under the broader framework of Generalized Linear Models for statistical analysis.&lt;SEP&gt;Logistic Regression is a specific type of Generalized Linear Model used for binary classification tasks.</data>
+      <data key="d9">application,categorization,model framework,statistical method</data>
+      <data key="d10">chunk-023cc775f8b1adeebc9c45d2e9f6fe90&lt;SEP&gt;chunk-38d7cccd02d2282bbd339ef51ba43f85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942416</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Generalized Linear Models" target="Softmax Regression">
+      <data key="d7">1.0</data>
+      <data key="d8">Softmax Regression is a generalization of the concept of Generalized Linear Models applied to multi-class classification.</data>
+      <data key="d9">classification,method generalization</data>
+      <data key="d10">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942421</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Generalized Linear Models" target="Exponential Family Distribution">
+      <data key="d7">1.0</data>
+      <data key="d8">Generalized linear models can be considered special cases of exponential family distributions.</data>
+      <data key="d9">distribution types,model relationship</data>
+      <data key="d10">chunk-38d7cccd02d2282bbd339ef51ba43f85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942423</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Logistic Regression" target="Newtons Method">
+      <data key="d7">1.0</data>
+      <data key="d8">Newton's Method is utilized for optimizing Logistic Regression models.</data>
+      <data key="d9">algorithm usage,model fitting</data>
+      <data key="d10">chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942420</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Logistic Regression" target="Instructor Andrew Ng">
+      <data key="d7">1.0</data>
+      <data key="d8">Instructor Andrew Ng teaches about Logistic Regression in the context of optimization methods.</data>
+      <data key="d9">algorithm application,teaching</data>
+      <data key="d10">chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942421</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Logistic Regression" target="Value of Y">
+      <data key="d7">1.0</data>
+      <data key="d8">The value of Y is the main dependent variable used in logistic regression for determining probabilities of outcomes.</data>
+      <data key="d9">classification,dependent variable</data>
+      <data key="d10">chunk-38d7cccd02d2282bbd339ef51ba43f85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942423</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Logistic Regression" target="Features">
+      <data key="d7">1.0</data>
+      <data key="d8">Features are integral to training models in logistic regression, influencing output predictions.</data>
+      <data key="d9">input parameters,model training</data>
+      <data key="d10">chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942426</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Logistic Regression" target="Discussion Section">
+      <data key="d7">1.0</data>
+      <data key="d8">The Discussion Section helps reinforce concepts such as Logistic Regression covered in the course lectures.</data>
+      <data key="d9">concept reinforcement,course support</data>
+      <data key="d10">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942427</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Logistic Regression" target="Gradient Ascent">
+      <data key="d7">1.0</data>
+      <data key="d8">Gradient Ascent is an optimization method used in fitting the Logistic Regression model.</data>
+      <data key="d9">model fitting,optimization method</data>
+      <data key="d10">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942428</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Logistic Regression" target="Newton's Method">
+      <data key="d7">1.0</data>
+      <data key="d8">Newton's Method is presented as an alternative optimization algorithm to fit models like Logistic Regression.</data>
+      <data key="d9">model fitting,optimization alternative</data>
+      <data key="d10">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942429</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gaussian Distribution" target="Normal Distribution">
+      <data key="d7">2.0</data>
+      <data key="d8">The Normal Distribution is recognized as a specific case of the Gaussian Distribution, mentioned during lecture elaborations.&lt;SEP&gt;The Normal Distribution is a specific case of the broader Gaussian Distribution, showing their statistical relationship.</data>
+      <data key="d9">probability distributions,statistical relationship,subtype</data>
+      <data key="d10">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec&lt;SEP&gt;chunk-486f08627d119b0879789e4cf88e8904</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942418</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gaussian Distribution" target="Probability Distribution">
+      <data key="d7">1.0</data>
+      <data key="d8">The Gaussian Distribution is a specific type of Probability Distribution, integral to statistical analysis discussed in the lecture.</data>
+      <data key="d9">related concept,statistical foundation</data>
+      <data key="d10">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942419</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gaussian Distribution" target="Exponential Family Distribution">
+      <data key="d7">2.0</data>
+      <data key="d8">The Gaussian distribution is a special case of the exponential family distribution defined by a specific parameterization.&lt;SEP&gt;The Gaussian Distribution is a type of Exponential Family Distribution, as discussed in relation to common distributions in statistics.</data>
+      <data key="d9">distribution type,special case,statistical classification,subclass</data>
+      <data key="d10">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec&lt;SEP&gt;chunk-38d7cccd02d2282bbd339ef51ba43f85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942420</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gaussian Distribution" target="Y">
+      <data key="d7">1.0</data>
+      <data key="d8">Y's binary classification in the discussed model is most naturally represented by a Gaussian Distribution.</data>
+      <data key="d9">classification model,statistical representation</data>
+      <data key="d10">chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942426</data>
+      <data key="d13" />
+    </edge>
+    <edge source="K Possible Outcomes" target="Multi-Cause Classification Problems">
+      <data key="d7">1.0</data>
+      <data key="d8">K Possible Outcomes are related to Multi-Cause Classification Problems, wherein outcomes exceed binary options.</data>
+      <data key="d9">complexity,conceptual relationship</data>
+      <data key="d10">chunk-023cc775f8b1adeebc9c45d2e9f6fe90</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942415</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Newtons Method" target="Gradient Ascent">
+      <data key="d7">1.0</data>
+      <data key="d8">Gradient Ascent is compared with Newton's Method as different algorithms for fitting models, with Newton's being faster.</data>
+      <data key="d9">algorithm comparison,optimization technique</data>
+      <data key="d10">chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942419</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Newtons Method" target="Function F">
+      <data key="d7">1.0</data>
+      <data key="d8">Newton's Method is applied to find values for Function F where it equals zero.</data>
+      <data key="d9">algorithm application,mathematical function</data>
+      <data key="d10">chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942419</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Newtons Method" target="L of Theta">
+      <data key="d7">1.0</data>
+      <data key="d8">Newton's Method is applied to maximize the function L of Theta, focusing on the optimization problem.</data>
+      <data key="d9">algorithm optimization,model maximization</data>
+      <data key="d10">chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942421</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gradient Ascent" target="Likelihood">
+      <data key="d7">1.0</data>
+      <data key="d8">Likelihood maximization is accomplished using gradient ascent as a method during training.</data>
+      <data key="d9">model training,optimization technique</data>
+      <data key="d10">chunk-ac0a1ea80eae7c222bf0ffd73875b023</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942416</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gradient Ascent" target="Newton's Method">
+      <data key="d7">1.0</data>
+      <data key="d8">Newton's Method is compared to Gradient Ascent, with noted benefits in convergence speed for appropriate use cases.</data>
+      <data key="d9">algorithm efficiency,comparison</data>
+      <data key="d10">chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942425</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Multi-Cause Classification Problems" target="Exponential Family Distribution">
+      <data key="d7">1.0</data>
+      <data key="d8">Exponential Family Distribution is applied in the context of Multi-Cause Classification Problems to manage multiple possible outcomes in predictions.</data>
+      <data key="d9">conceptual relationship,modeling</data>
+      <data key="d10">chunk-023cc775f8b1adeebc9c45d2e9f6fe90</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942416</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Exponential Family Distribution" target="Indicator Function Notation">
+      <data key="d7">1.0</data>
+      <data key="d8">Indicator function notation is utilized in defining the components of an exponential family distribution.</data>
+      <data key="d9">mathematical notation,probability theory</data>
+      <data key="d10">chunk-49f40563b7c8469bddeeb04d56b3cec7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942417</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Exponential Family Distribution" target="Parameters">
+      <data key="d7">1.0</data>
+      <data key="d8">Parameters are used to characterize the exponential family distribution in the context of statistical models.</data>
+      <data key="d9">functional representation,statistical modeling</data>
+      <data key="d10">chunk-49f40563b7c8469bddeeb04d56b3cec7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942418</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Exponential Family Distribution" target="Phi Values">
+      <data key="d7">1.0</data>
+      <data key="d8">Phi values are parameters in the exponential family distribution formulation, influencing its behavior.</data>
+      <data key="d9">parameterization,probability model</data>
+      <data key="d10">chunk-49f40563b7c8469bddeeb04d56b3cec7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942418</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Exponential Family Distribution" target="Parameters of Ordinary Least Squares">
+      <data key="d7">1.0</data>
+      <data key="d8">The Parameters of Ordinary Least Squares relate to the discussion on Exponential Family Distributions in the context of statistical modeling.</data>
+      <data key="d9">parameter estimation,statistical model</data>
+      <data key="d10">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942420</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Exponential Family Distribution" target="Generalized Linear Model">
+      <data key="d7">1.0</data>
+      <data key="d8">The Exponential Family Distribution is a foundational concept upon which Generalized Linear Models are structured and derived.</data>
+      <data key="d9">modeling,statistical framework</data>
+      <data key="d10">chunk-486f08627d119b0879789e4cf88e8904</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942421</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Exponential Family Distribution" target="Wisha Distribution">
+      <data key="d7">1.0</data>
+      <data key="d8">The Wisha Distribution is a member of the Exponential Family Distribution, highlighting its role in statistical modeling.</data>
+      <data key="d9">distribution modeling,statistical relationship</data>
+      <data key="d10">chunk-486f08627d119b0879789e4cf88e8904</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942423</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Exponential Family Distribution" target="Natural Parameter">
+      <data key="d7">1.0</data>
+      <data key="d8">The natural parameter is a key component in the formulation of exponential family distributions.</data>
+      <data key="d9">distribution form,parameterization</data>
+      <data key="d10">chunk-38d7cccd02d2282bbd339ef51ba43f85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942424</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Exponential Family Distribution" target="Sufficient Statistic">
+      <data key="d7">1.0</data>
+      <data key="d8">The sufficient statistic plays a crucial role in characterizing the exponential family distribution for parameter estimation.</data>
+      <data key="d9">data representation,parameter estimation</data>
+      <data key="d10">chunk-38d7cccd02d2282bbd339ef51ba43f85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942425</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Exponential Family Distribution" target="Data">
+      <data key="d7">1.0</data>
+      <data key="d8">Data serves as the input required for modeling within exponential family distributions by defining parameters and their relationships.</data>
+      <data key="d9">input for modeling,parameter specification</data>
+      <data key="d10">chunk-38d7cccd02d2282bbd339ef51ba43f85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942425</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Theta" target="Likelihood">
+      <data key="d7">1.0</data>
+      <data key="d8">Theta is a parameter set that directly influences the likelihood in model training.</data>
+      <data key="d9">parameter estimation,statistical modeling</data>
+      <data key="d10">chunk-ac0a1ea80eae7c222bf0ffd73875b023</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942415</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Theta" target="K">
+      <data key="d7">1.0</data>
+      <data key="d8">Theta corresponds to a set of parameters comprising K minus one vectors, indicating its relation to the number of classes.</data>
+      <data key="d9">dimensionality,parameter definition</data>
+      <data key="d10">chunk-ac0a1ea80eae7c222bf0ffd73875b023</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942416</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Theta" target="Function F">
+      <data key="d7">1.0</data>
+      <data key="d8">Theta represents a parameter in Function F being optimized through the algorithms.</data>
+      <data key="d9">optimization parameter,variable representation</data>
+      <data key="d10">chunk-7d9737bbcc99dd55bb4b79cf055977a2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942420</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Theta" target="Softmax Regression">
+      <data key="d7">1.0</data>
+      <data key="d8">Theta is a crucial part of parameterization within the softmax regression model.</data>
+      <data key="d9">model specification,parameterization</data>
+      <data key="d10">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942424</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Theta" target="Phi">
+      <data key="d7">1.0</data>
+      <data key="d8">Theta is defined as a function of phi, indicating a relationship between the two parameters.</data>
+      <data key="d9">functional relationship,parameter dependency</data>
+      <data key="d10">chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942425</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Theta" target="Parson Distribution">
+      <data key="d7">1.0</data>
+      <data key="d8">The Parson distribution utilizes theta as a parameter to define its statistical properties in regression analysis.</data>
+      <data key="d9">parameterization,statistical modeling</data>
+      <data key="d10">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942429</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Theta" target="Generalized Linear Model">
+      <data key="d7">1.0</data>
+      <data key="d8">The Generalized Linear Model incorporates theta to allow for diverse statistical modeling across different distributions.</data>
+      <data key="d9">modeling flexibility,statistical parameters</data>
+      <data key="d10">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942429</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Likelihood" target="Training Set">
+      <data key="d7">1.0</data>
+      <data key="d8">Likelihood is calculated based on the training set to inform parameter estimation.</data>
+      <data key="d9">data utilization,model training</data>
+      <data key="d10">chunk-ac0a1ea80eae7c222bf0ffd73875b023</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942417</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Training Set" target="Maximum Likelihood">
+      <data key="d7">1.0</data>
+      <data key="d8">The Training Set is used in conjunction with Maximum Likelihood to fit the parameters of the Softmax Regression model.</data>
+      <data key="d9">model fitting,parameter estimation</data>
+      <data key="d10">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942421</data>
+      <data key="d13" />
+    </edge>
+    <edge source="K" target="N">
+      <data key="d7">1.0</data>
+      <data key="d8">N plus one-dimensional vectors are related to K, signifying the dimensional aspect of the parameters.</data>
+      <data key="d9">dimensional relevance,statistical modeling</data>
+      <data key="d10">chunk-ac0a1ea80eae7c222bf0ffd73875b023</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942417</data>
+      <data key="d13" />
+    </edge>
+    <edge source="K Values" target="T of Y">
+      <data key="d7">1.0</data>
+      <data key="d8">T of Y defines K-dimensional vectors based on the K distinct values of the variable Y.</data>
+      <data key="d9">transformation,variable relationship</data>
+      <data key="d10">chunk-49f40563b7c8469bddeeb04d56b3cec7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942417</data>
+      <data key="d13" />
+    </edge>
+    <edge source="T of Y" target="Y">
+      <data key="d7">2.0</data>
+      <data key="d8">T of Y represents a sufficient statistic within the context of variable Y.&lt;SEP&gt;Y is mapped to K-dimensional vectors through the transformation function T of Y.</data>
+      <data key="d9">function output,statistical representation,sufficient statistic,variable mapping</data>
+      <data key="d10">chunk-49f40563b7c8469bddeeb04d56b3cec7&lt;SEP&gt;chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942417</data>
+      <data key="d13" />
+    </edge>
+    <edge source="T of Y" target="Dimension">
+      <data key="d7">1.0</data>
+      <data key="d8">The T of Y function operates within the context of K minus one-dimensional vectors.</data>
+      <data key="d9">statistical representation,vector characterization</data>
+      <data key="d10">chunk-49f40563b7c8469bddeeb04d56b3cec7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942418</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Y" target="Softmax Regression">
+      <data key="d7">1.0</data>
+      <data key="d8">Y is the outcome variable modeled by softmax regression as one of K classes.</data>
+      <data key="d9">model output,outcome</data>
+      <data key="d10">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942423</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Y" target="Phi">
+      <data key="d7">1.0</data>
+      <data key="d8">Phi specifies the probability of Y equaling one in the context of distributions.</data>
+      <data key="d9">probability specification,statistical parameter</data>
+      <data key="d10">chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942425</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Normal Distribution" target="Probability Mass Function">
+      <data key="d7">1.0</data>
+      <data key="d8">The Probability Mass Function is associated with the values of the Normal Distribution, particularly at zero and one.</data>
+      <data key="d9">discrete variable,statistical concept</data>
+      <data key="d10">chunk-1dcfa4fdc2012c4e3a3c336e39e4afec</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942419</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Parson Distribution" target="Generalized Linear Model">
+      <data key="d7">1.0</data>
+      <data key="d8">The Parson Distribution serves as a model within the framework of the Generalized Linear Model, particularly for count data.</data>
+      <data key="d9">modeling,statistical application</data>
+      <data key="d10">chunk-486f08627d119b0879789e4cf88e8904</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942420</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gamma Distribution" target="Exponential Distribution">
+      <data key="d7">1.0</data>
+      <data key="d8">Both the Gamma and Exponential Distributions are part of the family of distributions utilized to model positive numbers in various statistical contexts.</data>
+      <data key="d9">modeling,probability distributions</data>
+      <data key="d10">chunk-486f08627d119b0879789e4cf88e8904</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942420</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gamma Distribution" target="Logistic Regression Algorithm">
+      <data key="d7">1.0</data>
+      <data key="d8">The Logistic Regression Algorithm can also utilize a Gamma Distribution for modeling depending on the characteristics of the data.</data>
+      <data key="d9">alternative,statistical modeling</data>
+      <data key="d10">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942430</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Exponential Distribution" target="Logistic Regression Algorithm">
+      <data key="d7">1.0</data>
+      <data key="d8">The Logistic Regression Algorithm may be adapted to use the Exponential Distribution based on the nature of the response variable.</data>
+      <data key="d9">alternative,statistical modeling</data>
+      <data key="d10">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942431</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Generalized Linear Model" target="Canonical Link Function">
+      <data key="d7">1.0</data>
+      <data key="d8">The Generalized Linear Model uses the Canonical Link Function to relate linear predictors with the response variable.</data>
+      <data key="d9">model relationship,parameter connection</data>
+      <data key="d10">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942430</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Input X" target="Response Variable Y">
+      <data key="d7">1.0</data>
+      <data key="d8">Input X is used to predict the Response Variable Y, forming the basis of relationships in statistical modeling.</data>
+      <data key="d9">predictive modeling,statistical relationship</data>
+      <data key="d10">chunk-486f08627d119b0879789e4cf88e8904</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942420</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Softmax Regression" target="Indicator Functions">
+      <data key="d7">1.0</data>
+      <data key="d8">Indicator Functions are utilized within Softmax Regression to compute probabilities associated with class assignments.</data>
+      <data key="d9">model component,probability computation</data>
+      <data key="d10">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942422</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Softmax Regression" target="Parameterization by Theta">
+      <data key="d7">1.0</data>
+      <data key="d8">Parameterization by Theta defines the structure of Softmax Regression and influences how class probabilities are calculated.</data>
+      <data key="d9">model specification,probability influence</data>
+      <data key="d10">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942422</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Softmax Regression" target="X">
+      <data key="d7">1.0</data>
+      <data key="d8">X serves as the input features for the softmax regression model.</data>
+      <data key="d9">input feature,model requirement</data>
+      <data key="d10">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942423</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Softmax Regression" target="E to the Theta I, Transpose X">
+      <data key="d7">1.0</data>
+      <data key="d8">The expression E to the Theta I, Transpose X is fundamental in computing probabilities in the softmax regression context.</data>
+      <data key="d9">mathematical foundation,probability computation</data>
+      <data key="d10">chunk-674af09a64beddbff4e4e4b6e543709a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942425</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Logistic Function" target="Phi">
+      <data key="d7">1.0</data>
+      <data key="d8">The logistic function is used to model the probability associated with the parameter phi in statistical applications.</data>
+      <data key="d9">function,probability</data>
+      <data key="d10">chunk-e92ae48716b56f03feed3a2648edf8bd</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942426</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Newton's Method" target="Hessian">
+      <data key="d7">1.0</data>
+      <data key="d8">The Hessian is utilized in Newton's Method for optimization, providing crucial second derivative information.</data>
+      <data key="d9">matrix usage,optimization</data>
+      <data key="d10">chunk-1aa4c1f1bcccecc7faef4f12ad096763</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942426</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Project Proposals">
+      <data key="d7">1.0</data>
+      <data key="d8">Project Proposals are a requirement for students enrolled in the Machine Learning course as part of their term project.</data>
+      <data key="d9">course requirement,student tasks</data>
+      <data key="d10">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942427</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Problem Set One">
+      <data key="d7">1.0</data>
+      <data key="d8">Problem Set One is a component of the Machine Learning course that assesses student understanding of the material.</data>
+      <data key="d9">course component,student assessment</data>
+      <data key="d10">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942429</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Project Proposals" target="Office Hours">
+      <data key="d7">1.0</data>
+      <data key="d8">Office Hours provide students an opportunity to discuss and refine their Project Proposals with the instructor or teaching assistants.</data>
+      <data key="d9">idea development,student support</data>
+      <data key="d10">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942427</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discussion Section" target="TA">
+      <data key="d7">1.0</data>
+      <data key="d8">TAs lead the Discussion Section to engage students and clarify concepts learned in lectures.</data>
+      <data key="d9">instructional role,student engagement</data>
+      <data key="d10">chunk-d65cfad802d1335db113217e2cb6afbe</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942428</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Logistic Regression Algorithm" target="Expected Value">
+      <data key="d7">1.0</data>
+      <data key="d8">The Logistic Regression Algorithm predicts the expected value of a binary outcome variable based on regressed parameters.</data>
+      <data key="d9">binary outcome,prediction</data>
+      <data key="d10">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942429</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Logistic Regression Algorithm" target="Parson Regression Models">
+      <data key="d7">1.0</data>
+      <data key="d8">The Logistic Regression Algorithm can incorporate properties of Parson Regression Models in its framework for predicting binary outcomes.</data>
+      <data key="d9">relationship,statistical modeling</data>
+      <data key="d10">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942430</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Expected Value" target="Canonical Response Function">
+      <data key="d7">1.0</data>
+      <data key="d8">The expected value is linked to the Canonical Response Function, which defines the relationship between parameters in a model.</data>
+      <data key="d9">linkage,statistical relationship</data>
+      <data key="d10">chunk-cb276908b4dcc65a416b2c0490f93e3a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1767942430</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

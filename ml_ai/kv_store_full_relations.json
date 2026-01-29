@@ -1,0 +1,326 @@
+{
+  "doc-0fed72d1c9e10f98f51ef5c1b3b1715e": {
+    "relation_pairs": [
+      [
+        "K",
+        "Theta"
+      ],
+      [
+        "Indicator Functions",
+        "Softmax Regression"
+      ],
+      [
+        "Parson Distribution",
+        "Theta"
+      ],
+      [
+        "K Possible Outcomes",
+        "Multi-Cause Classification Problems"
+      ],
+      [
+        "Andrew Ng",
+        "Logistic Function"
+      ],
+      [
+        "Gaussian Distribution",
+        "Y"
+      ],
+      [
+        "T of Y",
+        "Y"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Phi Values"
+      ],
+      [
+        "Andrew Ng",
+        "Log Likelihood"
+      ],
+      [
+        "Canonical Response Function",
+        "Expected Value"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Gaussian Distribution"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Generalized Linear Model"
+      ],
+      [
+        "Logistic Regression",
+        "Newtons Method"
+      ],
+      [
+        "Input X",
+        "Response Variable Y"
+      ],
+      [
+        "Features",
+        "Logistic Regression"
+      ],
+      [
+        "Canonical Link Function",
+        "Generalized Linear Model"
+      ],
+      [
+        "Logistic Regression Algorithm",
+        "Parson Regression Models"
+      ],
+      [
+        "Logistic Regression",
+        "Newton's Method"
+      ],
+      [
+        "Data",
+        "Exponential Family Distribution"
+      ],
+      [
+        "Gaussian Distribution",
+        "Normal Distribution"
+      ],
+      [
+        "K Values",
+        "T of Y"
+      ],
+      [
+        "Machine Learning",
+        "Project Proposals"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Generalized Linear Models"
+      ],
+      [
+        "Generalized Linear Models",
+        "Softmax Regression"
+      ],
+      [
+        "Andrew Ng",
+        "Probability Distribution"
+      ],
+      [
+        "Andrew Ng",
+        "Machine Learning"
+      ],
+      [
+        "L of Theta",
+        "Newtons Method"
+      ],
+      [
+        "Andrew Ng",
+        "Logistic Regression"
+      ],
+      [
+        "Likelihood",
+        "Theta"
+      ],
+      [
+        "Andrew Ng",
+        "Course Website"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Parameters"
+      ],
+      [
+        "Softmax Regression",
+        "X"
+      ],
+      [
+        "Logistic Function",
+        "Phi"
+      ],
+      [
+        "Logistic Regression",
+        "Value of Y"
+      ],
+      [
+        "Gaussian Distribution",
+        "Probability Distribution"
+      ],
+      [
+        "Andrew Ng",
+        "Theta"
+      ],
+      [
+        "Generalized Linear Models",
+        "Logistic Regression"
+      ],
+      [
+        "Parameterization by Theta",
+        "Softmax Regression"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Indicator Function Notation"
+      ],
+      [
+        "Gradient Ascent",
+        "Logistic Regression"
+      ],
+      [
+        "Andrew Ng",
+        "TA"
+      ],
+      [
+        "Maximum Likelihood",
+        "Training Set"
+      ],
+      [
+        "Function F",
+        "Newtons Method"
+      ],
+      [
+        "Instructor Andrew Ng",
+        "Logistic Regression"
+      ],
+      [
+        "Function F",
+        "Theta"
+      ],
+      [
+        "Expected Value",
+        "Logistic Regression Algorithm"
+      ],
+      [
+        "Andrew Ng",
+        "Gradient Ascent"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Sufficient Statistic"
+      ],
+      [
+        "Discussion Section",
+        "Logistic Regression"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Multi-Cause Classification Problems"
+      ],
+      [
+        "Andrew Ng",
+        "Newton's Method"
+      ],
+      [
+        "Softmax Regression",
+        "Y"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Wisha Distribution"
+      ],
+      [
+        "Andrew Ng",
+        "Generalized Linear Models"
+      ],
+      [
+        "Gamma Distribution",
+        "Logistic Regression Algorithm"
+      ],
+      [
+        "Dimension",
+        "T of Y"
+      ],
+      [
+        "E to the Theta I, Transpose X",
+        "Softmax Regression"
+      ],
+      [
+        "Gradient Ascent",
+        "Newtons Method"
+      ],
+      [
+        "Exponential Distribution",
+        "Gamma Distribution"
+      ],
+      [
+        "Andrew Ng",
+        "Exponential Family Distributions"
+      ],
+      [
+        "Gradient Ascent",
+        "Newton's Method"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Parameters of Ordinary Least Squares"
+      ],
+      [
+        "Likelihood",
+        "Training Set"
+      ],
+      [
+        "Phi",
+        "Y"
+      ],
+      [
+        "Hessian",
+        "Newton's Method"
+      ],
+      [
+        "Machine Learning",
+        "Problem Set One"
+      ],
+      [
+        "Softmax Regression",
+        "Theta"
+      ],
+      [
+        "Andrew Ng",
+        "Student"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Natural Parameter"
+      ],
+      [
+        "Exponential Distribution",
+        "Logistic Regression Algorithm"
+      ],
+      [
+        "Office Hours",
+        "Project Proposals"
+      ],
+      [
+        "Normal Distribution",
+        "Probability Mass Function"
+      ],
+      [
+        "Generalized Linear Model",
+        "Theta"
+      ],
+      [
+        "Generalized Linear Model",
+        "Parson Distribution"
+      ],
+      [
+        "Phi",
+        "Theta"
+      ],
+      [
+        "K",
+        "N"
+      ],
+      [
+        "Discussion Section",
+        "TA"
+      ],
+      [
+        "Gradient Ascent",
+        "Likelihood"
+      ],
+      [
+        "Andrew Ng",
+        "Sufficient Statistic"
+      ]
+    ],
+    "count": 79,
+    "create_time": 1767942431,
+    "update_time": 1767942431,
+    "_id": "doc-0fed72d1c9e10f98f51ef5c1b3b1715e"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "Energy Systems": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709047,
+    "update_time": 1767709047,
+    "_id": "Energy Systems"
+  },
+  "Energy Generation": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709047,
+    "update_time": 1767709047,
+    "_id": "Energy Generation"
+  },
+  "Energy Distribution": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709047,
+    "update_time": 1767709047,
+    "_id": "Energy Distribution"
+  },
+  "Energy Policy": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709047,
+    "update_time": 1767709047,
+    "_id": "Energy Policy"
+  },
+  "Sustainability Challenges": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709047,
+    "update_time": 1767709047,
+    "_id": "Sustainability Challenges"
+  },
+  "Fossil Fuels": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709047,
+    "update_time": 1767709047,
+    "_id": "Fossil Fuels"
+  },
+  "Nuclear Power": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709047,
+    "update_time": 1767709047,
+    "_id": "Nuclear Power"
+  },
+  "Solar Energy": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709047,
+    "update_time": 1767709047,
+    "_id": "Solar Energy"
+  },
+  "Wind Energy": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709048,
+    "update_time": 1767709048,
+    "_id": "Wind Energy"
+  },
+  "Hydroelectric Power": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709048,
+    "update_time": 1767709048,
+    "_id": "Hydroelectric Power"
+  },
+  "Carbon Pricing": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709048,
+    "update_time": 1767709048,
+    "_id": "Carbon Pricing"
+  },
+  "Region R": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f",
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 2,
+    "create_time": 1767709048,
+    "update_time": 1767709048,
+    "_id": "Region R"
+  },
+  "Energy Efficiency": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709048,
+    "update_time": 1767709048,
+    "_id": "Energy Efficiency"
+  },
+  "Clean Energy Technologies": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709049,
+    "update_time": 1767709049,
+    "_id": "Clean Energy Technologies"
+  },
+  "Energy Poverty": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f",
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 2,
+    "create_time": 1767709049,
+    "update_time": 1767709049,
+    "_id": "Energy Poverty"
+  },
+  "Environmental Compliance": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767709049,
+    "update_time": 1767709049,
+    "_id": "Environmental Compliance"
+  },
+  "Economic Impact": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767709049,
+    "update_time": 1767709049,
+    "_id": "Economic Impact"
+  },
+  "Environmental Considerations": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767709049,
+    "update_time": 1767709049,
+    "_id": "Environmental Considerations"
+  },
+  "Mitigation Strategies": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767709049,
+    "update_time": 1767709049,
+    "_id": "Mitigation Strategies"
+  },
+  "Future Energy Systems": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767709049,
+    "update_time": 1767709049,
+    "_id": "Future Energy Systems"
+  },
+  "Sustainable Energy Development": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767709049,
+    "update_time": 1767709049,
+    "_id": "Sustainable Energy Development"
+  },
+  "Energy Availability": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767709049,
+    "update_time": 1767709049,
+    "_id": "Energy Availability"
+  },
+  "Renewable Energy Transition": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709050,
+    "update_time": 1767709050,
+    "_id": "Renewable Energy Transition"
+  },
+  "Economic and Social Impact": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767709052,
+    "update_time": 1767709052,
+    "_id": "Economic and Social Impact"
+  },
+  "Energy Production and Consumption": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767709052,
+    "update_time": 1767709052,
+    "_id": "Energy Production and Consumption"
+  }
+}

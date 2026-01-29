@@ -1,0 +1,718 @@
+{
+  "Andrew Ng<SEP>Logistic Regression": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 2,
+    "create_time": 1767942415,
+    "update_time": 1767942415,
+    "_id": "Andrew Ng<SEP>Logistic Regression"
+  },
+  "K Possible Outcomes<SEP>Multi-Cause Classification Problems": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767942415,
+    "update_time": 1767942415,
+    "_id": "K Possible Outcomes<SEP>Multi-Cause Classification Problems"
+  },
+  "Likelihood<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767942415,
+    "update_time": 1767942415,
+    "_id": "Likelihood<SEP>Theta"
+  },
+  "Exponential Family Distribution<SEP>Multi-Cause Classification Problems": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767942416,
+    "update_time": 1767942416,
+    "_id": "Exponential Family Distribution<SEP>Multi-Cause Classification Problems"
+  },
+  "Generalized Linear Models<SEP>Logistic Regression": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 2,
+    "create_time": 1767942416,
+    "update_time": 1767942416,
+    "_id": "Generalized Linear Models<SEP>Logistic Regression"
+  },
+  "Gradient Ascent<SEP>Likelihood": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767942416,
+    "update_time": 1767942416,
+    "_id": "Gradient Ascent<SEP>Likelihood"
+  },
+  "K<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767942416,
+    "update_time": 1767942416,
+    "_id": "K<SEP>Theta"
+  },
+  "Likelihood<SEP>Training Set": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767942417,
+    "update_time": 1767942417,
+    "_id": "Likelihood<SEP>Training Set"
+  },
+  "Andrew Ng<SEP>Gradient Ascent": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767942417,
+    "update_time": 1767942417,
+    "_id": "Andrew Ng<SEP>Gradient Ascent"
+  },
+  "Exponential Family Distribution<SEP>Indicator Function Notation": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767942417,
+    "update_time": 1767942417,
+    "_id": "Exponential Family Distribution<SEP>Indicator Function Notation"
+  },
+  "K Values<SEP>T of Y": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767942417,
+    "update_time": 1767942417,
+    "_id": "K Values<SEP>T of Y"
+  },
+  "K<SEP>N": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767942417,
+    "update_time": 1767942417,
+    "_id": "K<SEP>N"
+  },
+  "Andrew Ng<SEP>Log Likelihood": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767942417,
+    "update_time": 1767942417,
+    "_id": "Andrew Ng<SEP>Log Likelihood"
+  },
+  "T of Y<SEP>Y": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 2,
+    "create_time": 1767942417,
+    "update_time": 1767942417,
+    "_id": "T of Y<SEP>Y"
+  },
+  "Exponential Family Distribution<SEP>Parameters": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767942418,
+    "update_time": 1767942418,
+    "_id": "Exponential Family Distribution<SEP>Parameters"
+  },
+  "Andrew Ng<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767942418,
+    "update_time": 1767942418,
+    "_id": "Andrew Ng<SEP>Theta"
+  },
+  "Gaussian Distribution<SEP>Normal Distribution": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 2,
+    "create_time": 1767942418,
+    "update_time": 1767942418,
+    "_id": "Gaussian Distribution<SEP>Normal Distribution"
+  },
+  "Dimension<SEP>T of Y": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767942418,
+    "update_time": 1767942418,
+    "_id": "Dimension<SEP>T of Y"
+  },
+  "Exponential Family Distribution<SEP>Phi Values": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767942418,
+    "update_time": 1767942418,
+    "_id": "Exponential Family Distribution<SEP>Phi Values"
+  },
+  "Andrew Ng<SEP>Student": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767942418,
+    "update_time": 1767942418,
+    "_id": "Andrew Ng<SEP>Student"
+  },
+  "Gradient Ascent<SEP>Newtons Method": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767942419,
+    "update_time": 1767942419,
+    "_id": "Gradient Ascent<SEP>Newtons Method"
+  },
+  "Normal Distribution<SEP>Probability Mass Function": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767942419,
+    "update_time": 1767942419,
+    "_id": "Normal Distribution<SEP>Probability Mass Function"
+  },
+  "Gaussian Distribution<SEP>Probability Distribution": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767942419,
+    "update_time": 1767942419,
+    "_id": "Gaussian Distribution<SEP>Probability Distribution"
+  },
+  "Function F<SEP>Newtons Method": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767942419,
+    "update_time": 1767942419,
+    "_id": "Function F<SEP>Newtons Method"
+  },
+  "Exponential Family Distribution<SEP>Gaussian Distribution": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 2,
+    "create_time": 1767942420,
+    "update_time": 1767942420,
+    "_id": "Exponential Family Distribution<SEP>Gaussian Distribution"
+  },
+  "Generalized Linear Model<SEP>Parson Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767942420,
+    "update_time": 1767942420,
+    "_id": "Generalized Linear Model<SEP>Parson Distribution"
+  },
+  "Exponential Family Distribution<SEP>Parameters of Ordinary Least Squares": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767942420,
+    "update_time": 1767942420,
+    "_id": "Exponential Family Distribution<SEP>Parameters of Ordinary Least Squares"
+  },
+  "Logistic Regression<SEP>Newtons Method": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767942420,
+    "update_time": 1767942420,
+    "_id": "Logistic Regression<SEP>Newtons Method"
+  },
+  "Function F<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767942420,
+    "update_time": 1767942420,
+    "_id": "Function F<SEP>Theta"
+  },
+  "Exponential Distribution<SEP>Gamma Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767942420,
+    "update_time": 1767942420,
+    "_id": "Exponential Distribution<SEP>Gamma Distribution"
+  },
+  "Input X<SEP>Response Variable Y": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767942420,
+    "update_time": 1767942420,
+    "_id": "Input X<SEP>Response Variable Y"
+  },
+  "L of Theta<SEP>Newtons Method": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767942421,
+    "update_time": 1767942421,
+    "_id": "L of Theta<SEP>Newtons Method"
+  },
+  "Instructor Andrew Ng<SEP>Logistic Regression": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767942421,
+    "update_time": 1767942421,
+    "_id": "Instructor Andrew Ng<SEP>Logistic Regression"
+  },
+  "Generalized Linear Models<SEP>Softmax Regression": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942421,
+    "update_time": 1767942421,
+    "_id": "Generalized Linear Models<SEP>Softmax Regression"
+  },
+  "Exponential Family Distribution<SEP>Generalized Linear Model": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767942421,
+    "update_time": 1767942421,
+    "_id": "Exponential Family Distribution<SEP>Generalized Linear Model"
+  },
+  "Maximum Likelihood<SEP>Training Set": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942421,
+    "update_time": 1767942421,
+    "_id": "Maximum Likelihood<SEP>Training Set"
+  },
+  "Indicator Functions<SEP>Softmax Regression": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942422,
+    "update_time": 1767942422,
+    "_id": "Indicator Functions<SEP>Softmax Regression"
+  },
+  "Parameterization by Theta<SEP>Softmax Regression": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942422,
+    "update_time": 1767942422,
+    "_id": "Parameterization by Theta<SEP>Softmax Regression"
+  },
+  "Softmax Regression<SEP>Y": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942423,
+    "update_time": 1767942423,
+    "_id": "Softmax Regression<SEP>Y"
+  },
+  "Exponential Family Distribution<SEP>Wisha Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767942423,
+    "update_time": 1767942423,
+    "_id": "Exponential Family Distribution<SEP>Wisha Distribution"
+  },
+  "Softmax Regression<SEP>X": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942423,
+    "update_time": 1767942423,
+    "_id": "Softmax Regression<SEP>X"
+  },
+  "Logistic Regression<SEP>Value of Y": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767942423,
+    "update_time": 1767942423,
+    "_id": "Logistic Regression<SEP>Value of Y"
+  },
+  "Exponential Family Distribution<SEP>Generalized Linear Models": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767942423,
+    "update_time": 1767942423,
+    "_id": "Exponential Family Distribution<SEP>Generalized Linear Models"
+  },
+  "Exponential Family Distribution<SEP>Natural Parameter": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767942424,
+    "update_time": 1767942424,
+    "_id": "Exponential Family Distribution<SEP>Natural Parameter"
+  },
+  "Andrew Ng<SEP>Sufficient Statistic": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767942424,
+    "update_time": 1767942424,
+    "_id": "Andrew Ng<SEP>Sufficient Statistic"
+  },
+  "Softmax Regression<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942424,
+    "update_time": 1767942424,
+    "_id": "Softmax Regression<SEP>Theta"
+  },
+  "E to the Theta I, Transpose X<SEP>Softmax Regression": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767942425,
+    "update_time": 1767942425,
+    "_id": "E to the Theta I, Transpose X<SEP>Softmax Regression"
+  },
+  "Phi<SEP>Y": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767942425,
+    "update_time": 1767942425,
+    "_id": "Phi<SEP>Y"
+  },
+  "Exponential Family Distribution<SEP>Sufficient Statistic": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767942425,
+    "update_time": 1767942425,
+    "_id": "Exponential Family Distribution<SEP>Sufficient Statistic"
+  },
+  "Andrew Ng<SEP>Probability Distribution": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767942425,
+    "update_time": 1767942425,
+    "_id": "Andrew Ng<SEP>Probability Distribution"
+  },
+  "Phi<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767942425,
+    "update_time": 1767942425,
+    "_id": "Phi<SEP>Theta"
+  },
+  "Data<SEP>Exponential Family Distribution": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767942425,
+    "update_time": 1767942425,
+    "_id": "Data<SEP>Exponential Family Distribution"
+  },
+  "Gradient Ascent<SEP>Newton's Method": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767942425,
+    "update_time": 1767942425,
+    "_id": "Gradient Ascent<SEP>Newton's Method"
+  },
+  "Andrew Ng<SEP>Exponential Family Distributions": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767942426,
+    "update_time": 1767942426,
+    "_id": "Andrew Ng<SEP>Exponential Family Distributions"
+  },
+  "Logistic Function<SEP>Phi": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767942426,
+    "update_time": 1767942426,
+    "_id": "Logistic Function<SEP>Phi"
+  },
+  "Features<SEP>Logistic Regression": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767942426,
+    "update_time": 1767942426,
+    "_id": "Features<SEP>Logistic Regression"
+  },
+  "Hessian<SEP>Newton's Method": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767942426,
+    "update_time": 1767942426,
+    "_id": "Hessian<SEP>Newton's Method"
+  },
+  "Gaussian Distribution<SEP>Y": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767942426,
+    "update_time": 1767942426,
+    "_id": "Gaussian Distribution<SEP>Y"
+  },
+  "Andrew Ng<SEP>Logistic Function": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767942426,
+    "update_time": 1767942426,
+    "_id": "Andrew Ng<SEP>Logistic Function"
+  },
+  "Machine Learning<SEP>Project Proposals": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942427,
+    "update_time": 1767942427,
+    "_id": "Machine Learning<SEP>Project Proposals"
+  },
+  "Andrew Ng<SEP>Newton's Method": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767942427,
+    "update_time": 1767942427,
+    "_id": "Andrew Ng<SEP>Newton's Method"
+  },
+  "Discussion Section<SEP>Logistic Regression": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942427,
+    "update_time": 1767942427,
+    "_id": "Discussion Section<SEP>Logistic Regression"
+  },
+  "Office Hours<SEP>Project Proposals": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942427,
+    "update_time": 1767942427,
+    "_id": "Office Hours<SEP>Project Proposals"
+  },
+  "Andrew Ng<SEP>Generalized Linear Models": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767942427,
+    "update_time": 1767942427,
+    "_id": "Andrew Ng<SEP>Generalized Linear Models"
+  },
+  "Andrew Ng<SEP>Machine Learning": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942428,
+    "update_time": 1767942428,
+    "_id": "Andrew Ng<SEP>Machine Learning"
+  },
+  "Gradient Ascent<SEP>Logistic Regression": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942428,
+    "update_time": 1767942428,
+    "_id": "Gradient Ascent<SEP>Logistic Regression"
+  },
+  "Discussion Section<SEP>TA": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942428,
+    "update_time": 1767942428,
+    "_id": "Discussion Section<SEP>TA"
+  },
+  "Machine Learning<SEP>Problem Set One": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942429,
+    "update_time": 1767942429,
+    "_id": "Machine Learning<SEP>Problem Set One"
+  },
+  "Andrew Ng<SEP>Course Website": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942429,
+    "update_time": 1767942429,
+    "_id": "Andrew Ng<SEP>Course Website"
+  },
+  "Parson Distribution<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942429,
+    "update_time": 1767942429,
+    "_id": "Parson Distribution<SEP>Theta"
+  },
+  "Logistic Regression<SEP>Newton's Method": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942429,
+    "update_time": 1767942429,
+    "_id": "Logistic Regression<SEP>Newton's Method"
+  },
+  "Expected Value<SEP>Logistic Regression Algorithm": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942429,
+    "update_time": 1767942429,
+    "_id": "Expected Value<SEP>Logistic Regression Algorithm"
+  },
+  "Andrew Ng<SEP>TA": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767942429,
+    "update_time": 1767942429,
+    "_id": "Andrew Ng<SEP>TA"
+  },
+  "Generalized Linear Model<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942429,
+    "update_time": 1767942429,
+    "_id": "Generalized Linear Model<SEP>Theta"
+  },
+  "Logistic Regression Algorithm<SEP>Parson Regression Models": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942430,
+    "update_time": 1767942430,
+    "_id": "Logistic Regression Algorithm<SEP>Parson Regression Models"
+  },
+  "Canonical Response Function<SEP>Expected Value": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942430,
+    "update_time": 1767942430,
+    "_id": "Canonical Response Function<SEP>Expected Value"
+  },
+  "Canonical Link Function<SEP>Generalized Linear Model": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942430,
+    "update_time": 1767942430,
+    "_id": "Canonical Link Function<SEP>Generalized Linear Model"
+  },
+  "Gamma Distribution<SEP>Logistic Regression Algorithm": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942430,
+    "update_time": 1767942430,
+    "_id": "Gamma Distribution<SEP>Logistic Regression Algorithm"
+  },
+  "Exponential Distribution<SEP>Logistic Regression Algorithm": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767942431,
+    "update_time": 1767942431,
+    "_id": "Exponential Distribution<SEP>Logistic Regression Algorithm"
+  }
+}

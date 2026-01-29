@@ -1,0 +1,3381 @@
+{
+  "α-Glucosidase Inhibitors": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 2,
+    "create_time": 1768894210,
+    "update_time": 1768894210,
+    "_id": "α-Glucosidase Inhibitors"
+  },
+  "Acarbose": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894210,
+    "update_time": 1768894210,
+    "_id": "Acarbose"
+  },
+  "Miglitol": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894210,
+    "update_time": 1768894210,
+    "_id": "Miglitol"
+  },
+  "Insulin": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32",
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97",
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51",
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe",
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 5,
+    "create_time": 1768894210,
+    "update_time": 1768894210,
+    "_id": "Insulin"
+  },
+  "NPH": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894210,
+    "update_time": 1768894210,
+    "_id": "NPH"
+  },
+  "Insulin Analogs": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894210,
+    "update_time": 1768894210,
+    "_id": "Insulin Analogs"
+  },
+  "Multidisciplinary Mini Clinics": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894210,
+    "update_time": 1768894210,
+    "_id": "Multidisciplinary Mini Clinics"
+  },
+  "Basal-Bolus Method": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894210,
+    "update_time": 1768894210,
+    "_id": "Basal-Bolus Method"
+  },
+  "Metformin": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 2,
+    "create_time": 1768894211,
+    "update_time": 1768894211,
+    "_id": "Metformin"
+  },
+  "Thiazolidinediones": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 2,
+    "create_time": 1768894211,
+    "update_time": 1768894211,
+    "_id": "Thiazolidinediones"
+  },
+  "Hypertension": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32",
+      "chunk-c4d75b2c01d2448f37de4deec12208fa",
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95",
+      "chunk-a07cef05efd947a538701b4c41b162b1",
+      "chunk-fd4cfbed43aa26af0eef694fecac2177",
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 6,
+    "create_time": 1768894211,
+    "update_time": 1768894211,
+    "_id": "Hypertension"
+  },
+  "ACE Inhibitors": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894211,
+    "update_time": 1768894211,
+    "_id": "ACE Inhibitors"
+  },
+  "ARBs": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894211,
+    "update_time": 1768894211,
+    "_id": "ARBs"
+  },
+  "β-Blockers": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894211,
+    "update_time": 1768894211,
+    "_id": "β-Blockers"
+  },
+  "Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32",
+      "chunk-56d9ff3515afac60e7566e41837249a0",
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7",
+      "chunk-d8c827cc2249067692290d6a8a0e8018",
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580",
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d",
+      "chunk-ed87909b4bdb657354ca0eab1450156f",
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559",
+      "chunk-a07cef05efd947a538701b4c41b162b1",
+      "chunk-b253411e54c35aa95f5f9179723bba3b",
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97",
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51",
+      "chunk-12fe828372a20b6606e010f0fd5e6263",
+      "chunk-7ef79f22f40772c2060b439008ce485b",
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08",
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1",
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2",
+      "chunk-a560aca3f99b145384c2b736c2ceea1c",
+      "chunk-fd4cfbed43aa26af0eef694fecac2177",
+      "chunk-5384df975133ef2a52113cd3ca0f897e",
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 21,
+    "update_time": 1768894271,
+    "_id": "Diabetes Mellitus"
+  },
+  "Fasting": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894211,
+    "update_time": 1768894211,
+    "_id": "Fasting"
+  },
+  "Primary Health Care Physician": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894211,
+    "update_time": 1768894211,
+    "_id": "Primary Health Care Physician"
+  },
+  "Nephropathy": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0",
+      "chunk-e8e236a5eba0e1dbf843d32e509da045",
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 3,
+    "update_time": 1768894300,
+    "_id": "Nephropathy"
+  },
+  "Foot Ulcers": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894212,
+    "update_time": 1768894212,
+    "_id": "Foot Ulcers"
+  },
+  "Diabetes Care Team": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894212,
+    "update_time": 1768894212,
+    "_id": "Diabetes Care Team"
+  },
+  "Vascular Radiologist": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894212,
+    "update_time": 1768894212,
+    "_id": "Vascular Radiologist"
+  },
+  "Vascular Surgeon": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894212,
+    "update_time": 1768894212,
+    "_id": "Vascular Surgeon"
+  },
+  "Orthopaedic Surgeon": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894212,
+    "update_time": 1768894212,
+    "_id": "Orthopaedic Surgeon"
+  },
+  "Physiotherapists": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894212,
+    "update_time": 1768894212,
+    "_id": "Physiotherapists"
+  },
+  "Health Professionals": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0",
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 2,
+    "create_time": 1768894212,
+    "update_time": 1768894212,
+    "_id": "Health Professionals"
+  },
+  "Diabetic Foot Lesions": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894212,
+    "update_time": 1768894212,
+    "_id": "Diabetic Foot Lesions"
+  },
+  "Primary Prevention": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894212,
+    "update_time": 1768894212,
+    "_id": "Primary Prevention"
+  },
+  "Tertiary Prevention": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894212,
+    "update_time": 1768894212,
+    "_id": "Tertiary Prevention"
+  },
+  "Randomized Controlled Trials": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894212,
+    "update_time": 1768894212,
+    "_id": "Randomized Controlled Trials"
+  },
+  "Angiography": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894213,
+    "update_time": 1768894213,
+    "_id": "Angiography"
+  },
+  "Plantar Supports": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894213,
+    "update_time": 1768894213,
+    "_id": "Plantar Supports"
+  },
+  "Education Programme": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894213,
+    "update_time": 1768894213,
+    "_id": "Education Programme"
+  },
+  "Diabetic Neuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7",
+      "chunk-fd4cfbed43aa26af0eef694fecac2177",
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 3,
+    "create_time": 1768894213,
+    "update_time": 1768894213,
+    "_id": "Diabetic Neuropathy"
+  },
+  "Distal Symmetrical Sensory-Motor Polyneuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768894213,
+    "update_time": 1768894213,
+    "_id": "Distal Symmetrical Sensory-Motor Polyneuropathy"
+  },
+  "Early Distal Sensory-Motor Neuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768894213,
+    "update_time": 1768894213,
+    "_id": "Early Distal Sensory-Motor Neuropathy"
+  },
+  "Symptomatic Distal Sensory-Motor Neuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768894213,
+    "update_time": 1768894213,
+    "_id": "Symptomatic Distal Sensory-Motor Neuropathy"
+  },
+  "Severe Distal Sensory-Motor Neuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768894213,
+    "update_time": 1768894213,
+    "_id": "Severe Distal Sensory-Motor Neuropathy"
+  },
+  "Hyperglycaemia": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7",
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe",
+      "chunk-12fe828372a20b6606e010f0fd5e6263",
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 4,
+    "create_time": 1768894213,
+    "update_time": 1768894213,
+    "_id": "Hyperglycaemia"
+  },
+  "Screening Strategies": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768894214,
+    "update_time": 1768894214,
+    "_id": "Screening Strategies"
+  },
+  "Aldose Reductase Inhibitors": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7",
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 2,
+    "create_time": 1768894214,
+    "update_time": 1768894214,
+    "_id": "Aldose Reductase Inhibitors"
+  },
+  "Patient Education": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7",
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 2,
+    "create_time": 1768894214,
+    "update_time": 1768894214,
+    "_id": "Patient Education"
+  },
+  "Neuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768894214,
+    "update_time": 1768894214,
+    "_id": "Neuropathy"
+  },
+  "Neurological Assessment": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768894214,
+    "update_time": 1768894214,
+    "_id": "Neurological Assessment"
+  },
+  "Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018",
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95",
+      "chunk-12fe828372a20b6606e010f0fd5e6263",
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1",
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2",
+      "chunk-25fb88c8ed14936954356d104de095d4",
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 7,
+    "create_time": 1768894214,
+    "update_time": 1768894214,
+    "_id": "Eastern Mediterranean Region"
+  },
+  "WHO Regional Office for the Eastern Mediterranean": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894214,
+    "update_time": 1768894214,
+    "_id": "WHO Regional Office for the Eastern Mediterranean"
+  },
+  "Teheran": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894214,
+    "update_time": 1768894214,
+    "_id": "Teheran"
+  },
+  "Fereiddoun Azizi": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894214,
+    "update_time": 1768894214,
+    "_id": "Fereiddoun Azizi"
+  },
+  "Imad M. El-Kebbi": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894214,
+    "update_time": 1768894214,
+    "_id": "Imad M. El-Kebbi"
+  },
+  "Mohamad Reda Awadin": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894214,
+    "update_time": 1768894214,
+    "_id": "Mohamad Reda Awadin"
+  },
+  "Ibrahim Sherif": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894215,
+    "update_time": 1768894215,
+    "_id": "Ibrahim Sherif"
+  },
+  "Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018",
+      "chunk-c4d75b2c01d2448f37de4deec12208fa",
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580",
+      "chunk-942e000d0de99e8628ab9c8bcbe83419",
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51",
+      "chunk-1b7df1782c359efe079f6ade12b3688f",
+      "chunk-12fe828372a20b6606e010f0fd5e6263",
+      "chunk-7ef79f22f40772c2060b439008ce485b",
+      "chunk-25fb88c8ed14936954356d104de095d4",
+      "chunk-5384df975133ef2a52113cd3ca0f897e",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063",
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 12,
+    "create_time": 1768894215,
+    "update_time": 1768894215,
+    "_id": "Type 2 Diabetes Mellitus"
+  },
+  "Obesity Pandemic": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894215,
+    "update_time": 1768894215,
+    "_id": "Obesity Pandemic"
+  },
+  "Incidence Rates": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894215,
+    "update_time": 1768894215,
+    "_id": "Incidence Rates"
+  },
+  "14.5%": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894215,
+    "update_time": 1768894215,
+    "_id": "14.5%"
+  },
+  "30 Million": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894215,
+    "update_time": 1768894215,
+    "_id": "30 Million"
+  },
+  "Regional Consultation on Diabetes Prevention and Control": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894215,
+    "update_time": 1768894215,
+    "_id": "Regional Consultation on Diabetes Prevention and Control"
+  },
+  "2–5 February 2003": {
+    "chunk_ids": [
+      "chunk-d8c827cc2249067692290d6a8a0e8018"
+    ],
+    "count": 1,
+    "create_time": 1768894215,
+    "update_time": 1768894215,
+    "_id": "2–5 February 2003"
+  },
+  "IGT": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa",
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 2,
+    "create_time": 1768894215,
+    "update_time": 1768894215,
+    "_id": "IGT"
+  },
+  "IFG": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa",
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 2,
+    "create_time": 1768894216,
+    "update_time": 1768894216,
+    "_id": "IFG"
+  },
+  "Da Quing Study": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768894216,
+    "update_time": 1768894216,
+    "_id": "Da Quing Study"
+  },
+  "Tuomilehto Study": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768894216,
+    "update_time": 1768894216,
+    "_id": "Tuomilehto Study"
+  },
+  "Diabetes Prevention Programme Research Group": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768894216,
+    "update_time": 1768894216,
+    "_id": "Diabetes Prevention Programme Research Group"
+  },
+  "Community-Based Healthy Lifestyle Programme": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768894216,
+    "update_time": 1768894216,
+    "_id": "Community-Based Healthy Lifestyle Programme"
+  },
+  "United Kingdom Prospective Diabetes Study": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa",
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 2,
+    "create_time": 1768894216,
+    "update_time": 1768894216,
+    "_id": "United Kingdom Prospective Diabetes Study"
+  },
+  "Diabetes Control and Complications Trial": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa",
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 2,
+    "create_time": 1768894216,
+    "update_time": 1768894216,
+    "_id": "Diabetes Control and Complications Trial"
+  },
+  "Laser Photocoagulation": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768894216,
+    "update_time": 1768894216,
+    "_id": "Laser Photocoagulation"
+  },
+  "Diabetes mellitus": {
+    "chunk_ids": [
+      "chunk-c4d75b2c01d2448f37de4deec12208fa"
+    ],
+    "count": 1,
+    "create_time": 1768894216,
+    "update_time": 1768894216,
+    "_id": "Diabetes mellitus"
+  },
+  "Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95",
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 2,
+    "create_time": 1768894217,
+    "update_time": 1768894217,
+    "_id": "Type 2 Diabetes"
+  },
+  "Dyslipidaemia": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95",
+      "chunk-ed87909b4bdb657354ca0eab1450156f",
+      "chunk-a07cef05efd947a538701b4c41b162b1",
+      "chunk-1b7df1782c359efe079f6ade12b3688f",
+      "chunk-a560aca3f99b145384c2b736c2ceea1c",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063",
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 7,
+    "update_time": 1768894314,
+    "_id": "Dyslipidaemia"
+  },
+  "Cardiovascular Disease": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95",
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 2,
+    "create_time": 1768894217,
+    "update_time": 1768894217,
+    "_id": "Cardiovascular Disease"
+  },
+  "Screening for Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768894217,
+    "update_time": 1768894217,
+    "_id": "Screening for Type 2 Diabetes"
+  },
+  "Individuals with Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768894217,
+    "update_time": 1768894217,
+    "_id": "Individuals with Type 2 Diabetes"
+  },
+  "Oral Anti-Hyperglycaemic Agents": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768894217,
+    "update_time": 1768894217,
+    "_id": "Oral Anti-Hyperglycaemic Agents"
+  },
+  "Insulin Therapy": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768894217,
+    "update_time": 1768894217,
+    "_id": "Insulin Therapy"
+  },
+  "Gestational Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768894217,
+    "update_time": 1768894217,
+    "_id": "Gestational Diabetes Mellitus"
+  },
+  "First-Degree Relative with Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768894218,
+    "update_time": 1768894218,
+    "_id": "First-Degree Relative with Type 2 Diabetes"
+  },
+  "Ethnicity Risk Factors": {
+    "chunk_ids": [
+      "chunk-eb1bc7614fcd68decf9461b3b6290e95"
+    ],
+    "count": 1,
+    "create_time": 1768894218,
+    "update_time": 1768894218,
+    "_id": "Ethnicity Risk Factors"
+  },
+  "Hypertension Management Protocol": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768894218,
+    "update_time": 1768894218,
+    "_id": "Hypertension Management Protocol"
+  },
+  "Dyslipidaemia Management Goals": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768894218,
+    "update_time": 1768894218,
+    "_id": "Dyslipidaemia Management Goals"
+  },
+  "LDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3",
+      "chunk-a07cef05efd947a538701b4c41b162b1",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 3,
+    "update_time": 1768894309,
+    "_id": "LDL Cholesterol"
+  },
+  "Triglycerides": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3",
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 2,
+    "create_time": 1768894218,
+    "update_time": 1768894218,
+    "_id": "Triglycerides"
+  },
+  "Coronary Heart Disease": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768894218,
+    "update_time": 1768894218,
+    "_id": "Coronary Heart Disease"
+  },
+  "Statins": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3",
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 2,
+    "create_time": 1768894218,
+    "update_time": 1768894218,
+    "_id": "Statins"
+  },
+  "Statin Side Effects": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768894218,
+    "update_time": 1768894218,
+    "_id": "Statin Side Effects"
+  },
+  "Figure 3 Protocol": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768894218,
+    "update_time": 1768894218,
+    "_id": "Figure 3 Protocol"
+  },
+  "Figure 4 Management": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Figure 4 Management"
+  },
+  "Figure 5 Protocol": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Figure 5 Protocol"
+  },
+  "Diabetes Care": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Diabetes Care"
+  },
+  "Herman W": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Herman W"
+  },
+  "Al-Lawati JA": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Al-Lawati JA"
+  },
+  "Kadiki OA": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Kadiki OA"
+  },
+  "Abdella N": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Abdella N"
+  },
+  "Ajlouni K": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Ajlouni K"
+  },
+  "Salti S": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Salti S"
+  },
+  "Asfour MG": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Asfour MG"
+  },
+  "El-Hazmi M": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "El-Hazmi M"
+  },
+  "Malik M": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Malik M"
+  },
+  "Shera AS": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894219,
+    "update_time": 1768894219,
+    "_id": "Shera AS"
+  },
+  "Al-Mahroos F": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "Al-Mahroos F"
+  },
+  "Amini M": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "Amini M"
+  },
+  "World Health Organization": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650",
+      "chunk-942e000d0de99e8628ab9c8bcbe83419",
+      "chunk-b253411e54c35aa95f5f9179723bba3b",
+      "chunk-12fe828372a20b6606e010f0fd5e6263",
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 5,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "World Health Organization"
+  },
+  "Eastern Mediterranean Health Journal": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "Eastern Mediterranean Health Journal"
+  },
+  "United Nations Relief and Works Agency": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "United Nations Relief and Works Agency"
+  },
+  "Islamic Republic of Iran": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650",
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 2,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "Islamic Republic of Iran"
+  },
+  "Sultanate of Oman": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "Sultanate of Oman"
+  },
+  "1995–2025: Prevalence": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "1995–2025: Prevalence"
+  },
+  "Karachi": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "Karachi"
+  },
+  "Cairo": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650",
+      "chunk-942e000d0de99e8628ab9c8bcbe83419",
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 3,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "Cairo"
+  },
+  "Diabetes and Impaired Glucose Tolerance in Jordan": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "Diabetes and Impaired Glucose Tolerance in Jordan"
+  },
+  "Epidemic": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768894220,
+    "update_time": 1768894220,
+    "_id": "Epidemic"
+  },
+  "WHO": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580",
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 2,
+    "create_time": 1768894221,
+    "update_time": 1768894221,
+    "_id": "WHO"
+  },
+  "Metabolic Syndrome": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580",
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 2,
+    "create_time": 1768894221,
+    "update_time": 1768894221,
+    "_id": "Metabolic Syndrome"
+  },
+  "Normoglycaemia": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768894221,
+    "update_time": 1768894221,
+    "_id": "Normoglycaemia"
+  },
+  "Type 1 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580",
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51",
+      "chunk-7ef79f22f40772c2060b439008ce485b",
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 4,
+    "create_time": 1768894221,
+    "update_time": 1768894221,
+    "_id": "Type 1 Diabetes Mellitus"
+  },
+  "Ketoacidosis": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580",
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 2,
+    "create_time": 1768894221,
+    "update_time": 1768894221,
+    "_id": "Ketoacidosis"
+  },
+  "Obesity": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580",
+      "chunk-942e000d0de99e8628ab9c8bcbe83419",
+      "chunk-a07cef05efd947a538701b4c41b162b1",
+      "chunk-a560aca3f99b145384c2b736c2ceea1c",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063",
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 6,
+    "update_time": 1768894272,
+    "_id": "Obesity"
+  },
+  "Diabetes in Children and Adolescents": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768894221,
+    "update_time": 1768894221,
+    "_id": "Diabetes in Children and Adolescents"
+  },
+  "Challenged with Oral Glucose Load": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768894221,
+    "update_time": 1768894221,
+    "_id": "Challenged with Oral Glucose Load"
+  },
+  "Cholesterol Absorption Inhibitor": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768894221,
+    "update_time": 1768894221,
+    "_id": "Cholesterol Absorption Inhibitor"
+  },
+  "Nicotinic Acid": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768894221,
+    "update_time": 1768894221,
+    "_id": "Nicotinic Acid"
+  },
+  "Fibric Acids": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768894221,
+    "update_time": 1768894221,
+    "_id": "Fibric Acids"
+  },
+  "Omega-3 Fatty Acids": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768894222,
+    "update_time": 1768894222,
+    "_id": "Omega-3 Fatty Acids"
+  },
+  "Aspirin Therapy": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d",
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 2,
+    "create_time": 1768894222,
+    "update_time": 1768894222,
+    "_id": "Aspirin Therapy"
+  },
+  "Cholestyramine": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768894222,
+    "update_time": 1768894222,
+    "_id": "Cholestyramine"
+  },
+  "Colestipol": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768894222,
+    "update_time": 1768894222,
+    "_id": "Colestipol"
+  },
+  "Colesevelam": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768894222,
+    "update_time": 1768894222,
+    "_id": "Colesevelam"
+  },
+  "Ezetimibe": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768894222,
+    "update_time": 1768894222,
+    "_id": "Ezetimibe"
+  },
+  "Immediate Release (Crystalline)": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768894222,
+    "update_time": 1768894222,
+    "_id": "Immediate Release (Crystalline)"
+  },
+  "Extended Release": {
+    "chunk_ids": [
+      "chunk-21112bd6ed1fe7896dbf55a52bc45a2d"
+    ],
+    "count": 1,
+    "create_time": 1768894222,
+    "update_time": 1768894222,
+    "_id": "Extended Release"
+  },
+  "International Diabetes Federation": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894222,
+    "update_time": 1768894222,
+    "_id": "International Diabetes Federation"
+  },
+  "Geneva": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894223,
+    "update_time": 1768894223,
+    "_id": "Geneva"
+  },
+  "UK Prospective Diabetes Study": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894223,
+    "update_time": 1768894223,
+    "_id": "UK Prospective Diabetes Study"
+  },
+  "Lancet": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894223,
+    "update_time": 1768894223,
+    "_id": "Lancet"
+  },
+  "Diabetes Control and Complications Trial Research Group": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894223,
+    "update_time": 1768894223,
+    "_id": "Diabetes Control and Complications Trial Research Group"
+  },
+  "The Da Qing IGT and Diabetes Study": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894223,
+    "update_time": 1768894223,
+    "_id": "The Da Qing IGT and Diabetes Study"
+  },
+  "New England Journal of Medicine": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894223,
+    "update_time": 1768894223,
+    "_id": "New England Journal of Medicine"
+  },
+  "Diet and Exercise": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894223,
+    "update_time": 1768894223,
+    "_id": "Diet and Exercise"
+  },
+  "Healthcare Education": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894223,
+    "update_time": 1768894223,
+    "_id": "Healthcare Education"
+  },
+  "Ramadan": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894223,
+    "update_time": 1768894223,
+    "_id": "Ramadan"
+  },
+  "UKPDS 38": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894223,
+    "update_time": 1768894223,
+    "_id": "UKPDS 38"
+  },
+  "UKPDS 33": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894223,
+    "update_time": 1768894223,
+    "_id": "UKPDS 33"
+  },
+  "The Diabetes Prevention Programme Research Group": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894224,
+    "update_time": 1768894224,
+    "_id": "The Diabetes Prevention Programme Research Group"
+  },
+  "NIDDM": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894224,
+    "update_time": 1768894224,
+    "_id": "NIDDM"
+  },
+  "Reye Syndrome": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768894224,
+    "update_time": 1768894224,
+    "_id": "Reye Syndrome"
+  },
+  "Hypoglycaemia": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768894224,
+    "update_time": 1768894224,
+    "_id": "Hypoglycaemia"
+  },
+  "Sulfonylureas": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 2,
+    "create_time": 1768894224,
+    "update_time": 1768894224,
+    "_id": "Sulfonylureas"
+  },
+  "Intensive Insulin Therapy": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768894224,
+    "update_time": 1768894224,
+    "_id": "Intensive Insulin Therapy"
+  },
+  "Autonomic Neuropathy": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768894224,
+    "update_time": 1768894224,
+    "_id": "Autonomic Neuropathy"
+  },
+  "Table 17": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768894224,
+    "update_time": 1768894224,
+    "_id": "Table 17"
+  },
+  "LDL": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768894224,
+    "update_time": 1768894224,
+    "_id": "LDL"
+  },
+  "TG": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768894225,
+    "update_time": 1768894225,
+    "_id": "TG"
+  },
+  "Paramedics": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768894225,
+    "update_time": 1768894225,
+    "_id": "Paramedics"
+  },
+  "Countries": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768894225,
+    "update_time": 1768894225,
+    "_id": "Countries"
+  },
+  "Noncommunicable Diseases": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559",
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 2,
+    "create_time": 1768894225,
+    "update_time": 1768894225,
+    "_id": "Noncommunicable Diseases"
+  },
+  "Mortality Data": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768894225,
+    "update_time": 1768894225,
+    "_id": "Mortality Data"
+  },
+  "Diabetes Guidelines": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768894225,
+    "update_time": 1768894225,
+    "_id": "Diabetes Guidelines"
+  },
+  "Fasting Plasma Glucose": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559",
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 2,
+    "create_time": 1768894225,
+    "update_time": 1768894225,
+    "_id": "Fasting Plasma Glucose"
+  },
+  "Oral Glucose Tolerance Test (OGTT)": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768894225,
+    "update_time": 1768894225,
+    "_id": "Oral Glucose Tolerance Test (OGTT)"
+  },
+  "European DECODE Study": {
+    "chunk_ids": [
+      "chunk-85ef35aaa38ac4f0c032c8bc3f6df559"
+    ],
+    "count": 1,
+    "create_time": 1768894225,
+    "update_time": 1768894225,
+    "_id": "European DECODE Study"
+  },
+  "Diabetes": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5",
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063",
+      "chunk-55d2691a8c714949752d249721fec5e7",
+      "chunk-e8e236a5eba0e1dbf843d32e509da045",
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 6,
+    "update_time": 1768894245,
+    "_id": "Diabetes"
+  },
+  "WHO Eastern Mediterranean Region": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894225,
+    "update_time": 1768894225,
+    "_id": "WHO Eastern Mediterranean Region"
+  },
+  "Professor Sameh Abdul-Shakour": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894225,
+    "update_time": 1768894225,
+    "_id": "Professor Sameh Abdul-Shakour"
+  },
+  "Professor Kamel Ajlouni": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894226,
+    "update_time": 1768894226,
+    "_id": "Professor Kamel Ajlouni"
+  },
+  "Professor Khalid Al Rubeean": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894226,
+    "update_time": 1768894226,
+    "_id": "Professor Khalid Al Rubeean"
+  },
+  "Professor Fereiddoun Azizi": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894226,
+    "update_time": 1768894226,
+    "_id": "Professor Fereiddoun Azizi"
+  },
+  "Dr Hussein A. Gezairy": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894226,
+    "update_time": 1768894226,
+    "_id": "Dr Hussein A. Gezairy"
+  },
+  "Professor Nahla Hwalla": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894226,
+    "update_time": 1768894226,
+    "_id": "Professor Nahla Hwalla"
+  },
+  "Dr Oussama M. N. Khatib": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894226,
+    "update_time": 1768894226,
+    "_id": "Dr Oussama M. N. Khatib"
+  },
+  "Dr Jawad Lawati": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894226,
+    "update_time": 1768894226,
+    "_id": "Dr Jawad Lawati"
+  },
+  "Professor Atord Modjtabai": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894226,
+    "update_time": 1768894226,
+    "_id": "Professor Atord Modjtabai"
+  },
+  "Professor Khamis Nagati": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894226,
+    "update_time": 1768894226,
+    "_id": "Professor Khamis Nagati"
+  },
+  "Dr Samir Owais": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894226,
+    "update_time": 1768894226,
+    "_id": "Dr Samir Owais"
+  },
+  "Professor Abdul-Samad Sheera": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894227,
+    "update_time": 1768894227,
+    "_id": "Professor Abdul-Samad Sheera"
+  },
+  "Professor Ibrahim Sherif": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894227,
+    "update_time": 1768894227,
+    "_id": "Professor Ibrahim Sherif"
+  },
+  "Diabetes Education": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5",
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 2,
+    "create_time": 1768894227,
+    "update_time": 1768894227,
+    "_id": "Diabetes Education"
+  },
+  "Primary Prevention of Diabetes": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894227,
+    "update_time": 1768894227,
+    "_id": "Primary Prevention of Diabetes"
+  },
+  "Healthy Lifestyles Programmes": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894227,
+    "update_time": 1768894227,
+    "_id": "Healthy Lifestyles Programmes"
+  },
+  "Screening for Type 2 Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894227,
+    "update_time": 1768894227,
+    "_id": "Screening for Type 2 Diabetes Mellitus"
+  },
+  "Integrated Approach to Prevention and Care": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894227,
+    "update_time": 1768894227,
+    "_id": "Integrated Approach to Prevention and Care"
+  },
+  "Regional Training Course for Diabetes Educators": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894227,
+    "update_time": 1768894227,
+    "_id": "Regional Training Course for Diabetes Educators"
+  },
+  "National Diabetes Control Programme": {
+    "chunk_ids": [
+      "chunk-2173942c84747feba52cff952903a7f5"
+    ],
+    "count": 1,
+    "create_time": 1768894227,
+    "update_time": 1768894227,
+    "_id": "National Diabetes Control Programme"
+  },
+  "Myocardial Infarctions": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768894227,
+    "update_time": 1768894227,
+    "_id": "Myocardial Infarctions"
+  },
+  "Insulin Resistance": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 2,
+    "create_time": 1768894227,
+    "update_time": 1768894227,
+    "_id": "Insulin Resistance"
+  },
+  "Blood Pressure Classification": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768894228,
+    "update_time": 1768894228,
+    "_id": "Blood Pressure Classification"
+  },
+  "Treatment of Hyperglycaemia": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768894228,
+    "update_time": 1768894228,
+    "_id": "Treatment of Hyperglycaemia"
+  },
+  "Antihypertensive Therapy": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768894228,
+    "update_time": 1768894228,
+    "_id": "Antihypertensive Therapy"
+  },
+  "Cardiovascular Events": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768894228,
+    "update_time": 1768894228,
+    "_id": "Cardiovascular Events"
+  },
+  "Fasting Lipid Profile": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768894228,
+    "update_time": 1768894228,
+    "_id": "Fasting Lipid Profile"
+  },
+  "HDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768894228,
+    "update_time": 1768894228,
+    "_id": "HDL Cholesterol"
+  },
+  "Screening Guidelines": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1"
+    ],
+    "count": 1,
+    "create_time": 1768894228,
+    "update_time": 1768894228,
+    "_id": "Screening Guidelines"
+  },
+  "Brittle Diabetes": {
+    "chunk_ids": [
+      "chunk-a07cef05efd947a538701b4c41b162b1",
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 2,
+    "create_time": 1768894229,
+    "update_time": 1768894229,
+    "_id": "Brittle Diabetes"
+  },
+  "EMRO Technical Publications Series 32": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768894229,
+    "update_time": 1768894229,
+    "_id": "EMRO Technical Publications Series 32"
+  },
+  "Oussama MN Khatib": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768894229,
+    "update_time": 1768894229,
+    "_id": "Oussama MN Khatib"
+  },
+  "Regional Office for the Eastern Mediterranean": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768894229,
+    "update_time": 1768894229,
+    "_id": "Regional Office for the Eastern Mediterranean"
+  },
+  "Diabetes Mellitus - Prevention": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768894229,
+    "update_time": 1768894229,
+    "_id": "Diabetes Mellitus - Prevention"
+  },
+  "Diabetes Mellitus - Management": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768894229,
+    "update_time": 1768894229,
+    "_id": "Diabetes Mellitus - Management"
+  },
+  "Diabetes Mellitus - Guidelines": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768894229,
+    "update_time": 1768894229,
+    "_id": "Diabetes Mellitus - Guidelines"
+  },
+  "ISBN: 978-92-9021-404-5": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768894229,
+    "update_time": 1768894229,
+    "_id": "ISBN: 978-92-9021-404-5"
+  },
+  "ISSN: 1020-0428": {
+    "chunk_ids": [
+      "chunk-b253411e54c35aa95f5f9179723bba3b"
+    ],
+    "count": 1,
+    "create_time": 1768894229,
+    "update_time": 1768894229,
+    "_id": "ISSN: 1020-0428"
+  },
+  "Hypoglycemia": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768894229,
+    "update_time": 1768894229,
+    "_id": "Hypoglycemia"
+  },
+  "Type 1 Diabetes": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768894230,
+    "update_time": 1768894230,
+    "_id": "Type 1 Diabetes"
+  },
+  "Emergency Medical Personnel": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768894230,
+    "update_time": 1768894230,
+    "_id": "Emergency Medical Personnel"
+  },
+  "Glucagon": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768894230,
+    "update_time": 1768894230,
+    "_id": "Glucagon"
+  },
+  "Acute Complications of Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768894230,
+    "update_time": 1768894230,
+    "_id": "Acute Complications of Diabetes Mellitus"
+  },
+  "Chronic Painless Infection": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97",
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 2,
+    "create_time": 1768894230,
+    "update_time": 1768894230,
+    "_id": "Chronic Painless Infection"
+  },
+  "Diabetic Nephropathy": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97",
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe",
+      "chunk-fd4cfbed43aa26af0eef694fecac2177",
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 4,
+    "update_time": 1768894302,
+    "_id": "Diabetic Nephropathy"
+  },
+  "Health Care Personnel": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768894230,
+    "update_time": 1768894230,
+    "_id": "Health Care Personnel"
+  },
+  "Impaired Glucose Regulation": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768894230,
+    "update_time": 1768894230,
+    "_id": "Impaired Glucose Regulation"
+  },
+  "Impaired Fasting Glycaemia": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768894230,
+    "update_time": 1768894230,
+    "_id": "Impaired Fasting Glycaemia"
+  },
+  "Malnutrition Related Diabetes": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768894230,
+    "update_time": 1768894230,
+    "_id": "Malnutrition Related Diabetes"
+  },
+  "Gestational Diabetes": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51",
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 2,
+    "create_time": 1768894230,
+    "update_time": 1768894230,
+    "_id": "Gestational Diabetes"
+  },
+  "Diabetes Prevalence": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768894230,
+    "update_time": 1768894230,
+    "_id": "Diabetes Prevalence"
+  },
+  "Vector Toxicity": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768894231,
+    "update_time": 1768894231,
+    "_id": "Vector Toxicity"
+  },
+  "Cystic Fibrosis": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768894231,
+    "update_time": 1768894231,
+    "_id": "Cystic Fibrosis"
+  },
+  "Mitochondrial Defect": {
+    "chunk_ids": [
+      "chunk-92fbe09a650e62b7b6ea5d8769440e51"
+    ],
+    "count": 1,
+    "create_time": 1768894231,
+    "update_time": 1768894231,
+    "_id": "Mitochondrial Defect"
+  },
+  "Hypothyroidism": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894231,
+    "update_time": 1768894231,
+    "_id": "Hypothyroidism"
+  },
+  "Obstructive Liver Disease": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894231,
+    "update_time": 1768894231,
+    "_id": "Obstructive Liver Disease"
+  },
+  "Chronic Renal Disease": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894231,
+    "update_time": 1768894231,
+    "_id": "Chronic Renal Disease"
+  },
+  "Diabetic Ketoacidosis": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894231,
+    "update_time": 1768894231,
+    "_id": "Diabetic Ketoacidosis"
+  },
+  "Screening for Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f",
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 2,
+    "create_time": 1768894231,
+    "update_time": 1768894231,
+    "_id": "Screening for Diabetes Mellitus"
+  },
+  "Insulin Regimen": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894231,
+    "update_time": 1768894231,
+    "_id": "Insulin Regimen"
+  },
+  "Population Screening": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894232,
+    "update_time": 1768894232,
+    "_id": "Population Screening"
+  },
+  "Selective Screening": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894232,
+    "update_time": 1768894232,
+    "_id": "Selective Screening"
+  },
+  "Opportunistic Screening": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894232,
+    "update_time": 1768894232,
+    "_id": "Opportunistic Screening"
+  },
+  "Glucose Measurement": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894232,
+    "update_time": 1768894232,
+    "_id": "Glucose Measurement"
+  },
+  "Creatinine Clearance": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894232,
+    "update_time": 1768894232,
+    "_id": "Creatinine Clearance"
+  },
+  "Urinalysis": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894232,
+    "update_time": 1768894232,
+    "_id": "Urinalysis"
+  },
+  "Liver Function Tests": {
+    "chunk_ids": [
+      "chunk-1b7df1782c359efe079f6ade12b3688f"
+    ],
+    "count": 1,
+    "create_time": 1768894232,
+    "update_time": 1768894232,
+    "_id": "Liver Function Tests"
+  },
+  "Urinary Tract Infections": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe",
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 2,
+    "create_time": 1768894232,
+    "update_time": 1768894232,
+    "_id": "Urinary Tract Infections"
+  },
+  "Tuberculosis": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768894232,
+    "update_time": 1768894232,
+    "_id": "Tuberculosis"
+  },
+  "Atherosclerosis": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768894232,
+    "update_time": 1768894232,
+    "_id": "Atherosclerosis"
+  },
+  "Diabetic Retinopathy": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe",
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 2,
+    "create_time": 1768894233,
+    "update_time": 1768894233,
+    "_id": "Diabetic Retinopathy"
+  },
+  "Aspirin": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768894233,
+    "update_time": 1768894233,
+    "_id": "Aspirin"
+  },
+  "Bladder Instrumentation": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768894233,
+    "update_time": 1768894233,
+    "_id": "Bladder Instrumentation"
+  },
+  "Obstruction": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768894233,
+    "update_time": 1768894233,
+    "_id": "Obstruction"
+  },
+  "Neurogenic Bladder": {
+    "chunk_ids": [
+      "chunk-8e3bf51a75faa8eb6fe5fe7a0e509efe"
+    ],
+    "count": 1,
+    "create_time": 1768894233,
+    "update_time": 1768894233,
+    "_id": "Neurogenic Bladder"
+  },
+  "Ulin-Receptor Antibodies": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768894233,
+    "update_time": 1768894233,
+    "_id": "Ulin-Receptor Antibodies"
+  },
+  "Klinefelter Syndrome": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768894233,
+    "update_time": 1768894233,
+    "_id": "Klinefelter Syndrome"
+  },
+  "Down Syndrome": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768894233,
+    "update_time": 1768894233,
+    "_id": "Down Syndrome"
+  },
+  "Taiwan": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768894233,
+    "update_time": 1768894233,
+    "_id": "Taiwan"
+  },
+  "Syndrome X": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768894233,
+    "update_time": 1768894233,
+    "_id": "Syndrome X"
+  },
+  "Dr. Gerald Reaven": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768894233,
+    "update_time": 1768894233,
+    "_id": "Dr. Gerald Reaven"
+  },
+  "Individuals at High Risk": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768894234,
+    "update_time": 1768894234,
+    "_id": "Individuals at High Risk"
+  },
+  "Plasma Glucose": {
+    "chunk_ids": [
+      "chunk-12fe828372a20b6606e010f0fd5e6263"
+    ],
+    "count": 1,
+    "create_time": 1768894234,
+    "update_time": 1768894234,
+    "_id": "Plasma Glucose"
+  },
+  "Retinopathy": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b",
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2",
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 3,
+    "create_time": 1768894234,
+    "update_time": 1768894234,
+    "_id": "Retinopathy"
+  },
+  "Physician Factors": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768894234,
+    "update_time": 1768894234,
+    "_id": "Physician Factors"
+  },
+  "Patient Factors": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768894234,
+    "update_time": 1768894234,
+    "_id": "Patient Factors"
+  },
+  "Ophthalmologist": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768894234,
+    "update_time": 1768894234,
+    "_id": "Ophthalmologist"
+  },
+  "Primary Care Physician": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768894234,
+    "update_time": 1768894234,
+    "_id": "Primary Care Physician"
+  },
+  "Pan-Retinal Laser Photocoagulation": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768894234,
+    "update_time": 1768894234,
+    "_id": "Pan-Retinal Laser Photocoagulation"
+  },
+  "United Kingdom Prospective Diabetes Study Group": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768894234,
+    "update_time": 1768894234,
+    "_id": "United Kingdom Prospective Diabetes Study Group"
+  },
+  "Visual Acuity": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b"
+    ],
+    "count": 1,
+    "create_time": 1768894234,
+    "update_time": 1768894234,
+    "_id": "Visual Acuity"
+  },
+  "Ophthalmoscopy": {
+    "chunk_ids": [
+      "chunk-7ef79f22f40772c2060b439008ce485b",
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 2,
+    "create_time": 1768894235,
+    "update_time": 1768894235,
+    "_id": "Ophthalmoscopy"
+  },
+  "Table 13": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768894235,
+    "update_time": 1768894235,
+    "_id": "Table 13"
+  },
+  "Table 14": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768894235,
+    "update_time": 1768894235,
+    "_id": "Table 14"
+  },
+  "Hemoglobin A1c (HbA1c)": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768894235,
+    "update_time": 1768894235,
+    "_id": "Hemoglobin A1c (HbA1c)"
+  },
+  "Self-Monitoring of Blood Glucose (SMBG)": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768894235,
+    "update_time": 1768894235,
+    "_id": "Self-Monitoring of Blood Glucose (SMBG)"
+  },
+  "Lipid Profile": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768894235,
+    "update_time": 1768894235,
+    "_id": "Lipid Profile"
+  },
+  "Body Mass Index (BMI)": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768894235,
+    "update_time": 1768894235,
+    "_id": "Body Mass Index (BMI)"
+  },
+  "Blood Pressure": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768894235,
+    "update_time": 1768894235,
+    "_id": "Blood Pressure"
+  },
+  "Diabetes Educator": {
+    "chunk_ids": [
+      "chunk-e5fc5e661d0f94cc23c0188b9bbe4e08"
+    ],
+    "count": 1,
+    "create_time": 1768894235,
+    "update_time": 1768894235,
+    "_id": "Diabetes Educator"
+  },
+  "United Arab Emirates": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1",
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 2,
+    "update_time": 1768894259,
+    "_id": "United Arab Emirates"
+  },
+  "Qatar": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894236,
+    "update_time": 1768894236,
+    "_id": "Qatar"
+  },
+  "Bahrain": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894236,
+    "update_time": 1768894236,
+    "_id": "Bahrain"
+  },
+  "Pakistan": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894236,
+    "update_time": 1768894236,
+    "_id": "Pakistan"
+  },
+  "Impaired Glucose Tolerance (IGT)": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894236,
+    "update_time": 1768894236,
+    "_id": "Impaired Glucose Tolerance (IGT)"
+  },
+  "WHO Guidelines": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894236,
+    "update_time": 1768894236,
+    "_id": "WHO Guidelines"
+  },
+  "Diabetes Control Plan": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894236,
+    "update_time": 1768894236,
+    "_id": "Diabetes Control Plan"
+  },
+  "Kuwait": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894236,
+    "update_time": 1768894236,
+    "_id": "Kuwait"
+  },
+  "Oman": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894236,
+    "update_time": 1768894236,
+    "_id": "Oman"
+  },
+  "Jordan": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894237,
+    "update_time": 1768894237,
+    "_id": "Jordan"
+  },
+  "Egypt": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894237,
+    "update_time": 1768894237,
+    "_id": "Egypt"
+  },
+  "Libyan Arab Jamahiriya": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894237,
+    "update_time": 1768894237,
+    "_id": "Libyan Arab Jamahiriya"
+  },
+  "Morocco": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894237,
+    "update_time": 1768894237,
+    "_id": "Morocco"
+  },
+  "Saudi Arabia": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894237,
+    "update_time": 1768894237,
+    "_id": "Saudi Arabia"
+  },
+  "Sudan": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894237,
+    "update_time": 1768894237,
+    "_id": "Sudan"
+  },
+  "Somalia": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894237,
+    "update_time": 1768894237,
+    "_id": "Somalia"
+  },
+  "Syrian Arab Republic": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894237,
+    "update_time": 1768894237,
+    "_id": "Syrian Arab Republic"
+  },
+  "Tunisia": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894237,
+    "update_time": 1768894237,
+    "_id": "Tunisia"
+  },
+  "Yemen": {
+    "chunk_ids": [
+      "chunk-f15f59b3ff05825a61f252ed8f9a74e1"
+    ],
+    "count": 1,
+    "create_time": 1768894237,
+    "update_time": 1768894237,
+    "_id": "Yemen"
+  },
+  "Photocoagulation": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768894238,
+    "update_time": 1768894238,
+    "_id": "Photocoagulation"
+  },
+  "Glycaemic Control": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768894238,
+    "update_time": 1768894238,
+    "_id": "Glycaemic Control"
+  },
+  "Albumin Excretion Rate": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768894238,
+    "update_time": 1768894238,
+    "_id": "Albumin Excretion Rate"
+  },
+  "Microalbuminuria": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768894238,
+    "update_time": 1768894238,
+    "_id": "Microalbuminuria"
+  },
+  "Urinary Microalbumin Test": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768894238,
+    "update_time": 1768894238,
+    "_id": "Urinary Microalbumin Test"
+  },
+  "Cataract": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768894238,
+    "update_time": 1768894238,
+    "_id": "Cataract"
+  },
+  "Glaucoma": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768894238,
+    "update_time": 1768894238,
+    "_id": "Glaucoma"
+  },
+  "Oral Glucose Tolerance Test": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4",
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 2,
+    "create_time": 1768894238,
+    "update_time": 1768894238,
+    "_id": "Oral Glucose Tolerance Test"
+  },
+  "Casual Blood Glucose Measurement": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768894238,
+    "update_time": 1768894238,
+    "_id": "Casual Blood Glucose Measurement"
+  },
+  "Urine Glucose Measurement": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768894238,
+    "update_time": 1768894238,
+    "_id": "Urine Glucose Measurement"
+  },
+  "Glycaemic Disturbances": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768894238,
+    "update_time": 1768894238,
+    "_id": "Glycaemic Disturbances"
+  },
+  "Quality Assurance Programme": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768894239,
+    "update_time": 1768894239,
+    "_id": "Quality Assurance Programme"
+  },
+  "Sensitivity and Specificity": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768894239,
+    "update_time": 1768894239,
+    "_id": "Sensitivity and Specificity"
+  },
+  "Diagnostic Testing": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768894239,
+    "update_time": 1768894239,
+    "_id": "Diagnostic Testing"
+  },
+  "Blood Glucose": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768894239,
+    "update_time": 1768894239,
+    "_id": "Blood Glucose"
+  },
+  "Multidisciplinary Diabetes Team": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768894239,
+    "update_time": 1768894239,
+    "_id": "Multidisciplinary Diabetes Team"
+  },
+  "Food Choices": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768894239,
+    "update_time": 1768894239,
+    "_id": "Food Choices"
+  },
+  "Dietary Fat": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768894239,
+    "update_time": 1768894239,
+    "_id": "Dietary Fat"
+  },
+  "Dietician": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 2,
+    "create_time": 1768894239,
+    "update_time": 1768894239,
+    "_id": "Dietician"
+  },
+  "Exercise": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c",
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 2,
+    "create_time": 1768894239,
+    "update_time": 1768894239,
+    "_id": "Exercise"
+  },
+  "Diabetic Complications": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768894239,
+    "update_time": 1768894239,
+    "_id": "Diabetic Complications"
+  },
+  "Chronic Complications of Diabetes": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c",
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 2,
+    "update_time": 1768894252,
+    "_id": "Chronic Complications of Diabetes"
+  },
+  "Primary Care Provider": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768894240,
+    "update_time": 1768894240,
+    "_id": "Primary Care Provider"
+  },
+  "Cardiologist": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768894240,
+    "update_time": 1768894240,
+    "_id": "Cardiologist"
+  },
+  "Nutritionist": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768894240,
+    "update_time": 1768894240,
+    "_id": "Nutritionist"
+  },
+  "Nephrologist": {
+    "chunk_ids": [
+      "chunk-a560aca3f99b145384c2b736c2ceea1c"
+    ],
+    "count": 1,
+    "create_time": 1768894240,
+    "update_time": 1768894240,
+    "_id": "Nephrologist"
+  },
+  "Glycaemia": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768894240,
+    "update_time": 1768894240,
+    "_id": "Glycaemia"
+  },
+  "Kidney Disease": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768894240,
+    "update_time": 1768894240,
+    "_id": "Kidney Disease"
+  },
+  "Angiotensin-Converting Enzyme Inhibitors": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768894240,
+    "update_time": 1768894240,
+    "_id": "Angiotensin-Converting Enzyme Inhibitors"
+  },
+  "Angiotensin Receptor Blockers": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768894240,
+    "update_time": 1768894240,
+    "_id": "Angiotensin Receptor Blockers"
+  },
+  "Dietary Protein Restriction": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768894240,
+    "update_time": 1768894240,
+    "_id": "Dietary Protein Restriction"
+  },
+  "Renal Replacement Therapy": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768894240,
+    "update_time": 1768894240,
+    "_id": "Renal Replacement Therapy"
+  },
+  "Fluid Retention": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768894240,
+    "update_time": 1768894240,
+    "_id": "Fluid Retention"
+  },
+  "End-Stage Renal Disease": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768894241,
+    "update_time": 1768894241,
+    "_id": "End-Stage Renal Disease"
+  },
+  "National and Regional Databases": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768894241,
+    "update_time": 1768894241,
+    "_id": "National and Regional Databases"
+  },
+  "Nephrotoxic Drugs": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768894241,
+    "update_time": 1768894241,
+    "_id": "Nephrotoxic Drugs"
+  },
+  "Metabolic Bone Disease": {
+    "chunk_ids": [
+      "chunk-fd4cfbed43aa26af0eef694fecac2177"
+    ],
+    "count": 1,
+    "create_time": 1768894241,
+    "update_time": 1768894241,
+    "_id": "Metabolic Bone Disease"
+  },
+  "Hussein A. Gezairy": {
+    "chunk_ids": [
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 1,
+    "create_time": 1768894241,
+    "update_time": 1768894241,
+    "_id": "Hussein A. Gezairy"
+  },
+  "2003 Regional Consultation on Diabetes Prevention and Care": {
+    "chunk_ids": [
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 1,
+    "create_time": 1768894241,
+    "update_time": 1768894241,
+    "_id": "2003 Regional Consultation on Diabetes Prevention and Care"
+  },
+  "Noncommunicable Disease Programmes": {
+    "chunk_ids": [
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 1,
+    "create_time": 1768894241,
+    "update_time": 1768894241,
+    "_id": "Noncommunicable Disease Programmes"
+  },
+  "Economic Burden of Diabetes": {
+    "chunk_ids": [
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 1,
+    "create_time": 1768894241,
+    "update_time": 1768894241,
+    "_id": "Economic Burden of Diabetes"
+  },
+  "Diabetes Control Programmes": {
+    "chunk_ids": [
+      "chunk-5384df975133ef2a52113cd3ca0f897e"
+    ],
+    "count": 1,
+    "create_time": 1768894241,
+    "update_time": 1768894241,
+    "_id": "Diabetes Control Programmes"
+  },
+  "Poly-Unsaturated Fatty Acids": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768894241,
+    "update_time": 1768894241,
+    "_id": "Poly-Unsaturated Fatty Acids"
+  },
+  "Mono-Unsaturated Fatty Acids": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768894241,
+    "update_time": 1768894241,
+    "_id": "Mono-Unsaturated Fatty Acids"
+  },
+  "Trans-Fatty Acids": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768894242,
+    "update_time": 1768894242,
+    "_id": "Trans-Fatty Acids"
+  },
+  "Oral Anti-Diabetic Agents": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768894242,
+    "update_time": 1768894242,
+    "_id": "Oral Anti-Diabetic Agents"
+  },
+  "Insulin Sensitizers": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768894242,
+    "update_time": 1768894242,
+    "_id": "Insulin Sensitizers"
+  },
+  "Insulin Secretagogues": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768894242,
+    "update_time": 1768894242,
+    "_id": "Insulin Secretagogues"
+  },
+  "Diabetic Profile": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768894242,
+    "update_time": 1768894242,
+    "_id": "Diabetic Profile"
+  },
+  "Body Mass Index": {
+    "chunk_ids": [
+      "chunk-eb0252816f7fbee4c50f79ef3ee56063"
+    ],
+    "count": 1,
+    "create_time": 1768894242,
+    "update_time": 1768894242,
+    "_id": "Body Mass Index"
+  },
+  "Diabetic Foot": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768894242,
+    "update_time": 1768894242,
+    "_id": "Diabetic Foot"
+  },
+  "Lower-Limb Amputation": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768894242,
+    "update_time": 1768894242,
+    "_id": "Lower-Limb Amputation"
+  },
+  "Screening Programme": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768894242,
+    "update_time": 1768894242,
+    "_id": "Screening Programme"
+  },
+  "Lower-Limb Amputation Rate": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768894242,
+    "update_time": 1768894242,
+    "_id": "Lower-Limb Amputation Rate"
+  },
+  "Physicians": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768894243,
+    "update_time": 1768894243,
+    "_id": "Physicians"
+  },
+  "Guidelines for the Prevention, Management and Care of Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768894243,
+    "update_time": 1768894243,
+    "_id": "Guidelines for the Prevention, Management and Care of Diabetes Mellitus"
+  },
+  "Chronic Ulceration": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768894243,
+    "update_time": 1768894243,
+    "_id": "Chronic Ulceration"
+  },
+  "Financial Benefit of Prevention": {
+    "chunk_ids": [
+      "chunk-55d2691a8c714949752d249721fec5e7"
+    ],
+    "count": 1,
+    "create_time": 1768894243,
+    "update_time": 1768894243,
+    "_id": "Financial Benefit of Prevention"
+  },
+  "Cardiovascular Disease Risk": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768894243,
+    "update_time": 1768894243,
+    "_id": "Cardiovascular Disease Risk"
+  },
+  "Cardiovascular Morbidity": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768894243,
+    "update_time": 1768894243,
+    "_id": "Cardiovascular Morbidity"
+  },
+  "Myocardial Infarction": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768894243,
+    "update_time": 1768894243,
+    "_id": "Myocardial Infarction"
+  },
+  "Diagnostic Criteria for Gestational Diabetes": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768894243,
+    "update_time": 1768894243,
+    "_id": "Diagnostic Criteria for Gestational Diabetes"
+  },
+  "Glucose Challenge Test": {
+    "chunk_ids": [
+      "chunk-e8e236a5eba0e1dbf843d32e509da045"
+    ],
+    "count": 1,
+    "create_time": 1768894243,
+    "update_time": 1768894243,
+    "_id": "Glucose Challenge Test"
+  },
+  "Diabetes Management": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894245,
+    "update_time": 1768894245,
+    "_id": "Diabetes Management"
+  },
+  "Diabetes Treatment": {
+    "chunk_ids": [
+      "chunk-453e4228f98ddea76e07ce405d13fd32"
+    ],
+    "count": 1,
+    "create_time": 1768894245,
+    "update_time": 1768894245,
+    "_id": "Diabetes Treatment"
+  },
+  "Patients": {
+    "chunk_ids": [
+      "chunk-56d9ff3515afac60e7566e41837249a0"
+    ],
+    "count": 1,
+    "create_time": 1768894248,
+    "update_time": 1768894248,
+    "_id": "Patients"
+  },
+  "Cardiovascular Autonomic Neuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768894250,
+    "update_time": 1768894250,
+    "_id": "Cardiovascular Autonomic Neuropathy"
+  },
+  "Distal Sensory-Motor Neuropathy": {
+    "chunk_ids": [
+      "chunk-0748670b42b0f4e0b2ed9c5ce62d54e7"
+    ],
+    "count": 1,
+    "create_time": 1768894251,
+    "update_time": 1768894251,
+    "_id": "Distal Sensory-Motor Neuropathy"
+  },
+  "Elderly Patients": {
+    "chunk_ids": [
+      "chunk-8361af576f7e73b0bd2ea813976f60b3"
+    ],
+    "count": 1,
+    "create_time": 1768894257,
+    "update_time": 1768894257,
+    "_id": "Elderly Patients"
+  },
+  "Assessment of National Capacity for Noncommunicable Disease Prevention": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894260,
+    "update_time": 1768894260,
+    "_id": "Assessment of National Capacity for Noncommunicable Disease Prevention"
+  },
+  "Anti-GAD Antibodies": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768894262,
+    "update_time": 1768894262,
+    "_id": "Anti-GAD Antibodies"
+  },
+  "Insulin Antibodies": {
+    "chunk_ids": [
+      "chunk-42a410eaaaed4b7428f5e95a4c7c4580"
+    ],
+    "count": 1,
+    "create_time": 1768894263,
+    "update_time": 1768894263,
+    "_id": "Insulin Antibodies"
+  },
+  "Report on the Regional Consultation on Diabetes Education": {
+    "chunk_ids": [
+      "chunk-57782c3301473bc8e8dafd9683ab2650"
+    ],
+    "count": 1,
+    "create_time": 1768894263,
+    "update_time": 1768894263,
+    "_id": "Report on the Regional Consultation on Diabetes Education"
+  },
+  "Da Qing IGT and Diabetes Study": {
+    "chunk_ids": [
+      "chunk-942e000d0de99e8628ab9c8bcbe83419"
+    ],
+    "count": 1,
+    "create_time": 1768894266,
+    "update_time": 1768894266,
+    "_id": "Da Qing IGT and Diabetes Study"
+  },
+  "Statin + Fibrate": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768894268,
+    "update_time": 1768894268,
+    "_id": "Statin + Fibrate"
+  },
+  "Fibrate + Nicotinic Acid": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768894268,
+    "update_time": 1768894268,
+    "_id": "Fibrate + Nicotinic Acid"
+  },
+  "Statin + Ezetimibe": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768894269,
+    "update_time": 1768894269,
+    "_id": "Statin + Ezetimibe"
+  },
+  "Statin + Nicotinic Acid": {
+    "chunk_ids": [
+      "chunk-ed87909b4bdb657354ca0eab1450156f"
+    ],
+    "count": 1,
+    "create_time": 1768894271,
+    "update_time": 1768894271,
+    "_id": "Statin + Nicotinic Acid"
+  },
+  "Hyperglycemic Hyperosmolar State": {
+    "chunk_ids": [
+      "chunk-76910bb9e0e5a60b043dd2786bf63e97"
+    ],
+    "count": 1,
+    "create_time": 1768894276,
+    "update_time": 1768894276,
+    "_id": "Hyperglycemic Hyperosmolar State"
+  },
+  "Blood Pressure Monitoring": {
+    "chunk_ids": [
+      "chunk-5e1400e1158e4f7be2283a0366ebf4f2"
+    ],
+    "count": 1,
+    "create_time": 1768894301,
+    "update_time": 1768894301,
+    "_id": "Blood Pressure Monitoring"
+  },
+  "Portable Meters": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768894303,
+    "update_time": 1768894303,
+    "_id": "Portable Meters"
+  },
+  "Blood Glucose Testing": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768894303,
+    "update_time": 1768894303,
+    "_id": "Blood Glucose Testing"
+  },
+  "Blood Glucose Measurement Methods": {
+    "chunk_ids": [
+      "chunk-25fb88c8ed14936954356d104de095d4"
+    ],
+    "count": 1,
+    "create_time": 1768894303,
+    "update_time": 1768894303,
+    "_id": "Blood Glucose Measurement Methods"
+  }
+}

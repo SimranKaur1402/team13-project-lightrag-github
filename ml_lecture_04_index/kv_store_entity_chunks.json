@@ -1,0 +1,1024 @@
+{
+  "Andrew Ng": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763",
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023",
+      "chunk-d65cfad802d1335db113217e2cb6afbe",
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 6,
+    "create_time": 1767701765,
+    "update_time": 1767701765,
+    "_id": "Andrew Ng"
+  },
+  "Scaler": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767701765,
+    "update_time": 1767701765,
+    "_id": "Scaler"
+  },
+  "Vector": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767701765,
+    "update_time": 1767701765,
+    "_id": "Vector"
+  },
+  "Gaussian Distribution": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-486f08627d119b0879789e4cf88e8904",
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 4,
+    "create_time": 1767701765,
+    "update_time": 1767701765,
+    "_id": "Gaussian Distribution"
+  },
+  "Exponential Family Distribution": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-486f08627d119b0879789e4cf88e8904",
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 5,
+    "create_time": 1767701765,
+    "update_time": 1767701765,
+    "_id": "Exponential Family Distribution"
+  },
+  "Normal Distribution": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767701765,
+    "update_time": 1767701765,
+    "_id": "Normal Distribution"
+  },
+  "Lecture": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767701765,
+    "update_time": 1767701765,
+    "_id": "Lecture"
+  },
+  "Probability Mass Function": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767701765,
+    "update_time": 1767701765,
+    "_id": "Probability Mass Function"
+  },
+  "Maximum Likelihood Estimate": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "Maximum Likelihood Estimate"
+  },
+  "Parameters": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023",
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 3,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "Parameters"
+  },
+  "Exponential Family": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-674af09a64beddbff4e4e4b6e543709a",
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 3,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "Exponential Family"
+  },
+  "Softmax Regression": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "Softmax Regression"
+  },
+  "Logistic Regression": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a",
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763",
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023",
+      "chunk-d65cfad802d1335db113217e2cb6afbe",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 7,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "Logistic Regression"
+  },
+  "Indicator Function": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a",
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 2,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "Indicator Function"
+  },
+  "Expected Value": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "Expected Value"
+  },
+  "Training Set": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a",
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 2,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "Training Set"
+  },
+  "Maximum Likelihood": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "Maximum Likelihood"
+  },
+  "[Inaudible]": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "[Inaudible]"
+  },
+  "K Classes": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "K Classes"
+  },
+  "Newtons Method": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 2,
+    "create_time": 1767701766,
+    "update_time": 1767701766,
+    "_id": "Newtons Method"
+  },
+  "Gradient Ascent": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763",
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 3,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "Gradient Ascent"
+  },
+  "Theta": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2",
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023",
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a",
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 5,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "Theta"
+  },
+  "Function F": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "Function F"
+  },
+  "Function L": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "Function L"
+  },
+  "Derivative": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "Derivative"
+  },
+  "Local Optimum": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "Local Optimum"
+  },
+  "Theta Superscript Zero": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "Theta Superscript Zero"
+  },
+  "Theta Superscript One": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "Theta Superscript One"
+  },
+  "F Prime of Theta": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "F Prime of Theta"
+  },
+  "L Double Prime of Theta": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "L Double Prime of Theta"
+  },
+  "Hessian": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "Hessian"
+  },
+  "Generalized Linear Models": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 2,
+    "create_time": 1767701767,
+    "update_time": 1767701767,
+    "_id": "Generalized Linear Models"
+  },
+  "theta": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "theta"
+  },
+  "Iterations": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "Iterations"
+  },
+  "0.01 Error": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "0.01 Error"
+  },
+  "Phi One": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "Phi One"
+  },
+  "Phi Two": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "Phi Two"
+  },
+  "Phi K": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "Phi K"
+  },
+  "Parson Distribution": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a",
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 2,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "Parson Distribution"
+  },
+  "Generalized Linear Model": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a",
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 2,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "Generalized Linear Model"
+  },
+  "Logistic Regression Algorithm": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "Logistic Regression Algorithm"
+  },
+  "Probability Y Equals One": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "Probability Y Equals One"
+  },
+  "X": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "X"
+  },
+  "Canonical Response Function": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "Canonical Response Function"
+  },
+  "G Inverse": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701768,
+    "update_time": 1767701768,
+    "_id": "G Inverse"
+  },
+  "Machine Learning": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767701769,
+    "update_time": 1767701769,
+    "_id": "Machine Learning"
+  },
+  "Project Proposals": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767701769,
+    "update_time": 1767701769,
+    "_id": "Project Proposals"
+  },
+  "Office Hours": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767701769,
+    "update_time": 1767701769,
+    "_id": "Office Hours"
+  },
+  "Newton's Method": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767701769,
+    "update_time": 1767701769,
+    "_id": "Newton's Method"
+  },
+  "TA": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767701769,
+    "update_time": 1767701769,
+    "_id": "TA"
+  },
+  "TA's Office Hours": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767701769,
+    "update_time": 1767701769,
+    "_id": "TA's Office Hours"
+  },
+  "Sufficient Statistic": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 2,
+    "create_time": 1767701769,
+    "update_time": 1767701769,
+    "_id": "Sufficient Statistic"
+  },
+  "Zero-One Valued Data": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767701769,
+    "update_time": 1767701769,
+    "_id": "Zero-One Valued Data"
+  },
+  "Probability Distribution": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 2,
+    "create_time": 1767701769,
+    "update_time": 1767701769,
+    "_id": "Probability Distribution"
+  },
+  "Natural Parameter": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 2,
+    "create_time": 1767701769,
+    "update_time": 1767701769,
+    "_id": "Natural Parameter"
+  },
+  "Gamma Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "Gamma Distribution"
+  },
+  "Exponential Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "Exponential Distribution"
+  },
+  "Generalized Linear Model (GLM)": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "Generalized Linear Model (GLM)"
+  },
+  "Response Variable Y": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "Response Variable Y"
+  },
+  "Input X": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "Input X"
+  },
+  "Coin Toss": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "Coin Toss"
+  },
+  "Wisha Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "Wisha Distribution"
+  },
+  "Logistic Regression Model": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "Logistic Regression Model"
+  },
+  "Decision Boundary": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "Decision Boundary"
+  },
+  "Maximizing Log Likelihood": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "Maximizing Log Likelihood"
+  },
+  "Multi-Cause Classification Problem": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "Multi-Cause Classification Problem"
+  },
+  "K Possible Outcomes": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701770,
+    "update_time": 1767701770,
+    "_id": "K Possible Outcomes"
+  },
+  "Gaussian": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701771,
+    "update_time": 1767701771,
+    "_id": "Gaussian"
+  },
+  "Exponential Family Distributions": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701771,
+    "update_time": 1767701771,
+    "_id": "Exponential Family Distributions"
+  },
+  "A": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701771,
+    "update_time": 1767701771,
+    "_id": "A"
+  },
+  "B": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701771,
+    "update_time": 1767701771,
+    "_id": "B"
+  },
+  "Y": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd",
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7",
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 3,
+    "update_time": 1767701773,
+    "_id": "Y"
+  },
+  "Phi": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701771,
+    "update_time": 1767701771,
+    "_id": "Phi"
+  },
+  "Student": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701771,
+    "update_time": 1767701771,
+    "_id": "Student"
+  },
+  "Instructor (Andrew Ng)": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701771,
+    "update_time": 1767701771,
+    "_id": "Instructor (Andrew Ng)"
+  },
+  "The Exponential Family": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701771,
+    "update_time": 1767701771,
+    "_id": "The Exponential Family"
+  },
+  "T of Y": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd",
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 2,
+    "create_time": 1767701771,
+    "update_time": 1767701771,
+    "_id": "T of Y"
+  },
+  "Raw Number": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701771,
+    "update_time": 1767701771,
+    "_id": "Raw Number"
+  },
+  "Parameterization": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767701772,
+    "update_time": 1767701772,
+    "_id": "Parameterization"
+  },
+  "Indicator Function Notation": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767701772,
+    "update_time": 1767701772,
+    "_id": "Indicator Function Notation"
+  },
+  "K": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767701772,
+    "update_time": 1767701772,
+    "_id": "K"
+  },
+  "Likelihood": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767701778,
+    "update_time": 1767701778,
+    "_id": "Likelihood"
+  },
+  "Canonical Link Function": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701779,
+    "update_time": 1767701779,
+    "_id": "Canonical Link Function"
+  },
+  "Energy Systems": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708692,
+    "update_time": 1767708692,
+    "_id": "Energy Systems"
+  },
+  "Sustainable Development": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708692,
+    "update_time": 1767708692,
+    "_id": "Sustainable Development"
+  },
+  "Energy Generation": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708692,
+    "update_time": 1767708692,
+    "_id": "Energy Generation"
+  },
+  "Energy Distribution": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708692,
+    "update_time": 1767708692,
+    "_id": "Energy Distribution"
+  },
+  "Energy Policy": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708692,
+    "update_time": 1767708692,
+    "_id": "Energy Policy"
+  },
+  "Energy Infrastructure": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708692,
+    "update_time": 1767708692,
+    "_id": "Energy Infrastructure"
+  },
+  "Renewable Energy": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708692,
+    "update_time": 1767708692,
+    "_id": "Renewable Energy"
+  },
+  "Climate Change": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708692,
+    "update_time": 1767708692,
+    "_id": "Climate Change"
+  },
+  "Energy Poverty": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f",
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 2,
+    "create_time": 1767708693,
+    "update_time": 1767708693,
+    "_id": "Energy Poverty"
+  },
+  "Region R": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f",
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 2,
+    "create_time": 1767708694,
+    "update_time": 1767708694,
+    "_id": "Region R"
+  },
+  "Fossil Fuels": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708694,
+    "update_time": 1767708694,
+    "_id": "Fossil Fuels"
+  },
+  "Nuclear Power": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708694,
+    "update_time": 1767708694,
+    "_id": "Nuclear Power"
+  },
+  "Solar Power": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708694,
+    "update_time": 1767708694,
+    "_id": "Solar Power"
+  },
+  "Wind Energy": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708694,
+    "update_time": 1767708694,
+    "_id": "Wind Energy"
+  },
+  "Hydroelectric Power": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708694,
+    "update_time": 1767708694,
+    "_id": "Hydroelectric Power"
+  },
+  "Environmental Compliance": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708695,
+    "update_time": 1767708695,
+    "_id": "Environmental Compliance"
+  },
+  "Energy Availability": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708695,
+    "update_time": 1767708695,
+    "_id": "Energy Availability"
+  },
+  "Greenhouse Gas Emissions": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708695,
+    "update_time": 1767708695,
+    "_id": "Greenhouse Gas Emissions"
+  },
+  "Mitigation Strategies": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708695,
+    "update_time": 1767708695,
+    "_id": "Mitigation Strategies"
+  },
+  "Sustainable Energy Development": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708695,
+    "update_time": 1767708695,
+    "_id": "Sustainable Energy Development"
+  },
+  "Economic Growth": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48",
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 2,
+    "update_time": 1767708696,
+    "_id": "Economic Growth"
+  },
+  "Employment": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708695,
+    "update_time": 1767708695,
+    "_id": "Employment"
+  },
+  "Quality of Life": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708695,
+    "update_time": 1767708695,
+    "_id": "Quality of Life"
+  },
+  "Healthcare": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708695,
+    "update_time": 1767708695,
+    "_id": "Healthcare"
+  },
+  "Social Development": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708695,
+    "update_time": 1767708695,
+    "_id": "Social Development"
+  },
+  "Education": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708698,
+    "update_time": 1767708698,
+    "_id": "Education"
+  }
+}

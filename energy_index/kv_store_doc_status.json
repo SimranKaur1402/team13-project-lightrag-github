@@ -1,0 +1,20 @@
+{
+  "doc-238a1d469be0b53037da21a857a14e85": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f",
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "content_summary": "ENERGY SYSTEMS AND\nSUSTAINABLE DEVELOPMENT\nREPORT\nIntroduction\nEnergy systems form the backbone of modern economies by\nsupporting industrial production, transportation, communication,\nand household activities. This report examines energy generation,\n...",
+    "content_length": 8459,
+    "created_at": "2026-01-06T14:17:01.986553+00:00",
+    "updated_at": "2026-01-06T14:17:35.680014+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260106_194701_bed9ee94",
+    "metadata": {
+      "processing_start_time": 1767709022,
+      "processing_end_time": 1767709055
+    }
+  }
+}

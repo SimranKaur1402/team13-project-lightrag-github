@@ -1,0 +1,394 @@
+{
+  "doc-0fed72d1c9e10f98f51ef5c1b3b1715e": {
+    "relation_pairs": [
+      [
+        "Exponential Family Distribution",
+        "Parameters"
+      ],
+      [
+        "Coin Toss",
+        "Exponential Family Distribution"
+      ],
+      [
+        "Andrew Ng",
+        "Maximizing Log Likelihood"
+      ],
+      [
+        "Andrew Ng",
+        "Exponential Family Distribution"
+      ],
+      [
+        "Generalized Linear Model",
+        "Parson Distribution"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Generalized Linear Model (GLM)"
+      ],
+      [
+        "Hessian",
+        "Newtons Method"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Natural Parameter"
+      ],
+      [
+        "Gradient Ascent",
+        "Theta"
+      ],
+      [
+        "T of Y",
+        "Y"
+      ],
+      [
+        "Local Optimum",
+        "Newtons Method"
+      ],
+      [
+        "Probability Y Equals One",
+        "Theta"
+      ],
+      [
+        "Theta Superscript One",
+        "Theta Superscript Zero"
+      ],
+      [
+        "Logistic Regression",
+        "Newton's Method"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Parson Distribution"
+      ],
+      [
+        "Andrew Ng",
+        "Logistic Regression Model"
+      ],
+      [
+        "Gradient Ascent",
+        "Likelihood"
+      ],
+      [
+        "Softmax Regression",
+        "[Inaudible]"
+      ],
+      [
+        "Exponential Family",
+        "Softmax Regression"
+      ],
+      [
+        "Gaussian Distribution",
+        "Normal Distribution"
+      ],
+      [
+        "Parameters",
+        "T of Y"
+      ],
+      [
+        "Iterations",
+        "Newtons Method"
+      ],
+      [
+        "Andrew Ng",
+        "Machine Learning"
+      ],
+      [
+        "Andrew Ng",
+        "Gradient Ascent"
+      ],
+      [
+        "K Classes",
+        "Softmax Regression"
+      ],
+      [
+        "Generalized Linear Models",
+        "Sufficient Statistic"
+      ],
+      [
+        "L Double Prime of Theta",
+        "Theta"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Gaussian Distribution"
+      ],
+      [
+        "Logistic Regression",
+        "Probability Distribution"
+      ],
+      [
+        "Andrew Ng",
+        "TA"
+      ],
+      [
+        "Andrew Ng",
+        "Newtons Method"
+      ],
+      [
+        "Logistic Regression",
+        "Zero-One Valued Data"
+      ],
+      [
+        "Logistic Regression",
+        "Softmax Regression"
+      ],
+      [
+        "Generalized Linear Models",
+        "Logistic Regression"
+      ],
+      [
+        "Phi Two",
+        "Theta"
+      ],
+      [
+        "Generalized Linear Model",
+        "Logistic Regression Algorithm"
+      ],
+      [
+        "Andrew Ng",
+        "K Possible Outcomes"
+      ],
+      [
+        "Andrew Ng",
+        "Generalized Linear Model"
+      ],
+      [
+        "Logistic Regression Algorithm",
+        "Probability Y Equals One"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Wisha Distribution"
+      ],
+      [
+        "Scaler",
+        "Vector"
+      ],
+      [
+        "Canonical Response Function",
+        "Logistic Regression Algorithm"
+      ],
+      [
+        "Function F",
+        "Theta"
+      ],
+      [
+        "Softmax Regression",
+        "Training Set"
+      ],
+      [
+        "Andrew Ng",
+        "Gaussian Distribution"
+      ],
+      [
+        "Probability Distribution",
+        "Sufficient Statistic"
+      ],
+      [
+        "Theta",
+        "X"
+      ],
+      [
+        "Gradient Ascent",
+        "Newtons Method"
+      ],
+      [
+        "Andrew Ng",
+        "Office Hours"
+      ],
+      [
+        "Andrew Ng",
+        "Multi-Cause Classification Problem"
+      ],
+      [
+        "Maximum Likelihood",
+        "Training Set"
+      ],
+      [
+        "Indicator Function Notation",
+        "T of Y"
+      ],
+      [
+        "Probability Mass Function",
+        "Y"
+      ],
+      [
+        "F Prime of Theta",
+        "Theta"
+      ],
+      [
+        "Function L",
+        "Theta"
+      ],
+      [
+        "Phi One",
+        "Theta"
+      ],
+      [
+        "Exponential Family",
+        "Parson Distribution"
+      ],
+      [
+        "Maximum Likelihood Estimate",
+        "Parameters"
+      ],
+      [
+        "Input X",
+        "Response Variable Y"
+      ],
+      [
+        "Andrew Ng",
+        "Project Proposals"
+      ],
+      [
+        "Phi",
+        "Y"
+      ],
+      [
+        "Andrew Ng",
+        "Logistic Regression"
+      ],
+      [
+        "Parameterization",
+        "Parameters"
+      ],
+      [
+        "Logistic Regression",
+        "Newtons Method"
+      ],
+      [
+        "Canonical Link Function",
+        "G Inverse"
+      ],
+      [
+        "Andrew Ng",
+        "Theta"
+      ],
+      [
+        "Andrew Ng",
+        "Lecture"
+      ],
+      [
+        "Exponential Family Distributions",
+        "Gaussian"
+      ],
+      [
+        "Instructor (Andrew Ng)",
+        "Student"
+      ],
+      [
+        "Raw Number",
+        "T of Y"
+      ],
+      [
+        "Expected Value",
+        "Indicator Function"
+      ],
+      [
+        "Phi K",
+        "Theta"
+      ],
+      [
+        "Exponential Family Distribution",
+        "Gamma Distribution"
+      ],
+      [
+        "Parameters",
+        "Training Set"
+      ]
+    ],
+    "count": 74,
+    "create_time": 1767701789,
+    "update_time": 1767701789,
+    "_id": "doc-0fed72d1c9e10f98f51ef5c1b3b1715e"
+  },
+  "doc-238a1d469be0b53037da21a857a14e85": {
+    "relation_pairs": [
+      [
+        "Region R",
+        "Sustainable Energy Development"
+      ],
+      [
+        "Energy Generation",
+        "Nuclear Power"
+      ],
+      [
+        "Energy Systems",
+        "Sustainable Development"
+      ],
+      [
+        "Economic Growth",
+        "Energy Availability"
+      ],
+      [
+        "Climate Change",
+        "Energy Systems"
+      ],
+      [
+        "Energy Generation",
+        "Solar Power"
+      ],
+      [
+        "Energy Availability",
+        "Quality of Life"
+      ],
+      [
+        "Energy Generation",
+        "Energy Infrastructure"
+      ],
+      [
+        "Energy Generation",
+        "Wind Energy"
+      ],
+      [
+        "Greenhouse Gas Emissions",
+        "Mitigation Strategies"
+      ],
+      [
+        "Energy Policy",
+        "Renewable Energy"
+      ],
+      [
+        "Region R",
+        "Renewable Energy"
+      ],
+      [
+        "Energy Generation",
+        "Hydroelectric Power"
+      ],
+      [
+        "Education",
+        "Energy Poverty"
+      ],
+      [
+        "Environmental Compliance",
+        "Sustainable Energy Development"
+      ],
+      [
+        "Energy Poverty",
+        "Healthcare"
+      ],
+      [
+        "Energy Generation",
+        "Fossil Fuels"
+      ],
+      [
+        "Economic Growth",
+        "Energy Poverty"
+      ],
+      [
+        "Economic Growth",
+        "Employment"
+      ],
+      [
+        "Energy Availability",
+        "Social Development"
+      ]
+    ],
+    "count": 20,
+    "create_time": 1767708701,
+    "update_time": 1767708701,
+    "_id": "doc-238a1d469be0b53037da21a857a14e85"
+  }
+}

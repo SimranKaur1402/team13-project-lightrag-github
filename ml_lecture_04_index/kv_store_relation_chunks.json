@@ -1,0 +1,856 @@
+{
+  "Andrew Ng<SEP>Lecture": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767701773,
+    "update_time": 1767701773,
+    "_id": "Andrew Ng<SEP>Lecture"
+  },
+  "Scaler<SEP>Vector": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767701773,
+    "update_time": 1767701773,
+    "_id": "Scaler<SEP>Vector"
+  },
+  "Exponential Family Distribution<SEP>Gaussian Distribution": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85",
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 3,
+    "create_time": 1767701773,
+    "update_time": 1767701773,
+    "_id": "Exponential Family Distribution<SEP>Gaussian Distribution"
+  },
+  "Probability Mass Function<SEP>Y": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767701773,
+    "update_time": 1767701773,
+    "_id": "Probability Mass Function<SEP>Y"
+  },
+  "Maximum Likelihood Estimate<SEP>Parameters": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767701773,
+    "update_time": 1767701773,
+    "_id": "Maximum Likelihood Estimate<SEP>Parameters"
+  },
+  "Logistic Regression<SEP>Softmax Regression": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701773,
+    "update_time": 1767701773,
+    "_id": "Logistic Regression<SEP>Softmax Regression"
+  },
+  "Maximum Likelihood<SEP>Training Set": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701774,
+    "update_time": 1767701774,
+    "_id": "Maximum Likelihood<SEP>Training Set"
+  },
+  "Gaussian Distribution<SEP>Normal Distribution": {
+    "chunk_ids": [
+      "chunk-1dcfa4fdc2012c4e3a3c336e39e4afec"
+    ],
+    "count": 1,
+    "create_time": 1767701774,
+    "update_time": 1767701774,
+    "_id": "Gaussian Distribution<SEP>Normal Distribution"
+  },
+  "Expected Value<SEP>Indicator Function": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701774,
+    "update_time": 1767701774,
+    "_id": "Expected Value<SEP>Indicator Function"
+  },
+  "Softmax Regression<SEP>Training Set": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701774,
+    "update_time": 1767701774,
+    "_id": "Softmax Regression<SEP>Training Set"
+  },
+  "Gradient Ascent<SEP>Newtons Method": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701774,
+    "update_time": 1767701774,
+    "_id": "Gradient Ascent<SEP>Newtons Method"
+  },
+  "Function F<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701774,
+    "update_time": 1767701774,
+    "_id": "Function F<SEP>Theta"
+  },
+  "Exponential Family<SEP>Softmax Regression": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701775,
+    "update_time": 1767701775,
+    "_id": "Exponential Family<SEP>Softmax Regression"
+  },
+  "Function L<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701775,
+    "update_time": 1767701775,
+    "_id": "Function L<SEP>Theta"
+  },
+  "Logistic Regression<SEP>Newtons Method": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 2,
+    "create_time": 1767701775,
+    "update_time": 1767701775,
+    "_id": "Logistic Regression<SEP>Newtons Method"
+  },
+  "Theta Superscript One<SEP>Theta Superscript Zero": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701775,
+    "update_time": 1767701775,
+    "_id": "Theta Superscript One<SEP>Theta Superscript Zero"
+  },
+  "F Prime of Theta<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701775,
+    "update_time": 1767701775,
+    "_id": "F Prime of Theta<SEP>Theta"
+  },
+  "Softmax Regression<SEP>[Inaudible]": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701775,
+    "update_time": 1767701775,
+    "_id": "Softmax Regression<SEP>[Inaudible]"
+  },
+  "L Double Prime of Theta<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701776,
+    "update_time": 1767701776,
+    "_id": "L Double Prime of Theta<SEP>Theta"
+  },
+  "Andrew Ng<SEP>Newtons Method": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2",
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 2,
+    "create_time": 1767701776,
+    "update_time": 1767701776,
+    "_id": "Andrew Ng<SEP>Newtons Method"
+  },
+  "Generalized Linear Models<SEP>Logistic Regression": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763",
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 2,
+    "create_time": 1767701776,
+    "update_time": 1767701776,
+    "_id": "Generalized Linear Models<SEP>Logistic Regression"
+  },
+  "K Classes<SEP>Softmax Regression": {
+    "chunk_ids": [
+      "chunk-674af09a64beddbff4e4e4b6e543709a"
+    ],
+    "count": 1,
+    "create_time": 1767701776,
+    "update_time": 1767701776,
+    "_id": "K Classes<SEP>Softmax Regression"
+  },
+  "Gradient Ascent<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767701777,
+    "update_time": 1767701777,
+    "_id": "Gradient Ascent<SEP>Theta"
+  },
+  "Local Optimum<SEP>Newtons Method": {
+    "chunk_ids": [
+      "chunk-7d9737bbcc99dd55bb4b79cf055977a2"
+    ],
+    "count": 1,
+    "create_time": 1767701777,
+    "update_time": 1767701777,
+    "_id": "Local Optimum<SEP>Newtons Method"
+  },
+  "Parameters<SEP>Training Set": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767701777,
+    "update_time": 1767701777,
+    "_id": "Parameters<SEP>Training Set"
+  },
+  "Andrew Ng<SEP>Gradient Ascent": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767701777,
+    "update_time": 1767701777,
+    "_id": "Andrew Ng<SEP>Gradient Ascent"
+  },
+  "Hessian<SEP>Newtons Method": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767701778,
+    "update_time": 1767701778,
+    "_id": "Hessian<SEP>Newtons Method"
+  },
+  "Phi One<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767701778,
+    "update_time": 1767701778,
+    "_id": "Phi One<SEP>Theta"
+  },
+  "Gradient Ascent<SEP>Likelihood": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767701778,
+    "update_time": 1767701778,
+    "_id": "Gradient Ascent<SEP>Likelihood"
+  },
+  "Iterations<SEP>Newtons Method": {
+    "chunk_ids": [
+      "chunk-1aa4c1f1bcccecc7faef4f12ad096763"
+    ],
+    "count": 1,
+    "create_time": 1767701778,
+    "update_time": 1767701778,
+    "_id": "Iterations<SEP>Newtons Method"
+  },
+  "Generalized Linear Model<SEP>Parson Distribution": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701778,
+    "update_time": 1767701778,
+    "_id": "Generalized Linear Model<SEP>Parson Distribution"
+  },
+  "Phi Two<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767701778,
+    "update_time": 1767701778,
+    "_id": "Phi Two<SEP>Theta"
+  },
+  "Logistic Regression Algorithm<SEP>Probability Y Equals One": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701778,
+    "update_time": 1767701778,
+    "_id": "Logistic Regression Algorithm<SEP>Probability Y Equals One"
+  },
+  "Andrew Ng<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023",
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 2,
+    "create_time": 1767701779,
+    "update_time": 1767701779,
+    "_id": "Andrew Ng<SEP>Theta"
+  },
+  "Generalized Linear Model<SEP>Logistic Regression Algorithm": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701779,
+    "update_time": 1767701779,
+    "_id": "Generalized Linear Model<SEP>Logistic Regression Algorithm"
+  },
+  "Exponential Family<SEP>Parson Distribution": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701779,
+    "update_time": 1767701779,
+    "_id": "Exponential Family<SEP>Parson Distribution"
+  },
+  "Canonical Response Function<SEP>Logistic Regression Algorithm": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701779,
+    "update_time": 1767701779,
+    "_id": "Canonical Response Function<SEP>Logistic Regression Algorithm"
+  },
+  "Canonical Link Function<SEP>G Inverse": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701779,
+    "update_time": 1767701779,
+    "_id": "Canonical Link Function<SEP>G Inverse"
+  },
+  "Phi K<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023"
+    ],
+    "count": 1,
+    "create_time": 1767701780,
+    "update_time": 1767701780,
+    "_id": "Phi K<SEP>Theta"
+  },
+  "Andrew Ng<SEP>Logistic Regression": {
+    "chunk_ids": [
+      "chunk-ac0a1ea80eae7c222bf0ffd73875b023",
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 2,
+    "create_time": 1767701780,
+    "update_time": 1767701780,
+    "_id": "Andrew Ng<SEP>Logistic Regression"
+  },
+  "Theta<SEP>X": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701780,
+    "update_time": 1767701780,
+    "_id": "Theta<SEP>X"
+  },
+  "Andrew Ng<SEP>Machine Learning": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767701780,
+    "update_time": 1767701780,
+    "_id": "Andrew Ng<SEP>Machine Learning"
+  },
+  "Logistic Regression<SEP>Newton's Method": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767701780,
+    "update_time": 1767701780,
+    "_id": "Logistic Regression<SEP>Newton's Method"
+  },
+  "Probability Y Equals One<SEP>Theta": {
+    "chunk_ids": [
+      "chunk-cb276908b4dcc65a416b2c0490f93e3a"
+    ],
+    "count": 1,
+    "create_time": 1767701781,
+    "update_time": 1767701781,
+    "_id": "Probability Y Equals One<SEP>Theta"
+  },
+  "Generalized Linear Models<SEP>Sufficient Statistic": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767701781,
+    "update_time": 1767701781,
+    "_id": "Generalized Linear Models<SEP>Sufficient Statistic"
+  },
+  "Andrew Ng<SEP>Project Proposals": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767701781,
+    "update_time": 1767701781,
+    "_id": "Andrew Ng<SEP>Project Proposals"
+  },
+  "Exponential Family Distribution<SEP>Natural Parameter": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767701781,
+    "update_time": 1767701781,
+    "_id": "Exponential Family Distribution<SEP>Natural Parameter"
+  },
+  "Logistic Regression<SEP>Zero-One Valued Data": {
+    "chunk_ids": [
+      "chunk-38d7cccd02d2282bbd339ef51ba43f85"
+    ],
+    "count": 1,
+    "create_time": 1767701781,
+    "update_time": 1767701781,
+    "_id": "Logistic Regression<SEP>Zero-One Valued Data"
+  },
+  "Andrew Ng<SEP>Office Hours": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767701781,
+    "update_time": 1767701781,
+    "_id": "Andrew Ng<SEP>Office Hours"
+  },
+  "Input X<SEP>Response Variable Y": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701782,
+    "update_time": 1767701782,
+    "_id": "Input X<SEP>Response Variable Y"
+  },
+  "Exponential Family Distribution<SEP>Generalized Linear Model (GLM)": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701782,
+    "update_time": 1767701782,
+    "_id": "Exponential Family Distribution<SEP>Generalized Linear Model (GLM)"
+  },
+  "Andrew Ng<SEP>TA": {
+    "chunk_ids": [
+      "chunk-d65cfad802d1335db113217e2cb6afbe"
+    ],
+    "count": 1,
+    "create_time": 1767701782,
+    "update_time": 1767701782,
+    "_id": "Andrew Ng<SEP>TA"
+  },
+  "Exponential Family Distribution<SEP>Parson Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701783,
+    "update_time": 1767701783,
+    "_id": "Exponential Family Distribution<SEP>Parson Distribution"
+  },
+  "Andrew Ng<SEP>Logistic Regression Model": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701783,
+    "update_time": 1767701783,
+    "_id": "Andrew Ng<SEP>Logistic Regression Model"
+  },
+  "Exponential Family Distribution<SEP>Gamma Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701783,
+    "update_time": 1767701783,
+    "_id": "Exponential Family Distribution<SEP>Gamma Distribution"
+  },
+  "Andrew Ng<SEP>Gaussian Distribution": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701783,
+    "update_time": 1767701783,
+    "_id": "Andrew Ng<SEP>Gaussian Distribution"
+  },
+  "Coin Toss<SEP>Exponential Family Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701784,
+    "update_time": 1767701784,
+    "_id": "Coin Toss<SEP>Exponential Family Distribution"
+  },
+  "Andrew Ng<SEP>Generalized Linear Model": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701784,
+    "update_time": 1767701784,
+    "_id": "Andrew Ng<SEP>Generalized Linear Model"
+  },
+  "Probability Distribution<SEP>Sufficient Statistic": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701784,
+    "update_time": 1767701784,
+    "_id": "Probability Distribution<SEP>Sufficient Statistic"
+  },
+  "Exponential Family Distribution<SEP>Wisha Distribution": {
+    "chunk_ids": [
+      "chunk-486f08627d119b0879789e4cf88e8904"
+    ],
+    "count": 1,
+    "create_time": 1767701784,
+    "update_time": 1767701784,
+    "_id": "Exponential Family Distribution<SEP>Wisha Distribution"
+  },
+  "Exponential Family Distributions<SEP>Gaussian": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701784,
+    "update_time": 1767701784,
+    "_id": "Exponential Family Distributions<SEP>Gaussian"
+  },
+  "Andrew Ng<SEP>Maximizing Log Likelihood": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701784,
+    "update_time": 1767701784,
+    "_id": "Andrew Ng<SEP>Maximizing Log Likelihood"
+  },
+  "Logistic Regression<SEP>Probability Distribution": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701784,
+    "update_time": 1767701784,
+    "_id": "Logistic Regression<SEP>Probability Distribution"
+  },
+  "Phi<SEP>Y": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701784,
+    "update_time": 1767701784,
+    "_id": "Phi<SEP>Y"
+  },
+  "Instructor (Andrew Ng)<SEP>Student": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701785,
+    "update_time": 1767701785,
+    "_id": "Instructor (Andrew Ng)<SEP>Student"
+  },
+  "Andrew Ng<SEP>Multi-Cause Classification Problem": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701785,
+    "update_time": 1767701785,
+    "_id": "Andrew Ng<SEP>Multi-Cause Classification Problem"
+  },
+  "Parameterization<SEP>Parameters": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767701785,
+    "update_time": 1767701785,
+    "_id": "Parameterization<SEP>Parameters"
+  },
+  "T of Y<SEP>Y": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd",
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 2,
+    "create_time": 1767701785,
+    "update_time": 1767701785,
+    "_id": "T of Y<SEP>Y"
+  },
+  "Andrew Ng<SEP>K Possible Outcomes": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701785,
+    "update_time": 1767701785,
+    "_id": "Andrew Ng<SEP>K Possible Outcomes"
+  },
+  "Raw Number<SEP>T of Y": {
+    "chunk_ids": [
+      "chunk-e92ae48716b56f03feed3a2648edf8bd"
+    ],
+    "count": 1,
+    "create_time": 1767701786,
+    "update_time": 1767701786,
+    "_id": "Raw Number<SEP>T of Y"
+  },
+  "Indicator Function Notation<SEP>T of Y": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767701786,
+    "update_time": 1767701786,
+    "_id": "Indicator Function Notation<SEP>T of Y"
+  },
+  "Parameters<SEP>T of Y": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767701787,
+    "update_time": 1767701787,
+    "_id": "Parameters<SEP>T of Y"
+  },
+  "Exponential Family Distribution<SEP>Parameters": {
+    "chunk_ids": [
+      "chunk-49f40563b7c8469bddeeb04d56b3cec7"
+    ],
+    "count": 1,
+    "create_time": 1767701788,
+    "update_time": 1767701788,
+    "_id": "Exponential Family Distribution<SEP>Parameters"
+  },
+  "Andrew Ng<SEP>Exponential Family Distribution": {
+    "chunk_ids": [
+      "chunk-023cc775f8b1adeebc9c45d2e9f6fe90"
+    ],
+    "count": 1,
+    "create_time": 1767701788,
+    "update_time": 1767701788,
+    "_id": "Andrew Ng<SEP>Exponential Family Distribution"
+  },
+  "Energy Systems<SEP>Sustainable Development": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708696,
+    "update_time": 1767708696,
+    "_id": "Energy Systems<SEP>Sustainable Development"
+  },
+  "Energy Generation<SEP>Energy Infrastructure": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708696,
+    "update_time": 1767708696,
+    "_id": "Energy Generation<SEP>Energy Infrastructure"
+  },
+  "Energy Policy<SEP>Renewable Energy": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708696,
+    "update_time": 1767708696,
+    "_id": "Energy Policy<SEP>Renewable Energy"
+  },
+  "Economic Growth<SEP>Energy Poverty": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708696,
+    "update_time": 1767708696,
+    "_id": "Economic Growth<SEP>Energy Poverty"
+  },
+  "Region R<SEP>Renewable Energy": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708697,
+    "update_time": 1767708697,
+    "_id": "Region R<SEP>Renewable Energy"
+  },
+  "Energy Generation<SEP>Fossil Fuels": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708698,
+    "update_time": 1767708698,
+    "_id": "Energy Generation<SEP>Fossil Fuels"
+  },
+  "Environmental Compliance<SEP>Sustainable Energy Development": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708698,
+    "update_time": 1767708698,
+    "_id": "Environmental Compliance<SEP>Sustainable Energy Development"
+  },
+  "Climate Change<SEP>Energy Systems": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708698,
+    "update_time": 1767708698,
+    "_id": "Climate Change<SEP>Energy Systems"
+  },
+  "Energy Generation<SEP>Nuclear Power": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708698,
+    "update_time": 1767708698,
+    "_id": "Energy Generation<SEP>Nuclear Power"
+  },
+  "Economic Growth<SEP>Energy Availability": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708698,
+    "update_time": 1767708698,
+    "_id": "Economic Growth<SEP>Energy Availability"
+  },
+  "Education<SEP>Energy Poverty": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708698,
+    "update_time": 1767708698,
+    "_id": "Education<SEP>Energy Poverty"
+  },
+  "Greenhouse Gas Emissions<SEP>Mitigation Strategies": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708698,
+    "update_time": 1767708698,
+    "_id": "Greenhouse Gas Emissions<SEP>Mitigation Strategies"
+  },
+  "Energy Generation<SEP>Solar Power": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708699,
+    "update_time": 1767708699,
+    "_id": "Energy Generation<SEP>Solar Power"
+  },
+  "Region R<SEP>Sustainable Energy Development": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708699,
+    "update_time": 1767708699,
+    "_id": "Region R<SEP>Sustainable Energy Development"
+  },
+  "Economic Growth<SEP>Employment": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708699,
+    "update_time": 1767708699,
+    "_id": "Economic Growth<SEP>Employment"
+  },
+  "Energy Availability<SEP>Quality of Life": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708699,
+    "update_time": 1767708699,
+    "_id": "Energy Availability<SEP>Quality of Life"
+  },
+  "Energy Poverty<SEP>Healthcare": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708700,
+    "update_time": 1767708700,
+    "_id": "Energy Poverty<SEP>Healthcare"
+  },
+  "Energy Availability<SEP>Social Development": {
+    "chunk_ids": [
+      "chunk-ba30ff765cf7628b7d0bf16fe4039b48"
+    ],
+    "count": 1,
+    "create_time": 1767708700,
+    "update_time": 1767708700,
+    "_id": "Energy Availability<SEP>Social Development"
+  },
+  "Energy Generation<SEP>Wind Energy": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708700,
+    "update_time": 1767708700,
+    "_id": "Energy Generation<SEP>Wind Energy"
+  },
+  "Energy Generation<SEP>Hydroelectric Power": {
+    "chunk_ids": [
+      "chunk-0d92e720e7cfbfc2155b52aa88b0156f"
+    ],
+    "count": 1,
+    "create_time": 1767708701,
+    "update_time": 1767708701,
+    "_id": "Energy Generation<SEP>Hydroelectric Power"
+  }
+}

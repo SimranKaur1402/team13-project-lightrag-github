@@ -1,0 +1,20 @@
+QUESTION : Construct a cost-utility analysis comparing at least three glucose-lowering pharmacological therapies discussed in the treatment options chapter. Factor in region-specific GDP per capita data (create placeholders if needed), quality-adjusted life years (QALYs), and opportunity costs of untreated complications. Conclude with a hypothetical budget allocation model for a low-resource Eastern Mediterranean country.
+MODE: naive
+ANSWER:
+I do not have enough information to answer your query regarding a cost-utility analysis comparing glucose-lowering pharmacological therapies, specific GDP per capita data, QALYs, opportunity costs, and a budget allocation model for a low-resource Eastern Mediterranean country. The context provided does not contain detailed quantitative data or specific regional economic information necessary to generate such an analysis.
+--------------------------------------------------------------------------------
+QUESTION : Construct a cost-utility analysis comparing at least three glucose-lowering pharmacological therapies discussed in the treatment options chapter. Factor in region-specific GDP per capita data (create placeholders if needed), quality-adjusted life years (QALYs), and opportunity costs of untreated complications. Conclude with a hypothetical budget allocation model for a low-resource Eastern Mediterranean country.
+MODE: local
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION : Construct a cost-utility analysis comparing at least three glucose-lowering pharmacological therapies discussed in the treatment options chapter. Factor in region-specific GDP per capita data (create placeholders if needed), quality-adjusted life years (QALYs), and opportunity costs of untreated complications. Conclude with a hypothetical budget allocation model for a low-resource Eastern Mediterranean country.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION : Construct a cost-utility analysis comparing at least three glucose-lowering pharmacological therapies discussed in the treatment options chapter. Factor in region-specific GDP per capita data (create placeholders if needed), quality-adjusted life years (QALYs), and opportunity costs of untreated complications. Conclude with a hypothetical budget allocation model for a low-resource Eastern Mediterranean country.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
