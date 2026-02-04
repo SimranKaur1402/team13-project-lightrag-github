@@ -1,0 +1,2210 @@
+QUESTION: explain diabetes mellitus and give its cures and precautions.
+MODE: naive
+ANSWER:
+### Understanding Diabetes Mellitus
+
+Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia (high blood glucose levels) resulting from defects in insulin secretion, insulin action, or both. There are several types of diabetes, with the two most common being Type 1 and Type 2 diabetes. 
+
+- **Type 1 Diabetes:** This type occurs when the body’s immune system attacks insulin-producing beta cells in the pancreas. It typically requires lifelong insulin therapy.
+  
+- **Type 2 Diabetes:** This form arises from insulin resistance and is often associated with obesity and physical inactivity. It may be treated with lifestyle changes, oral medications, and potentially insulin.
+
+### Cures and Treatment Options
+
+While there is currently no cure for diabetes, it can be effectively managed and controlled through various means:
+
+1. **Dietary Management:**
+   - **Medical Nutrition Therapy:** Tailored meal plans focusing on carbohydrate control (total amount and appropriate types of carbohydrates) and a balanced distribution of fats and proteins are crucial.
+   - **Diet Composition Recommendations:**
+     - Carbohydrates: 45% of total caloric intake
+     - Total Fat: 30–35%
+     - Proteins: 15–20%
+   - Emphasis on portion control and timing of meals is essential to maintain stable blood sugar levels.
+
+2. **Physical Activity:**
+   - Regular exercise is vital for managing blood glucose levels, helping to improve insulin sensitivity and promote weight loss. Patients should engage in a balanced routine of aerobic and resistance training.
+
+3. **Medications:**
+   - For Type 2 diabetes, oral agents may be prescribed, including:
+     - Insulin sensitizers (like metformin)
+     - Insulin secretagogues (sulfonylureas)
+     - Alpha-glucosidase inhibitors
+   - Blood glucose monitoring may necessitate insulin therapy for Type 1 diabetes and for some with Type 2.
+
+4. **Education and Self-Management:**
+   - Ongoing education about diabetes, including understanding the disease process, self-monitoring skills, and recognizing symptoms of hypoglycemia and hyperglycemia, is crucial.
+
+### Precautions
+
+To prevent complications associated with diabetes, several precautions should be taken:
+
+- **Regular Monitoring:** Patients should continuously monitor their blood glucose levels and have regular HbA1c testing to assess long-term glycemic control.
+  
+- **Management of Comorbid Conditions:** Keeping blood pressure and cholesterol levels under control is essential to reducing cardiovascular risk.
+
+- **Foot Care:** Regular foot examinations and proper foot hygiene can prevent complications such as ulcers and infections.
+
+- **Emergency Preparedness:** Patients should always carry glucose tablets or rapidly absorbable carbohydrates to address hypoglycemic episodes and know how to use glucagon in emergencies.
+
+- **Avoidance of Risk Factors:** Ceasing smoking and moderating alcohol intake can significantly improve overall health and reduce diabetes complications.
+
+### Conclusion
+
+While diabetes mellitus presents significant health challenges, with proper management, education, and lifestyle modifications, individuals can lead healthy, productive lives. Continuous collaboration with healthcare professionals is essential for achieving optimal outcomes.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Management of diabetes mellitus
+- [3] Medical nutrition therapy for people with diabetes
+- [4] Screening for diabetes mellitus
+- [5] Diabetes mellitus in special groups and circumstances
+----------------------------------------
+QUESTION: explain diabetes mellitus and give its cures and precautions.
+MODE: local
+ANSWER:
+### Understanding Diabetes Mellitus
+
+**Diabetes Mellitus** is a chronic disease characterized by high blood sugar levels (hyperglycaemia) due to defects in insulin secretion, insulin action, or both. It primarily falls into two main types:
+
+1. **Type 1 Diabetes Mellitus**: An autoimmune condition where the body does not produce insulin, necessitating lifelong insulin therapy for management. It often leads to diabetic ketoacidosis if not properly managed. 
+
+2. **Type 2 Diabetes Mellitus**: The most common form, increasingly diagnosed in younger populations, characterized by insulin resistance. It may or may not require insulin treatment, and management typically includes lifestyle changes, dietary adjustments, and potentially oral medications or insulin therapy.
+
+The rising prevalence of diabetes in many regions has significant public health implications, particularly due to its associated complications such as kidney disease, neuropathy, retinopathy, and cardiovascular disease.
+
+### Cures and Treatments
+
+While there is no outright cure for diabetes mellitus, several management strategies can control the disease effectively:
+
+1. **Insulin Therapy**: Essential for all individuals with Type 1 diabetes and for some with Type 2 diabetes, especially during periods of significant hyperglycaemia. Different types of insulin (short-acting, long-acting, and mixed) are used as per the treatment plan.
+
+2. **Oral Hypoglycaemic Agents**: Used mainly for managing Type 2 diabetes, these medications help control blood sugar levels. Common examples include:
+   - **Metformin**: Increases insulin sensitivity and decreases hepatic glucose production.
+   - **Sulfonylureas and Thiazolidinediones**: Stimulate insulin secretion or increase insulin sensitivity.
+
+3. **Dietary Management**: Patients are encouraged to adopt a balanced diet tailored to their individual needs. Nutritional recommendations focus on low saturated fats, controlled carbohydrate intake, and regular meals to prevent blood glucose spikes.
+
+4. **Physical Activity**: Regular exercise is vital for blood sugar control, weight management, and overall health. It helps improve insulin sensitivity and can reduce the need for medication.
+
+5. **Monitoring and Evaluation**: Regular self-monitoring of blood glucose levels helps in managing diabetes effectively. Checks for HbA1c are recommended to monitor long-term sugar control.
+
+6. **Education and Support**: Ongoing education about diabetes management, including recognition of symptoms like hypoglycaemia, is crucial for patients and their families.
+
+### Precautions 
+
+To manage diabetes effectively and prevent complications, several precautions should be taken:
+
+- **Regular Check-ups**: Routine visits to healthcare providers for monitoring are essential. This includes checking blood pressure, lipid profiles, and screenings for microvascular complications such as retinopathy and nephropathy.
+
+- **Personal Identification**: Patients should carry identification indicating they have diabetes, especially those on insulin therapy, to alert healthcare personnel in emergencies.
+
+- **Balanced Nutrition**: Following nutritional guidelines that focus on healthy food choices while being mindful of carbohydrate intake can significantly aid in glycemic control.
+
+- **Avoidance of Alcohol and Smoking**: These substances can exacerbate complications related to diabetes, including cardiovascular issues.
+
+- **Caution with Physical Activity**: Patients should monitor their blood glucose before and after exercising to prevent hypoglycemia. They should also adjust medication as needed based on physical activity levels.
+
+- **Emergency Preparedness**: Carrying fast-acting glucose sources and having a glucagon kit available can help manage acute hypoglycaemia situations.
+
+By adhering to these management strategies and precautions, individuals with diabetes mellitus can lead healthy lives and significantly reduce the risk of complications.
+
+### References
+
+- [1] Guidelines for the Prevention, Management and Care of Diabetes Mellitus
+- [2] Medical Nutrition Therapy for Individuals with Diabetes
+- [3] Lifestyle Modification and Diabetes Prevention
+- [4] Diabetes Control and Complications Trial
+- [5] Diabetes Education and Support Strategies
+----------------------------------------
+QUESTION: explain diabetes mellitus and give its cures and precautions.
+MODE: global
+ANSWER:
+### Understanding Diabetes Mellitus
+
+**Diabetes Mellitus** is a prevalent chronic disease characterized by the body's inability to process glucose effectively, leading to high blood sugar levels, a condition known as hyperglycaemia. This condition has significant public health implications worldwide, as it can lead to various complications, including kidney disease, neuropathy, retinopathy, infections, hypoglycaemia, and atherosclerosis.
+
+#### Types of Diabetes Mellitus
+There are two main types:
+1. **Type 1 Diabetes:** This is an autoimmune condition where the body fails to produce insulin, requiring lifelong insulin therapy for management. It often leads to complications like diabetic ketoacidosis if not managed properly.
+2. **Type 2 Diabetes:** This form is characterized by insulin resistance and occurs primarily due to lifestyle factors like obesity and sedentary behavior. Type 2 diabetes is becoming increasingly common, diagnosed in younger individuals, and may sometimes require insulin treatment as the disease progresses.
+
+---
+
+### Management and Treatment Options
+
+**Cures:**
+Currently, there is no definitive cure for diabetes mellitus; however, effective management strategies can control blood sugar levels and minimize the risk of complications. These include:
+- **Insulin Therapy:** Particularly essential for Type 1 diabetes management. For Type 2 diabetes, it may also be used depending on individual patient needs.
+- **Oral Medications:** Such as metformin, thiazolidinediones, and insulin secretagogues can help manage blood sugar levels by improving insulin sensitivity or stimulating insulin secretion.
+
+---
+
+### Precautions and Lifestyle Modifications
+
+**Preventive measures and lifestyle changes are crucial in managing diabetes effectively:**
+
+- **Dietary Management:** 
+  - A balanced diet rich in whole grains, fruits, and vegetables while low in sugars and refined carbs is essential.
+  - Regular meal timing and portion control can help maintain glucose levels.
+  - Individuals should aim to have a diet comprising 45% carbohydrates, 35% fats, and 15-20% proteins.
+
+- **Physical Activity:** 
+  - Regular exercise is vital; it aids in weight control and improves insulin sensitivity.
+  - Activities should be tailored to the individual but aim for at least \(150\) minutes of moderate physical activity per week.
+
+- **Blood Sugar Monitoring:** 
+  - Regular self-monitoring of blood glucose levels helps in effectively managing diabetes and preventing complications.
+  
+- **Education:** 
+  - Diabetes education for patients and healthcare providers is essential for understanding diabetes management and its complications.
+
+- **Health Professional Engagement:** 
+  - Collaboration with a multidisciplinary healthcare team, including dieticians and diabetes educators, is critical for creating effective diabetes management plans.
+
+- **Routine Screening:** 
+  - Early detection through screening programs is crucial, especially in high-risk populations.
+
+By implementing these management strategies and lifestyle changes, individuals can significantly improve their quality of life and minimize the health impacts of diabetes mellitus.
+
+### References
+- [1] Guidelines for the Prevention, Management and Care of Diabetes Mellitus
+- [2] Chronic Complications of Diabetes
+- [3] Diabetes Control and Complications Trial
+----------------------------------------
+QUESTION: explain diabetes mellitus and give its cures and precautions.
+MODE: hybrid
+ANSWER:
+## Understanding Diabetes Mellitus
+
+### Definition and Types
+Diabetes Mellitus is a chronic disease characterized by high blood sugar levels resulting from the body's inability to produce or effectively use insulin, a hormone vital for glucose metabolism. It primarily falls into two categories:
+
+- **Type 1 Diabetes**: An autoimmune condition where the pancreas produces little or no insulin, requiring lifelong insulin therapy for management.
+- **Type 2 Diabetes**: A metabolic disorder often associated with insulin resistance, which may or may not require insulin treatment. It is the most common form of diabetes and has seen a rising prevalence in various populations, notably in the Eastern Mediterranean Region.
+
+### Chronic Complications
+Poorly managed diabetes can lead to several chronic complications, including:
+- **Diabetic Nephropathy**: Damage to the kidneys, potentially leading to renal failure.
+- **Diabetic Neuropathy**: Nerve damage causing pain, tingling, or loss of sensation.
+- **Retinopathy**: Damage to the eyes that can result in vision loss.
+- **Hypertension**: High blood pressure is common among diabetic patients and increases cardiovascular risks.
+
+## Cures and Management Strategies
+
+### Lifestyle Changes
+Implementing lifestyle interventions is crucial for managing diabetes. Key strategies include:
+- **Dietary Modifications**: Following nutritional recommendations tailored to individual needs can help control blood glucose levels. This includes a balanced intake of carbohydrates, fats, and proteins while focusing on low glycemic index foods.
+- **Physical Activity**: Regular exercise plays a vital role in improving insulin sensitivity and lowering blood glucose levels.
+
+### Medical Treatment 
+- **Insulin Therapy**: Essential for individuals with Type 1 diabetes and some Type 2 cases. Adjustments in insulin type and dosage may be necessary during periods of illness or increased physical activity.
+- **Oral Hypoglycemic Agents**: Medications, such as metformin, insulin sensitizers, and insulin secretagogues, assist in managing Type 2 diabetes by improving insulin sensitivity and controlling blood glucose levels.
+
+### Monitoring and Education
+- **Blood Glucose Monitoring**: Self-monitoring of blood glucose (SMBG) is vital for effective diabetes management. Patients should regularly check their glucose levels to adjust their diet, medication, and activity.
+- **Diabetes Education**: Health education is essential for understanding diabetes management and preventing complications. This includes recognizing symptoms of hypoglycemia and the importance of regular check-ups.
+
+### Preventive Measures
+- **Screening**: Identifying individuals with prediabetes or at risk for developing diabetes through screening programs can lead to early intervention and better outcomes.
+- **Regular Health Checks**: Managing associated risk factors like hypertension and dyslipidemia through regular check-ups can help prevent complications.
+
+## Conclusion
+Effective management of diabetes mellitus involves a combination of lifestyle changes, medical treatment, continuous monitoring, and education. It is crucial for individuals with diabetes to adopt healthy habits and work closely with healthcare professionals to prevent complications and maintain optimal health.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Diabetes education and lifestyle intervention
+- [3] Monitoring and management of diabetes mellitus
+- [4] Nutritional recommendations and dietary management for diabetes
+----------------------------------------
+QUESTION: explain machine learning and its types in detail.
+MODE: naive
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: explain machine learning and its types in detail.
+MODE: local
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: explain machine learning and its types in detail.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: explain machine learning and its types in detail.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Define diabetes mellitus and give it precautions.
+MODE: naive
+ANSWER:
+### Definition of Diabetes Mellitus
+
+Diabetes mellitus is defined as a metabolic disorder of multiple etiologies characterized by chronic hyperglycemia, leading to disturbances in carbohydrate, fat, and protein metabolism. This condition arises from defects in insulin secretion, insulin action, or both, and can lead to long-term damage and dysfunction of various organs [21].
+
+### Precautions for Managing Diabetes Mellitus
+
+To effectively manage diabetes and minimize complications, the following precautions are vital:
+
+1. **Blood Glucose Monitoring**:
+   - Regularly monitor blood glucose levels to prevent hyperglycemia and hypoglycemia.
+   - Use self-monitoring of blood glucose (SMBG) as an integral part of diabetes management education.
+
+2. **Medication Management**:
+   - Follow prescribed medication regimens closely, including oral hypoglycemics and insulin as needed.
+   - Be aware of the specific effects of medications, especially when experiencing changes in diet or physical activity.
+
+3. **Dietary Considerations**:
+   - Maintain a balanced diet, focusing on appropriate portions, nutrient-dense foods, and limited intake of sugars and unhealthy fats.
+   - Carbohydrate intake should be monitored and should constitute a significant but controlled portion of your meals. Consult with a dietitian for personalized dietary plans.
+
+4. **Physical Activity**:
+   - Engage in regular physical activity to promote insulin sensitivity and maintain a healthy weight.
+   - Adjust carbohydrate intake or insulin dosages prior to exercise to prevent exercise-induced hypoglycemia.
+
+5. **Preventive Health Care**:
+   - Have regular check-ups for complications related to diabetes, including eye examinations for retinopathy, kidney function tests, and foot assessments to prevent complications.
+   - Control other cardiovascular risk factors, such as hypertension and dyslipidemia, to prevent further complications.
+
+6. **Education**:
+   - Educate yourself and your family about diabetes management, recognizing symptoms of hypo- and hyperglycemia, and understanding how to respond properly to prevent emergencies.
+
+7. **Emergency Preparedness**:
+   - Always carry a source of fast-acting glucose, such as glucose tablets or sugary snacks, to address potential hypoglycemic episodes.
+   - Consider having glucagon available for emergencies where severe hypoglycemia occurs.
+
+8. **Avoid Alcohol and Smoking**:
+   - Limit or eliminate alcohol consumption, as it can affect blood glucose levels and interact with diabetes medications.
+   - Avoid smoking, as it increases the risk of cardiovascular complications associated with diabetes.
+
+By following these precautions, individuals with diabetes mellitus can effectively manage their condition and reduce the likelihood of serious complications.
+
+### References
+
+- [21] Definition, Diagnosis and Classification of Diabetes Mellitus and Its Complications. Report of a WHO Consultation. Part 1: Diagnosis and Classification of Diabetes Mellitus.
+----------------------------------------
+QUESTION: Define diabetes mellitus and give it precautions.
+MODE: local
+ANSWER:
+### Definition of Diabetes Mellitus
+
+Diabetes Mellitus is a chronic health condition characterized by high blood sugar levels (hyperglycaemia) caused by either insufficient insulin production by the pancreas or insufficient insulin action in the body. The condition encompasses various forms, primarily Type 1 and Type 2 Diabetes. 
+
+- **Type 1 Diabetes** is an autoimmune disorder leading to the destruction of insulin-producing β-cells in the pancreas, requiring lifelong insulin therapy for management.
+- **Type 2 Diabetes** involves insulin resistance and may progress to a state where insulin is also necessary for management. It is the most common form of diabetes and is often linked to lifestyle factors including obesity and inactivity.
+
+Diabetes can also lead to serious complications such as cardiovascular disease, kidney disease, neuropathy, and retinopathy if not managed properly.
+
+### Precautions for Diabetes Management
+
+1. **Regular Monitoring**:
+   - Regular blood glucose monitoring, including Self-Monitoring of Blood Glucose (SMBG), is crucial to manage diabetes effectively.
+
+2. **Insulin Management**:
+   - Individuals requiring insulin should meticulously manage their doses, especially around exercise or dietary changes. The basal-bolus method is a recommended regimen combining long-acting and fast-acting insulin.
+
+3. **Dietary Control**:
+   - A balanced diet that includes appropriate distribution of carbohydrates, fats, and proteins is essential. Nutritional recommendations emphasize controlling glucose intake and avoiding excessive sugars and refined foods.
+
+4. **Exercise**:
+   - Regular physical activity is vital for controlling blood glucose levels, enhancing insulin sensitivity, and maintaining overall health. Patients should consult with healthcare providers to create safe exercise plans.
+
+5. **Education and Awareness**:
+   - Patients and families should be educated on recognizing the signs of hyperglycaemia and hypoglycaemia, and on the potential complications of diabetes, including the importance of routine check-ups for early detection of complications.
+
+6. **Preventive Measures against Complications**:
+   - Regular screenings for complications such as diabetic retinopathy, neuropathy, and nephropathy are essential. Blood pressure and cholesterol levels should also be monitored closely.
+
+7. **Medication Adherence**:
+   - Adherence to prescribed diabetes medications and any additional medicines for associated conditions (like hypertension) is crucial for effective management.
+
+8. **Weight Management**:
+   - Reducing body weight through lifestyle changes can significantly improve insulin sensitivity and reduce the risks associated with Type 2 Diabetes.
+
+9. **Hydration and Preventive Care**:
+   - Staying well-hydrated and managing any infections promptly is necessary as diabetics are prone to infections. Ensuring proper foot care to avoid ulcers and amputations should also be a priority.
+
+By keeping these precautions in mind, individuals with diabetes can better manage their condition and reduce the risk of complications associated with diabetes mellitus.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+----------------------------------------
+QUESTION: Define diabetes mellitus and give it precautions.
+MODE: global
+ANSWER:
+### Definition of Diabetes Mellitus
+
+Diabetes Mellitus is defined as a chronic disease characterized by high blood sugar levels (hyperglycaemia) resulting from defects in insulin secretion, insulin action, or both. It is a prevalent noncommunicable condition affecting millions of people globally, with significant implications for public health due to its associated complications. There are two main types of diabetes:
+
+- **Type 1 Diabetes Mellitus**: This form is primarily due to the autoimmune destruction of insulin-producing β-cells in the pancreas, requiring insulin for survival.
+- **Type 2 Diabetes Mellitus**: This common form involves insulin resistance and, in some cases, insulin deficiency. It usually arises from a combination of factors including genetic predisposition and lifestyle choices, making it increasingly common among children and adults attributed to rising obesity rates.
+
+### Precautions for Managing Diabetes Mellitus
+
+Managing diabetes involves several precautions to prevent complications and maintain blood glucose levels within recommended ranges:
+
+1. **Regular Monitoring**:
+   - Regular blood glucose level checks to ensure that levels stay within target ranges.
+   - Monitoring hemoglobin A1c (HbA1c) levels to assess long-term glucose control.
+
+2. **Dietary Modifications**:
+   - Adopting a balanced diet rich in whole grains, fruits, vegetables, lean proteins, and healthy fats.
+   - Limiting intake of sugars and refined carbohydrates.
+   - Maintaining a consistent meal schedule to manage blood sugar levels effectively.
+
+3. **Physical Activity**:
+   - Engaging in regular physical activity, aiming for at least 150 minutes of moderate exercise per week, which can improve insulin sensitivity and assist in weight management.
+
+4. **Medications**:
+   - Utilizing diabetes medications, including insulin or oral hypoglycemic agents, as prescribed by healthcare professionals.
+   - Being aware of the signs of hypo- and hyperglycemia and having fast-acting glucose sources on hand, especially for those on insulin.
+
+5. **Education and Awareness**:
+   - Learning about diabetes management, complications, and effective preventive strategies through diabetes education programs.
+   - Engaging family members in understanding the necessity of monitoring and lifestyle adaptations.
+
+6. **Regular Check-ups**:
+   - Scheduling routine visits with healthcare providers to monitor for diabetes-related complications such as retinopathy, nephropathy, and neuropathy.
+   - Ensuring yearly foot examinations to prevent foot ulcers and complications related to diabetic neuropathy.
+
+7. **Avoiding Smoking and Limiting Alcohol**:
+   - Avoiding smoking to reduce cardiovascular risk, as diabetes already increases susceptibility.
+   - Limiting alcohol consumption, as it can lead to fluctuations in blood sugar levels.
+
+By implementing these precautions, individuals with diabetes can better manage their condition, reduce their risk of complications, and maintain a better quality of life.
+
+### References
+
+* [1] Guidelines for the prevention, management and care of diabetes mellitus
+* [2] Definition and classification of diabetes mellitus
+* [3] Management of diabetes mellitus and associated conditions
+----------------------------------------
+QUESTION: Define diabetes mellitus and give it precautions.
+MODE: hybrid
+ANSWER:
+## Definition of Diabetes Mellitus
+
+Diabetes Mellitus is a chronic metabolic disorder characterized by high blood sugar (hyperglycaemia) resulting from defects in insulin secretion, insulin action, or both. It affects how the body processes glucose, leading to various health complications if not managed properly. The disorder is prevalent globally and can be classified into two main types: 
+
+- **Type 1 Diabetes**: An autoimmune condition where the body does not produce insulin, requiring lifelong insulin therapy for management.
+- **Type 2 Diabetes**: More common form characterized by insulin resistance, where the body’s cells do not respond effectively to insulin. It may be managed through diet, exercise, medication, and sometimes insulin therapy.
+
+Diabetes mellitus is associated with several complications, including chronic conditions affecting the kidneys (diabetic nephropathy), eyes (diabetic retinopathy), nerves (diabetic neuropathy), and increases the risk of cardiovascular diseases (macrovascular complications).
+
+## Precautions for Managing Diabetes Mellitus
+
+1. **Monitoring Blood Glucose Levels**:
+   - Regular self-monitoring of blood glucose (SMBG) is essential to ensure levels remain within target ranges.
+   - Use appropriate devices and follow a quality assurance protocol for accurate results.
+
+2. **Dietary Management**:
+   - Follow a balanced diet with appropriate carbohydrate intake. 
+   - Meal planning and timing are crucial to avoid fluctuations in blood sugar levels.
+   - Consult a dietician for personalized nutritional recommendations.
+
+3. **Physical Activity**:
+   - Engage in regular exercise tailored to individual capabilities. 
+   - Exercise helps in controlling blood glucose levels and maintaining a healthy weight.
+
+4. **Medication Adherence**:
+   - Follow prescribed medication regimens, which may include insulin or oral hypoglycaemic agents, to control blood glucose levels.
+   - Be aware of potential side effects like hypoglycaemia, especially with insulin therapy.
+
+5. **Education and Awareness**:
+   - Educate oneself and family members about recognizing symptoms of high (hyperglycaemia) and low (hypoglycaemia) blood sugar levels.
+   - Understand dietary needs and the importance of lifestyle changes to prevent complications.
+
+6. **Regular Check-Ups**:
+   - Schedule regular appointments with healthcare professionals to monitor diabetes management and screen for complications.
+   - Manage associated conditions such as hypertension and dyslipidaemia as they can complicate diabetes management.
+
+7. **Emergency Preparedness**:
+   - Carry fast-acting carbohydrates to address possible hypoglycaemic episodes.
+   - Keep glucagon available at home and educate family and friends on its use in emergency situations.
+
+By adhering to these precautions, individuals with diabetes mellitus can effectively manage their condition and reduce the risk of complications.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus 
+- [2] Health Education Guidelines 
+- [3] Management of diabetes mellitus 
+- [4] Diabetes Management Plan Guidelines 
+- [5] Community Awareness Program for Diabetes
+----------------------------------------
+QUESTION: Explain machine learning and its types in detail.
+MODE: naive
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and its types in detail.
+MODE: local
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and its types in detail.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and its types in detail.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and its types in detail.
+MODE: naive
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and its types in detail.
+MODE: local
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and its types in detail.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and its types in detail.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learing.
+MODE: naive
+ANSWER:
+Sorry, I'm not able to provide an answer to that question.[no-context]
+----------------------------------------
+QUESTION: Explain machine learing.
+MODE: local
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learing.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learing.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: naive
+ANSWER:
+Sorry, I'm not able to provide an answer to that question.[no-context]
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: local
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: naive
+ANSWER:
+**Machine Learning**
+
+Machine learning is a subfield of artificial intelligence that focuses on the use of algorithms and statistical models to enable computers to perform specific tasks without explicit instructions. Instead of being programmed with specific rules, machine learning algorithms learn patterns and insights from data. This allows systems to adapt and improve their performance over time as they are exposed to more data.
+
+- **Learning Process**: Machine learning involves training a model using a dataset, which consists of features (input variables) and corresponding labels (output variables). The model learns to make predictions based on this training data.
+
+- **Types of Learning**: There are various types of machine learning approaches:
+  - **Supervised Learning**: The model is trained on labeled data (input-output pairs).
+  - **Unsupervised Learning**: The model works with unlabeled data and identifies patterns or groupings in the data.
+  - **Reinforcement Learning**: The model learns by interacting with an environment and receiving feedback in the form of rewards or penalties.
+
+**Deep Learning**
+
+Deep learning is a specialized subset of machine learning that utilizes neural networks with many layers (hence the term "deep") to model complex patterns in large amounts of data. Deep learning techniques are particularly powerful for tasks that involve high-dimensional data, such as images, audio, and text.
+
+- **Architecture**: A deep learning model is typically structured as a feedforward neural network where each layer consists of multiple neurons that compute transformations on the input data. The depth of the network allows the model to learn hierarchical representations of the data.
+
+- **Representation Learning**: Deep learning automates feature extraction by learning to represent the data through its layers. Each successive layer captures more abstract representations, from low-level features (like edges in an image) to high-level features (like object parts or even entire objects).
+
+- **Applications**: Deep learning has been applied successfully across various domains, including computer vision (e.g., image recognition), natural language processing (e.g., language translation), and speech recognition. This success is partly due to the availability of large datasets and improvements in computational power, such as the use of GPUs for efficient training of deep networks.
+
+In summary, while all deep learning is machine learning, not all machine learning is deep learning. Deep learning represents a significant advancement in the capability to model complex data through its utilization of deep neural architectures.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: local
+ANSWER:
+### Machine Learning
+
+**Machine Learning** is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform specific tasks without explicit instructions. Instead of following strictly programmed rules, machine learning systems learn from data patterns and improve their performance over time through experience.
+
+Key characteristics of machine learning include:
+
+- **Learning Algorithms**: These are systematic procedures that allow models to learn from data. Machine learning methods can be categorized mainly into:
+  - **Supervised Learning Algorithms**: These algorithms use labeled datasets to train models, allowing them to make predictions based on input data.
+  - **Unsupervised Learning Algorithms**: These algorithms work with unlabeled data to identify patterns or groupings within data.
+  
+- **Applications**: Machine learning has numerous applications, from predicting outcomes (like prices or classifications) to understanding complex datasets in various fields such as finance, healthcare, and more.
+
+### Deep Learning
+
+**Deep Learning** is a specialized subset of machine learning that utilizes multi-layered neural networks to analyze various factors of data, enabling the automatic learning of features and representations at multiple levels of abstraction.
+
+Key features of deep learning include:
+
+- **Neural Networks**: Deep learning is characterized by its use of neural networks—particularly deep neural networks comprising multiple layers. These networks are capable of learning complicated patterns, building complex concepts from simpler representations. For instance, in image recognition, earlier layers might detect edges, while deeper layers recognize shapes or entire objects.
+  
+- **Representation Learning**: Deep learning excels in automatic feature extraction and representation learning, allowing neural networks to discover relevant characteristics from raw input data without manual feature engineering. This is especially powerful in tasks requiring high-level abstraction, such as natural language processing and computer vision.
+
+- **Advancements**: The field of deep learning has seen rapid advancements due to improvements in computational power, the availability of large datasets (often referred to as "Big Data"), and sophisticated training algorithms, such as stochastic gradient descent.
+
+### Conclusion
+
+While machine learning encompasses a wide range of techniques and approaches to enable computers to learn from data, deep learning focuses on using layered neural networks to handle complex data representations more effectively. This distinction defines their roles in modern AI applications.
+
+### References
+
+- [1] Deep Learning Book
+- [2] Applications
+- [3] Machine Learning Basics
+- [4] Supervised Learning Algorithms
+- [5] Unsupervised Learning Algorithms
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: global
+ANSWER:
+### Machine Learning
+
+Machine Learning (ML) is a branch of artificial intelligence (AI) that enables computers to learn from data and improve their performance over time. Specifically, it focuses on the development of algorithms that allow computers to learn patterns from data, enabling them to make predictions or decisions without being explicitly programmed for each specific task. This learning process encompasses various algorithms and models that improve with experience, adapting to new data inputs.
+
+Key characteristics of Machine Learning include:
+
+- **Learning from Experience**: ML systems adapt based on the data they process, which enhances their predictions over time.
+- **Data-Driven Decision Making**: The emphasis is placed on using data to create systems that can autonomously make decisions or predictions.
+- **Algorithm Development**: Various algorithms, from simple linear regression to complex ensembles, are designed to interpret complex datasets effectively.
+
+### Deep Learning
+
+Deep Learning (DL) is a specialized subset of Machine Learning that focuses on using artificial neural networks with many layers (commonly known as deep neural networks). This approach allows systems to learn complex representations of data by building upon simpler abstractions, mimicking the way the human brain processes information.
+
+Some key components and advantages of Deep Learning include:
+
+- **Layered Neural Networks**: Deep Learning utilizes a hierarchical structure, where multiple layers process the data and extract increasingly complex features. Each layer learns to identify patterns based on the outputs of the previous layer.
+- **Large Scale Data Processing**: DL thrives with large volumes of data, making it particularly effective for applications such as image and speech recognition, natural language processing, and other tasks that involve substantial datasets.
+- **Advanced Capability for Recognition and Prediction**: Techniques from deep learning have significantly improved accuracy in various fields by capturing complex patterns and relationships that simpler machine learning algorithms might miss.
+
+The relationship between these two fields is that Deep Learning is viewed as an advanced technique within the broader scope of Machine Learning, leveraging large datasets and computational power to solve more complex problems ([1] Document Title).
+
+### References
+
+- [1] Document Title: Understanding Deep Learning and Machine Learning
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: hybrid
+ANSWER:
+Machine Learning and Deep Learning are closely related concepts within the field of artificial intelligence (AI), each with its own characteristics and applications.
+
+### Machine Learning
+
+**Machine Learning** is a branch of AI that enables systems to learn from data, identifying patterns and making predictions or decisions based on that data. Here are key aspects of machine learning:
+
+- **Definition**: Machine Learning encompasses algorithms and models that are designed to learn from experience (data) and improve their performance over time.
+- **Types of Learning**: It includes several methodologies, mainly:
+  - **Supervised Learning**: Models are trained using labeled data. This method is commonly used for classification and regression tasks.
+  - **Unsupervised Learning**: Models are designed to find patterns or groupings in unlabeled data.
+  - **Reinforcement Learning**: Agents learn to perform tasks through trial and error, receiving rewards or penalties based on their actions.
+  
+The goal of machine learning is to develop algorithms that can generalize well from the provided data to unseen instances, making it pivotal in numerous applications such as speech recognition, image classification, and natural language processing.
+
+### Deep Learning
+
+**Deep Learning** is a specialized subset of Machine Learning that focuses on using neural networks with many layers (hence "deep") to model complex data representations. Points to note include:
+
+- **Neural Networks**: Deep Learning employs architectures known as neural networks, which are designed to function similarly to the human brain, consisting of interconnected nodes (neurons) that transform input data into outputs.
+- **Hierarchical Representation**: It allows systems to learn hierarchical representations of data, meaning that they can identify high-level abstractions in data from lower-level features. For instance, in image recognition, lower layers may capture edges, while deeper layers capture shapes and then entire objects.
+- **Advancements**: Deep Learning gained significant prominence around 2006 due to advancements in computational power and data availability, enabling the training of large and complex models.
+- **Applications**: It has proven especially effective in areas such as computer vision, speech recognition, and natural language processing, achieving results that outperform traditional machine learning techniques in many cases.
+
+In summary, while both Machine Learning and Deep Learning aim to connect data and intelligence, Deep Learning distinguishes itself through its reliance on structured layers of neural networks to automatically learn from raw data, making it particularly effective for complex tasks.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: naive
+ANSWER:
+**Machine Learning**
+
+Machine learning is a subfield of artificial intelligence that focuses on the use of algorithms and statistical models to enable computers to perform specific tasks without explicit instructions. Instead of being programmed with specific rules, machine learning algorithms learn patterns and insights from data. This allows systems to adapt and improve their performance over time as they are exposed to more data.
+
+- **Learning Process**: Machine learning involves training a model using a dataset, which consists of features (input variables) and corresponding labels (output variables). The model learns to make predictions based on this training data.
+
+- **Types of Learning**: There are various types of machine learning approaches:
+  - **Supervised Learning**: The model is trained on labeled data (input-output pairs).
+  - **Unsupervised Learning**: The model works with unlabeled data and identifies patterns or groupings in the data.
+  - **Reinforcement Learning**: The model learns by interacting with an environment and receiving feedback in the form of rewards or penalties.
+
+**Deep Learning**
+
+Deep learning is a specialized subset of machine learning that utilizes neural networks with many layers (hence the term "deep") to model complex patterns in large amounts of data. Deep learning techniques are particularly powerful for tasks that involve high-dimensional data, such as images, audio, and text.
+
+- **Architecture**: A deep learning model is typically structured as a feedforward neural network where each layer consists of multiple neurons that compute transformations on the input data. The depth of the network allows the model to learn hierarchical representations of the data.
+
+- **Representation Learning**: Deep learning automates feature extraction by learning to represent the data through its layers. Each successive layer captures more abstract representations, from low-level features (like edges in an image) to high-level features (like object parts or even entire objects).
+
+- **Applications**: Deep learning has been applied successfully across various domains, including computer vision (e.g., image recognition), natural language processing (e.g., language translation), and speech recognition. This success is partly due to the availability of large datasets and improvements in computational power, such as the use of GPUs for efficient training of deep networks.
+
+In summary, while all deep learning is machine learning, not all machine learning is deep learning. Deep learning represents a significant advancement in the capability to model complex data through its utilization of deep neural architectures.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: local
+ANSWER:
+### Machine Learning
+
+**Machine Learning** is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform specific tasks without explicit instructions. Instead of following strictly programmed rules, machine learning systems learn from data patterns and improve their performance over time through experience.
+
+Key characteristics of machine learning include:
+
+- **Learning Algorithms**: These are systematic procedures that allow models to learn from data. Machine learning methods can be categorized mainly into:
+  - **Supervised Learning Algorithms**: These algorithms use labeled datasets to train models, allowing them to make predictions based on input data.
+  - **Unsupervised Learning Algorithms**: These algorithms work with unlabeled data to identify patterns or groupings within data.
+  
+- **Applications**: Machine learning has numerous applications, from predicting outcomes (like prices or classifications) to understanding complex datasets in various fields such as finance, healthcare, and more.
+
+### Deep Learning
+
+**Deep Learning** is a specialized subset of machine learning that utilizes multi-layered neural networks to analyze various factors of data, enabling the automatic learning of features and representations at multiple levels of abstraction.
+
+Key features of deep learning include:
+
+- **Neural Networks**: Deep learning is characterized by its use of neural networks—particularly deep neural networks comprising multiple layers. These networks are capable of learning complicated patterns, building complex concepts from simpler representations. For instance, in image recognition, earlier layers might detect edges, while deeper layers recognize shapes or entire objects.
+  
+- **Representation Learning**: Deep learning excels in automatic feature extraction and representation learning, allowing neural networks to discover relevant characteristics from raw input data without manual feature engineering. This is especially powerful in tasks requiring high-level abstraction, such as natural language processing and computer vision.
+
+- **Advancements**: The field of deep learning has seen rapid advancements due to improvements in computational power, the availability of large datasets (often referred to as "Big Data"), and sophisticated training algorithms, such as stochastic gradient descent.
+
+### Conclusion
+
+While machine learning encompasses a wide range of techniques and approaches to enable computers to learn from data, deep learning focuses on using layered neural networks to handle complex data representations more effectively. This distinction defines their roles in modern AI applications.
+
+### References
+
+- [1] Deep Learning Book
+- [2] Applications
+- [3] Machine Learning Basics
+- [4] Supervised Learning Algorithms
+- [5] Unsupervised Learning Algorithms
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: global
+ANSWER:
+### Machine Learning
+
+Machine Learning (ML) is a branch of artificial intelligence (AI) that enables computers to learn from data and improve their performance over time. Specifically, it focuses on the development of algorithms that allow computers to learn patterns from data, enabling them to make predictions or decisions without being explicitly programmed for each specific task. This learning process encompasses various algorithms and models that improve with experience, adapting to new data inputs.
+
+Key characteristics of Machine Learning include:
+
+- **Learning from Experience**: ML systems adapt based on the data they process, which enhances their predictions over time.
+- **Data-Driven Decision Making**: The emphasis is placed on using data to create systems that can autonomously make decisions or predictions.
+- **Algorithm Development**: Various algorithms, from simple linear regression to complex ensembles, are designed to interpret complex datasets effectively.
+
+### Deep Learning
+
+Deep Learning (DL) is a specialized subset of Machine Learning that focuses on using artificial neural networks with many layers (commonly known as deep neural networks). This approach allows systems to learn complex representations of data by building upon simpler abstractions, mimicking the way the human brain processes information.
+
+Some key components and advantages of Deep Learning include:
+
+- **Layered Neural Networks**: Deep Learning utilizes a hierarchical structure, where multiple layers process the data and extract increasingly complex features. Each layer learns to identify patterns based on the outputs of the previous layer.
+- **Large Scale Data Processing**: DL thrives with large volumes of data, making it particularly effective for applications such as image and speech recognition, natural language processing, and other tasks that involve substantial datasets.
+- **Advanced Capability for Recognition and Prediction**: Techniques from deep learning have significantly improved accuracy in various fields by capturing complex patterns and relationships that simpler machine learning algorithms might miss.
+
+The relationship between these two fields is that Deep Learning is viewed as an advanced technique within the broader scope of Machine Learning, leveraging large datasets and computational power to solve more complex problems ([1] Document Title).
+
+### References
+
+- [1] Document Title: Understanding Deep Learning and Machine Learning
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: hybrid
+ANSWER:
+Machine Learning and Deep Learning are closely related concepts within the field of artificial intelligence (AI), each with its own characteristics and applications.
+
+### Machine Learning
+
+**Machine Learning** is a branch of AI that enables systems to learn from data, identifying patterns and making predictions or decisions based on that data. Here are key aspects of machine learning:
+
+- **Definition**: Machine Learning encompasses algorithms and models that are designed to learn from experience (data) and improve their performance over time.
+- **Types of Learning**: It includes several methodologies, mainly:
+  - **Supervised Learning**: Models are trained using labeled data. This method is commonly used for classification and regression tasks.
+  - **Unsupervised Learning**: Models are designed to find patterns or groupings in unlabeled data.
+  - **Reinforcement Learning**: Agents learn to perform tasks through trial and error, receiving rewards or penalties based on their actions.
+  
+The goal of machine learning is to develop algorithms that can generalize well from the provided data to unseen instances, making it pivotal in numerous applications such as speech recognition, image classification, and natural language processing.
+
+### Deep Learning
+
+**Deep Learning** is a specialized subset of Machine Learning that focuses on using neural networks with many layers (hence "deep") to model complex data representations. Points to note include:
+
+- **Neural Networks**: Deep Learning employs architectures known as neural networks, which are designed to function similarly to the human brain, consisting of interconnected nodes (neurons) that transform input data into outputs.
+- **Hierarchical Representation**: It allows systems to learn hierarchical representations of data, meaning that they can identify high-level abstractions in data from lower-level features. For instance, in image recognition, lower layers may capture edges, while deeper layers capture shapes and then entire objects.
+- **Advancements**: Deep Learning gained significant prominence around 2006 due to advancements in computational power and data availability, enabling the training of large and complex models.
+- **Applications**: It has proven especially effective in areas such as computer vision, speech recognition, and natural language processing, achieving results that outperform traditional machine learning techniques in many cases.
+
+In summary, while both Machine Learning and Deep Learning aim to connect data and intelligence, Deep Learning distinguishes itself through its reliance on structured layers of neural networks to automatically learn from raw data, making it particularly effective for complex tasks.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: naive
+ANSWER:
+When managing diabetes mellitus, several precautions are essential to prevent complications and maintain optimal health. Here are some key precautions:
+
+### General Precautions
+
+1. **Education**:
+   - Patients and their families should be educated about the prevention, recognition, and treatment of hypoglycemia.
+   - Health care personnel, particularly emergency responders, should know how to recognize and treat hypoglycemia effectively.
+
+2. **Monitoring Blood Glucose**:
+   - Regular monitoring of blood glucose levels is crucial to maintain appropriate glycemic control.
+   - Patients should carry rapidly absorbable carbohydrates to address low blood sugar levels.
+
+3. **Diet and Nutrition**:
+   - Follow a meal plan that includes balanced macronutrients and regular meal timing to prevent fluctuations in blood sugar levels.
+   - Individuals should avoid excess intake of sugars and simple carbohydrates, particularly in fast-breaking meals after fasting.
+
+4. **Physical Activity**:
+   - Exercise is beneficial but should be planned cautiously, particularly in the evening, as physical activity can increase the risk of hypoglycemia.
+   - Patients should monitor their blood glucose before, during, and after exercise.
+
+5. **Medication Management**:
+   - Any changes in insulin preparation or oral hypoglycemic agents should be accompanied by appropriate education regarding their use.
+   - Be mindful of dose adjustments related to lifestyle changes, such as meal timing and physical activity.
+
+### Specific Precautions for Hypoglycemia
+
+1. **Awareness of Symptoms**:
+   - Patients should learn to recognize subtle signs of hypoglycemia, especially if they no longer experience the typical symptoms.
+
+2. **Carrying Emergency Supplies**:
+   - Always carry an identification card or wear a medical alert bracelet indicating diabetes management to assist in emergencies.
+
+3. **Adjusting Insulin or Medication**:
+   - Adjust insulin doses based on the level of physical activity and ensure an adequate carbohydrate intake during increased levels of exercise.
+
+### Precautions for High Blood Sugar (Hyperglycemia)
+
+1. **Monitoring and Management**:
+   - Be aware of the symptoms of hyperglycemia, such as excessive thirst, frequent urination, and fatigue.
+   - Increase fluid intake to manage dehydration associated with high blood glucose levels.
+
+2. **Emergency Preparedness**:
+   - In cases of severe hyperglycemia or diabetic ketoacidosis, immediate medical attention is needed to prevent serious health outcomes.
+
+3. **Long-term Health Checks**:
+   - Regular screening for microvascular complications, such as retinopathy and nephropathy, is crucial for long-term health.
+
+### Conclusion
+
+Ongoing education and management strategies are vital for individuals with diabetes mellitus to prevent both acute and chronic complications. Collaborating closely with health care teams, adhering to prescribed treatments, and actively engaging in lifestyle modifications can lead to better health outcomes.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Treatment options for diabetes
+- [3] Prevention and management strategies for diabetes complications
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: local
+ANSWER:
+When managing diabetes mellitus, several precautions are essential to prevent complications and ensure effective control of the condition. Here are some key precautions:
+
+### Blood Glucose Monitoring
+- **Self-Monitoring of Blood Glucose (SMBG):** Patients should regularly monitor their blood glucose levels to track their glycaemic control effectively.
+- **Targeted Blood Glucose Levels:** Individualized blood glucose targets should be established based on each patient's unique circumstances, taking into account factors such as age, duration of diabetes, and presence of complications.
+
+### Dietary Management
+- **Nutritional Recommendations:** Patients are advised to adhere to dietary plans tailored for diabetes management, focusing on carbohydrate distribution and portion control. Emphasis should be placed on reducing saturated fats and maintaining a balanced diet that meets individual needs.
+- **Awareness of Hypoglycemia:** Patients should be educated on recognizing and managing hypoglycemia, including keeping quickly absorbable carbohydrates available at all times.
+
+### Physical Activity
+- **Regular Exercise:** Regular physical activity is encouraged as it enhances insulin sensitivity and helps control weight. However, exercise plans should be individualized, and patients should check their blood glucose before, during, and after physical activities, especially when planning vigorous exercise.
+
+### Medications
+- **Appropriate Use of Insulin and Medications:** Patients using insulin or oral anti-diabetic agents must understand their medications and potential side effects. Education on proper administration and dose adjustments is crucial.
+- **Avoiding Medication Interactions:** Patients should be aware of their medications' potential interactions and inform healthcare providers of any changes in their health status.
+
+### Health Care Management
+- **Regular Check-Ups:** Routine visits to healthcare providers for comprehensive diabetes management, including screening for complications like diabetic retinopathy, nephropathy, and neuropathy, are necessary.
+- **Managing Comorbid Conditions:** Patients should closely monitor and manage other health issues such as hypertension and dyslipidaemia, which can exacerbate diabetes complications.
+
+### Education and Support
+- **Patient Education:** Continuous education regarding the disease, its management, and complications should be provided to both patients and their families. This includes training on the role of diet, exercise, and self-monitoring in diabetes control.
+- **Emergency Preparedness:** Patients should be equipped with knowledge about what to do in emergency situations, such as severe hypoglycemia or diabetic ketoacidosis. This includes knowing when to seek medical help.
+
+### Precaution Against Infections
+- **Foot Care:** Diabetic patients must take special care of their feet to avoid infections and ulcers. Regular foot inspections and proper footwear are critical.
+- **Hygiene Practices:** Maintaining good hygiene can help reduce the risk of infections, particularly urinary tract infections, which are more common in diabetic individuals.
+
+By adhering to these precautions, individuals with diabetes mellitus can better manage their condition and minimize the risk of complications.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Diabetes Care Guidelines
+- [3] Diabetes Management Guidelines
+- [4] UKPDS 38
+- [5] Diabetes Control and Complications Trial
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: global
+ANSWER:
+**Precautions for Diabetes Mellitus Management**
+
+Managing diabetes mellitus involves several precautions to prevent complications and maintain optimal health. Here are key precautions that individuals with diabetes should consider:
+
+1. **Dietary Control**:
+   - Adhere to personalized **nutritional recommendations** to manage blood glucose levels effectively. The distribution of nutrients should include adequate carbohydrates, controlled fat, and sufficient proteins while respecting cultural preferences and individual needs.
+   - Maintain regular meal patterns to avoid hyperglycemia or hypoglycemia, and avoid excessive intake of simple sugars, particularly in the evening.
+
+2. **Regular Monitoring**:
+   - Regularly monitor **blood glucose levels** using **Self-Monitoring of Blood Glucose (SMBG)** to understand how various foods, activities, and medications affect your blood sugar.
+   - Schedule regular medical check-ups to assess **HbA1c** levels, which provide insight into long-term glucose control.
+
+3. **Physical Activity**:
+   - Engage in regular physical activity to improve insulin sensitivity and aid weight management. Always check blood sugar levels before exercising and adjust carbohydrate intake or insulin dosage as necessary to prevent exercise-induced hypoglycemia.
+
+4. **Medication Management**:
+   - Follow prescribed medication regimens closely. For individuals with type 1 diabetes, **Insulin Therapy** is often necessary. Those with type 2 diabetes may use oral medications or insulin depending on their individual management plan.
+   - Educate yourself about potential side effects, such as **hypoglycemia**, and how to recognize early signs to manage them promptly.
+
+5. **Education and Awareness**:
+   - Educate yourself and your family about diabetes management, including recognizing symptoms of high and low blood sugar levels and when to seek medical assistance.
+   - Learn about **ketoacidosis** signs especially in type 1 diabetes, which can be life-threatening. Understanding how high blood sugar can impact your body is crucial.
+
+6. **Preventive Health Care**:
+   - Regular screening for **complications** such as diabetic nephropathy, diabetic retinopathy, and cardiovascular health is vital. This includes blood pressure and lipid profile checks to prevent cardiovascular issues.
+   - Ensure vaccinations are up-to-date, particularly for influenza and pneumonia, as diabetic individuals are at higher risk for infections.
+
+7. **Healthy Lifestyle Changes**:
+   - Adopt a **healthy lifestyle**, focusing on weight management and avoiding smoking. Both obesity and smoking can worsen diabetes outcomes and exacerbate complications.
+   - Develop community-based programs to support healthy living and provide resources for managing diabetes.
+
+By incorporating these precautions into daily life, individuals with diabetes mellitus can significantly reduce the risk of complications and maintain better control over their condition.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus.
+- [2] Recommendations for metabolic and non-metabolic targets.
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: hybrid
+ANSWER:
+Managing diabetes mellitus involves taking several precautions to prevent complications and maintain optimal health. Here are some key precautions:
+
+### Blood Sugar Monitoring
+- **Self-Monitoring of Blood Glucose (SMBG)**: Regularly monitor blood glucose levels to ensure they are within target ranges. Patients should have rapid-acting carbohydrates available to treat hypoglycaemia and should adjust their food or insulin as necessary [21–23].
+
+### Education on Hypoglycaemia
+- **Patient and Family Education**: Educating patients and their families about recognising and treating hypoglycaemia is essential. This includes understanding symptoms such as jitteriness or weakness and knowing how to respond appropriately [21–23].
+
+### Lifestyle Changes
+- **Diet and Nutrition**: Adhering to a balanced diet low in saturated fats and sugars while monitoring carbohydrate intake is crucial. This includes maintaining a healthy weight, which can improve insulin sensitivity [23][25].
+- **Physical Activity**: Engaging in regular physical activity to help manage weight and improve glycaemic control. Individuals should check their blood glucose before and after exercise to manage potential drops in glucose levels [23–25].
+
+### Managing Complications
+- **Regular Health Check-ups**: Annual screenings for complications, including kidney disease, eye health, and cardiovascular risks. This monitoring allows for early intervention in cases of developing complications [21–23].
+- **Blood Pressure Control**: It is recommended that blood pressure be maintained at levels lower than 130/80 mmHg to mitigate cardiovascular risks associated with diabetes [21–23].
+
+### Medication Management
+- **Medication Adherence**: Ensuring that medications, including insulin and oral anti-hyperglycaemic agents, are taken as prescribed. Be mindful of potential side effects such as hypoglycaemia [23][29].
+
+### Alcohol and Smoking
+- **Avoid Smoking and Limit Alcohol**: Smoking cessation and limited alcohol consumption are important as they can exacerbate diabetic complications and increase cardiovascular risk [23].
+
+### Foot Care
+- **Daily Foot Inspections**: Diabetic patients should examine their feet daily for any sores or injuries, as complications can arise quickly due to poor circulation and nerve damage [21–23].
+
+### Emergency Preparedness
+- **Carrying Identification**: Patients should carry medical identification indicating their diabetes status, which is helpful in emergencies, especially during hypoglycaemic episodes [21–23].
+
+By following these precautions, individuals with diabetes can significantly reduce the risks of complications and enhance their overall health outcomes.
+
+### References
+- [21] Guidelines for the prevention, management and care of diabetes mellitus
+- [22] Diabetes prevention and control guidelines
+- [23] Management of diabetes mellitus guidelines
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: naive
+ANSWER:
+**Machine Learning**
+
+Machine learning is a subfield of artificial intelligence that focuses on the use of algorithms and statistical models to enable computers to perform specific tasks without explicit instructions. Instead of being programmed with specific rules, machine learning algorithms learn patterns and insights from data. This allows systems to adapt and improve their performance over time as they are exposed to more data.
+
+- **Learning Process**: Machine learning involves training a model using a dataset, which consists of features (input variables) and corresponding labels (output variables). The model learns to make predictions based on this training data.
+
+- **Types of Learning**: There are various types of machine learning approaches:
+  - **Supervised Learning**: The model is trained on labeled data (input-output pairs).
+  - **Unsupervised Learning**: The model works with unlabeled data and identifies patterns or groupings in the data.
+  - **Reinforcement Learning**: The model learns by interacting with an environment and receiving feedback in the form of rewards or penalties.
+
+**Deep Learning**
+
+Deep learning is a specialized subset of machine learning that utilizes neural networks with many layers (hence the term "deep") to model complex patterns in large amounts of data. Deep learning techniques are particularly powerful for tasks that involve high-dimensional data, such as images, audio, and text.
+
+- **Architecture**: A deep learning model is typically structured as a feedforward neural network where each layer consists of multiple neurons that compute transformations on the input data. The depth of the network allows the model to learn hierarchical representations of the data.
+
+- **Representation Learning**: Deep learning automates feature extraction by learning to represent the data through its layers. Each successive layer captures more abstract representations, from low-level features (like edges in an image) to high-level features (like object parts or even entire objects).
+
+- **Applications**: Deep learning has been applied successfully across various domains, including computer vision (e.g., image recognition), natural language processing (e.g., language translation), and speech recognition. This success is partly due to the availability of large datasets and improvements in computational power, such as the use of GPUs for efficient training of deep networks.
+
+In summary, while all deep learning is machine learning, not all machine learning is deep learning. Deep learning represents a significant advancement in the capability to model complex data through its utilization of deep neural architectures.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: local
+ANSWER:
+### Machine Learning
+
+**Machine Learning** is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform specific tasks without explicit instructions. Instead of following strictly programmed rules, machine learning systems learn from data patterns and improve their performance over time through experience.
+
+Key characteristics of machine learning include:
+
+- **Learning Algorithms**: These are systematic procedures that allow models to learn from data. Machine learning methods can be categorized mainly into:
+  - **Supervised Learning Algorithms**: These algorithms use labeled datasets to train models, allowing them to make predictions based on input data.
+  - **Unsupervised Learning Algorithms**: These algorithms work with unlabeled data to identify patterns or groupings within data.
+  
+- **Applications**: Machine learning has numerous applications, from predicting outcomes (like prices or classifications) to understanding complex datasets in various fields such as finance, healthcare, and more.
+
+### Deep Learning
+
+**Deep Learning** is a specialized subset of machine learning that utilizes multi-layered neural networks to analyze various factors of data, enabling the automatic learning of features and representations at multiple levels of abstraction.
+
+Key features of deep learning include:
+
+- **Neural Networks**: Deep learning is characterized by its use of neural networks—particularly deep neural networks comprising multiple layers. These networks are capable of learning complicated patterns, building complex concepts from simpler representations. For instance, in image recognition, earlier layers might detect edges, while deeper layers recognize shapes or entire objects.
+  
+- **Representation Learning**: Deep learning excels in automatic feature extraction and representation learning, allowing neural networks to discover relevant characteristics from raw input data without manual feature engineering. This is especially powerful in tasks requiring high-level abstraction, such as natural language processing and computer vision.
+
+- **Advancements**: The field of deep learning has seen rapid advancements due to improvements in computational power, the availability of large datasets (often referred to as "Big Data"), and sophisticated training algorithms, such as stochastic gradient descent.
+
+### Conclusion
+
+While machine learning encompasses a wide range of techniques and approaches to enable computers to learn from data, deep learning focuses on using layered neural networks to handle complex data representations more effectively. This distinction defines their roles in modern AI applications.
+
+### References
+
+- [1] Deep Learning Book
+- [2] Applications
+- [3] Machine Learning Basics
+- [4] Supervised Learning Algorithms
+- [5] Unsupervised Learning Algorithms
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: global
+ANSWER:
+### Machine Learning
+
+Machine Learning (ML) is a branch of artificial intelligence (AI) that enables computers to learn from data and improve their performance over time. Specifically, it focuses on the development of algorithms that allow computers to learn patterns from data, enabling them to make predictions or decisions without being explicitly programmed for each specific task. This learning process encompasses various algorithms and models that improve with experience, adapting to new data inputs.
+
+Key characteristics of Machine Learning include:
+
+- **Learning from Experience**: ML systems adapt based on the data they process, which enhances their predictions over time.
+- **Data-Driven Decision Making**: The emphasis is placed on using data to create systems that can autonomously make decisions or predictions.
+- **Algorithm Development**: Various algorithms, from simple linear regression to complex ensembles, are designed to interpret complex datasets effectively.
+
+### Deep Learning
+
+Deep Learning (DL) is a specialized subset of Machine Learning that focuses on using artificial neural networks with many layers (commonly known as deep neural networks). This approach allows systems to learn complex representations of data by building upon simpler abstractions, mimicking the way the human brain processes information.
+
+Some key components and advantages of Deep Learning include:
+
+- **Layered Neural Networks**: Deep Learning utilizes a hierarchical structure, where multiple layers process the data and extract increasingly complex features. Each layer learns to identify patterns based on the outputs of the previous layer.
+- **Large Scale Data Processing**: DL thrives with large volumes of data, making it particularly effective for applications such as image and speech recognition, natural language processing, and other tasks that involve substantial datasets.
+- **Advanced Capability for Recognition and Prediction**: Techniques from deep learning have significantly improved accuracy in various fields by capturing complex patterns and relationships that simpler machine learning algorithms might miss.
+
+The relationship between these two fields is that Deep Learning is viewed as an advanced technique within the broader scope of Machine Learning, leveraging large datasets and computational power to solve more complex problems ([1] Document Title).
+
+### References
+
+- [1] Document Title: Understanding Deep Learning and Machine Learning
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: hybrid
+ANSWER:
+Machine Learning and Deep Learning are closely related concepts within the field of artificial intelligence (AI), each with its own characteristics and applications.
+
+### Machine Learning
+
+**Machine Learning** is a branch of AI that enables systems to learn from data, identifying patterns and making predictions or decisions based on that data. Here are key aspects of machine learning:
+
+- **Definition**: Machine Learning encompasses algorithms and models that are designed to learn from experience (data) and improve their performance over time.
+- **Types of Learning**: It includes several methodologies, mainly:
+  - **Supervised Learning**: Models are trained using labeled data. This method is commonly used for classification and regression tasks.
+  - **Unsupervised Learning**: Models are designed to find patterns or groupings in unlabeled data.
+  - **Reinforcement Learning**: Agents learn to perform tasks through trial and error, receiving rewards or penalties based on their actions.
+  
+The goal of machine learning is to develop algorithms that can generalize well from the provided data to unseen instances, making it pivotal in numerous applications such as speech recognition, image classification, and natural language processing.
+
+### Deep Learning
+
+**Deep Learning** is a specialized subset of Machine Learning that focuses on using neural networks with many layers (hence "deep") to model complex data representations. Points to note include:
+
+- **Neural Networks**: Deep Learning employs architectures known as neural networks, which are designed to function similarly to the human brain, consisting of interconnected nodes (neurons) that transform input data into outputs.
+- **Hierarchical Representation**: It allows systems to learn hierarchical representations of data, meaning that they can identify high-level abstractions in data from lower-level features. For instance, in image recognition, lower layers may capture edges, while deeper layers capture shapes and then entire objects.
+- **Advancements**: Deep Learning gained significant prominence around 2006 due to advancements in computational power and data availability, enabling the training of large and complex models.
+- **Applications**: It has proven especially effective in areas such as computer vision, speech recognition, and natural language processing, achieving results that outperform traditional machine learning techniques in many cases.
+
+In summary, while both Machine Learning and Deep Learning aim to connect data and intelligence, Deep Learning distinguishes itself through its reliance on structured layers of neural networks to automatically learn from raw data, making it particularly effective for complex tasks.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: naive
+ANSWER:
+When managing diabetes mellitus, several precautions are essential to prevent complications and maintain optimal health. Here are some key precautions:
+
+### General Precautions
+
+1. **Education**:
+   - Patients and their families should be educated about the prevention, recognition, and treatment of hypoglycemia.
+   - Health care personnel, particularly emergency responders, should know how to recognize and treat hypoglycemia effectively.
+
+2. **Monitoring Blood Glucose**:
+   - Regular monitoring of blood glucose levels is crucial to maintain appropriate glycemic control.
+   - Patients should carry rapidly absorbable carbohydrates to address low blood sugar levels.
+
+3. **Diet and Nutrition**:
+   - Follow a meal plan that includes balanced macronutrients and regular meal timing to prevent fluctuations in blood sugar levels.
+   - Individuals should avoid excess intake of sugars and simple carbohydrates, particularly in fast-breaking meals after fasting.
+
+4. **Physical Activity**:
+   - Exercise is beneficial but should be planned cautiously, particularly in the evening, as physical activity can increase the risk of hypoglycemia.
+   - Patients should monitor their blood glucose before, during, and after exercise.
+
+5. **Medication Management**:
+   - Any changes in insulin preparation or oral hypoglycemic agents should be accompanied by appropriate education regarding their use.
+   - Be mindful of dose adjustments related to lifestyle changes, such as meal timing and physical activity.
+
+### Specific Precautions for Hypoglycemia
+
+1. **Awareness of Symptoms**:
+   - Patients should learn to recognize subtle signs of hypoglycemia, especially if they no longer experience the typical symptoms.
+
+2. **Carrying Emergency Supplies**:
+   - Always carry an identification card or wear a medical alert bracelet indicating diabetes management to assist in emergencies.
+
+3. **Adjusting Insulin or Medication**:
+   - Adjust insulin doses based on the level of physical activity and ensure an adequate carbohydrate intake during increased levels of exercise.
+
+### Precautions for High Blood Sugar (Hyperglycemia)
+
+1. **Monitoring and Management**:
+   - Be aware of the symptoms of hyperglycemia, such as excessive thirst, frequent urination, and fatigue.
+   - Increase fluid intake to manage dehydration associated with high blood glucose levels.
+
+2. **Emergency Preparedness**:
+   - In cases of severe hyperglycemia or diabetic ketoacidosis, immediate medical attention is needed to prevent serious health outcomes.
+
+3. **Long-term Health Checks**:
+   - Regular screening for microvascular complications, such as retinopathy and nephropathy, is crucial for long-term health.
+
+### Conclusion
+
+Ongoing education and management strategies are vital for individuals with diabetes mellitus to prevent both acute and chronic complications. Collaborating closely with health care teams, adhering to prescribed treatments, and actively engaging in lifestyle modifications can lead to better health outcomes.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Treatment options for diabetes
+- [3] Prevention and management strategies for diabetes complications
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: local
+ANSWER:
+When managing diabetes mellitus, several precautions are essential to prevent complications and ensure effective control of the condition. Here are some key precautions:
+
+### Blood Glucose Monitoring
+- **Self-Monitoring of Blood Glucose (SMBG):** Patients should regularly monitor their blood glucose levels to track their glycaemic control effectively.
+- **Targeted Blood Glucose Levels:** Individualized blood glucose targets should be established based on each patient's unique circumstances, taking into account factors such as age, duration of diabetes, and presence of complications.
+
+### Dietary Management
+- **Nutritional Recommendations:** Patients are advised to adhere to dietary plans tailored for diabetes management, focusing on carbohydrate distribution and portion control. Emphasis should be placed on reducing saturated fats and maintaining a balanced diet that meets individual needs.
+- **Awareness of Hypoglycemia:** Patients should be educated on recognizing and managing hypoglycemia, including keeping quickly absorbable carbohydrates available at all times.
+
+### Physical Activity
+- **Regular Exercise:** Regular physical activity is encouraged as it enhances insulin sensitivity and helps control weight. However, exercise plans should be individualized, and patients should check their blood glucose before, during, and after physical activities, especially when planning vigorous exercise.
+
+### Medications
+- **Appropriate Use of Insulin and Medications:** Patients using insulin or oral anti-diabetic agents must understand their medications and potential side effects. Education on proper administration and dose adjustments is crucial.
+- **Avoiding Medication Interactions:** Patients should be aware of their medications' potential interactions and inform healthcare providers of any changes in their health status.
+
+### Health Care Management
+- **Regular Check-Ups:** Routine visits to healthcare providers for comprehensive diabetes management, including screening for complications like diabetic retinopathy, nephropathy, and neuropathy, are necessary.
+- **Managing Comorbid Conditions:** Patients should closely monitor and manage other health issues such as hypertension and dyslipidaemia, which can exacerbate diabetes complications.
+
+### Education and Support
+- **Patient Education:** Continuous education regarding the disease, its management, and complications should be provided to both patients and their families. This includes training on the role of diet, exercise, and self-monitoring in diabetes control.
+- **Emergency Preparedness:** Patients should be equipped with knowledge about what to do in emergency situations, such as severe hypoglycemia or diabetic ketoacidosis. This includes knowing when to seek medical help.
+
+### Precaution Against Infections
+- **Foot Care:** Diabetic patients must take special care of their feet to avoid infections and ulcers. Regular foot inspections and proper footwear are critical.
+- **Hygiene Practices:** Maintaining good hygiene can help reduce the risk of infections, particularly urinary tract infections, which are more common in diabetic individuals.
+
+By adhering to these precautions, individuals with diabetes mellitus can better manage their condition and minimize the risk of complications.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Diabetes Care Guidelines
+- [3] Diabetes Management Guidelines
+- [4] UKPDS 38
+- [5] Diabetes Control and Complications Trial
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: global
+ANSWER:
+**Precautions for Diabetes Mellitus Management**
+
+Managing diabetes mellitus involves several precautions to prevent complications and maintain optimal health. Here are key precautions that individuals with diabetes should consider:
+
+1. **Dietary Control**:
+   - Adhere to personalized **nutritional recommendations** to manage blood glucose levels effectively. The distribution of nutrients should include adequate carbohydrates, controlled fat, and sufficient proteins while respecting cultural preferences and individual needs.
+   - Maintain regular meal patterns to avoid hyperglycemia or hypoglycemia, and avoid excessive intake of simple sugars, particularly in the evening.
+
+2. **Regular Monitoring**:
+   - Regularly monitor **blood glucose levels** using **Self-Monitoring of Blood Glucose (SMBG)** to understand how various foods, activities, and medications affect your blood sugar.
+   - Schedule regular medical check-ups to assess **HbA1c** levels, which provide insight into long-term glucose control.
+
+3. **Physical Activity**:
+   - Engage in regular physical activity to improve insulin sensitivity and aid weight management. Always check blood sugar levels before exercising and adjust carbohydrate intake or insulin dosage as necessary to prevent exercise-induced hypoglycemia.
+
+4. **Medication Management**:
+   - Follow prescribed medication regimens closely. For individuals with type 1 diabetes, **Insulin Therapy** is often necessary. Those with type 2 diabetes may use oral medications or insulin depending on their individual management plan.
+   - Educate yourself about potential side effects, such as **hypoglycemia**, and how to recognize early signs to manage them promptly.
+
+5. **Education and Awareness**:
+   - Educate yourself and your family about diabetes management, including recognizing symptoms of high and low blood sugar levels and when to seek medical assistance.
+   - Learn about **ketoacidosis** signs especially in type 1 diabetes, which can be life-threatening. Understanding how high blood sugar can impact your body is crucial.
+
+6. **Preventive Health Care**:
+   - Regular screening for **complications** such as diabetic nephropathy, diabetic retinopathy, and cardiovascular health is vital. This includes blood pressure and lipid profile checks to prevent cardiovascular issues.
+   - Ensure vaccinations are up-to-date, particularly for influenza and pneumonia, as diabetic individuals are at higher risk for infections.
+
+7. **Healthy Lifestyle Changes**:
+   - Adopt a **healthy lifestyle**, focusing on weight management and avoiding smoking. Both obesity and smoking can worsen diabetes outcomes and exacerbate complications.
+   - Develop community-based programs to support healthy living and provide resources for managing diabetes.
+
+By incorporating these precautions into daily life, individuals with diabetes mellitus can significantly reduce the risk of complications and maintain better control over their condition.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus.
+- [2] Recommendations for metabolic and non-metabolic targets.
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: hybrid
+ANSWER:
+Managing diabetes mellitus involves taking several precautions to prevent complications and maintain optimal health. Here are some key precautions:
+
+### Blood Sugar Monitoring
+- **Self-Monitoring of Blood Glucose (SMBG)**: Regularly monitor blood glucose levels to ensure they are within target ranges. Patients should have rapid-acting carbohydrates available to treat hypoglycaemia and should adjust their food or insulin as necessary [21–23].
+
+### Education on Hypoglycaemia
+- **Patient and Family Education**: Educating patients and their families about recognising and treating hypoglycaemia is essential. This includes understanding symptoms such as jitteriness or weakness and knowing how to respond appropriately [21–23].
+
+### Lifestyle Changes
+- **Diet and Nutrition**: Adhering to a balanced diet low in saturated fats and sugars while monitoring carbohydrate intake is crucial. This includes maintaining a healthy weight, which can improve insulin sensitivity [23][25].
+- **Physical Activity**: Engaging in regular physical activity to help manage weight and improve glycaemic control. Individuals should check their blood glucose before and after exercise to manage potential drops in glucose levels [23–25].
+
+### Managing Complications
+- **Regular Health Check-ups**: Annual screenings for complications, including kidney disease, eye health, and cardiovascular risks. This monitoring allows for early intervention in cases of developing complications [21–23].
+- **Blood Pressure Control**: It is recommended that blood pressure be maintained at levels lower than 130/80 mmHg to mitigate cardiovascular risks associated with diabetes [21–23].
+
+### Medication Management
+- **Medication Adherence**: Ensuring that medications, including insulin and oral anti-hyperglycaemic agents, are taken as prescribed. Be mindful of potential side effects such as hypoglycaemia [23][29].
+
+### Alcohol and Smoking
+- **Avoid Smoking and Limit Alcohol**: Smoking cessation and limited alcohol consumption are important as they can exacerbate diabetic complications and increase cardiovascular risk [23].
+
+### Foot Care
+- **Daily Foot Inspections**: Diabetic patients should examine their feet daily for any sores or injuries, as complications can arise quickly due to poor circulation and nerve damage [21–23].
+
+### Emergency Preparedness
+- **Carrying Identification**: Patients should carry medical identification indicating their diabetes status, which is helpful in emergencies, especially during hypoglycaemic episodes [21–23].
+
+By following these precautions, individuals with diabetes can significantly reduce the risks of complications and enhance their overall health outcomes.
+
+### References
+- [21] Guidelines for the prevention, management and care of diabetes mellitus
+- [22] Diabetes prevention and control guidelines
+- [23] Management of diabetes mellitus guidelines
+----------------------------------------
+QUESTION: Explain performance evaluation.
+MODE: naive
+ANSWER:
+Sorry, I'm not able to provide an answer to that question.[no-context]
+----------------------------------------
+QUESTION: Explain performance evaluation.
+MODE: local
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain performance evaluation.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain performance evaluation.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: naive
+ANSWER:
+**Machine Learning**
+
+Machine learning is a subfield of artificial intelligence that focuses on the use of algorithms and statistical models to enable computers to perform specific tasks without explicit instructions. Instead of being programmed with specific rules, machine learning algorithms learn patterns and insights from data. This allows systems to adapt and improve their performance over time as they are exposed to more data.
+
+- **Learning Process**: Machine learning involves training a model using a dataset, which consists of features (input variables) and corresponding labels (output variables). The model learns to make predictions based on this training data.
+
+- **Types of Learning**: There are various types of machine learning approaches:
+  - **Supervised Learning**: The model is trained on labeled data (input-output pairs).
+  - **Unsupervised Learning**: The model works with unlabeled data and identifies patterns or groupings in the data.
+  - **Reinforcement Learning**: The model learns by interacting with an environment and receiving feedback in the form of rewards or penalties.
+
+**Deep Learning**
+
+Deep learning is a specialized subset of machine learning that utilizes neural networks with many layers (hence the term "deep") to model complex patterns in large amounts of data. Deep learning techniques are particularly powerful for tasks that involve high-dimensional data, such as images, audio, and text.
+
+- **Architecture**: A deep learning model is typically structured as a feedforward neural network where each layer consists of multiple neurons that compute transformations on the input data. The depth of the network allows the model to learn hierarchical representations of the data.
+
+- **Representation Learning**: Deep learning automates feature extraction by learning to represent the data through its layers. Each successive layer captures more abstract representations, from low-level features (like edges in an image) to high-level features (like object parts or even entire objects).
+
+- **Applications**: Deep learning has been applied successfully across various domains, including computer vision (e.g., image recognition), natural language processing (e.g., language translation), and speech recognition. This success is partly due to the availability of large datasets and improvements in computational power, such as the use of GPUs for efficient training of deep networks.
+
+In summary, while all deep learning is machine learning, not all machine learning is deep learning. Deep learning represents a significant advancement in the capability to model complex data through its utilization of deep neural architectures.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: local
+ANSWER:
+### Machine Learning
+
+**Machine Learning** is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform specific tasks without explicit instructions. Instead of following strictly programmed rules, machine learning systems learn from data patterns and improve their performance over time through experience.
+
+Key characteristics of machine learning include:
+
+- **Learning Algorithms**: These are systematic procedures that allow models to learn from data. Machine learning methods can be categorized mainly into:
+  - **Supervised Learning Algorithms**: These algorithms use labeled datasets to train models, allowing them to make predictions based on input data.
+  - **Unsupervised Learning Algorithms**: These algorithms work with unlabeled data to identify patterns or groupings within data.
+  
+- **Applications**: Machine learning has numerous applications, from predicting outcomes (like prices or classifications) to understanding complex datasets in various fields such as finance, healthcare, and more.
+
+### Deep Learning
+
+**Deep Learning** is a specialized subset of machine learning that utilizes multi-layered neural networks to analyze various factors of data, enabling the automatic learning of features and representations at multiple levels of abstraction.
+
+Key features of deep learning include:
+
+- **Neural Networks**: Deep learning is characterized by its use of neural networks—particularly deep neural networks comprising multiple layers. These networks are capable of learning complicated patterns, building complex concepts from simpler representations. For instance, in image recognition, earlier layers might detect edges, while deeper layers recognize shapes or entire objects.
+  
+- **Representation Learning**: Deep learning excels in automatic feature extraction and representation learning, allowing neural networks to discover relevant characteristics from raw input data without manual feature engineering. This is especially powerful in tasks requiring high-level abstraction, such as natural language processing and computer vision.
+
+- **Advancements**: The field of deep learning has seen rapid advancements due to improvements in computational power, the availability of large datasets (often referred to as "Big Data"), and sophisticated training algorithms, such as stochastic gradient descent.
+
+### Conclusion
+
+While machine learning encompasses a wide range of techniques and approaches to enable computers to learn from data, deep learning focuses on using layered neural networks to handle complex data representations more effectively. This distinction defines their roles in modern AI applications.
+
+### References
+
+- [1] Deep Learning Book
+- [2] Applications
+- [3] Machine Learning Basics
+- [4] Supervised Learning Algorithms
+- [5] Unsupervised Learning Algorithms
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: global
+ANSWER:
+### Machine Learning
+
+Machine Learning (ML) is a branch of artificial intelligence (AI) that enables computers to learn from data and improve their performance over time. Specifically, it focuses on the development of algorithms that allow computers to learn patterns from data, enabling them to make predictions or decisions without being explicitly programmed for each specific task. This learning process encompasses various algorithms and models that improve with experience, adapting to new data inputs.
+
+Key characteristics of Machine Learning include:
+
+- **Learning from Experience**: ML systems adapt based on the data they process, which enhances their predictions over time.
+- **Data-Driven Decision Making**: The emphasis is placed on using data to create systems that can autonomously make decisions or predictions.
+- **Algorithm Development**: Various algorithms, from simple linear regression to complex ensembles, are designed to interpret complex datasets effectively.
+
+### Deep Learning
+
+Deep Learning (DL) is a specialized subset of Machine Learning that focuses on using artificial neural networks with many layers (commonly known as deep neural networks). This approach allows systems to learn complex representations of data by building upon simpler abstractions, mimicking the way the human brain processes information.
+
+Some key components and advantages of Deep Learning include:
+
+- **Layered Neural Networks**: Deep Learning utilizes a hierarchical structure, where multiple layers process the data and extract increasingly complex features. Each layer learns to identify patterns based on the outputs of the previous layer.
+- **Large Scale Data Processing**: DL thrives with large volumes of data, making it particularly effective for applications such as image and speech recognition, natural language processing, and other tasks that involve substantial datasets.
+- **Advanced Capability for Recognition and Prediction**: Techniques from deep learning have significantly improved accuracy in various fields by capturing complex patterns and relationships that simpler machine learning algorithms might miss.
+
+The relationship between these two fields is that Deep Learning is viewed as an advanced technique within the broader scope of Machine Learning, leveraging large datasets and computational power to solve more complex problems ([1] Document Title).
+
+### References
+
+- [1] Document Title: Understanding Deep Learning and Machine Learning
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: hybrid
+ANSWER:
+Machine Learning and Deep Learning are closely related concepts within the field of artificial intelligence (AI), each with its own characteristics and applications.
+
+### Machine Learning
+
+**Machine Learning** is a branch of AI that enables systems to learn from data, identifying patterns and making predictions or decisions based on that data. Here are key aspects of machine learning:
+
+- **Definition**: Machine Learning encompasses algorithms and models that are designed to learn from experience (data) and improve their performance over time.
+- **Types of Learning**: It includes several methodologies, mainly:
+  - **Supervised Learning**: Models are trained using labeled data. This method is commonly used for classification and regression tasks.
+  - **Unsupervised Learning**: Models are designed to find patterns or groupings in unlabeled data.
+  - **Reinforcement Learning**: Agents learn to perform tasks through trial and error, receiving rewards or penalties based on their actions.
+  
+The goal of machine learning is to develop algorithms that can generalize well from the provided data to unseen instances, making it pivotal in numerous applications such as speech recognition, image classification, and natural language processing.
+
+### Deep Learning
+
+**Deep Learning** is a specialized subset of Machine Learning that focuses on using neural networks with many layers (hence "deep") to model complex data representations. Points to note include:
+
+- **Neural Networks**: Deep Learning employs architectures known as neural networks, which are designed to function similarly to the human brain, consisting of interconnected nodes (neurons) that transform input data into outputs.
+- **Hierarchical Representation**: It allows systems to learn hierarchical representations of data, meaning that they can identify high-level abstractions in data from lower-level features. For instance, in image recognition, lower layers may capture edges, while deeper layers capture shapes and then entire objects.
+- **Advancements**: Deep Learning gained significant prominence around 2006 due to advancements in computational power and data availability, enabling the training of large and complex models.
+- **Applications**: It has proven especially effective in areas such as computer vision, speech recognition, and natural language processing, achieving results that outperform traditional machine learning techniques in many cases.
+
+In summary, while both Machine Learning and Deep Learning aim to connect data and intelligence, Deep Learning distinguishes itself through its reliance on structured layers of neural networks to automatically learn from raw data, making it particularly effective for complex tasks.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: naive
+ANSWER:
+When managing diabetes mellitus, several precautions are essential to prevent complications and maintain optimal health. Here are some key precautions:
+
+### General Precautions
+
+1. **Education**:
+   - Patients and their families should be educated about the prevention, recognition, and treatment of hypoglycemia.
+   - Health care personnel, particularly emergency responders, should know how to recognize and treat hypoglycemia effectively.
+
+2. **Monitoring Blood Glucose**:
+   - Regular monitoring of blood glucose levels is crucial to maintain appropriate glycemic control.
+   - Patients should carry rapidly absorbable carbohydrates to address low blood sugar levels.
+
+3. **Diet and Nutrition**:
+   - Follow a meal plan that includes balanced macronutrients and regular meal timing to prevent fluctuations in blood sugar levels.
+   - Individuals should avoid excess intake of sugars and simple carbohydrates, particularly in fast-breaking meals after fasting.
+
+4. **Physical Activity**:
+   - Exercise is beneficial but should be planned cautiously, particularly in the evening, as physical activity can increase the risk of hypoglycemia.
+   - Patients should monitor their blood glucose before, during, and after exercise.
+
+5. **Medication Management**:
+   - Any changes in insulin preparation or oral hypoglycemic agents should be accompanied by appropriate education regarding their use.
+   - Be mindful of dose adjustments related to lifestyle changes, such as meal timing and physical activity.
+
+### Specific Precautions for Hypoglycemia
+
+1. **Awareness of Symptoms**:
+   - Patients should learn to recognize subtle signs of hypoglycemia, especially if they no longer experience the typical symptoms.
+
+2. **Carrying Emergency Supplies**:
+   - Always carry an identification card or wear a medical alert bracelet indicating diabetes management to assist in emergencies.
+
+3. **Adjusting Insulin or Medication**:
+   - Adjust insulin doses based on the level of physical activity and ensure an adequate carbohydrate intake during increased levels of exercise.
+
+### Precautions for High Blood Sugar (Hyperglycemia)
+
+1. **Monitoring and Management**:
+   - Be aware of the symptoms of hyperglycemia, such as excessive thirst, frequent urination, and fatigue.
+   - Increase fluid intake to manage dehydration associated with high blood glucose levels.
+
+2. **Emergency Preparedness**:
+   - In cases of severe hyperglycemia or diabetic ketoacidosis, immediate medical attention is needed to prevent serious health outcomes.
+
+3. **Long-term Health Checks**:
+   - Regular screening for microvascular complications, such as retinopathy and nephropathy, is crucial for long-term health.
+
+### Conclusion
+
+Ongoing education and management strategies are vital for individuals with diabetes mellitus to prevent both acute and chronic complications. Collaborating closely with health care teams, adhering to prescribed treatments, and actively engaging in lifestyle modifications can lead to better health outcomes.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Treatment options for diabetes
+- [3] Prevention and management strategies for diabetes complications
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: local
+ANSWER:
+When managing diabetes mellitus, several precautions are essential to prevent complications and ensure effective control of the condition. Here are some key precautions:
+
+### Blood Glucose Monitoring
+- **Self-Monitoring of Blood Glucose (SMBG):** Patients should regularly monitor their blood glucose levels to track their glycaemic control effectively.
+- **Targeted Blood Glucose Levels:** Individualized blood glucose targets should be established based on each patient's unique circumstances, taking into account factors such as age, duration of diabetes, and presence of complications.
+
+### Dietary Management
+- **Nutritional Recommendations:** Patients are advised to adhere to dietary plans tailored for diabetes management, focusing on carbohydrate distribution and portion control. Emphasis should be placed on reducing saturated fats and maintaining a balanced diet that meets individual needs.
+- **Awareness of Hypoglycemia:** Patients should be educated on recognizing and managing hypoglycemia, including keeping quickly absorbable carbohydrates available at all times.
+
+### Physical Activity
+- **Regular Exercise:** Regular physical activity is encouraged as it enhances insulin sensitivity and helps control weight. However, exercise plans should be individualized, and patients should check their blood glucose before, during, and after physical activities, especially when planning vigorous exercise.
+
+### Medications
+- **Appropriate Use of Insulin and Medications:** Patients using insulin or oral anti-diabetic agents must understand their medications and potential side effects. Education on proper administration and dose adjustments is crucial.
+- **Avoiding Medication Interactions:** Patients should be aware of their medications' potential interactions and inform healthcare providers of any changes in their health status.
+
+### Health Care Management
+- **Regular Check-Ups:** Routine visits to healthcare providers for comprehensive diabetes management, including screening for complications like diabetic retinopathy, nephropathy, and neuropathy, are necessary.
+- **Managing Comorbid Conditions:** Patients should closely monitor and manage other health issues such as hypertension and dyslipidaemia, which can exacerbate diabetes complications.
+
+### Education and Support
+- **Patient Education:** Continuous education regarding the disease, its management, and complications should be provided to both patients and their families. This includes training on the role of diet, exercise, and self-monitoring in diabetes control.
+- **Emergency Preparedness:** Patients should be equipped with knowledge about what to do in emergency situations, such as severe hypoglycemia or diabetic ketoacidosis. This includes knowing when to seek medical help.
+
+### Precaution Against Infections
+- **Foot Care:** Diabetic patients must take special care of their feet to avoid infections and ulcers. Regular foot inspections and proper footwear are critical.
+- **Hygiene Practices:** Maintaining good hygiene can help reduce the risk of infections, particularly urinary tract infections, which are more common in diabetic individuals.
+
+By adhering to these precautions, individuals with diabetes mellitus can better manage their condition and minimize the risk of complications.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Diabetes Care Guidelines
+- [3] Diabetes Management Guidelines
+- [4] UKPDS 38
+- [5] Diabetes Control and Complications Trial
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: global
+ANSWER:
+**Precautions for Diabetes Mellitus Management**
+
+Managing diabetes mellitus involves several precautions to prevent complications and maintain optimal health. Here are key precautions that individuals with diabetes should consider:
+
+1. **Dietary Control**:
+   - Adhere to personalized **nutritional recommendations** to manage blood glucose levels effectively. The distribution of nutrients should include adequate carbohydrates, controlled fat, and sufficient proteins while respecting cultural preferences and individual needs.
+   - Maintain regular meal patterns to avoid hyperglycemia or hypoglycemia, and avoid excessive intake of simple sugars, particularly in the evening.
+
+2. **Regular Monitoring**:
+   - Regularly monitor **blood glucose levels** using **Self-Monitoring of Blood Glucose (SMBG)** to understand how various foods, activities, and medications affect your blood sugar.
+   - Schedule regular medical check-ups to assess **HbA1c** levels, which provide insight into long-term glucose control.
+
+3. **Physical Activity**:
+   - Engage in regular physical activity to improve insulin sensitivity and aid weight management. Always check blood sugar levels before exercising and adjust carbohydrate intake or insulin dosage as necessary to prevent exercise-induced hypoglycemia.
+
+4. **Medication Management**:
+   - Follow prescribed medication regimens closely. For individuals with type 1 diabetes, **Insulin Therapy** is often necessary. Those with type 2 diabetes may use oral medications or insulin depending on their individual management plan.
+   - Educate yourself about potential side effects, such as **hypoglycemia**, and how to recognize early signs to manage them promptly.
+
+5. **Education and Awareness**:
+   - Educate yourself and your family about diabetes management, including recognizing symptoms of high and low blood sugar levels and when to seek medical assistance.
+   - Learn about **ketoacidosis** signs especially in type 1 diabetes, which can be life-threatening. Understanding how high blood sugar can impact your body is crucial.
+
+6. **Preventive Health Care**:
+   - Regular screening for **complications** such as diabetic nephropathy, diabetic retinopathy, and cardiovascular health is vital. This includes blood pressure and lipid profile checks to prevent cardiovascular issues.
+   - Ensure vaccinations are up-to-date, particularly for influenza and pneumonia, as diabetic individuals are at higher risk for infections.
+
+7. **Healthy Lifestyle Changes**:
+   - Adopt a **healthy lifestyle**, focusing on weight management and avoiding smoking. Both obesity and smoking can worsen diabetes outcomes and exacerbate complications.
+   - Develop community-based programs to support healthy living and provide resources for managing diabetes.
+
+By incorporating these precautions into daily life, individuals with diabetes mellitus can significantly reduce the risk of complications and maintain better control over their condition.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus.
+- [2] Recommendations for metabolic and non-metabolic targets.
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: hybrid
+ANSWER:
+Managing diabetes mellitus involves taking several precautions to prevent complications and maintain optimal health. Here are some key precautions:
+
+### Blood Sugar Monitoring
+- **Self-Monitoring of Blood Glucose (SMBG)**: Regularly monitor blood glucose levels to ensure they are within target ranges. Patients should have rapid-acting carbohydrates available to treat hypoglycaemia and should adjust their food or insulin as necessary [21–23].
+
+### Education on Hypoglycaemia
+- **Patient and Family Education**: Educating patients and their families about recognising and treating hypoglycaemia is essential. This includes understanding symptoms such as jitteriness or weakness and knowing how to respond appropriately [21–23].
+
+### Lifestyle Changes
+- **Diet and Nutrition**: Adhering to a balanced diet low in saturated fats and sugars while monitoring carbohydrate intake is crucial. This includes maintaining a healthy weight, which can improve insulin sensitivity [23][25].
+- **Physical Activity**: Engaging in regular physical activity to help manage weight and improve glycaemic control. Individuals should check their blood glucose before and after exercise to manage potential drops in glucose levels [23–25].
+
+### Managing Complications
+- **Regular Health Check-ups**: Annual screenings for complications, including kidney disease, eye health, and cardiovascular risks. This monitoring allows for early intervention in cases of developing complications [21–23].
+- **Blood Pressure Control**: It is recommended that blood pressure be maintained at levels lower than 130/80 mmHg to mitigate cardiovascular risks associated with diabetes [21–23].
+
+### Medication Management
+- **Medication Adherence**: Ensuring that medications, including insulin and oral anti-hyperglycaemic agents, are taken as prescribed. Be mindful of potential side effects such as hypoglycaemia [23][29].
+
+### Alcohol and Smoking
+- **Avoid Smoking and Limit Alcohol**: Smoking cessation and limited alcohol consumption are important as they can exacerbate diabetic complications and increase cardiovascular risk [23].
+
+### Foot Care
+- **Daily Foot Inspections**: Diabetic patients should examine their feet daily for any sores or injuries, as complications can arise quickly due to poor circulation and nerve damage [21–23].
+
+### Emergency Preparedness
+- **Carrying Identification**: Patients should carry medical identification indicating their diabetes status, which is helpful in emergencies, especially during hypoglycaemic episodes [21–23].
+
+By following these precautions, individuals with diabetes can significantly reduce the risks of complications and enhance their overall health outcomes.
+
+### References
+- [21] Guidelines for the prevention, management and care of diabetes mellitus
+- [22] Diabetes prevention and control guidelines
+- [23] Management of diabetes mellitus guidelines
+----------------------------------------
+QUESTION: Explain performance evaluation.
+MODE: naive
+ANSWER:
+Performance evaluation in machine learning, particularly in supervised learning, involves assessing how well an algorithm predicts or categorizes data based on known labels. This process is essential for understanding the effectiveness of a model and ensuring it performs as expected on new, unseen data.
+
+### Key Components of Performance Evaluation
+
+1. **Metrics**: Performance is measured using various metrics, including:
+   - **Specificity and Sensitivity**: These metrics help in understanding the model's accuracy regarding true positive (TP) and false negative (FN) outcomes.
+   - **Confusion Matrix**: This is a comprehensive tool that breaks down the predictions made by the model into four categories: true positives (TP), false positives (FP), false negatives (FN), and true negatives (TN). This breakdown helps identify where the algorithm performs well and where it needs improvement.
+   - **Accuracy**: This is the proportion of all correct predictions (both true positives and true negatives) compared to the total predictions made. Mathematically, it is expressed as (TP + TN) / (TP + FP + FN + TN). While accuracy is a commonly used measure, it can be misleading, especially in imbalanced classes, such as in the prediction of rare events like asthma attacks.
+
+2. **Balancing Metrics**: 
+   - When evaluating models, one must consider the balance between sensitivity (correct identification of positive cases) and specificity (correct identification of negative cases). Adjusting the decision boundary affects this balance—improving one metric often leads to a decline in the other.
+   - The **Receiver Operating Characteristic (ROC) curve** provides a graphical representation of this trade-off, with the Area Under the Curve (AUC) summarizing the performance across all classification thresholds, where 100% represents a perfect classifier and 50% represents random guessing.
+
+3. **Additional Considerations**: 
+   - It is crucial to use various metrics as no single metric provides a complete view of performance. Each metric has its strengths and limitations, and they should be used collectively to assess the model comprehensively.
+
+4. **Evaluation Process**: 
+   - The typical evaluation process involves splitting the dataset into training and testing subsets. The model is trained on the training data and evaluated using the testing data to gauge its performance.
+
+In conclusion, performance evaluation is an integral part of developing and deploying machine learning algorithms. By utilizing multiple metrics and understanding their implications, practitioners can better assess the reliability and effectiveness of their models.
+
+### References
+
+- [1] Performance Evaluation in Machine Learning: Metrics and Methods
+- [2] Overview of Supervised Learning and Performance Assessment
+- [3] Understanding the Confusion Matrix and Its Components
+----------------------------------------
+QUESTION: Explain performance evaluation.
+MODE: local
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain performance evaluation.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain performance evaluation.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer.
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: naive
+ANSWER:
+**Machine Learning**
+
+Machine learning is a subfield of artificial intelligence that focuses on the use of algorithms and statistical models to enable computers to perform specific tasks without explicit instructions. Instead of being programmed with specific rules, machine learning algorithms learn patterns and insights from data. This allows systems to adapt and improve their performance over time as they are exposed to more data.
+
+- **Learning Process**: Machine learning involves training a model using a dataset, which consists of features (input variables) and corresponding labels (output variables). The model learns to make predictions based on this training data.
+
+- **Types of Learning**: There are various types of machine learning approaches:
+  - **Supervised Learning**: The model is trained on labeled data (input-output pairs).
+  - **Unsupervised Learning**: The model works with unlabeled data and identifies patterns or groupings in the data.
+  - **Reinforcement Learning**: The model learns by interacting with an environment and receiving feedback in the form of rewards or penalties.
+
+**Deep Learning**
+
+Deep learning is a specialized subset of machine learning that utilizes neural networks with many layers (hence the term "deep") to model complex patterns in large amounts of data. Deep learning techniques are particularly powerful for tasks that involve high-dimensional data, such as images, audio, and text.
+
+- **Architecture**: A deep learning model is typically structured as a feedforward neural network where each layer consists of multiple neurons that compute transformations on the input data. The depth of the network allows the model to learn hierarchical representations of the data.
+
+- **Representation Learning**: Deep learning automates feature extraction by learning to represent the data through its layers. Each successive layer captures more abstract representations, from low-level features (like edges in an image) to high-level features (like object parts or even entire objects).
+
+- **Applications**: Deep learning has been applied successfully across various domains, including computer vision (e.g., image recognition), natural language processing (e.g., language translation), and speech recognition. This success is partly due to the availability of large datasets and improvements in computational power, such as the use of GPUs for efficient training of deep networks.
+
+In summary, while all deep learning is machine learning, not all machine learning is deep learning. Deep learning represents a significant advancement in the capability to model complex data through its utilization of deep neural architectures.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: local
+ANSWER:
+### Machine Learning
+
+**Machine Learning** is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform specific tasks without explicit instructions. Instead of following strictly programmed rules, machine learning systems learn from data patterns and improve their performance over time through experience.
+
+Key characteristics of machine learning include:
+
+- **Learning Algorithms**: These are systematic procedures that allow models to learn from data. Machine learning methods can be categorized mainly into:
+  - **Supervised Learning Algorithms**: These algorithms use labeled datasets to train models, allowing them to make predictions based on input data.
+  - **Unsupervised Learning Algorithms**: These algorithms work with unlabeled data to identify patterns or groupings within data.
+  
+- **Applications**: Machine learning has numerous applications, from predicting outcomes (like prices or classifications) to understanding complex datasets in various fields such as finance, healthcare, and more.
+
+### Deep Learning
+
+**Deep Learning** is a specialized subset of machine learning that utilizes multi-layered neural networks to analyze various factors of data, enabling the automatic learning of features and representations at multiple levels of abstraction.
+
+Key features of deep learning include:
+
+- **Neural Networks**: Deep learning is characterized by its use of neural networks—particularly deep neural networks comprising multiple layers. These networks are capable of learning complicated patterns, building complex concepts from simpler representations. For instance, in image recognition, earlier layers might detect edges, while deeper layers recognize shapes or entire objects.
+  
+- **Representation Learning**: Deep learning excels in automatic feature extraction and representation learning, allowing neural networks to discover relevant characteristics from raw input data without manual feature engineering. This is especially powerful in tasks requiring high-level abstraction, such as natural language processing and computer vision.
+
+- **Advancements**: The field of deep learning has seen rapid advancements due to improvements in computational power, the availability of large datasets (often referred to as "Big Data"), and sophisticated training algorithms, such as stochastic gradient descent.
+
+### Conclusion
+
+While machine learning encompasses a wide range of techniques and approaches to enable computers to learn from data, deep learning focuses on using layered neural networks to handle complex data representations more effectively. This distinction defines their roles in modern AI applications.
+
+### References
+
+- [1] Deep Learning Book
+- [2] Applications
+- [3] Machine Learning Basics
+- [4] Supervised Learning Algorithms
+- [5] Unsupervised Learning Algorithms
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: global
+ANSWER:
+### Machine Learning
+
+Machine Learning (ML) is a branch of artificial intelligence (AI) that enables computers to learn from data and improve their performance over time. Specifically, it focuses on the development of algorithms that allow computers to learn patterns from data, enabling them to make predictions or decisions without being explicitly programmed for each specific task. This learning process encompasses various algorithms and models that improve with experience, adapting to new data inputs.
+
+Key characteristics of Machine Learning include:
+
+- **Learning from Experience**: ML systems adapt based on the data they process, which enhances their predictions over time.
+- **Data-Driven Decision Making**: The emphasis is placed on using data to create systems that can autonomously make decisions or predictions.
+- **Algorithm Development**: Various algorithms, from simple linear regression to complex ensembles, are designed to interpret complex datasets effectively.
+
+### Deep Learning
+
+Deep Learning (DL) is a specialized subset of Machine Learning that focuses on using artificial neural networks with many layers (commonly known as deep neural networks). This approach allows systems to learn complex representations of data by building upon simpler abstractions, mimicking the way the human brain processes information.
+
+Some key components and advantages of Deep Learning include:
+
+- **Layered Neural Networks**: Deep Learning utilizes a hierarchical structure, where multiple layers process the data and extract increasingly complex features. Each layer learns to identify patterns based on the outputs of the previous layer.
+- **Large Scale Data Processing**: DL thrives with large volumes of data, making it particularly effective for applications such as image and speech recognition, natural language processing, and other tasks that involve substantial datasets.
+- **Advanced Capability for Recognition and Prediction**: Techniques from deep learning have significantly improved accuracy in various fields by capturing complex patterns and relationships that simpler machine learning algorithms might miss.
+
+The relationship between these two fields is that Deep Learning is viewed as an advanced technique within the broader scope of Machine Learning, leveraging large datasets and computational power to solve more complex problems ([1] Document Title).
+
+### References
+
+- [1] Document Title: Understanding Deep Learning and Machine Learning
+----------------------------------------
+QUESTION: Explain machine learning and deep learning.
+MODE: hybrid
+ANSWER:
+Machine Learning and Deep Learning are closely related concepts within the field of artificial intelligence (AI), each with its own characteristics and applications.
+
+### Machine Learning
+
+**Machine Learning** is a branch of AI that enables systems to learn from data, identifying patterns and making predictions or decisions based on that data. Here are key aspects of machine learning:
+
+- **Definition**: Machine Learning encompasses algorithms and models that are designed to learn from experience (data) and improve their performance over time.
+- **Types of Learning**: It includes several methodologies, mainly:
+  - **Supervised Learning**: Models are trained using labeled data. This method is commonly used for classification and regression tasks.
+  - **Unsupervised Learning**: Models are designed to find patterns or groupings in unlabeled data.
+  - **Reinforcement Learning**: Agents learn to perform tasks through trial and error, receiving rewards or penalties based on their actions.
+  
+The goal of machine learning is to develop algorithms that can generalize well from the provided data to unseen instances, making it pivotal in numerous applications such as speech recognition, image classification, and natural language processing.
+
+### Deep Learning
+
+**Deep Learning** is a specialized subset of Machine Learning that focuses on using neural networks with many layers (hence "deep") to model complex data representations. Points to note include:
+
+- **Neural Networks**: Deep Learning employs architectures known as neural networks, which are designed to function similarly to the human brain, consisting of interconnected nodes (neurons) that transform input data into outputs.
+- **Hierarchical Representation**: It allows systems to learn hierarchical representations of data, meaning that they can identify high-level abstractions in data from lower-level features. For instance, in image recognition, lower layers may capture edges, while deeper layers capture shapes and then entire objects.
+- **Advancements**: Deep Learning gained significant prominence around 2006 due to advancements in computational power and data availability, enabling the training of large and complex models.
+- **Applications**: It has proven especially effective in areas such as computer vision, speech recognition, and natural language processing, achieving results that outperform traditional machine learning techniques in many cases.
+
+In summary, while both Machine Learning and Deep Learning aim to connect data and intelligence, Deep Learning distinguishes itself through its reliance on structured layers of neural networks to automatically learn from raw data, making it particularly effective for complex tasks.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: naive
+ANSWER:
+When managing diabetes mellitus, several precautions are essential to prevent complications and maintain optimal health. Here are some key precautions:
+
+### General Precautions
+
+1. **Education**:
+   - Patients and their families should be educated about the prevention, recognition, and treatment of hypoglycemia.
+   - Health care personnel, particularly emergency responders, should know how to recognize and treat hypoglycemia effectively.
+
+2. **Monitoring Blood Glucose**:
+   - Regular monitoring of blood glucose levels is crucial to maintain appropriate glycemic control.
+   - Patients should carry rapidly absorbable carbohydrates to address low blood sugar levels.
+
+3. **Diet and Nutrition**:
+   - Follow a meal plan that includes balanced macronutrients and regular meal timing to prevent fluctuations in blood sugar levels.
+   - Individuals should avoid excess intake of sugars and simple carbohydrates, particularly in fast-breaking meals after fasting.
+
+4. **Physical Activity**:
+   - Exercise is beneficial but should be planned cautiously, particularly in the evening, as physical activity can increase the risk of hypoglycemia.
+   - Patients should monitor their blood glucose before, during, and after exercise.
+
+5. **Medication Management**:
+   - Any changes in insulin preparation or oral hypoglycemic agents should be accompanied by appropriate education regarding their use.
+   - Be mindful of dose adjustments related to lifestyle changes, such as meal timing and physical activity.
+
+### Specific Precautions for Hypoglycemia
+
+1. **Awareness of Symptoms**:
+   - Patients should learn to recognize subtle signs of hypoglycemia, especially if they no longer experience the typical symptoms.
+
+2. **Carrying Emergency Supplies**:
+   - Always carry an identification card or wear a medical alert bracelet indicating diabetes management to assist in emergencies.
+
+3. **Adjusting Insulin or Medication**:
+   - Adjust insulin doses based on the level of physical activity and ensure an adequate carbohydrate intake during increased levels of exercise.
+
+### Precautions for High Blood Sugar (Hyperglycemia)
+
+1. **Monitoring and Management**:
+   - Be aware of the symptoms of hyperglycemia, such as excessive thirst, frequent urination, and fatigue.
+   - Increase fluid intake to manage dehydration associated with high blood glucose levels.
+
+2. **Emergency Preparedness**:
+   - In cases of severe hyperglycemia or diabetic ketoacidosis, immediate medical attention is needed to prevent serious health outcomes.
+
+3. **Long-term Health Checks**:
+   - Regular screening for microvascular complications, such as retinopathy and nephropathy, is crucial for long-term health.
+
+### Conclusion
+
+Ongoing education and management strategies are vital for individuals with diabetes mellitus to prevent both acute and chronic complications. Collaborating closely with health care teams, adhering to prescribed treatments, and actively engaging in lifestyle modifications can lead to better health outcomes.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Treatment options for diabetes
+- [3] Prevention and management strategies for diabetes complications
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: local
+ANSWER:
+When managing diabetes mellitus, several precautions are essential to prevent complications and ensure effective control of the condition. Here are some key precautions:
+
+### Blood Glucose Monitoring
+- **Self-Monitoring of Blood Glucose (SMBG):** Patients should regularly monitor their blood glucose levels to track their glycaemic control effectively.
+- **Targeted Blood Glucose Levels:** Individualized blood glucose targets should be established based on each patient's unique circumstances, taking into account factors such as age, duration of diabetes, and presence of complications.
+
+### Dietary Management
+- **Nutritional Recommendations:** Patients are advised to adhere to dietary plans tailored for diabetes management, focusing on carbohydrate distribution and portion control. Emphasis should be placed on reducing saturated fats and maintaining a balanced diet that meets individual needs.
+- **Awareness of Hypoglycemia:** Patients should be educated on recognizing and managing hypoglycemia, including keeping quickly absorbable carbohydrates available at all times.
+
+### Physical Activity
+- **Regular Exercise:** Regular physical activity is encouraged as it enhances insulin sensitivity and helps control weight. However, exercise plans should be individualized, and patients should check their blood glucose before, during, and after physical activities, especially when planning vigorous exercise.
+
+### Medications
+- **Appropriate Use of Insulin and Medications:** Patients using insulin or oral anti-diabetic agents must understand their medications and potential side effects. Education on proper administration and dose adjustments is crucial.
+- **Avoiding Medication Interactions:** Patients should be aware of their medications' potential interactions and inform healthcare providers of any changes in their health status.
+
+### Health Care Management
+- **Regular Check-Ups:** Routine visits to healthcare providers for comprehensive diabetes management, including screening for complications like diabetic retinopathy, nephropathy, and neuropathy, are necessary.
+- **Managing Comorbid Conditions:** Patients should closely monitor and manage other health issues such as hypertension and dyslipidaemia, which can exacerbate diabetes complications.
+
+### Education and Support
+- **Patient Education:** Continuous education regarding the disease, its management, and complications should be provided to both patients and their families. This includes training on the role of diet, exercise, and self-monitoring in diabetes control.
+- **Emergency Preparedness:** Patients should be equipped with knowledge about what to do in emergency situations, such as severe hypoglycemia or diabetic ketoacidosis. This includes knowing when to seek medical help.
+
+### Precaution Against Infections
+- **Foot Care:** Diabetic patients must take special care of their feet to avoid infections and ulcers. Regular foot inspections and proper footwear are critical.
+- **Hygiene Practices:** Maintaining good hygiene can help reduce the risk of infections, particularly urinary tract infections, which are more common in diabetic individuals.
+
+By adhering to these precautions, individuals with diabetes mellitus can better manage their condition and minimize the risk of complications.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Diabetes Care Guidelines
+- [3] Diabetes Management Guidelines
+- [4] UKPDS 38
+- [5] Diabetes Control and Complications Trial
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: global
+ANSWER:
+**Precautions for Diabetes Mellitus Management**
+
+Managing diabetes mellitus involves several precautions to prevent complications and maintain optimal health. Here are key precautions that individuals with diabetes should consider:
+
+1. **Dietary Control**:
+   - Adhere to personalized **nutritional recommendations** to manage blood glucose levels effectively. The distribution of nutrients should include adequate carbohydrates, controlled fat, and sufficient proteins while respecting cultural preferences and individual needs.
+   - Maintain regular meal patterns to avoid hyperglycemia or hypoglycemia, and avoid excessive intake of simple sugars, particularly in the evening.
+
+2. **Regular Monitoring**:
+   - Regularly monitor **blood glucose levels** using **Self-Monitoring of Blood Glucose (SMBG)** to understand how various foods, activities, and medications affect your blood sugar.
+   - Schedule regular medical check-ups to assess **HbA1c** levels, which provide insight into long-term glucose control.
+
+3. **Physical Activity**:
+   - Engage in regular physical activity to improve insulin sensitivity and aid weight management. Always check blood sugar levels before exercising and adjust carbohydrate intake or insulin dosage as necessary to prevent exercise-induced hypoglycemia.
+
+4. **Medication Management**:
+   - Follow prescribed medication regimens closely. For individuals with type 1 diabetes, **Insulin Therapy** is often necessary. Those with type 2 diabetes may use oral medications or insulin depending on their individual management plan.
+   - Educate yourself about potential side effects, such as **hypoglycemia**, and how to recognize early signs to manage them promptly.
+
+5. **Education and Awareness**:
+   - Educate yourself and your family about diabetes management, including recognizing symptoms of high and low blood sugar levels and when to seek medical assistance.
+   - Learn about **ketoacidosis** signs especially in type 1 diabetes, which can be life-threatening. Understanding how high blood sugar can impact your body is crucial.
+
+6. **Preventive Health Care**:
+   - Regular screening for **complications** such as diabetic nephropathy, diabetic retinopathy, and cardiovascular health is vital. This includes blood pressure and lipid profile checks to prevent cardiovascular issues.
+   - Ensure vaccinations are up-to-date, particularly for influenza and pneumonia, as diabetic individuals are at higher risk for infections.
+
+7. **Healthy Lifestyle Changes**:
+   - Adopt a **healthy lifestyle**, focusing on weight management and avoiding smoking. Both obesity and smoking can worsen diabetes outcomes and exacerbate complications.
+   - Develop community-based programs to support healthy living and provide resources for managing diabetes.
+
+By incorporating these precautions into daily life, individuals with diabetes mellitus can significantly reduce the risk of complications and maintain better control over their condition.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus.
+- [2] Recommendations for metabolic and non-metabolic targets.
+----------------------------------------
+QUESTION: Give precautions for diabetes mellitus.
+MODE: hybrid
+ANSWER:
+Managing diabetes mellitus involves taking several precautions to prevent complications and maintain optimal health. Here are some key precautions:
+
+### Blood Sugar Monitoring
+- **Self-Monitoring of Blood Glucose (SMBG)**: Regularly monitor blood glucose levels to ensure they are within target ranges. Patients should have rapid-acting carbohydrates available to treat hypoglycaemia and should adjust their food or insulin as necessary [21–23].
+
+### Education on Hypoglycaemia
+- **Patient and Family Education**: Educating patients and their families about recognising and treating hypoglycaemia is essential. This includes understanding symptoms such as jitteriness or weakness and knowing how to respond appropriately [21–23].
+
+### Lifestyle Changes
+- **Diet and Nutrition**: Adhering to a balanced diet low in saturated fats and sugars while monitoring carbohydrate intake is crucial. This includes maintaining a healthy weight, which can improve insulin sensitivity [23][25].
+- **Physical Activity**: Engaging in regular physical activity to help manage weight and improve glycaemic control. Individuals should check their blood glucose before and after exercise to manage potential drops in glucose levels [23–25].
+
+### Managing Complications
+- **Regular Health Check-ups**: Annual screenings for complications, including kidney disease, eye health, and cardiovascular risks. This monitoring allows for early intervention in cases of developing complications [21–23].
+- **Blood Pressure Control**: It is recommended that blood pressure be maintained at levels lower than 130/80 mmHg to mitigate cardiovascular risks associated with diabetes [21–23].
+
+### Medication Management
+- **Medication Adherence**: Ensuring that medications, including insulin and oral anti-hyperglycaemic agents, are taken as prescribed. Be mindful of potential side effects such as hypoglycaemia [23][29].
+
+### Alcohol and Smoking
+- **Avoid Smoking and Limit Alcohol**: Smoking cessation and limited alcohol consumption are important as they can exacerbate diabetic complications and increase cardiovascular risk [23].
+
+### Foot Care
+- **Daily Foot Inspections**: Diabetic patients should examine their feet daily for any sores or injuries, as complications can arise quickly due to poor circulation and nerve damage [21–23].
+
+### Emergency Preparedness
+- **Carrying Identification**: Patients should carry medical identification indicating their diabetes status, which is helpful in emergencies, especially during hypoglycaemic episodes [21–23].
+
+By following these precautions, individuals with diabetes can significantly reduce the risks of complications and enhance their overall health outcomes.
+
+### References
+- [21] Guidelines for the prevention, management and care of diabetes mellitus
+- [22] Diabetes prevention and control guidelines
+- [23] Management of diabetes mellitus guidelines
+----------------------------------------
+QUESTION: Explain performance evaluation metrics.
+MODE: naive
+ANSWER:
+Performance evaluation metrics are essential tools used to assess the effectiveness of machine learning algorithms, particularly in supervised learning contexts. These metrics help quantify how well a model is performing regarding its predictions compared to actual outcomes. Here’s a summary of some key metrics:
+
+### Key Metrics for Performance Evaluation
+
+1. **Accuracy**:
+   - **Definition**: The proportion of correct predictions (both true positives and true negatives) to the total predictions made.
+   - **Formula**: Accuracy = (TP + TN) / (TP + FP + FN + TN)
+   - **Limitation**: While accuracy is widely used, it can be misleading in imbalanced datasets. For example, in a scenario where one class significantly outnumbers another, a model can achieve high accuracy by predominantly predicting the majority class, without necessarily being effective.
+
+2. **Confusion Matrix**:
+   - **Definition**: A matrix that summarizes the performance of a classification algorithm by showing the true positives (TP), false positives (FP), false negatives (FN), and true negatives (TN).
+   - **Utility**: It provides a detailed breakdown of how well the model performs on each class, which can reveal specific strengths and weaknesses.
+
+3. **Sensitivity (True Positive Rate)**:
+   - **Definition**: The measure of how many actual positive observations were correctly identified.
+   - **Formula**: Sensitivity = TP / (TP + FN)
+   - **Importance**: High sensitivity indicates the model effectively identifies positive cases, which is critical in applications such as medical diagnostics.
+
+4. **Specificity (True Negative Rate)**:
+   - **Definition**: The measure of how many actual negative observations were correctly identified.
+   - **Formula**: Specificity = TN / (FP + TN)
+   - **Utility**: Specificity indicates how well the model avoids false positives, which is particularly important in contexts where false alarms can lead to significant consequences.
+
+5. **Precision**:
+   - **Definition**: The measure of the accuracy of positive predictions.
+   - **Formula**: Precision = TP / (TP + FP)
+   - **Significance**: High precision implies that most positive predictions made by the model are indeed correct, reducing the number of false positives.
+
+6. **Receiver Operating Characteristic (ROC) Curve and Area Under the Curve (AUC)**:
+   - **ROC Curve**: A graphical representation showing the trade-off between sensitivity and specificity across different threshold settings.
+   - **AUC**: A single scalar value representing the overall performance of the model across all threshold values. An AUC of 1 indicates perfect classification, while an AUC of 0.5 suggests no discriminative ability.
+
+### Considerations in Performance Evaluation
+
+- It is often helpful to use multiple metrics to get a comprehensive view of a model's performance, as each metric has strengths and limitations.
+- Metrics may vary in importance depending on the specific application and its requirements, which should be taken into account when developing and evaluating machine learning models.
+
+In summary, performance evaluation metrics are vital for understanding the strengths and limitations of machine learning models, guiding improvements and ensuring that predictions align accurately with real-world outcomes.
+
+### References
+
+- [1] Performance Evaluation in Machine Learning
+- [2] Metrics for Classifier Performance Evaluation
+- [3] Introduction to Machine Learning Performance Metrics
+----------------------------------------
+QUESTION: Explain performance evaluation metrics.
+MODE: local
+ANSWER:
+Performance evaluation in machine learning is crucial for assessing the effectiveness of algorithms, particularly in classification tasks. Here are the primary performance evaluation metrics:
+
+### 1. **Confusion Matrix**
+The confusion matrix is a tool that allows you to visualize the performance of a classification algorithm. It provides a summary of the correct and incorrect predictions made by the model. For binary classification, it has four components:
+- **True Positives (TP)**: Correctly predicted positive cases.
+- **True Negatives (TN)**: Correctly predicted negative cases.
+- **False Positives (FP)**: Incorrectly predicted positive cases (type I error).
+- **False Negatives (FN)**: Incorrectly predicted negative cases (type II error).
+
+### 2. **Accuracy**
+Accuracy is one of the simplest metrics, calculated as:
+\[ \text{Accuracy} = \frac{TP + TN}{TP + TN + FP + FN} \]
+While it is widely used, accuracy can be misleading, especially in cases of imbalanced datasets.
+
+### 3. **Sensitivity (Recall)**
+Sensitivity, also known as recall, measures the proportion of actual positives correctly identified by the model:
+\[ \text{Sensitivity} = \frac{TP}{TP + FN} \]
+It indicates how well the model identifies positive cases.
+
+### 4. **Specificity**
+Specificity measures the proportion of actual negatives correctly identified:
+\[ \text{Specificity} = \frac{TN}{TN + FP} \]
+It reflects the model's ability to avoid false positives.
+
+### 5. **Precision**
+Precision measures the accuracy of positive predictions:
+\[ \text{Precision} = \frac{TP}{TP + FP} \]
+This metric is particularly important when the cost of a false positive is high.
+
+### 6. **Receiver Operating Characteristic (ROC) Curve and Area Under the Curve (AUC)**
+The ROC curve plots the true positive rate (sensitivity) against the false positive rate for different thresholds. The AUC provides a single value summary metric of the model's ability to distinguish between classes. An AUC of 1.0 indicates a perfect classifier, while an AUC of 0.5 suggests no discriminative ability.
+
+### 7. **F1 Score**
+The F1 score is the harmonic mean of precision and recall, providing a better measure in situations where you need a balance between the two:
+\[ F1 = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}} \]
+
+### Conclusion
+These metrics are critical when evaluating machine learning algorithms, especially in classification tasks, as they provide insights into the model's strengths and weaknesses. It's often suggested to use a combination of these metrics to get a comprehensive view of model performance.
+
+### References
+- [1] Performance Evaluation Metrics in Machine Learning
+----------------------------------------
+QUESTION: Explain performance evaluation metrics.
+MODE: global
+ANSWER:
+Performance evaluation metrics are critical in assessing the effectiveness of machine learning algorithms, particularly in classification tasks. Here are some key metrics utilized for performance evaluation:
+
+### 1. **Confusion Matrix**
+A confusion matrix is a tool used to visualize the performance of a classification algorithm. It provides a summary of prediction results on a classification task by showing:
+
+- **True Positives (TP)**: The instances that were correctly predicted as belonging to the positive class.
+- **False Positives (FP)**: The instances that were incorrectly predicted as belonging to the positive class.
+- **False Negatives (FN)**: The instances that were incorrectly predicted as not belonging to the positive class.
+- **True Negatives (TN)**: The instances that were correctly predicted as not belonging to the positive class.
+
+From this matrix, various metrics can be derived.
+
+### 2. **Accuracy**
+Accuracy is calculated as the proportion of correct predictions out of all predictions made. It can be mathematically expressed as:
+
+\[ \text{Accuracy} = \frac{TP + TN}{TP + TN + FP + FN} \]
+
+However, it is important to note that accuracy might be misleading in cases of imbalanced datasets.
+
+### 3. **Sensitivity (Recall)**
+Sensitivity, also known as recall, measures the proportion of actual positive cases that were correctly identified. It is given by:
+
+\[ \text{Sensitivity} = \frac{TP}{TP + FN} \]
+
+This metric is particularly important in scenarios where missing a positive case (e.g., a disease diagnosis) could have severe consequences.
+
+### 4. **Specificity**
+Specificity measures the proportion of actual negative cases that were correctly identified. It is computed as:
+
+\[ \text{Specificity} = \frac{TN}{TN + FP} \]
+
+High specificity indicates that the model correctly identifies a high number of negative cases.
+
+### 5. **Precision**
+Precision measures the accuracy of positive predictions and is calculated as:
+
+\[ \text{Precision} = \frac{TP}{TP + FP} \]
+
+This metric is crucial in situations where false positives carry a significant cost or risk.
+
+### 6. **Receiver Operating Characteristic (ROC) Curve**
+The ROC Curve is a graphical representation of a model's performance across various threshold settings. It plots the true positive rate (sensitivity) against the false positive rate (1-specificity) at different threshold values.
+
+### 7. **Area Under the Curve (AUC)**
+The Area Under the Curve (AUC) provides a single value that summarizes the performance of the classifier across all thresholds. An AUC of 1 indicates perfect classification, while an AUC of 0.5 indicates random guessing.
+
+### 8. **F1 Score**
+The F1 Score is the harmonic mean of precision and recall, offering a balance between the two:
+
+\[ F1 = 2 \times \frac{\text{Precision} \times \text{Sensitivity}}{\text{Precision} + \text{Sensitivity}} \]
+
+This metric is useful when the class distribution is imbalanced.
+
+### Summary
+Using multiple metrics can provide a more comprehensive evaluation of model performance, as each metric has its strengths and limitations. The selection of appropriate metrics should align with the specific goals and context of the classification task being evaluated.
+
+### References
+* [1] Document Title One
+* [2] Document Title Two
+* [3] Document Title Three
+----------------------------------------
+QUESTION: Explain performance evaluation metrics.
+MODE: hybrid
+ANSWER:
+**Performance Evaluation Metrics in Machine Learning**
+
+Performance evaluation metrics are essential tools used to gauge the effectiveness of machine learning algorithms. These metrics help in understanding how well a model performs on given tasks and can significantly impact the decisions made based on the model's predictions. Here are some key performance evaluation metrics used primarily in classification tasks:
+
+### 1. **Confusion Matrix**
+A confusion matrix presents a tabulated summary of the predictions made by a classification algorithm, allowing for easy visualization of true and false predictions. It typically consists of four components for binary classification:
+- **True Positives (TP)**: Correctly identified positive instances.
+- **True Negatives (TN)**: Correctly identified negative instances.
+- **False Positives (FP)**: Incorrectly identified positive instances (also known as Type I errors).
+- **False Negatives (FN)**: Incorrectly identified negative instances (also known as Type II errors).
+
+### 2. **Accuracy**
+Accuracy measures the proportion of correct predictions made by the model out of all predictions. It is calculated as follows:
+
+\[
+\text{Accuracy} = \frac{TP + TN}{TP + FP + FN + TN}
+\]
+
+While accuracy is a commonly used performance metric, it may be misleading, especially in cases of imbalanced datasets where one class significantly outweighs the other.
+
+### 3. **Sensitivity (Recall)**
+Sensitivity, also known as recall, measures the effectiveness of the algorithm in identifying true positive cases out of actual positives:
+
+\[
+\text{Sensitivity} = \frac{TP}{TP + FN}
+\]
+
+This metric indicates how well the model can identify positive instances.
+
+### 4. **Specificity**
+Specificity focuses on the model's ability to correctly identify negative instances out of all actual negative cases:
+
+\[
+\text{Specificity} = \frac{TN}{FP + TN}
+\]
+
+This metric highlights how well the model avoids false alarms.
+
+### 5. **Precision**
+Precision measures the accuracy of the positive predictions made by the model. It indicates how many of the predicted positive cases were indeed positive:
+
+\[
+\text{Precision} = \frac{TP}{TP + FP}
+\]
+
+High precision suggests a low rate of false positives.
+
+### 6. **Receiver Operating Characteristic (ROC) Curve**
+The ROC curve is a graphical representation showing the performance of a binary classifier as the discrimination threshold is adjusted. It plots the True Positive Rate (sensitivity) against the False Positive Rate (1 - specificity). The area under the ROC curve (AUC) quantifies the overall ability of the model to distinguish between the positive and negative classes.
+
+### 7. **Area Under the Curve (AUC)**
+The AUC provides a single scalar value summarizing the ROC curve. AUC values range from 0 to 1, where a value of 1 indicates perfect classification and a value of 0.5 suggests no discriminatory ability (random guessing).
+
+### Conclusion
+Utilizing multiple performance evaluation metrics is often recommended, as each metric provides unique insights into the model's performance. Relying on a combination of these metrics can lead to a well-rounded understanding of a predictive model's capabilities and limitations.
+
+### References
+- [1] Performance Evaluation of Machine Learning Algorithms
+- [2] Understanding Confusion Matrix
+- [3] Metrics for Classification Algorithms in Machine Learning
+----------------------------------------

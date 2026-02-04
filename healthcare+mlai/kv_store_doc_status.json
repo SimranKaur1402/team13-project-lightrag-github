@@ -38,13 +38,13 @@
     ],
     "content_summary": "EMRO Technical Publications Series 32\nGuidelines for the prevention, \nmanagement and care of \ndiabetes mellitus\nEditor\nOussama MN Khatib (MD, PhD, FRCP)\nRegional Adviser\nNoncommunicable diseases\nWHO Regional Office for the Eastern Mediterranean\n© Wor...",
     "content_length": 163371,
-    "created_at": "2026-01-28T05:30:39.504683+00:00",
-    "updated_at": "2026-01-28T05:36:42.438649+00:00",
+    "created_at": "2026-02-03T16:25:58.376100+00:00",
+    "updated_at": "2026-02-03T16:34:18.422975+00:00",
     "file_path": "unknown_source",
-    "track_id": "insert_20260128_110039_95a4356e",
+    "track_id": "insert_20260203_215558_6bf9effb",
     "metadata": {
-      "processing_start_time": 1769578239,
-      "processing_end_time": 1769578602
+      "processing_start_time": 1770135958,
+      "processing_end_time": 1770136458
     }
   },
   "doc-c403220a2df85efb329645f3a5e220c0": {
@@ -92,80 +92,13 @@
     ],
     "content_summary": "Deep Learning\nIaGll\nYa \nall\nCe\nWebsite\nvii\nAcknowledgments\nviii\nNotation\nxi\n1\nIntroduction\n1\n1.1\nWho Should Read This Book? . . . . . . . . . . . . . . . . . . . .\n8\n1.2\nHistorical Trends in Deep Learning . . . . . ...",
     "content_length": 112977,
-    "created_at": "2026-01-28T05:36:42.829347+00:00",
-    "updated_at": "2026-01-28T05:43:20.311795+00:00",
+    "created_at": "2026-02-03T16:34:18.914085+00:00",
+    "updated_at": "2026-02-03T16:43:19.075592+00:00",
     "file_path": "unknown_source",
-    "track_id": "insert_20260128_110642_d6b0f8fc",
+    "track_id": "insert_20260203_220418_fd8375c5",
     "metadata": {
-      "processing_start_time": 1769578602,
-      "processing_end_time": 1769579000
-    }
-  },
-  "doc-9133a892c1b3d141f628c2bb850db7e1": {
-    "status": "processed",
-    "chunks_count": 29,
-    "chunks_list": [
-      "chunk-81ed5407d536198f9d377925116fc2f8",
-      "chunk-c5d27c2834816e4173fcae098e70bc6a",
-      "chunk-ad1049dfdfc725a52d87e7f236d68561",
-      "chunk-daee1cca01fc2eaa59c3871509e41246",
-      "chunk-26bbc9a627a1f70c00a8266b945934c5",
-      "chunk-697ce261c88cc59b3453147a425ada05",
-      "chunk-0136ed865126cdb272062de80597d59c",
-      "chunk-5c3e866099ac4f8457930aab67cc3bd0",
-      "chunk-aa6a361a580433b76c336d7ae10dda46",
-      "chunk-18ae2a66a06931b9606ae1cbb861bab0",
-      "chunk-6b27227ec650353e519eb0d23a95c801",
-      "chunk-2a7bad11e7fd573eedc2ce2521ce1b37",
-      "chunk-a9e9c9a45da562d9c6c7d3cc26d1b4aa",
-      "chunk-0ac37595652f8337a66be50f97ef12eb",
-      "chunk-a068e5b419a16a4c176cbf29b84904c5",
-      "chunk-11a8a4925599d83f5b5063a2bdbd9aa6",
-      "chunk-0022476db89861fe923b166435aa071d",
-      "chunk-0b5b0dada3f2da060cb36b4d5f30503c",
-      "chunk-fe9d12fa571571f61c1ced09ffa9e288",
-      "chunk-4efb878cf5f2d0b22579e2bf5668edd1",
-      "chunk-d6ab0f937514cca5b0dacc7551e4e564",
-      "chunk-a1d693ba2cad266b4082174276b559de",
-      "chunk-a76ef1b8818440373240bf6cca6b0c11",
-      "chunk-afe18b44bc78a0d51d1b38a5ac19a85a",
-      "chunk-555791724a47d3b0dffcfb8dc87864e4",
-      "chunk-a0338653b50b3e5d60ae2fd292c82bee",
-      "chunk-c68c1194969914fda6082da1268beb47",
-      "chunk-a4ade8f1df419e2c3ec522eb0097d24a",
-      "chunk-378b4d849b71c1f82db0e448abf78101"
-    ],
-    "content_summary": "Complex & Intelligent Systems (2023) 9:1027–1058\nhttps://doi.org/10.1007/s40747-022-00767-w\nSURVEY AND STATE OF THE ART\nA survey on COVID-19 impact in the healthcare domain: worldwide\nmarket implementation, applications, security and privacy issues,\n...",
-    "content_length": 130598,
-    "created_at": "2026-01-28T06:29:59.996578+00:00",
-    "updated_at": "2026-01-28T06:36:56.461216+00:00",
-    "file_path": "unknown_source",
-    "track_id": "insert_20260128_115959_3ec62a25",
-    "metadata": {
-      "processing_start_time": 1769581800,
-      "processing_end_time": 1769582216
-    }
-  },
-  "doc-61bfa042c781998599dd72ade297af34": {
-    "status": "processed",
-    "chunks_count": 6,
-    "chunks_list": [
-      "chunk-189a42780d202026d1c3290c001f80ee",
-      "chunk-766aef888d040609f74bd8aa547e4350",
-      "chunk-af13cdaacfcf632c4d70cffbf33bfb60",
-      "chunk-cb0c5e10743f00d707541c0a409d981e",
-      "chunk-31aedd09933713fb39ac8200ddd009e5",
-      "chunk-34c2b82506de93cd0b745e6c8cf23a13"
-    ],
-    "content_summary": "Supplementary Material – Machine Learning\nMachine Learning Overview\nMachine learning involves using computers and algorithms to process large amounts of data (observations, patient characteristics, and measurements) and identify patterns without expl...",
-    "content_length": 27011,
-    "created_at": "2026-01-28T06:36:58.334443+00:00",
-    "updated_at": "2026-01-28T06:39:28.301088+00:00",
-    "file_path": "unknown_source",
-    "track_id": "insert_20260128_120658_dac5ee49",
-    "metadata": {
-      "processing_start_time": 1769582218,
-      "processing_end_time": 1769582368
+      "processing_start_time": 1770136458,
+      "processing_end_time": 1770136999
     }
   }
 }

@@ -1,0 +1,1710 @@
+QUESTION: What is diabetes mellitus according to WHO?
+MODE: naive
+ANSWER:
+According to the World Health Organization (WHO), diabetes mellitus is defined as a “metabolic disorder of multiple etiology, characterized by chronic hyperglycaemia with disturbances of carbohydrate, fat and protein metabolism resulting from defects in insulin secretion, insulin action, or both.” The effects of diabetes mellitus can lead to long-term damage, dysfunction, and failure of various organs [21].
+
+Furthermore, the classification of diabetes has evolved, focusing on the etiology (causes) rather than solely on treatment. This categorization recognizes both clinical stages and etiological types of hyperglycaemia, reflecting the multifaceted nature of the disease [21].
+
+### References
+- [21] Definition, diagnosis and classification of diabetes mellitus and its complications. Report of a WHO Consultation. Part 1: diagnosis and classification of diabetes mellitus. Geneva, World Health Organization, 1999 (WHO/NCD/NCS/99.2).
+--------------------------------------------------------------------------------
+QUESTION: What is diabetes mellitus according to WHO?
+MODE: local
+ANSWER:
+Diabetes mellitus is defined by the World Health Organization (WHO) as a metabolic disorder characterized by chronic hyperglycemia, resulting from defects in insulin secretion, insulin action, or both. This condition involves disturbances in carbohydrate, fat, and protein metabolism, leading to long-term damage, dysfunction, and failure of various organs if left unmanaged. The WHO emphasizes that diabetes is a serious public health issue due to its significant impact on health outcomes and the associated complications that arise from it.
+
+Furthermore, the classification of diabetes mellitus has evolved to primarily focus on the etiology of the disease rather than just its treatment. The WHO identifies two main types of diabetes:
+
+1. **Type 1 Diabetes Mellitus**: This type is characterized by the destruction of insulin-producing beta cells in the pancreas, leading to a complete deficiency of insulin.
+2. **Type 2 Diabetes Mellitus**: This is the most common form of diabetes and involves a combination of insulin resistance and inadequate insulin secretion.
+
+Both types require appropriate management to control blood glucose levels and prevent complications associated with the condition. 
+
+The WHO also highlights that the prevalence of diabetes is rising globally, particularly in developing countries, where it poses a significant challenge to public health systems.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Guidelines for the prevention, management and care of diabetes mellitus
+- [3] Guidelines for the prevention, management and care of diabetes mellitus
+--------------------------------------------------------------------------------
+QUESTION: What is diabetes mellitus according to WHO?
+MODE: global
+ANSWER:
+According to the World Health Organization (WHO), diabetes mellitus is defined as “a metabolic disorder of multiple etiology, characterized by chronic hyperglycemia with disturbances of carbohydrate, fat, and protein metabolism resulting from defects in insulin secretion, insulin action, or both." The condition can lead to long-term damage, dysfunction, and failure of various organs due to the metabolic abnormalities it causes, primarily related to inadequate insulin action on target tissues.
+
+WHO emphasizes that the diagnosis of diabetes should not be based solely on a single abnormal glucose value; instead, it requires verification through repeat testing, unless the individual presents with clear symptoms of hyperglycemia. The values for diagnosing diabetes and related conditions, such as Impaired Fasting Glucose (IFG) and Impaired Glucose Tolerance (IGT), are also established by the organization.
+
+Furthermore, WHO has identified diabetes mellitus as a major public health concern and has prioritized its management globally due to its significant impact on health outcomes and costs associated with treatment and complications.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Report on the regional consultation on diabetes prevention and control, Teheran, Islamic Republic of Iran, 2–5 February 2003
+- [3] Definition, diagnosis and classification of diabetes mellitus and its complications. Report of a WHO Consultation. Part 1: diagnosis and classification of diabetes mellitus.
+--------------------------------------------------------------------------------
+QUESTION: What is diabetes mellitus according to WHO?
+MODE: hybrid
+ANSWER:
+Diabetes mellitus is defined by the World Health Organization (WHO) as a metabolic disorder of multiple etiologies, characterized primarily by chronic hyperglycemia. This condition results from defects in insulin secretion, insulin action, or both, leading to disturbances in carbohydrate, fat, and protein metabolism. The consequences of diabetes mellitus can include long-term damage, dysfunction, and failure of various organs, emphasizing the seriousness of the condition as a major public health concern. 
+
+The WHO's classification highlights the complexity of diabetes, which manifests in different forms, necessitating careful diagnosis and management to prevent complications. 
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus.
+--------------------------------------------------------------------------------
+QUESTION: What are the diagnostic criteria for diabetes mellitus?
+MODE: naive
+ANSWER:
+The diagnostic criteria for diabetes mellitus are defined based on blood glucose levels, and are categorized into different situations, as follows:
+
+1. **Fasting Plasma Glucose (FPG) Test**:
+   - Diabetes is diagnosed if the fasting plasma glucose level is **≥7.0 mmol/L (≥126 mg/dL)**.
+   - Fasting is defined as no caloric intake for at least 8 hours.
+
+2. **Oral Glucose Tolerance Test (OGTT)**:
+   - Diabetes is confirmed with a 2-hour plasma glucose level of **≥11.1 mmol/L (≥200 mg/dL)** following a 75 g oral glucose load.
+
+3. **Random Blood Glucose Test**:
+   - A casual or random blood glucose level of **≥11.1 mmol/L (≥200 mg/dL)**, combined with classical symptoms of hyperglycemia or hyperglycemic crisis, can also indicate diabetes.
+
+4. **Glycated Hemoglobin (HbA1c)**:
+   - An HbA1c level of **≥6.5%** (≥48 mmol/mol) indicates diabetes. This test should be performed in a laboratory using a method standardized to NGSP and certified by the Diabetes Control and Complications Trial (DCCT).
+
+For all diagnostic tests except for the random blood glucose test, confirmation of the diagnosis should be performed on a separate day unless the patient presents with unequivocal hyperglycemia and classic symptoms of diabetes.
+
+These criteria ensure that diabetes is diagnosed accurately, preventing false positives that could lead to unnecessary anxiety and treatment. 
+
+### References
+
+- [21] Definition, diagnosis and classification of diabetes mellitus and its complications. Report of a WHO Consultation. Part 1: diagnosis and classification of diabetes mellitus. Geneva, World Health Organization, 1999 (WHO/NCD/NCS/99.2).
+- [23] Clinical practice recommendations 2005. Diabetes Care, 2005, 28 (suppl. 1).
+--------------------------------------------------------------------------------
+QUESTION: What are the diagnostic criteria for diabetes mellitus?
+MODE: local
+ANSWER:
+The diagnostic criteria for diabetes mellitus include several methods of measuring blood glucose levels, which are crucial for defining the presence of the disease. Here are the key tests and their corresponding thresholds:
+
+1. **Fasting Plasma Glucose (FPG)**:
+   - Diabetes is diagnosed if the fasting plasma glucose level is **≥7.0 mmol/L (≥126 mg/dL)** after at least 8 hours of fasting.
+   - A level **<5.6 mmol/L (<100 mg/dL)** excludes diabetes, while values between **5.6–6.9 mmol/L (100–125 mg/dL)** indicate a potential risk and should lead to further testing.
+
+2. **Oral Glucose Tolerance Test (OGTT)**:
+   - This test involves measuring plasma glucose levels **2 hours after a 75 g oral glucose load**. Diabetes is diagnosed with a level **≥11.1 mmol/L (≥200 mg/dL)**.
+   - Values between **7.8–11.0 mmol/L (≥140 and <200 mg/dL)** indicate Impaired Glucose Tolerance (IGT).
+
+3. **Random Plasma Glucose**:
+   - A random blood glucose measurement of **≥11.1 mmol/L (≥200 mg/dL)**, when associated with classic symptoms of hyperglycemia, also indicates diabetes.
+
+4. **Hemoglobin A1c (HbA1c)**:
+   - An HbA1c level of **≥6.5% (≥48 mmol/mol)** is diagnostic for diabetes. 
+   - The test should be performed in a laboratory using a method that is NGSP certified and standardized for DCCT.
+
+These criteria provide a robust framework for diagnosing diabetes mellitus, with the importance of confirming diagnostic findings with repeat tests unless there are clear symptoms of hyperglycemia. For further reference, this information regarding diagnostic thresholds can be correlated with the outline provided within the standard diabetic guidelines. 
+
+### References
+
+- [1] Diagnostic values for diabetes mellitus and other categories of hyperglycaemia.
+- [2] Guidelines for the prevention, management and care of diabetes mellitus.
+--------------------------------------------------------------------------------
+QUESTION: What are the diagnostic criteria for diabetes mellitus?
+MODE: global
+ANSWER:
+The diagnostic criteria for diabetes mellitus are categorized based on the results of blood glucose testing. These criteria help to identify individuals with diabetes and those at risk for developing diabetes complications. The following are the established criteria:
+
+1. **Fasting Plasma Glucose (FPG)**:
+   - **Diabetes**: Fasting plasma glucose level of ≥7.0 mmol/L (≥126 mg/dL).
+   - **Normal**: Fasting plasma glucose level <5.6 mmol/L (<100 mg/dL).
+   - **Impaired Fasting Glycemia (IFG)**: Fasting plasma glucose level between 5.6–6.9 mmol/L (100–125 mg/dL).
+
+2. **Oral Glucose Tolerance Test (OGTT)**:
+   - **Diabetes**: 2-hour plasma glucose ≥11.1 mmol/L (≥200 mg/dL) after a 75 g oral glucose load.
+   - **Impaired Glucose Tolerance (IGT)**: 2-hour plasma glucose between 7.8–11.0 mmol/L (≥140 mg/dL and <200 mg/dL).
+
+3. **Casual Blood Glucose Measurement**:
+   - A casual plasma glucose of >11.1 mmol/L (>200 mg/dL) in individuals with classic symptoms of hyperglycemia or hyperglycemic crisis.
+
+4. **Hemoglobin A1c (HbA1c)**:
+   - **Diabetes**: HbA1c level of ≥6.5%.
+   - **Normal**: HbA1c level <5.7%.
+   - **Prediabetes**: HbA1c level between 5.7% and 6.4%.
+
+It is important to confirm the diagnosis with repeat testing unless there are unequivocal symptoms of hyperglycemia or a hyperglycemic crisis, in which case immediate treatment should follow. The diagnostic values reflect the need for careful evaluation and management of individuals based on their blood glucose levels and associated symptoms.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+--------------------------------------------------------------------------------
+QUESTION: What are the diagnostic criteria for diabetes mellitus?
+MODE: hybrid
+ANSWER:
+The diagnostic criteria for diabetes mellitus include specific glucose level measurements as outlined by the World Health Organization. These criteria classify diabetes based on fasting plasma glucose, oral glucose tolerance and HbA1c levels. Here are the key diagnostic thresholds:
+
+1. **Fasting Plasma Glucose (FPG)**:
+   - Diabetes is diagnosed if the fasting plasma glucose level is **≥7.0 mmol/L (≥126 mg/dL)**.
+   - A level **between 5.6 and 6.9 mmol/L (100 to 125 mg/dL)** indicates impaired fasting glucose, which is a risk factor for diabetes.
+
+2. **Oral Glucose Tolerance Test (OGTT)**:
+   - After a 75 g oral glucose load, diabetes is diagnosed if the 2-hour plasma glucose level is **≥11.1 mmol/L (≥200 mg/dL)**.
+   - Impaired glucose tolerance is indicated by a 2-hour plasma glucose level between **7.8 and 11.0 mmol/L (140 to 199 mg/dL)**.
+
+3. **Random Plasma Glucose**:
+   - A random plasma glucose level of **≥11.1 mmol/L (≥200 mg/dL)** in a patient with classic symptoms of hyperglycemia (such as polyuria, polydipsia, and unexplained weight loss) is also sufficient for diagnosis.
+
+4. **HbA1c**:
+   - A level of **≥6.5%** (≥48 mmol/mol) is considered diagnostic for diabetes. However, this test must be performed in a laboratory using a method that is NGSP certified and standardized to the Diabetes Control and Complications Trial (DCCT) assay.
+
+For a definitive diagnosis, it is important to perform a repeat test unless the individual presents with unequivocal hyperglycemia and classic symptoms.
+
+These criteria emphasize the importance of accurate and consistent testing methods for the diagnosis of diabetes mellitus and highlight the need for appropriate follow-up and confirmation in cases of abnormal results.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Guidelines for the prevention, management and care of diabetes mellitus
+- [3] Guidelines for the prevention, management and care of diabetes mellitus
+--------------------------------------------------------------------------------
+QUESTION: What lifestyle interventions are recommended for diabetes prevention?
+MODE: naive
+ANSWER:
+To prevent the development of type 2 diabetes, the following lifestyle interventions are recommended:
+
+### 1. **Healthy Diet:**
+   - **Balanced Nutrients:** The emphasis should be on a balanced diet with adequate macro and micronutrients. Specifically, it is recommended to maintain the following distribution of nutrients:
+     - Carbohydrates: 45-55% of total caloric intake
+     - Total fat: 25-30%
+     - Mono-unsaturated fatty acids: 20%
+     - Poly-unsaturated fatty acids: <8%
+     - Saturated and trans-fatty acids: <7%
+     - Protein: 15-20%
+   - **Focus on Whole Foods:** A diet rich in whole grains, fruits, vegetables, and lean proteins can help manage body weight and improve overall health.
+
+### 2. **Physical Activity:**
+   - **Regular Exercise:** Engaging in regular physical activity is crucial. It is recommended to aim for at least 150 minutes of moderate-intensity exercise each week, such as brisk walking, cycling, or swimming. This helps promote weight control and improves insulin sensitivity.
+
+### 3. **Weight Management:**
+   - **Maintain Healthy Weight:** Achieving and maintaining a healthy body weight is important. Even a modest weight loss of 5-10% of body weight can significantly reduce the risk of developing type 2 diabetes in high-risk individuals.
+
+### 4. **Education and Awareness:**
+   - **Community-Based Programs:** Implementation of community-based healthy lifestyle programs that focus on awareness and education regarding risk factors for diabetes is essential.
+   - **Support at Home:** Family support and training in self-management strategies can enhance motivation and adherence to lifestyle changes.
+
+### 5. **Cessation of Smoking:**
+   - **Quit Smoking:** Smoking is a risk factor for type 2 diabetes. Providing support and resources to help individuals quit smoking can significantly lower diabetes risk.
+
+### 6. **Regular Health Check-ups:**
+   - **Screening and Monitoring:** Regular health screenings to monitor blood glucose levels and other risk factors are important, especially for high-risk groups.
+
+These lifestyle interventions are based on evidence showing that adopting healthy habits can lead to a significant reduction in the incidence of type 2 diabetes and its complications.
+
+### References
+
+- [21] Guidelines for the prevention, management and care of diabetes mellitus
+- [22] Diabetes prevention strategies
+--------------------------------------------------------------------------------
+QUESTION: What lifestyle interventions are recommended for diabetes prevention?
+MODE: local
+ANSWER:
+### Recommended Lifestyle Interventions for Diabetes Prevention
+
+Effective diabetes prevention is largely centered around lifestyle changes that promote healthy living. Here are some key interventions:
+
+1. **Weight Management**:
+   - Maintaining a healthy weight is crucial since obesity is a significant risk factor for type 2 diabetes. Strategies should focus on gradual and sustainable weight loss if overweight or obese.
+
+2. **Physical Activity**:
+   - Regular physical activity helps in controlling weight, improving insulin sensitivity, and lowering blood glucose levels. Aiming for at least 150 minutes of moderate physical activity per week, such as brisk walking, can greatly reduce the risk of developing diabetes.
+
+3. **Healthy Eating**:
+   - A balanced diet rich in fruits, vegetables, whole grains, and lean proteins while reducing refined sugars and saturated fats is essential. Dietary recommendations often include:
+     - **Carbohydrates**: Though their total intake is important, not all carbohydrate sources have the same effects on blood glucose.
+     - **Fats**: Prioritize monounsaturated and polyunsaturated fats while minimizing saturated and trans fats.
+     - **Fiber**: Increased dietary fiber can help in regulating blood glucose levels.
+
+4. **Community-Based Healthy Lifestyle Programs**:
+   - Engaging in community initiatives that focus on healthy weight maintenance and promoting active lifestyles can support individual efforts and foster a supportive environment for healthy living.
+
+5. **Education and Awareness**:
+   - Individuals should be educated about the risks of diabetes and the importance of making healthier choices. This can include understanding food labels, meal planning, and recognizing the significance of regular physical activity.
+
+6. **Regular Screening**:
+   - For those at high risk, regular screenings for pre-diabetes and diabetes are crucial. Early detection can prompt necessary lifestyle interventions and medical management.
+
+7. **Stress Management**:
+   - Managing stress through techniques such as mindfulness, meditation, or yoga can also be beneficial, as stress can adversely affect blood glucose levels.
+
+These lifestyle modifications are supported by randomized controlled trials demonstrating their effectiveness in reducing the incidence of type 2 diabetes, especially in high-risk populations. 
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Impact of lifestyle changes on diabetes prevention
+- [3] Community-based approaches to diabetes prevention
+- [4] Importance of education in lifestyle management for diabetes
+- [5] Eating well and physical activity guidelines for diabetes prevention
+--------------------------------------------------------------------------------
+QUESTION: What lifestyle interventions are recommended for diabetes prevention?
+MODE: global
+ANSWER:
+To effectively prevent diabetes, particularly type 2 diabetes, several lifestyle interventions are recommended. These interventions focus on enhancing overall health and reducing risk factors associated with diabetes development. Here are the key recommendations:
+
+### 1. **Healthy Lifestyles Programmes**
+   - Healthy lifestyle programmes are vital as they promote normal weight maintenance and active living, critical for the primary prevention of diabetes (e.g., by promoting regular physical activity and effective weight management) (Knowledge Graph Data).
+
+### 2. **Dietary Modifications**
+   - **Food Choices**: It's crucial for individuals at risk to make informed dietary choices that focus on maintaining an optimal metabolic profile, which includes a balanced intake of carbohydrates, proteins, and healthy fats (Knowledge Graph Data).
+   - **Key Components**:
+     - *Increase fiber intake*: Foods high in fiber can improve glycaemic control.
+     - *Limit saturated and trans fats*: These are known to increase insulin resistance and should be minimized (Knowledge Graph Data).
+
+### 3. **Physical Activity**
+   - **Regular Exercise**: Engaging in at least 150 minutes of moderate physical activity per week is recommended. Exercise helps improve insulin sensitivity, lowers blood glucose levels, and contributes to weight management (Knowledge Graph Data).
+   - Activities such as walking, cycling, and swimming can be beneficial.
+
+### 4. **Weight Management**
+   - Achieving and maintaining a healthy weight is crucial. Even modest weight loss (around 5-10%) can significant reduce the risk of developing diabetes in at-risk individuals (Document Chunks).
+
+### 5. **Screening and Monitoring**
+   - Regular health screenings for early identification of prediabetes or metabolic syndrome are essential. Monitoring fasting blood glucose and other related health markers can help in timely interventions (Knowledge Graph Data).
+
+### 6. **Community Awareness Programs**
+   - Initiatives aimed at increasing community awareness about diabetes risk factors and prevention strategies can foster a wider adoption of healthy lifestyles (Document Chunks).
+
+These lifestyle interventions, when implemented collectively, can significantly decrease the incidence of type 2 diabetes and improve overall health outcomes.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Screening for diabetes mellitus
+- [3] Community awareness and primary prevention
+--------------------------------------------------------------------------------
+QUESTION: What lifestyle interventions are recommended for diabetes prevention?
+MODE: hybrid
+ANSWER:
+Lifestyle interventions play a crucial role in the prevention of diabetes, particularly type 2 diabetes. Effective strategies include:
+
+### Diet Modifications
+- **Healthy Eating**: Adopting a balanced diet that is rich in fruits, vegetables, whole grains, lean proteins, and healthy fats is essential. Individuals are encouraged to control their carbohydrate intake and reduce consumption of high-calorie and sugary foods.
+- **Weight Management**: Maintaining a healthy weight is critical as obesity is a significant risk factor for developing type 2 diabetes. A modest weight loss of 5-7% of total body weight can significantly reduce diabetes risk.
+
+### Increased Physical Activity
+- **Regular Exercise**: Engaging in at least 150 minutes of moderate-intensity physical activity per week is recommended. This includes activities such as brisk walking, cycling, and swimming. Regular exercise helps improve insulin sensitivity and lowers blood sugar levels.
+
+### Behavioral Changes
+- **Smoking Cessation**: Stopping smoking can reduce the risk of developing diabetes and its complications.
+- **Stress Management**: Learning stress management techniques, such as mindfulness and relaxation strategies, can help maintain healthy blood sugar levels.
+
+### Community Engagement
+- **Participation in Healthy Lifestyle Programs**: Community-based programs may provide the support and resources necessary for adopting healthier lifestyle choices, such as cooking classes, fitness groups, or lifestyle coaching.
+
+### Screening and Early Detection
+- **Regular Health Check-ups**: Monitoring blood sugar levels and undergoing screening for diabetes risk factors, especially for those with a family history of diabetes or other risk factors, can offer early detection and timely interventions.
+
+### Evidence from Studies
+Research has shown that lifestyle interventions can drastically reduce the risk of developing type 2 diabetes. For example, the **Tuomilehto Study** and **Da Quing Study** highlighted that diet and exercise can significantly lower the incidence of diabetes in at-risk populations (Reference from Knowledge Graph). 
+
+Incorporating these lifestyle changes can have broad health benefits and is essential for diabetes prevention.
+
+### References
+- [1] Guidelines for the Prevention, Management and Care of Diabetes Mellitus
+- [2] Community-Based Healthy Lifestyle Programme
+- [3] Tuomilehto Study
+- [4] Da Quing Study
+- [5] Primary Prevention of Diabetes
+--------------------------------------------------------------------------------
+QUESTION: What are the major acute and chronic complications of diabetes?
+MODE: naive
+ANSWER:
+Diabetes can lead to several significant acute and chronic complications due to prolonged periods of high blood glucose levels. Here’s a detailed overview of these complications:
+
+### Acute Complications
+
+1. **Hypoglycemia**: 
+   - Occurs when blood glucose levels drop too low due to insufficient food intake, excessive exercise, or overdose of insulin or oral hypoglycemic agents. Symptoms may include trembling, sweating, confusion, and even loss of consciousness.
+
+2. **Diabetic Ketoacidosis (DKA)**: 
+   - Primarily affects individuals with type 1 diabetes. Characterized by a buildup of ketones in the blood, it can present with nausea, vomiting, dry skin, deep rapid breathing, and low blood pressure. DKA can be life-threatening without prompt treatment.
+
+3. **Hyperglycemic Hyperosmolar State (HHS)**: 
+   - More common in type 2 diabetes, it typically occurs in the presence of severe infections or other acute illnesses, leading to dehydration and altered mental status. Unlike DKA, acidosis is uncommon.
+
+4. **Infections**: 
+   - Diabetes can impair the immune response, increasing susceptibility to various infections, including bacterial, fungal, and mycobacterial infections. Urinary tract infections are more common after bladder instrumentation.
+
+### Chronic Complications
+
+1. **Diabetic Retinopathy**: 
+   - This eye disease is a leading cause of blindness, particularly affecting those with longer-standing diabetes. Almost all patients with type 1 diabetes will develop some form of retinopathy after 20 years, while 60% of individuals with type 2 diabetes may also be affected.
+
+2. **Diabetic Nephropathy**: 
+   - A major cause of renal failure, it significantly increases the risk of cardiovascular disease. Patients exhibit progressive albuminuria and a decline in kidney function over time.
+
+3. **Diabetic Neuropathy**: 
+   - It involves damage to the peripheral and autonomic nerves, leading to pain, loss of sensation, and other complications like impotence and gastrointestinal issues. The most common type is distal symmetrical sensory-motor polyneuropathy.
+
+4. **Cardiovascular Complications**: 
+   - Diabetes significantly raises the risk of atherosclerosis and cardiovascular diseases, such as coronary artery disease, cerebrovascular disease, and peripheral artery disease. Patients with diabetes often have an increased risk of heart attacks and strokes.
+
+5. **Diabetic Foot Problems**: 
+   - Neuropathy and poor blood circulation can lead to foot ulcers, infections, and, in severe cases, amputations. Regular foot examination and care are essential in managing diabetes.
+
+6. **Skin Complications**: 
+   - Diabetes can lead to various skin problems, including bacterial and fungal infections, and conditions like diabetic dermopathy.
+
+7. **Gum Disease and Oral Health Issues**: 
+   - Individuals with diabetes are at higher risk for gum disease, which can affect overall health.
+
+Overall, these complications underscore the importance of managing blood glucose levels, blood pressure, and cholesterol to reduce the risk of both acute and chronic health issues associated with diabetes. Proper screening and regular check-ups can help in early detection and management of these complications.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Guidelines for the prevention, management and care of diabetes mellitus
+- [3] Guidelines for the prevention, management and care of diabetes mellitus
+- [4] Guidelines for the prevention, management and care of diabetes mellitus
+- [5] Guidelines for the prevention, management and care of diabetes mellitus
+--------------------------------------------------------------------------------
+QUESTION: What are the major acute and chronic complications of diabetes?
+MODE: local
+ANSWER:
+Diabetes can lead to a variety of complications that are categorized into acute and chronic types. Here’s a breakdown of each:
+
+### Acute Complications
+Acute complications arise suddenly and require immediate attention. The major acute complications of diabetes include:
+
+1. **Ketoacidosis**: This is a serious condition characterized by high levels of ketones in the blood due to insulin deficiency, which can occur primarily in individuals with type 1 diabetes. Symptoms include nausea, vomiting, dry skin and mouth, deep rapid breathing, and can be life-threatening without prompt treatment.
+   
+2. **Hypoglycemia**: This condition involves low blood sugar levels, typically due to excessive insulin or oral hypoglycemic treatment. Symptoms may include weakness, dizziness, confusion, and in severe cases, loss of consciousness or seizures.
+
+3. **Hyperglycemic Hyperosmolar State (HHS)**: More commonly seen in people with type 2 diabetes, HHS is characterized by extremely high blood sugar levels and resulting dehydration, potentially leading to confusion or coma.
+
+4. **Infections**: People with poorly controlled diabetes are more susceptible to infections, including bacterial, fungal, and mycobacterial infections. For example, urinary tract infections are notably common in diabetic patients.
+
+### Chronic Complications
+Chronic complications often develop over time due to ongoing poor blood sugar control. These can significantly affect quality of life. The major chronic complications include:
+
+1. **Diabetic Neuropathy**: This peripheral nerve damage affects both the sensory and autonomic systems, leading to symptoms such as pain, numbness, or complications like foot ulcers due to loss of sensation.
+
+2. **Diabetic Retinopathy**: This eye condition involves damage to the retina and can lead to vision loss. Regular eye examinations are crucial for early detection.
+
+3. **Diabetic Nephropathy**: This is kidney damage that can progress to end-stage renal disease. Regular monitoring of kidney function and early intervention are essential to manage this complication.
+
+4. **Cardiovascular Disease**: Diabetic individuals are at a significantly elevated risk of developing cardiovascular problems, including coronary artery disease, which can lead to heart attacks and strokes.
+
+5. **Lower-Limb Amputation**: Diabetes increases the risk of serious foot complications due to neuropathy and poor circulation, often resulting in non-traumatic lower-limb amputations.
+
+6. **Diabetic Foot Complications**: Foot ulcers and infections can develop due to nerve damage and poor blood flow, requiring preventive care and management to avoid more severe outcomes.
+
+### Conclusion
+Both acute and chronic complications of diabetes highlight the importance of effective management, including glycemic control, regular monitoring, and patient education to prevent serious health issues and improve patient outcomes.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Chronic complications of diabetes
+- [3] Acute complications of diabetes mellitus
+--------------------------------------------------------------------------------
+QUESTION: What are the major acute and chronic complications of diabetes?
+MODE: global
+ANSWER:
+Diabetes mellitus can lead to a variety of complications, which can be categorized into acute and chronic types.
+
+### Acute Complications
+Acute complications of diabetes are immediate health risks associated with poor diabetes management. The major acute complications include:
+
+- **Hypoglycemia**: A condition characterized by abnormally low levels of blood glucose, often resulting from excessive insulin or insufficient food intake. Symptoms may include shakiness, confusion, and in severe cases, loss of consciousness.
+  
+- **Ketoacidosis**: Specifically affecting individuals with type 1 diabetes, ketoacidosis occurs when the body breaks down fatty acids due to a lack of insulin, leading to a build-up of ketones and a dangerous acidification of the blood.
+
+- **Hyperglycemic Hyperosmolar State**: More common in individuals with type 2 diabetes, this state can occur during severe infection or major illness, causing dehydration and altered mental status, though it is not usually accompanied by acidosis.
+
+### Chronic Complications
+Chronic complications develop over time and significantly impact an individual's quality of life. The major chronic complications include:
+
+- **Diabetic Retinopathy**: A complication affecting the eyes that can lead to vision loss. Regular eye examinations are essential for management.
+
+- **Diabetic Nephropathy**: A kidney-related complication that can progress to end-stage renal disease if not properly managed. Patients with diabetes are at a significantly higher risk for kidney disease.
+
+- **Diabetic Neuropathy**: Includes both peripheral and autonomic nerve damage due to prolonged high blood glucose levels, leading to sensory loss, pain, and complications such as foot ulcers.
+
+- **Macrovascular Complications**: These include conditions like coronary artery disease, cerebrovascular disease, and peripheral vascular disease, which significantly increase the risk of heart attack and stroke.
+
+- **Foot Ulcers and Lower-Limb Amputations**: Poor circulation and nerve damage make diabetics more susceptible to foot infections and ulcers, which may lead to amputations if not treated appropriately.
+
+Overall, effective management of diabetes through lifestyle adjustments, regular monitoring, and medical interventions is crucial to prevent both acute and chronic complications. 
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Guidelines for the prevention, management and care of diabetes mellitus
+- [3] Guidelines for the prevention, management and care of diabetes mellitus
+--------------------------------------------------------------------------------
+QUESTION: What are the major acute and chronic complications of diabetes?
+MODE: hybrid
+ANSWER:
+Diabetes mellitus can lead to various acute and chronic complications that significantly impact health and quality of life. Here are the major complications categorized into acute and chronic:
+
+### Acute Complications
+1. **Hypoglycemia**:
+   - Characterized by abnormally low blood glucose levels, which can lead to symptoms such as weakness, sweating, confusion, and in severe cases, loss of consciousness or seizures. It is particularly a risk for patients treated with insulin or certain oral hypoglycemic medications. 
+
+2. **Ketoacidosis**:
+   - This is a serious condition primarily associated with Type 1 diabetes, where high levels of ketones in the blood lead to metabolic acidosis. Symptoms include nausea, vomiting, abdominal pain, and deep rapid breathing.
+
+3. **Hyperglycemic Hyperosmolar State**:
+   - Usually developing in Type 2 diabetes, this condition is characterized by extremely high blood sugar levels without significant ketones, often triggered by severe infections or dehydration, resulting in confusion or coma.
+
+4. **Acute Infections**:
+   - Individuals with poorly controlled diabetes are more susceptible to infections, including bacterial, fungal, and mycobacterial infections, particularly urinary tract infections which can be severe.
+
+### Chronic Complications
+1. **Diabetic Neuropathy**:
+   - This refers to nerve damage, often affecting the peripheral and autonomic nervous systems. It can manifest as pain, sensory loss, and difficulties in managing blood glucose levels. 
+
+2. **Diabetic Retinopathy**:
+   - Retinal damage caused by high blood sugar levels can lead to blindness. Regular eye examinations are essential for early detection and management.
+
+3. **Diabetic Nephropathy**:
+   - Kidney damage as a result of diabetes can progress to end-stage renal disease, requiring dialysis or transplantation. Early detection through monitoring albumin levels is crucial.
+
+4. **Cardiovascular Disease**:
+   - Diabetes significantly increases the risk of heart disease and stroke due to factors like hypertension and dyslipidemia. It can lead to heart attacks and other cardiovascular issues.
+
+5. **Lower-Limb Amputations**:
+   - Diabetes can lead to foot ulcers and infections that may necessitate amputations. Maintaining foot hygiene and monitoring is essential in prevention.
+
+6. **Chronic Foot Problems**:
+   - The diabetic foot syndrome includes neuropathy and poor circulation, leading to ulcerations and potential amputations. 
+
+7. **Glycemic Control Issues**:
+   - Poor glycemic control can exacerbate both acute and chronic complications, leading to a cycle of worsening health status.
+
+### Conclusion
+The management of diabetes involves careful monitoring and preventive strategies to reduce the risk of both acute and chronic complications associated with the condition to enhance quality of life.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Acute complications of diabetes mellitus
+- [3] Chronic complications of diabetes
+--------------------------------------------------------------------------------
+QUESTION: How does WHO recommend managing type 2 diabetes in primary care?
+MODE: naive
+ANSWER:
+The World Health Organization (WHO) provides comprehensive guidelines for the management of type 2 diabetes in primary care. Here are the key recommendations:
+
+### Objectives of Therapy
+The main objectives of therapy for diabetes mellitus include:
+- Eliminating symptoms of hyperglycemia.
+- Achieving optimum blood glucose control.
+- Reducing or eliminating the risk of microvascular and macrovascular complications.
+- Treating associated disorders effectively.
+- Allowing patients to lead as normal a lifestyle as possible.
+
+### Treatment Goals
+WHO emphasizes the importance of individualized treatment plans, focusing on controlling blood glucose while minimizing complications. The glycemic control indicators include:
+- Regular measurements of HbA1c, with recommended targets established based on individual circumstances.
+- Regular checks of blood glucose levels, with specified targets for pre-meal and bedtime values.
+
+### Roles of Primary Healthcare Providers
+1. **Assessment and Monitoring**: 
+   - Healthcare providers should conduct regular assessments, including checking for symptoms of hyperglycemia and monitoring HbA1c levels every three months.
+   - Blood pressure and lipid profiles should also be monitored to manage cardiovascular risk factors.
+
+2. **Lifestyle Modifications**: 
+   - Encouraging dietary changes, weight management, and physical activity is vital, particularly in the early phases of type 2 diabetes. These modifications can be the only necessary measures for some patients initially.
+
+3. **Medical Management**: 
+   - In cases where lifestyle interventions alone do not yield adequate glycemic control, the introduction of pharmacological treatments such as oral anti-hyperglycemic agents and/or insulin might be necessary.
+
+### Multidisciplinary Teams
+WHO supports the use of multidisciplinary mini clinics that involve a team of healthcare professionals, including physicians, nurses, dietitians, and health educators, to provide comprehensive, coordinated care for diabetic patients.
+
+### Follow-Up and Referral
+- Continuous medical education and follow-up are critical, with clear processes for referring patients to specialist care when complications arise or higher-level interventions are needed.
+
+### Screening and Early Intervention
+WHO recommends regular screening for diabetes in high-risk populations to allow for prompt diagnosis and management to prevent complications.
+
+By adhering to these guidelines, primary care providers can effectively manage type 2 diabetes, thus improving patient outcomes and minimizing complications.
+
+### References
+- [23] Guidelines for the prevention, management and care of diabetes mellitus
+- [27] Diabetes mellitus screening and management recommendations
+- [29] Management objectives and targets for diabetes mellitus
+--------------------------------------------------------------------------------
+QUESTION: How does WHO recommend managing type 2 diabetes in primary care?
+MODE: local
+ANSWER:
+The World Health Organization (WHO) provides several key recommendations for managing type 2 diabetes in primary care settings. These recommendations emphasize a comprehensive approach that includes lifestyle modifications, regular monitoring, and multidisciplinary care. Here’s a structured overview of the WHO's recommendations:
+
+### Comprehensive Diabetes Management
+
+1. **Lifestyle Modifications**:
+   - **Diet**: Encourage healthy eating patterns that emphasize the reduction of saturated fats, sugar, and processed foods, while promoting the intake of whole grains, fruits, vegetables, and appropriate portion sizes.
+   - **Physical Activity**: Recommend regular physical activity, aiming for at least 150 minutes of moderate-intensity exercise per week to enhance glucose control and overall health.
+   - **Weight Management**: Stress the importance of maintaining a healthy body weight through dietary changes and physical activity, particularly in obese patients.
+
+2. **Regular Monitoring**:
+   - Patients should be encouraged to perform **self-monitoring of blood glucose (SMBG)** as part of their ongoing management to help in achieving target glycemic levels.
+   - Annual assessments of **HbA1c levels** and regular monitoring of blood pressure and lipid profiles are important to evaluate and manage diabetes-related risks.
+
+3. **Multidisciplinary Care**:
+   - Utilize a **multidisciplinary team** approach, which may include physicians, nurses, dietitians, and diabetes educators, to provide comprehensive care tailored to individual patient needs.
+   - Continuous education of healthcare providers and patients regarding diabetes management, emphasizing individual responsibility and enhancing self-care capabilities.
+
+4. **Use of Medications**:
+   - Pharmacological management should be tailored according to individual patient needs, considering factors such as age, comorbidities, and patient preferences.
+   - Medications may include metformin, sulfonylureas, and newer agents based on recent evidence for efficacy and safety.
+
+5. **Screening and Early Intervention**:
+   - Recommend routine screening for diabetes in high-risk populations and to ensure early detection and management of diabetes and its complications.
+   - Encourage strategies for **secondary prevention** to manage complications and reduce future risks effectively.
+
+6. **Monitoring for Complications**:
+   - Regular screening for complications associated with diabetes, such as retinopathy, neuropathy, and nephropathy, is crucial in the management plan.
+   - Establish systematic follow-up to ensure prompt treatment of any identified complications.
+
+### Conclusion
+The WHO emphasizes that effective management of type 2 diabetes in primary care settings entails a combination of lifestyle changes, regular health monitoring, a multidisciplinary approach to care, and education for both patients and health care providers. Adopting these strategies can significantly improve patient outcomes and quality of life while managing the disease and preventing complications.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus. 
+- [2] EMRO Technical Publications Series 32.
+--------------------------------------------------------------------------------
+QUESTION: How does WHO recommend managing type 2 diabetes in primary care?
+MODE: global
+ANSWER:
+The World Health Organization (WHO) offers several recommendations for managing type 2 diabetes in primary care, emphasizing a comprehensive approach that includes lifestyle interventions, medication, and regular monitoring. Here are the key strategies for effective management:
+
+### Lifestyle Modifications
+- **Diet and Nutrition**: Tailored dietary recommendations are critical. Individuals with diabetes should focus on balanced nutrition, emphasizing whole foods and limiting sugars and unhealthy fats. The diabetic profile informs these dietary recommendations to ensure optimal metabolic outcomes.
+- **Exercise**: Regular physical activity is essential. It aids in controlling blood glucose levels, reducing weight, and improving overall health. The WHO considers promoting an active lifestyle an integral part of diabetes management.
+
+### Pharmacotherapy
+- **Oral Anti-Hyperglycaemic Agents**: When lifestyle modifications alone do not suffice, medications such as metformin and other oral anti-hyperglycaemic agents may be prescribed to help manage blood glucose levels.
+- **Insulin Therapy**: Insulin may also be required for some patients, especially if they show severe hyperglycaemia or cannot achieve adequate control with oral agents.
+
+### Regular Monitoring
+- **Blood Glucose Monitoring**: Self-monitoring of blood glucose (SMBG) is recommended to help patients manage their diabetes effectively. Regular checks can assist in understanding glycaemic patterns and make necessary adjustments to treatment.
+- **Screening for Complications**: Regular screening for diabetes-related complications, such as retinopathy, nephropathy, and cardiovascular issues, is crucial for early detection and intervention.
+
+### Coordination of Care
+- **Multidisciplinary Teams**: The WHO advocates for the establishment of diabetes care teams, including healthcare professionals like physicians, dieticians, and diabetes educators. This collaborative approach aims to provide comprehensive care and improve patient outcomes.
+
+### Education and Community Awareness
+- **Patient Education**: Educating patients about their condition, management practices, and the importance of adhering to treatment regimens is vital. Regular diabetes education sessions can empower patients to take charge of their health.
+- **Community Programs**: The WHO encourages developing community-based initiatives that focus on promoting healthy lifestyle choices and awareness regarding diabetes risk factors.
+
+### Management of Co-Morbidities
+- **Control of Other Health Risk Factors**: Management should also focus on associated risk factors such as hypertension and dyslipidaemia, recognizing that these conditions can complicate diabetes management.
+
+In summary, the WHO emphasizes an integrated care model for type 2 diabetes management in primary care settings, which includes lifestyle changes, medication adherence, patient education, and ongoing monitoring for complications to enhance health outcomes and quality of life.
+
+### References
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+--------------------------------------------------------------------------------
+QUESTION: How does WHO recommend managing type 2 diabetes in primary care?
+MODE: hybrid
+ANSWER:
+To manage type 2 diabetes in primary care, the World Health Organization (WHO) outlines several critical strategies that focus on prevention, early detection, and comprehensive management. Here are the key recommendations:
+
+### 1. Early Identification and Screening
+- **Screening**: WHO emphasizes the importance of regular screening for type 2 diabetes, particularly in high-risk groups. Asymptomatic adults should be screened every three years, especially those over 35 years of age, overweight individuals, and those with a family history of diabetes or other risk factors such as hypertension or dyslipidaemia.
+   - High-risk characteristics include ethnicity (certain ethnic groups show a higher prevalence), individuals aged ≥35 years, and those with prior gestational diabetes [26].
+
+### 2. Lifestyle Interventions
+- **Healthy Lifestyle Promotion**: Encouraging dietary changes and physical activity is essential. Programs should focus on:
+   - Maintaining a healthy weight.
+   - Engaging in regular physical activity.
+   - Implementing healthy dietary habits to prevent obesity and related risks [30].
+
+### 3. Glucose Control
+- **Blood Glucose Management**: Achieving and maintaining good glycaemic control is a primary objective. Recommended practices include:
+   - Monitoring blood glucose levels through self-monitoring of blood glucose (SMBG).
+   - Individualized treatment goals based on patient history and clinical evidence, such as adherence to therapy [21].
+- **Medication**: If lifestyle modifications are insufficient, medication options such as oral anti-hyperglycaemic agents and insulin therapy should be considered. Factors that influence the choice of medication include the severity of hyperglycaemia and the presence of co-morbid conditions [27].
+
+### 4. Management of Co-existing Conditions
+- **Comprehensive Care**: Management should also address hypertension and dyslipidaemia, which are commonly associated with diabetes. WHO recommends the integration of strategies to reduce cardiovascular risks, including lifestyle adjustments and pharmacotherapy if necessary [30].
+
+### 5. Education and Support
+- **Diabetes Education**: Providing education to patients about diabetes management, including self-care, monitoring techniques, and dietary recommendations, enhances long-term compliance and health outcomes. An emphasis on education empowers patients to take charge of their diabetes management [24].
+
+### 6. Monitoring and Follow-up
+- **Regular Follow-ups**: Consistent monitoring should include assessments of blood pressure, lipid profiles, and HbA1c levels to evaluate the patient's glycaemic control and risk for complications. A structured follow-up protocol helps detect potential complications early [30].
+
+### 7. Multidisciplinary Approach
+- **Team-Care Model**: Implementing a multidisciplinary mini clinic approach can provide team care that includes primary care physicians, nurses, dietitians, and educators to ensure comprehensive diabetes care [30].
+
+By incorporating these strategies into primary care, the management of type 2 diabetes can be significantly improved, ultimately enhancing patient outcomes and preventing complications associated with this chronic disease.
+
+### References
+
+- [26] Guidelines for the Prevention, Management and Care of Diabetes Mellitus
+- [21] Guidelines for the Prevention, Management and Care of Diabetes Mellitus
+- [30] Guidelines for the Prevention, Management and Care of Diabetes Mellitus
+--------------------------------------------------------------------------------
+QUESTION: What is diabetes mellitus according to WHO?
+MODE: naive
+ANSWER:
+Diabetes mellitus, as defined by the World Health Organization (WHO) in 1999, is characterized as "a metabolic disorder of multiple etiology, characterized by chronic hyperglycaemia with disturbances of carbohydrate, fat, and protein metabolism resulting from defects in insulin secretion, insulin action, or both." The effects of diabetes mellitus include long-term damage, dysfunction, and failure of various organs due to metabolic abnormalities resulting from inadequate insulin action on target tissues, which may occur due to either deficient insulin secretion or insensitivity to insulin action, or a combination of both.
+
+### References
+
+- [21] Definition, diagnosis and classification of diabetes mellitus and its complications. Report of a WHO Consultation. Part 1: diagnosis and classification of diabetes mellitus. Geneva, World Health Organization, 1999 (WHO/NCD/NCS/99.2).
+--------------------------------------------------------------------------------
+QUESTION: What is diabetes mellitus according to WHO?
+MODE: local
+ANSWER:
+According to the World Health Organization (WHO), diabetes mellitus is defined as “a metabolic disorder of multiple etiology, characterized by chronic hyperglycaemia with disturbances of carbohydrate, fat and protein metabolism resulting from defects in insulin secretion, insulin action, or both. The effects of diabetes mellitus include long-term damage, dysfunction and failure of various organs." This definition highlights that the metabolic abnormalities associated with diabetes stem from inadequate insulin action on target tissues, which can be due to either insufficient insulin secretion or insensitivity to insulin action, or a combination of both.
+
+### References
+
+- [21] Definition and classification of diabetes mellitus and its complications. Report of a WHO Consultation. Part 1: diagnosis and classification of diabetes mellitus. Geneva, World Health Organization, 1999 (WHO/NCD/NCS/99.2).
+--------------------------------------------------------------------------------
+QUESTION: What is diabetes mellitus according to WHO?
+MODE: global
+ANSWER:
+Diabetes Mellitus is defined by the World Health Organization (WHO) as a "metabolic disorder of multiple etiology, characterized by chronic hyperglycaemia with disturbances of carbohydrate, fat and protein metabolism resulting from defects in insulin secretion, insulin action, or both." The consequences of diabetes can include long-term damage, dysfunction, and failure of various organs. 
+
+The classification of diabetes has evolved over time, focusing more on the underlying causes (etiology) rather than just treatment methods. WHO recognizes two main types of diabetes:
+
+1. **Type 1 Diabetes Mellitus**: An autoimmune condition leading to the destruction of insulin-producing beta cells in the pancreas, requiring insulin for survival.
+   
+2. **Type 2 Diabetes Mellitus**: Characterized by insulin resistance and varying degrees of insulin secretion deficiency. This type is more common and can be managed through lifestyle changes, medication, and in some cases, insulin.
+
+WHO has prioritized diabetes mellitus as a significant public health issue due to its complications and growing prevalence, as reflected in their global health strategies and guidelines aimed at management and prevention [WHO]. 
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] World Health Organization Report on Diabetes 
+- [3] WHO Regional Consultation on Diabetes Prevention and Control
+--------------------------------------------------------------------------------
+QUESTION: What is diabetes mellitus according to WHO?
+MODE: hybrid
+ANSWER:
+Diabetes Mellitus is defined by the World Health Organization (WHO) as “a metabolic disorder of multiple etiology, characterized by chronic hyperglycaemia with disturbances of carbohydrate, fat, and protein metabolism resulting from defects in insulin secretion, insulin action, or both.” This condition leads to long-term damage and dysfunction of various organs due to the metabolic abnormalities associated with inadequate insulin action on target tissues.
+
+The WHO emphasizes the significance of diabetes mellitus as a serious public health issue, acknowledging its rising prevalence globally and its associated complications. It has also prioritized diabetes in public health strategies to improve the prevention and management of this chronic disease, recognizing the need for comprehensive healthcare approaches and guidelines for effective management.
+
+For more detailed specifics, including classifications, the WHO also highlights that diabetes mellitus generally falls into several types, primarily Type 1 and Type 2 diabetes, which differ in their causes and management requirements. 
+
+### References
+- [1] Guidelines for the Prevention, Management and Care of Diabetes Mellitus.
+--------------------------------------------------------------------------------
+QUESTION: What are the diagnostic criteria for diabetes mellitus?
+MODE: naive
+ANSWER:
+The diagnostic criteria for diabetes mellitus include the following parameters based on glucose levels:
+
+1. **Fasting Plasma Glucose (FPG):**
+   - Diabetes mellitus is diagnosed when the FPG is ≥ 7.0 mmol/L (≥ 126 mg/dL).
+   - A FPG of < 5.6 mmol/L (< 100 mg/dL) suggests exclusion of diabetes.
+   - Values between 5.6–6.9 mmol/L (100–125 mg/dL) indicate an increased risk, and further diagnostic testing is recommended.
+
+2. **2-Hour Plasma Glucose During an Oral Glucose Tolerance Test (OGTT):**
+   - An OGTT is performed using a 75 g oral glucose load, where a result of ≥ 11.1 mmol/L (≥ 200 mg/dL) confirms diabetes.
+
+3. **Random (Casual) Plasma Glucose:**
+   - A casual plasma glucose measurement of ≥ 11.1 mmol/L (> 200 mg/dL) is also diagnostic for diabetes if accompanied by classic symptoms of hyperglycemia or hyperglycemic crisis.
+
+4. **Glycated Hemoglobin (HbA1c):**
+   - A diagnostic HbA1c level of ≥ 6.5% (48 mmol/mol) can also indicate diabetes.
+
+It is important to note that a single abnormal glucose value is insufficient to make a diagnosis; confirmation through repeat testing is recommended unless the patient presents with unequivocal hyperglycemia and classic symptoms. 
+
+These criteria ensure accurate identification of individuals with diabetes and facilitate timely intervention to manage the condition effectively. 
+
+### References
+
+- [21] Definition, diagnosis and classification of diabetes mellitus and its complications. Report of a WHO Consultation. Part 1: diagnosis and classification of diabetes mellitus.
+- [23] Clinical practice recommendations 2005. Diabetes Care, 2005, 28 (suppl. 1).
+--------------------------------------------------------------------------------
+QUESTION: What are the diagnostic criteria for diabetes mellitus?
+MODE: local
+ANSWER:
+The diagnostic criteria for diabetes mellitus are primarily based on blood glucose measurements, and they include the following:
+
+1. **Fasting Plasma Glucose (FPG)**:
+   - **Diabetes Mellitus**: Fasting plasma glucose level of **≥7.0 mmol/L (≥126 mg/dL)**.
+   - **Impaired Fasting Glucose (IFG)**: Fasting plasma glucose between **5.6–6.9 mmol/L (100–125 mg/dL)**.
+
+2. **Oral Glucose Tolerance Test (OGTT)**:
+   - **Diabetes Mellitus**: Measurements taken **2 hours after a 75 g oral glucose load**, with plasma glucose level of **≥11.1 mmol/L (≥200 mg/dL)** indicating diabetes.
+   - **Impaired Glucose Tolerance (IGT)**: 2-hour plasma glucose levels between **7.8–11.0 mmol/L (140–199 mg/dL)**.
+
+3. **Casual Blood Glucose Measurement**:
+   - A casual blood glucose level of **≥11.1 mmol/L (≥200 mg/dL)** can also indicate diabetes, especially if accompanied by classic symptoms of hyperglycaemia or hyperglycaemic crisis.
+
+4. **HbA1c**:
+   - An HbA1c level of **≥6.5%** (48 mmol/mol) is indicative of diabetes. The test should be performed in a laboratory using a method that is NGSP-certified and standardized against the Diabetes Control and Complications Trial (DCCT) method.
+
+It is important to note that a single abnormal glucose value is not sufficient for a diagnosis. The confirmation of the diagnosis should be made with repeat testing unless hyperglycaemia is unequivocal and associated with classic symptoms (e.g., polyuria, polydipsia, unexplained weight loss) [1].
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+--------------------------------------------------------------------------------
+QUESTION: What are the diagnostic criteria for diabetes mellitus?
+MODE: global
+ANSWER:
+The diagnostic criteria for diabetes mellitus are based on specific glucose measurement values, which can be assessed through different testing methods. Here are the key criteria:
+
+### Diagnostic Criteria for Diabetes Mellitus
+
+1. **Fasting Plasma Glucose (FPG):**
+   - **≥ 7.0 mmol/L (≥ 126 mg/dL):** Indicates diabetes. Confirmation with repeat testing is required unless there are unequivocal symptoms of hyperglycaemia.
+
+2. **2-Hour Plasma Glucose during Oral Glucose Tolerance Test (OGTT):**
+   - **≥ 11.1 mmol/L (≥ 200 mg/dL)** after a 75 g glucose load: This confirms a diabetes diagnosis.
+
+3. **Random Plasma Glucose:**
+   - **≥ 11.1 mmol/L (≥ 200 mg/dL)** in a patient with classic symptoms of hyperglycaemia or hyperglycaemic crisis is also indicative of diabetes.
+
+4. **Glycated Hemoglobin (HbA1c):**
+   - **≥ 6.5% (≥ 48 mmol/mol):** This is another method recommended for diagnosing diabetes. 
+
+Any diagnosis should be confirmed with repeat testing unless the patient has clear symptoms of diabetes, such as excessive thirst, frequent urination, and unexplained weight loss.
+
+It is important to note that the criteria may slightly vary based on local guidelines or recommendations from organizations like the World Health Organization (WHO) and other health authorities. 
+
+### Additional Information
+- **Impaired Fasting Glucose (IFG) and Impaired Glucose Tolerance (IGT)** represent conditions that show an increased risk for developing diabetes but do not meet the diagnostic criteria. IFG is indicated by fasting blood glucose levels between 5.6 and 6.9 mmol/L, and IGT is defined by glucose levels between 7.8 and 11.0 mmol/L after a 2-hour OGTT.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Diagnostic values for diabetes mellitus and other categories of hyperglycaemia
+--------------------------------------------------------------------------------
+QUESTION: What are the diagnostic criteria for diabetes mellitus?
+MODE: hybrid
+ANSWER:
+The diagnostic criteria for diabetes mellitus include several methods for measuring blood glucose levels, as detailed below:
+
+### Diagnostic Methods
+
+1. **Fasting Plasma Glucose (FPG)**
+   - **Diabetes:** Fasting glucose levels ≥7.0 mmol/L (≥126 mg/dL).
+   - **Normal:** Fasting glucose levels <5.6 mmol/L (<100 mg/dL) indicates exclusion of diabetes.
+
+2. **2-Hour Oral Glucose Tolerance Test (OGTT)**
+   - **Diabetes:** Glucose levels ≥11.1 mmol/L (≥200 mg/dL) two hours after a 75 g oral glucose load.
+   - **Impaired Glucose Tolerance (IGT):** 2-hour glucose levels between 7.8 and 11.0 mmol/L (≥140 mg/dL to <200 mg/dL).
+
+3. **Casual Blood Glucose Measurement**
+   - **Diabetes:** A casual glucose value ≥11.1 mmol/L (≥200 mg/dL) in a patient with classic symptoms of hyperglycaemia (e.g., polyuria, polydipsia).
+
+4. **Glycated Hemoglobin (HbA1c)**
+   - **Diabetes:** An HbA1c level ≥6.5% (≥48 mmol/mol).
+   - **Normal:** HbA1c levels <5.7% (<39 mmol/mol).
+
+### Important Considerations
+
+- A diagnosis of diabetes should not be based on a single abnormal glucose value. Confirmation with repeat testing is required unless there are clear symptoms of hyperglycaemia.
+- For diagnosing other categories of glucose regulation:
+  - **Impaired Fasting Glycaemia (IFG):** Fasting glucose 5.6 to 6.9 mmol/L (100 to 125 mg/dL).
+  
+These parameters aim to ensure accurate identification and management of individuals at risk of diabetes.
+
+### References
+* [Diabetes Diagnosis and Classification Guidelines]
+--------------------------------------------------------------------------------
+QUESTION: What lifestyle interventions are recommended for diabetes prevention?
+MODE: naive
+ANSWER:
+To prevent type 2 diabetes, several lifestyle interventions are recommended, focusing on maintaining a healthy weight and increasing physical activity. Here are the key recommendations:
+
+### 1. **Weight Control**
+   - **Healthy Eating**: Adopting a balanced diet that is low in calories may help individuals manage their weight effectively.
+   - **Caloric Intake**: Reducing overall caloric intake is fundamental, especially for those who are overweight (body mass index ≥ 25 kg/m²).
+
+### 2. **Physical Activity**
+   - **Regular Exercise**: Engaging in regular physical activity, such as aerobic and strength training exercises, is crucial. Aiming for at least 150 minutes of moderate-intensity exercise per week helps in preventing diabetes and contributes positively to overall health.
+   - **Incorporating Movement**: Even small changes, like increasing everyday physical activity (e.g., walking, taking stairs), can be beneficial.
+
+### 3. **Nutritional Changes**
+   - **Balanced and Healthy Diet**: Emphasizing whole grains, fruits, vegetables, healthy fats, and lean proteins promotes better metabolism and weight management.
+   - **Food Awareness**: Individuals should be educated on the importance of food choices and portion control to avoid excess calorie intake.
+
+### 4. **Regular Monitoring**
+   - **Health Check-ups**: Regular screenings for glucose levels, blood pressure, and cholesterol help in identifying risk factors early.
+   - **Behavioral Modifications**: Encouraging self-monitoring of health-related behaviors is beneficial.
+
+### 5. **Community Programs**
+   - **Community-Based Health Initiatives**: Developing and participating in community programs that focus on health education and promotion of active lifestyles.
+
+By implementing these lifestyle changes, individuals significantly lower their risk of developing type 2 diabetes. These strategies not only target diabetes prevention but also contribute to overall health and well-being.
+
+### References
+- [22] Guidelines for the prevention, management and care of diabetes mellitus
+- [23] Guidelines for the prevention, management and care of diabetes mellitus
+- [32] Guidelines for the prevention, management and care of diabetes mellitus
+--------------------------------------------------------------------------------
+QUESTION: What lifestyle interventions are recommended for diabetes prevention?
+MODE: local
+ANSWER:
+Lifestyle interventions play a crucial role in the prevention of diabetes, particularly Type 2 Diabetes Mellitus. Here are the recommended interventions based on the provided context:
+
+### Key Lifestyle Interventions for Diabetes Prevention
+
+1. **Weight Management**:
+   - Achieving and maintaining a healthy weight is vital. Weight loss, specifically for overweight individuals, is identified as a major therapeutic objective. It helps improve metabolic health and reduces the risk factors associated with diabetes.
+
+2. **Physical Activity**:
+   - Engaging in regular physical activity is essential. An increase in physical activity not only helps control weight but also enhances insulin sensitivity, making it a critical component in preventing the development of Type 2 Diabetes Mellitus.
+
+3. **Nutritional Changes**:
+   - **Healthy Eating**: Adopting dietary modifications focused on healthy food choices is recommended. This includes reducing saturated fats, managing carbohydrate intake, and increasing the consumption of fruits and vegetables.
+   - **Nutritional Recommendations**: Following specific dietary guidelines on the distribution of nutrients can aid in managing weight and blood sugar levels. A balanced diet tailored to individual health needs is crucial for optimal management and prevention of diabetes.
+
+4. **Lifestyle Modifications**:
+   - Individuals are encouraged to modify their daily routines to include healthier habits, such as avoiding excessive calorie intake from sugary beverages and practicing portion control during meals.
+
+5. **Community Awareness Programs**:
+   - Establishing community-based programs that educate individuals about the importance of a healthy lifestyle is vital. These programs should focus on the early identification of individuals at risk of developing diabetes and promote initiatives for healthy living from an early age.
+
+### Conclusion
+
+Implementing these lifestyle interventions can significantly reduce the risk of developing Type 2 Diabetes Mellitus. The evidence suggests that such changes lead to a substantial decrease in incidence rates, which is critical in managing public health concerns regarding diabetes.
+
+### References
+
+- [21] Guidelines for the Prevention, Management and Care of Diabetes Mellitus
+- [22] Community Awareness and Primary Prevention
+- [23] The Role of Nutrition in Diabetes Management
+- [24] Diabetes Prevention through Lifestyle Modification
+- [25] Lifestyle Changes and Diabetes Intervention Studies
+--------------------------------------------------------------------------------
+QUESTION: What lifestyle interventions are recommended for diabetes prevention?
+MODE: global
+ANSWER:
+Lifestyle interventions play a critical role in the prevention of diabetes, particularly Type 2 Diabetes Mellitus. Here are the recommended lifestyle changes:
+
+### Recommended Lifestyle Interventions
+
+1. **Dietary Modifications**
+   - **Healthier Eating**: Emphasizing a balanced diet that includes a variety of fruits, vegetables, whole grains, and low-fat dairy products. 
+   - **Weight Control**: Reducing body weight through portion control and healthier choices can significantly lower the risk of developing diabetes.
+   - **Limit Saturated and Trans Fat**: Reducing intake of saturated fat and trans fat is important for managing cardiovascular risks associated with diabetes.
+
+2. **Physical Activity**
+   - **Regular Exercise**: Engaging in at least 150 minutes of moderate-intensity aerobic activity, such as brisk walking, each week.
+   - **Increased Activity Levels**: Encouraging daily activities that promote an active lifestyle, which can help in controlling weight and improving insulin sensitivity.
+
+3. **Behavioral Changes**
+   - **Community Awareness Programs**: Participating in community-based programs that emphasize a healthy lifestyle and raise awareness about diabetes prevention.
+   - **Patient Education**: Educational programs aimed at improving knowledge about diabetes risks and self-management among at-risk individuals.
+
+4. **Weight Management**
+   - **Weight Loss**: For overweight individuals, achieving and maintaining a healthy weight is a significant preventive measure against diabetes.
+
+5. **Screening and Early Intervention**
+   - **At-risk Population Screening**: Early identification of individuals at high risk for diabetes through screening programs helps in implementing preventive measures effectively.
+
+### Conclusion
+Adopting these lifestyle changes not only helps in reducing the risk of developing Type 2 Diabetes Mellitus but also contributes to the overall improvement of health. These interventions have been supported by various studies, such as the Da Quing Study and the Tuomilehto Study, which demonstrate the effectiveness of lifestyle modifications in diabetes prevention.
+
+### References
+
+- [1] Guidelines for the Prevention and Management of Diabetes Mellitus
+- [2] Da Qing IGT and Diabetes Study
+- [3] Tuomilehto Study
+- [4] Community Awareness Program
+- [5] Diabetes Prevention Programme Research Group
+--------------------------------------------------------------------------------
+QUESTION: What lifestyle interventions are recommended for diabetes prevention?
+MODE: hybrid
+ANSWER:
+To effectively prevent diabetes, particularly Type 2 Diabetes Mellitus, several lifestyle interventions are recommended. These interventions focus primarily on incorporating healthier lifestyle choices and physical activity into daily routines. Here are the key recommendations:
+
+### Recommended Lifestyle Interventions
+
+1. **Dietary Changes**:
+   - **Healthy Food Choices**: Emphasize on a balanced diet that includes plenty of fruits, vegetables, whole grains, and lean proteins. Moderation in the consumption of saturated fats, added sugars, and refined carbohydrates is crucial.
+   - **Weight Control**: Maintaining a healthy weight is vital, especially for individuals at risk. Weight loss of as little as 5-10% can significantly reduce the risk of developing diabetes.
+
+2. **Increased Physical Activity**:
+   - **Regular Exercise**: Aim for at least 150 minutes of moderate aerobic activity each week. This can include activities such as brisk walking, cycling, or swimming.
+   - **Incorporate Physical Activity into Daily Life**: Simple changes such as taking the stairs instead of the elevator, parking further away from entrances, or engaging in recreational sports can increase daily physical activity levels.
+
+3. **Behavioral Modifications**:
+   - **Healthy Lifestyle Programs**: Participating in structured programs that promote healthy weight and physical activity can be beneficial. These programs often include group support and education on managing behaviors related to diet and exercise.
+
+4. **Community Awareness**:
+   - **Risk Assessment**: Early identification of individuals at risk for developing diabetes through screening programs can help in implementing preventative measures.
+
+5. **Educational Initiatives**:
+   - **Diabetes Education**: Educating individuals about the risks associated with diabetes and the importance of lifestyle modification can empower them to make more informed choices.
+
+### Additional Considerations
+- Making these lifestyle changes not only reduces the risk of developing Type 2 Diabetes but also contributes to better overall health, reducing the likelihood of related conditions such as hypertension and cardiovascular diseases.
+
+The effectiveness of these interventions has been supported by research findings, highlighting their role in significantly reducing the incidence of Type 2 Diabetes among at-risk populations. Notably, studies such as the Da Qing Study and the Tuomilehto Study emphasize the positive impact of lifestyle interventions on diabetes prevention.
+
+### References
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Diabetic Prevention Programme Research Group
+- [3] Da Qing IGT and Diabetes Study
+- [4] Tuomilehto Study
+- [5] Community awareness and primary prevention
+--------------------------------------------------------------------------------
+QUESTION: What are the major acute and chronic complications of diabetes?
+MODE: naive
+ANSWER:
+### Major Complications of Diabetes
+
+Diabetes can lead to both acute and chronic complications, each posing significant health risks.
+
+#### Acute Complications
+
+1. **Hypoglycemia**:
+   - This condition occurs when blood glucose levels drop too low, causing symptoms such as nervousness, shakiness, and confusion. Severe hypoglycemia can lead to loss of consciousness or seizures.
+
+2. **Diabetic Ketoacidosis (DKA)**:
+   - Primarily affects individuals with type 1 diabetes. DKA is a serious condition where the body produces excess blood acids called ketones. It can lead to severe dehydration, low blood pressure, and potentially death if not treated promptly.
+
+3. **Hyperglycemic Hyperosmolar State (HHS)**:
+   - More common in type 2 diabetes, this state is characterized by extremely high blood sugar levels, leading to dehydration and changes in mental status. Unlike DKA, there is typically no significant ketone production.
+
+4. **Infections**:
+   - People with poorly controlled diabetes are at increased risk for bacterial, fungal, and mycobacterial infections. Common infections include urinary tract infections, especially post bladder instrumentation, and skin infections. Severe infections can lead to life-threatening conditions if not managed effectively.
+
+#### Chronic Complications
+
+1. **Microvascular Complications**:
+   - **Diabetic Retinopathy**: This is the leading cause of blindness in adults, with a high risk of developing significant visual impairment over time.
+   - **Diabetic Nephropathy**: Kidney disease arising from diabetes can progress to end-stage renal failure, necessitating dialysis or transplant.
+   - **Diabetic Neuropathy**: Nerve damage can lead to sensations of pain or numbness, particularly in the feet, increasing the risk of ulcers and amputations.
+
+2. **Macrovascular Complications**:
+   - **Cardiovascular Disease**: Patients with diabetes have a much higher risk of coronary heart disease, stroke, and peripheral artery disease due to atherosclerosis. This includes severe complications leading to increased morbidity and mortality.
+   - **Cerebrovascular Disease**: Increased incidence of strokes is documented in diabetic patients, compounded by high blood pressure and cholesterol levels.
+
+3. **Foot Complications**:
+   - The risk of foot ulcers and amputations is significantly elevated due to neuropathy and poor circulation. Regular skin inspection and foot care are crucial.
+
+4. **Other Complications**:
+   - Individuals may also experience problems related to poor wound healing and skin issues, along with increased risk of developing other systemic conditions due to the high cardiac and vascular nature of diabetes.
+
+Effective management involves regular monitoring and immediate intervention to mitigate these complications. It is crucial to educate patients and healthcare workers on the signs, prevention, and management of both acute and chronic complications of diabetes.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Guidelines for the prevention, management and care of diabetes mellitus
+- [3] Guidelines for the prevention, management and care of diabetes mellitus
+--------------------------------------------------------------------------------
+QUESTION: What are the major acute and chronic complications of diabetes?
+MODE: local
+ANSWER:
+Diabetes can lead to various complications, both acute and chronic, which significantly impact health. Understanding these complications is essential for diabetes management.
+
+### Acute Complications
+
+1. **Hypoglycaemia**: This condition occurs when blood glucose levels drop too low, often due to excessive insulin or missed meals. Symptoms can include shakiness, confusion, and in severe cases, loss of consciousness.
+
+2. **Diabetic Ketoacidosis (DKA)**: Particularly common in type 1 diabetes, DKA results from a shortage of insulin, which causes the body to break down fat for energy, leading to the production of ketones that make the blood acidic.
+
+3. **Hyperglycaemic Hyperosmolar State (HHS)**: More common in type 2 diabetes, HHS can develop during severe illness or stress. It leads to very high blood sugar levels without significant ketone production, resulting in dehydration and a change in mental state.
+
+### Chronic Complications
+
+1. **Microvascular Complications**:
+   - **Diabetic Retinopathy**: Damage to the retina from prolonged high blood sugar, potentially leading to vision impairment and blindness.
+   - **Diabetic Nephropathy**: Kidney damage resulting from high blood sugar levels, which can progress to end-stage renal disease requiring dialysis or transplantation.
+   - **Diabetic Neuropathy**: Nerve damage that leads to pain, tingling, or loss of sensation, particularly in the extremities. It can also affect autonomic functions.
+
+2. **Macrovascular Complications**: 
+   - Individuals with diabetes have a higher risk of cardiovascular diseases such as heart attack, stroke, and peripheral arterial disease due to atherosclerosis caused by elevated blood sugar and other associated factors.
+
+3. **Diabetic Foot**: This condition arises from a combination of neuropathy and poor circulation, leading to foot ulcers and, in severe cases, lower limb amputations.
+
+4. **Glycaemic Control Issues**: Poor management of blood glucose levels can exacerbate both microvascular and macrovascular complications and increase the overall risk of severe health issues.
+
+5. **Hyperglycaemia and Associated Infections**: High blood sugar levels can contribute to increased susceptibility to infections, particularly bacterial and fungal infections.
+
+Effective management of diabetes includes regular monitoring of blood glucose levels, adherence to prescribed medications, and lifestyle modifications to minimize both acute and chronic complications.
+--------------------------------------------------------------------------------
+QUESTION: What are the major acute and chronic complications of diabetes?
+MODE: global
+ANSWER:
+Diabetes can lead to a variety of acute and chronic complications that significantly impact the health of individuals. Here’s a breakdown of these complications:
+
+### Acute Complications
+
+1. **Hypoglycaemia**: This condition occurs when blood glucose levels drop too low, leading to symptoms such as nervousness, weakness, sweating, headache, and in severe cases, loss of consciousness. Hypoglycaemia can result from insufficient food intake, excessive exercise, or overdose of insulin or oral hypoglycaemic agents.
+
+2. **Diabetic Ketoacidosis (DKA)**: Primarily affecting individuals with type 1 diabetes, DKA is a serious condition resulting from a notable lack of insulin. The body begins to break down fat for energy, leading to the production of ketones that lower blood pH, potentially resulting in a life-threatening situation.
+
+3. **Hyperglycaemic Hyperosmolar State (HHS)**: More common in type 2 diabetes, this occurs when blood glucose levels become extremely high, leading to severe dehydration and electrolyte imbalances. It can be triggered by infections or other acute illnesses.
+
+4. **Infections**: Individuals with diabetes are more susceptible to bacterial (especially anaerobic), mycobacterial, and fungal infections. Risk factors include urinary tract infections, pneumonia, and skin infections, particularly when hyperglycaemia is poorly controlled.
+
+### Chronic Complications
+
+1. **Microvascular Complications**:
+   - **Diabetic Neuropathy**: A common nerve disorder caused by high blood sugar levels, leading to symptoms such as pain, tingling, or loss of sensation, particularly in the feet.
+   - **Diabetic Retinopathy**: This eye condition can lead to vision impairment and is associated with damage to the retinal blood vessels, often causing blindness if untreated.
+   - **Diabetic Nephropathy**: A significant cause of kidney disease in diabetic patients, nephropathy progresses through stages starting from microalbuminuria to end-stage renal disease requiring dialysis or transplantation.
+
+2. **Macrovascular Complications**:
+   - **Atherosclerosis**: An increased risk of heart disease and stroke is present due to hardening of the arteries resulting from high blood glucose and other risk factors, like hypertension and dyslipidaemia.
+   - **Cardiovascular Disease**: Patients with diabetes have a higher likelihood of developing coronary artery disease, which can lead to heart attacks or other cardiovascular events.
+
+3. **Diabetic Foot Complications**: Poor circulation and nerve damage can lead to foot ulcers and infections, which, if severe, may necessitate lower-limb amputations.
+
+4. **Cognitive Impairment**: Chronic hyperglycaemia may also have implications for cognitive function over time, presenting risks for conditions like dementia.
+
+Managing diabetes actively with lifestyle interventions and appropriate medical care can prevent or delay the onset of both acute and chronic complications.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Chronic complications of diabetes
+- [3] Acute complications of diabetes mellitus 
+- [4] Diabetic neuropathy and foot complications 
+- [5] Diabetic eye disease and retinopathy
+--------------------------------------------------------------------------------
+QUESTION: What are the major acute and chronic complications of diabetes?
+MODE: hybrid
+ANSWER:
+Diabetes can lead to a variety of complications that are classified as either acute or chronic. Here’s an overview of the major complications associated with diabetes:
+
+### Acute Complications
+
+1. **Hypoglycaemia**: 
+   - This condition involves an abnormally low concentration of glucose in the blood. It can occur due to insufficient food intake, excessive exercise, or insulin overdosing. Symptoms can include nervousness, sweating, weakness, and in severe cases, loss of consciousness.
+
+2. **Ketoacidosis**:
+   - Diabetic ketoacidosis is a serious condition primarily affecting individuals with type 1 diabetes, characterized by the buildup of ketones in the blood due to the breakdown of fatty acids. Symptoms include nausea, vomiting, and deep, rapid breathing.
+
+3. **Hyperglycaemic Hyperosmolar State**:
+   - More common in type 2 diabetes, this condition can result from severe infection or illness. Symptoms can include dehydration, circulatory compromise, and altered mental state without the presence of acidosis.
+
+4. **Infections**:
+   - Individuals with diabetes are more susceptible to various infections, including bacterial and fungal infections. Urinary tract infections are common, especially after bladder procedures.
+
+### Chronic Complications
+
+1. **Microvascular Complications**:
+   - **Retinopathy**: Damage to the retina can lead to visual impairment and is a leading cause of blindness in diabetic patients.
+   - **Nephropathy**: Diabetes can cause kidney damage, leading to renal failure if not properly managed.
+   - **Neuropathy**: This refers to nerve damage due to diabetes, which can result in complications such as loss of sensation, pain, and even foot ulcers.
+
+2. **Macrovascular Complications**:
+   - These complications involve larger blood vessels and significantly increase the risk of cardiovascular issues. This includes:
+     - **Coronary Heart Disease**: Higher occurrence rates of heart attacks in diabetic patients.
+     - **Stroke**: Increased risk compared to non-diabetics due to similar vascular pathologies.
+     - **Peripheral Artery Disease**: Reduced blood flow to limbs may lead to vascular problems and potential amputations.
+
+3. **Diabetic Foot**:
+   - A term that encompasses infections, ulcers, and sometimes gangrene, typically due to neuropathy and vascular disease, increasing the likelihood of amputations.
+
+4. **Dyslipidaemia**:
+   - Diabetes can also lead to abnormalities in lipid levels, contributing further to cardiovascular risks.
+
+5. **Hypertension**:
+   - High blood pressure commonly occurs alongside diabetes and exacerbates the risk for both microvascular and macrovascular complications.
+
+### Conclusion
+
+The management of diabetes and its complications is critical. Regular monitoring of blood glucose levels, blood pressure, and lipid profiles, along with lifestyle modifications and appropriate medication, are vital in preventing these complications.
+
+### References
+
+- [1] Guidelines for the Prevention and Management of Diabetes Mellitus
+- [2] Chronic complications of diabetes
+- [3] Acute complications of diabetes
+--------------------------------------------------------------------------------
+QUESTION: How does WHO recommend managing type 2 diabetes in primary care?
+MODE: naive
+ANSWER:
+Managing type 2 diabetes in primary care, according to WHO guidelines, involves a comprehensive and structured approach that emphasizes several key areas:
+
+### 1. **Assessment and Diagnosis**
+- **Screening** for diabetes is essential, especially in high-risk populations. Diagnosing diabetes should not rely on a single test but requires confirmation through repeat testing ([Document Chunk 4](#)).
+- **Risk Factors**: Attention should be paid to factors such as age, family history, obesity, and sedentary lifestyle when assessing diabetes risk ([Document Chunk 4](#)).
+
+### 2. **Individualized Treatment Goals**
+- **Personalized therapy**: Treatment goals must be individualized based on the patient's condition, lifestyle, and preferences. The main objectives include controlling blood glucose levels, reducing symptoms, and preventing complications ([Document Chunk 5](#)).
+- **Monitoring** of glycemic control through regular HbA1c testing is crucial; levels should be measured at least every three months ([Document Chunk 5](#)).
+
+### 3. **Lifestyle Modification**
+- **Diet and Nutrition**: Emphasis on a healthy diet is critical. Patients should work with dietitians to create dietary plans that focus on balanced nutritional intake while managing carbohydrate consumption, particularly in relation to glycemic control ([Document Chunk 6](#)).
+- **Physical Activity**: Regular exercise is recommended to help manage weight and improve insulin sensitivity. Patients should engage in at least 150 minutes of moderate-intensity aerobic activity weekly ([Document Chunk 6](#)).
+
+### 4. **Pharmacological Treatments**
+- When lifestyle modifications are insufficient, pharmacological interventions should be introduced. There are several classes of medications available such as:
+  - **Insulin Sensitizers (e.g., Metformin)**
+  - **Insulin Secretagogues (e.g., Sulfonylureas)**
+  - **α-Glucosidase Inhibitors** ([Document Chunk 7](#)).
+  
+- Patients with type 2 diabetes may initially be managed with oral agents, and insulin therapy may be necessary as the disease progresses.
+
+### 5. **Monitoring and Management of Associated Conditions**
+- **Monitoring Comorbidities**: Regular checks for associated conditions like hypertension and dyslipidaemia are essential, as these can complicate diabetes management ([Document Chunk 8](#)).
+- **Referral to Specialists**: Patients should be referred to specialists as needed, including for complications related to diabetes ([Document Chunk 6](#)).
+
+### 6. **Education and Support**
+- Patient education on diabetes self-management is vital. Patients should learn about their condition, the importance of medication adherence, lifestyle changes, and how to recognize and respond to symptoms of hypo- or hyperglycemia ([Document Chunk 9](#)).
+
+### 7. **Team-Based Care**
+- The implementation of **multidisciplinary diabetes care teams**—including physicians, nurses, dietitians, and diabetes educators—can improve outcomes by providing comprehensive care and support for patients ([Document Chunk 6](#)).
+
+Overall, WHO emphasizes that effective management of type 2 diabetes in primary care requires an integrated approach that combines education, preventive strategies, pharmacotherapy, and lifestyle modifications tailored to individual patient needs.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus.
+--------------------------------------------------------------------------------
+QUESTION: How does WHO recommend managing type 2 diabetes in primary care?
+MODE: local
+ANSWER:
+The World Health Organization (WHO) provides several key recommendations for managing type 2 diabetes in primary care settings. Here are the essential strategies highlighted:
+
+### Comprehensive Care and Management
+1. **Multidisciplinary Approach**: The management of diabetes requires a collaboration of various healthcare providers, including primary care physicians, dieticians, diabetes educators, and specialists when necessary. A team-based approach ensures comprehensive management of diabetes and its complications.
+
+2. **Individualized Treatment**: Each patient's treatment plan should be tailored based on their specific needs, metabolic profiles, and personal and cultural preferences. This includes dietary recommendations, exercise plans, and medication management.
+
+### Lifestyle Modifications
+3. **Primary Prevention through Lifestyle Changes**: WHO emphasizes the importance of lifestyle changes aimed at preventing the onset of type 2 diabetes. Key recommendations include:
+   - **Maintaining a Healthy Weight**: Weight loss can significantly improve insulin sensitivity and reduce diabetes risk.
+   - **Regular Physical Activity**: A minimum of 150 minutes of moderate physical activity per week is recommended.
+   - **Nutritional Education**: Adopting a balanced diet that includes healthy food choices and understanding the importance of nutrition in diabetes management.
+
+### Monitoring and Evaluation
+4. **Regular Monitoring**: It is crucial to monitor blood glucose levels regularly using self-monitoring of blood glucose (SMBG) as part of diabetes management. Regular checks help in adjusting treatment plans and ensuring desired metabolic control.
+
+5. **Control of Associated Conditions**: Addressing coexisting conditions such as hypertension and dyslipidaemia is essential for comprehensive diabetes management, as they are commonly associated with diabetes and can complicate its management.
+
+### Education and Empowerment
+6. **Patient Education**: Education plays a vital role in diabetes management, helping patients understand their condition and empowering them to make informed decisions regarding their health. This includes training on how to manage glucose levels, recognize symptoms of hypoglycaemia, and the importance of routine health check-ups.
+
+7. **Community Awareness Programs**: WHO advocates for community-based programs aimed at raising awareness about diabetes and its risk factors, promoting preventive measures, and encouraging healthy lifestyle changes.
+
+### Screening and Early Detection
+8. **Screening Programs**: Implementing screening strategies for early detection of type 2 diabetes and at-risk individuals is vital. The aim is to identify individuals who are asymptomatic but may benefit from risk reduction interventions.
+
+### Follow-Up and Referral
+9. **Systematic Follow-Up**: Regular follow-up visits for diabetes management are critical to adjust treatment plans according to the patient's progress and well-being. Referral to specialists may be necessary for managing complications effectively.
+
+### Blood Pressure and Lipid Management
+10. **Aggressive Management of Blood Pressure**: The target blood pressure for diabetes patients is recommended to be less than 130/80 mmHg, as poor blood pressure control can lead to increased risk of cardiovascular complications.
+
+These strategies collectively promote improved outcomes for individuals with type 2 diabetes and highlight the significance of a structured approach within primary care settings to effectively manage the condition.
+
+### References
+
+- [1] Guidelines for the Prevention and Management of Diabetes Mellitus
+- [2] Guidelines for the prevention, management and care of diabetes mellitus
+- [3] World Health Organization recommendations on managing diabetes mellitus
+- [4] Clinical practice recommendations for managing diabetes in primary care
+- [5] Community awareness and management of diabetes strategies
+--------------------------------------------------------------------------------
+QUESTION: How does WHO recommend managing type 2 diabetes in primary care?
+MODE: global
+ANSWER:
+The World Health Organization (WHO) provides several recommendations for managing type 2 diabetes in primary care, focusing on prevention, early detection, and ongoing management. Here’s an overview of these guidelines:
+
+### Key Recommendations for Managing Type 2 Diabetes
+
+1. **Screening and Early Detection**:
+   - WHO recommends regular screening for type 2 diabetes in high-risk groups, such as individuals aged 35 years and older, those with a body mass index (BMI) of 25 kg/m² or more, and individuals with a family history of diabetes or previous history of gestational diabetes [Reference Document 26].
+   - Screening should include the use of fasting plasma glucose measurements or an oral glucose tolerance test (OGTT) to confirm diagnoses [Reference Document 26].
+
+2. **Lifestyle Modifications**:
+   - **Diet and Physical Activity**: Patients are encouraged to adopt a healthy diet and engage in regular physical activity to control weight and improve overall health outcomes. Lifestyle changes play a critical role in preventing and managing type 2 diabetes [Reference Document 23].
+   - A balanced diet focusing on low-caloric intake and increased physical activity is emphasized, with strategies that can lead to significant reductions in diabetes incidence among at-risk populations [Reference Document 26].
+
+3. **Pharmacological Treatment**:
+   - If lifestyle interventions are inadequate for achieving glycemic control, pharmacological treatment should be initiated. Metformin is often the first-line medication recommended [Reference Document 26].
+   - Other medications such as Thiazolidinediones, sulfonylureas, or insulin therapy can be considered based on individual patient needs and treatment goals [Reference Document 26].
+
+4. **Regular Monitoring and Follow-Up**:
+   - Regular monitoring of blood glucose and HbA1c levels is critical for assessing control and making necessary adjustments to treatment. HbA1c levels should be checked at least every three months until control is achieved, and then at least twice a year thereafter [Reference Document 26].
+   - Routine follow-ups should also assess the development of complications, such as retinopathy or nephropathy, which require particular attention in diabetic patients [Reference Document 26].
+
+5. **Management of Comorbidities**:
+   - Effective management of comorbid conditions such as hypertension and dyslipidemia is crucial. Blood pressure control targets should be implemented, aiming for a blood pressure of less than 130/80 mmHg [Reference Document 27].
+   - Lipid profiles should be monitored, and lifestyle changes implemented to support cardiovascular health [Reference Document 26].
+
+6. **Patient Education and Support**:
+   - Education is vital for patients to understand diabetes management, including dietary practices, self-monitoring of blood glucose, medication adherence, and recognizing symptoms of complications [Reference Document 26].
+   - Community-based programs to raise awareness about diabetes and promote healthy practices can aid in effective diabetes management strategies [Reference Document 26].
+
+### Conclusion
+Overall, WHO recommends a comprehensive approach to managing type 2 diabetes at the primary care level, focusing on prevention, early detection, lifestyle modifications, pharmacological treatment when necessary, regular monitoring, and patient education. Integrating these strategies can lead to improved health outcomes and reduce the risk of complications associated with diabetes.
+
+### References
+
+- [26] Screening for type 2 diabetes: report of World Health Organization and International Diabetes Federation meeting. Geneva, World Health Organization, 2003.
+- [23] Guidelines for the prevention, management and care of diabetes mellitus.
+- [27] Tight blood pressure control and risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 38. UK Prospective Diabetes Study Group. British Medical Journal, 1998.
+--------------------------------------------------------------------------------
+QUESTION: How does WHO recommend managing type 2 diabetes in primary care?
+MODE: hybrid
+ANSWER:
+The World Health Organization (WHO) provides comprehensive guidelines for the management of Type 2 diabetes in primary care, emphasizing a multifaceted approach that includes prevention, patient education, regular monitoring, and the use of medications. Here are the key recommendations:
+
+### Key Recommendations for Managing Type 2 Diabetes
+
+1. **Prevention Strategy**:
+   - Emphasize primary prevention strategies, particularly lifestyle modifications such as:
+     - Maintaining a healthy weight.
+     - Promoting regular physical activity.
+     - Implementing healthy dietary practices.
+   - Engage in community-based healthy lifestyle programs to reduce risk factors for Type 2 diabetes.
+
+2. **Screening and Early Detection**:
+   - WHO recommends routine screening for high-risk individuals to enable early identification and intervention, especially for those with risk factors such as obesity, family history of diabetes, and certain ethnic backgrounds.
+   - Regular monitoring is essential, with re-evaluation occurring every three years for individuals who have normal glucose levels but are considered at risk.
+
+3. **Patient Education**:
+   - Provide education that focuses on the importance of glycemic control and the management of risk factors associated with diabetes, such as hypertension and dyslipidaemia.
+   - Educate patients about the potential complications of diabetes and encourage them to actively participate in their own management.
+
+4. **Treatment Goals**:
+   - The primary goal of treatment is to achieve optimal glycemic control, aiming for HbA1c levels of <7%. Individualized treatment plans should consider the patient's overall health and treatment preferences.
+   - Optimize other related health parameters by managing conditions such as high blood pressure and dyslipidaemia. Target blood pressure levels should be maintained below 130/80 mmHg.
+
+5. **Multidisciplinary Care Approach**:
+   - Involve a diabetes care team consisting of physicians, nurses, dieticians, and diabetes educators to provide comprehensive care.
+   - Establish collaborative care systems within primary healthcare settings that facilitate easy access to various specialists as needed.
+
+6. **Regular Monitoring**:
+   - Routine follow-ups should involve assessments of blood glucose levels, HbA1c, blood pressure, and lipid profiles to ensure effective management and timely adjustments to therapies.
+
+7. **Pharmacological Therapy**:
+   - If lifestyle modifications are insufficient, consider pharmacotherapy options such as:
+     - Metformin as the first-line treatment.
+     - Other oral agents or insulin therapy may be required depending on the patient's specific needs and responses to treatment.
+
+By adhering to these recommendations, primary care providers can play a critical role in managing Type 2 diabetes effectively, improving patient outcomes, and reducing complications associated with the disease.
+
+### References
+
+- [1] Guidelines for Preventing and Managing Diabetes Mellitus
+- [2] Guidelines for the Prevention and Management of Diabetes Mellitus
+- [3] Diabetes Control and Complications Trial
+- [4] UKPDS 38: Tight Blood Pressure Control & Risk of Complications
+- [5] World Health Organization Diabetes Guidelines
+--------------------------------------------------------------------------------
+QUESTION: Summarize the pdf in 500 words.
+MODE: naive
+ANSWER:
+Sorry, I'm not able to provide an answer to that question.[no-context]
+--------------------------------------------------------------------------------
+QUESTION: Summarize the pdf in 500 words.
+MODE: local
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION: Summarize the pdf in 500 words.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION: Summarize the pdf in 500 words.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION: Give a list of questions which one can prepare for a test from this pdf.
+MODE: naive
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION: Give a list of questions which one can prepare for a test from this pdf.
+MODE: local
+ANSWER:
+I'm sorry, but I do not have enough information to provide a list of questions for a test based on the provided document. If you can specify particular topics or sections you're interested in, I may be able to assist further.
+--------------------------------------------------------------------------------
+QUESTION: Give a list of questions which one can prepare for a test from this pdf.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION: Give a list of questions which one can prepare for a test from this pdf.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer your query.
+--------------------------------------------------------------------------------
+QUESTION: Summarize the text in 500 words.
+MODE: naive
+ANSWER:
+Sorry, I'm not able to provide an answer to that question.[no-context]
+--------------------------------------------------------------------------------
+QUESTION: Summarize the text in 500 words.
+MODE: local
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION: Summarize the text in 500 words.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION: Summarize the text in 500 words.
+MODE: hybrid
+ANSWER:
+Sorry, I'm not able to provide an answer to that question.[no-context]
+--------------------------------------------------------------------------------
+QUESTION: Give a list of questions which one can prepare for a test from this pdf.
+MODE: naive
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION: Give a list of questions which one can prepare for a test from this pdf.
+MODE: local
+ANSWER:
+I'm sorry, but I do not have enough information to provide a list of questions for a test based on the provided document. If you can specify particular topics or sections you're interested in, I may be able to assist further.
+--------------------------------------------------------------------------------
+QUESTION: Give a list of questions which one can prepare for a test from this pdf.
+MODE: global
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION: Give a list of questions which one can prepare for a test from this pdf.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer your query.
+--------------------------------------------------------------------------------
+QUESTION: Summarize all the diabetes mellitus concepts in 500 words.
+MODE: naive
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION: Summarize all the diabetes mellitus concepts in 500 words.
+MODE: local
+ANSWER:
+**Summary of Diabetes Mellitus Concepts**
+
+Diabetes Mellitus is defined as a metabolic disorder characterized by chronic hyperglycaemia (elevated blood sugar levels). The condition results from defects in insulin secretion, insulin action, or both. This chronic disease poses significant health implications globally, manifesting in various forms and leading to severe health complications if unmanaged.
+
+There are two primary types of Diabetes Mellitus: **Type 1 Diabetes Mellitus** and **Type 2 Diabetes Mellitus**. 
+
+1. **Type 1 Diabetes Mellitus**:
+   - Type 1 diabetes is an autoimmune condition in which the body's immune system attacks and destroys the insulin-producing beta cells in the pancreas. This leads to an absolute lack of insulin, hence requiring lifelong insulin therapy for management. Patients with Type 1 diabetes are at risk for complications such as diabetic ketoacidosis and hypoglycaemia, necessitating vigilant monitoring and management of blood glucose levels.
+
+2. **Type 2 Diabetes Mellitus**:
+   - Type 2 diabetes is much more common and primarily characterized by insulin resistance, where the body's cells do not respond effectively to insulin. Some individuals may also have a gradual decline in insulin production over time. This form predominantly affects adults but has increasingly been diagnosed in children and adolescents, largely due to rising obesity rates. Management typically involves lifestyle modifications such as diet and exercise, along with oral medications or insulin therapy as needed.
+
+Another important subtype is **Gestational Diabetes**, which occurs during pregnancy and is characterized by glucose intolerance. If untreated, it can result in significant health issues for the mother and child.
+
+**Complications**: Diabetes leads to both microvascular and macrovascular complications. Microvascular complications include retinopathy (damaged blood vessels in the eyes), nephropathy (kidney damage), and neuropathy (nerve damage), while macrovascular complications increase the risk of cardiovascular diseases, such as heart attacks and strokes.
+
+**Risk Factors**:
+- A variety of factors contribute to the development of diabetes. These include obesity, physical inactivity, family history, and certain ethnic backgrounds such as those of Arab descent or individuals with first-degree relatives who have diabetes. Furthermore, metabolic syndrome—a cluster of conditions that increase the risk of heart disease, stroke, and type 2 diabetes—is linked to diabetes development.
+
+**Diagnosis**: Diagnosing diabetes typically involves measuring blood glucose levels through tests such as fasting plasma glucose, oral glucose tolerance test (OGTT), and glycated hemoglobin (HbA1c) tests. Persistent hyperglycaemia corroborated through repeat testing helps confirm the diagnosis.
+
+**Management**: Effective diabetes management includes blood glucose control through a combination of lifestyle changes, medication, and frequent monitoring. Patient education about the condition, prevention strategies for complications, and the importance of adherence to treatment protocols play vital roles in successful diabetes care. 
+
+Patient management plans also recommend routine screenings for complications and monitoring for coexisting conditions such as hypertension and dyslipidaemia, which commonly accompany diabetes.
+
+The overarching goal in managing diabetes is not only to control blood sugar levels but also to reduce the risk of long-term complications. This involves a comprehensive approach that encompasses medical, nutritional, lifestyle adjustments, and patient education to optimize health outcomes.
+
+In conclusion, Diabetes Mellitus represents a significant health challenge worldwide, necessitating comprehensive strategies for prevention, early detection, and effective management to enhance the quality of life for affected individuals.
+
+---
+
+### References
+- [1] Guidelines for the Prevention, Management and Care of Diabetes Mellitus
+- [2] Guidelines for Prevention and Management of Diabetes Mellitus
+- [3] Management of Diabetes Mellitus
+- [4] Diabetes Control and Complications Trial
+- [5] Management Recommendations for Special Groups and Circumstances
+--------------------------------------------------------------------------------
+QUESTION: Summarize all the diabetes mellitus concepts in 500 words.
+MODE: global
+ANSWER:
+Diabetes Mellitus is a chronic disease characterized by elevated blood glucose levels due to the body's inability to effectively produce or use insulin. It comprises several disorders affecting how glucose is metabolized, leading to significant health complications if not managed properly.
+
+### Types of Diabetes Mellitus
+
+1. **Type 1 Diabetes Mellitus (T1DM)**:
+   - An autoimmune condition where the body's immune system attacks insulin-producing beta cells in the pancreas, resulting in little to no insulin production.
+   - Individuals require lifelong insulin therapy to survive and manage blood glucose levels. It is often diagnosed in children and young adults.
+
+2. **Type 2 Diabetes Mellitus (T2DM)**:
+   - The most prevalent form of diabetes, characterized by insulin resistance, where the body's cells do not respond effectively to insulin.
+   - It often develops in adults but is increasingly being diagnosed in children and adolescents, partly due to the obesity epidemic.
+   - Management may include lifestyle changes, oral medications, and potentially insulin, depending on the severity of insulin deficiency.
+
+3. **Gestational Diabetes**:
+   - A temporary condition that occurs during pregnancy, resulting in carbohydrate intolerance and elevated glucose levels. 
+   - It requires careful monitoring and management due to potential risks for both the mother and child.
+
+4. **Other Specific Types**:
+   - Various other types include conditions due to malnutrition-related factors, genetic syndromes, and diseases of the pancreas.
+
+### Pathophysiology and Symptoms
+
+Diabetes occurs when there is a defect in insulin secretion, insulin action, or both, leading to chronic hyperglycemia (elevated blood glucose levels). Symptoms of diabetes include excessive thirst (polydipsia), frequent urination (polyuria), increased hunger (polyphagia), fatigue, and blurred vision. If untreated, diabetes can lead to severe complications, including:
+
+- **Chronic complications**: These long-term effects can damage various organs, leading to conditions such as:
+  - **Microvascular complications**: Neuropathy (nerve damage), nephropathy (kidney damage), and retinopathy (eye damage).
+  - **Macrovascular complications**: Increased risk of atherosclerosis-related cardiovascular diseases, including heart attack and stroke.
+
+### Diagnosis
+
+To diagnose diabetes, healthcare providers may use several tests that measure blood glucose levels, including:
+- Fasting plasma glucose test
+- Oral glucose tolerance test
+- Hemoglobin A1c test
+
+Diabetes is diagnosed based on specific thresholds of these glucose measurements.
+
+### Management
+
+The management of diabetes is multifaceted and includes:
+
+- **Blood Glucose Control**: Achieving and maintaining blood glucose levels within target ranges to avoid hyperglycemia and prevent complications.
+  
+- **Insulin Therapy**: Essential for all individuals with type 1 diabetes and may be necessary in advanced type 2 diabetes cases.
+
+- **Lifestyle Changes**: Dietary adjustments, physical activity, and weight management are critical for preventing and managing type 2 diabetes.
+
+- **Education**: Diabetes education programs aim to empower patients with knowledge about their condition, management strategies, and lifestyle modifications.
+
+### Public Health Implications
+
+The rising prevalence of diabetes, particularly type 2, poses a significant public health challenge globally. Health organizations, including the WHO, have prioritized diabetes management and prevention strategies, focusing on lifestyle interventions, early detection, and comprehensive diabetes care programs to address the complex interplay of factors contributing to its increasing prevalence and related complications. 
+
+In summary, diabetes mellitus is a complex metabolic disorder necessitating ongoing medical care and patient education to mitigate the associated health risks and enhance the quality of life for individuals affected by the condition.
+--------------------------------------------------------------------------------
+QUESTION: Summarize all the diabetes mellitus concepts in 500 words.
+MODE: hybrid
+ANSWER:
+Diabetes mellitus is a chronic condition characterized by high blood sugar levels due to insufficient insulin production, insulin action, or both. It is categorized primarily into two main types: Type 1 diabetes, where the body fails to produce insulin due to the destruction of insulin-producing beta cells in the pancreas; and Type 2 diabetes, which is characterized by insulin resistance and varying degrees of insulin deficiency. Both types result in hyperglycemia and are associated with numerous complications if not effectively managed.
+
+**Type 1 Diabetes Mellitus (T1DM)**: 
+This autoimmune condition typically manifests in childhood or early adulthood and requires lifelong insulin therapy for survival. Its onset is often abrupt, presenting with symptoms that may include increased thirst, frequent urination, extreme hunger, and unintended weight loss. Without prompt treatment, patients can experience diabetic ketoacidosis, which can be fatal.
+
+**Type 2 Diabetes Mellitus (T2DM)**: 
+T2DM is the most common form of diabetes and primarily affects adults, however, increasing rates among children have been observed, particularly due to rising obesity levels. Individuals with T2DM often exhibit resistance to insulin and it can be managed through lifestyle modifications such as diet, exercise, and in some cases, medication including oral hypoglycemic agents. Unlike T1DM, T2DM can occasionally be managed initially without insulin.
+
+The management of diabetes is crucial to prevent **chronic complications**, which can be broadly classified into microvascular and macrovascular complications. Microvascular complications include diabetic retinopathy, nephropathy, and neuropathy, which specifically affect the small blood vessels leading to vision loss, kidney damage, and nerve damage respectively. Macrovascular complications primarily involve cardiovascular diseases, as diabetes significantly raises the risk of atherosclerosis, hypertension, and dyslipidemia, increasing the likelihood of heart attacks and strokes.
+
+**Chronic Complications of Diabetes**:
+1. **Diabetic Retinopathy**: Damage to the retina can lead to blindness if not monitored and treated properly.
+2. **Diabetic Nephropathy**: This involves kidney damage, progressing from microalbuminuria to end-stage renal disease.
+3. **Diabetic Neuropathy**: Nerve damage can result in various symptoms, including tingling, numbness, and pain, significantly affecting quality of life.
+4. **Cardiovascular diseases**: Including heart attacks and strokes.
+
+Diabetes also influences other systems, often leading to metabolic syndrome, which is a cluster of risk factors including obesity, high blood pressure, and dyslipidemia that increases the risk of cardiovascular disease.
+
+**Screening and Diagnosis**:
+Early detection of diabetes is critical for effective management and prevention of complications. Screening programs often target high-risk individuals, particularly those with a family history, certain ethnic backgrounds, or those who are overweight or hypertensive. Diagnosis relies on consistent blood glucose tests, including fasting plasma glucose and the HbA1c tests to evaluate glycemic control over time.
+
+**Preventive Measures**:
+To counter the rising incidence of diabetes, particularly in the Eastern Mediterranean Region, community awareness programs promoting healthy lifestyles, including diet and exercise, are essential. Weight management, regular exercise, and educational initiatives to improve public understanding of diabetes prevention, risk factor identification, and self-management are necessary strategies.
+
+**Guidelines and Management**:
+Health care providers play a key role in implementing evidence-based strategies for diabetes management. This can include a diabetes management plan that is patient-centered, integrating lifestyle modifications, medication adherence, and ongoing monitoring of blood glucose levels to achieve optimal metabolic control and mitigate the risks of complications.
+
+In summary, effective diabetes management hinges on a comprehensive understanding of the disease’s mechanisms, vigilant monitoring to prevent complications, and a patient-centric approach that emphasizes lifestyle modifications and community education.
+--------------------------------------------------------------------------------
+QUESTION: Give suggestions to improve diabetes for a patient.
+MODE: naive
+ANSWER:
+Improving diabetes management for a patient involves a comprehensive approach that includes lifestyle modifications, medical treatment, and regular monitoring. Here are several key suggestions:
+
+### Lifestyle Modifications
+
+1. **Dietary Changes**:
+   - Follow a well-balanced diet focusing on whole foods. Aim for a nutrient distribution of **45% carbohydrates**, **35% total fat**, **20% mono-unsaturated fatty acids**, and **15%–20% protein**. Limit saturated fat to less than 10% of energy intake and minimize trans fats [23].
+   - Include plenty of dietary fiber, aiming for **around 50 g/day**, which can benefit glycaemic control and cardiovascular health [30].
+   - For those with dyslipidaemia, prioritize a diet that reduces saturated fat and cholesterol intake. This can help improve lipid profiles and reduce cardiovascular risk factors associated with diabetes [30].
+
+2. **Weight Management**:
+   - For individuals with a body mass index (BMI) of 25 kg/m² or greater, weight loss should be a significant objective as it can improve insulin sensitivity and overall diabetes control [30].
+
+3. **Physical Activity**:
+   - Incorporate regular exercise into daily routines. Aim for at least **150 minutes of moderate physical activity per week**, which includes various exercises that promote cardiovascular health and weight control [30].
+
+### Medical Treatment
+
+1. **Medication Adherence**:
+   - Ensure that the patient is consistent with their prescribed diabetes medications, whether insulin or oral agents such as metformin, sulfonylureas, or thiazolidinediones, according to their specific needs and medical advice [30].
+
+2. **Monitoring**:
+   - Encourage regular self-monitoring of blood glucose (SMBG), which is crucial for understanding how food, activity, and medications impact blood glucose levels [30].
+   - Obtain HbA1c levels every three months to evaluate long-term glycaemic control, aiming for a target below 7.0% [23].
+
+### Regular Check-ups
+
+1. **Comprehensive Diabetes Care**:
+   - Schedule regular follow-ups with a multidisciplinary team, including a physician, dietician, and diabetes educator, to adjust the treatment plan as needed and ensure comprehensive care that addresses all aspects of diabetes management [30].
+  
+2. **Screen for Complications**:
+   - Conduct screening for diabetes-related complications such as retinopathy, nephropathy, and neuropathy regularly, especially in patients with long-standing diabetes [30].
+
+### Education and Support
+
+1. **Diabetes Education**:
+   - Participate in diabetes education programs to enhance knowledge and skills regarding diabetes management. Understanding the condition improves adherence to treatment and the ability to manage it effectively [30].
+
+2. **Community Support**:
+   - Encourage involvement in community support groups for people with diabetes, which can offer social support and shared experiences, enhancing coping strategies and motivation.
+
+### Conclusion
+Implementing these strategies can help improve glycaemic control, reduce the risk of complications, and enhance the overall quality of life for patients with diabetes. It’s essential to individualize the approach based on each patient’s unique circumstances and preferences.
+
+### References
+- [23] Guidelines for the prevention, management and care of diabetes mellitus
+- [30] Diabetes care recommendations and strategies
+--------------------------------------------------------------------------------
+QUESTION: Give suggestions to improve diabetes for a patient.
+MODE: local
+ANSWER:
+To improve diabetes management for a patient, the following suggestions can be considered:
+
+### 1. **Lifestyle Changes**
+   - **Diet Modification**: Focus on a balanced diet that emphasizes whole grains, fruits, vegetables, and lean proteins. It's essential to control carbohydrate intake and choose low glycemic index foods to manage blood glucose levels effectively.
+   - **Weight Management**: Weight loss can significantly improve insulin sensitivity and glycemic control, especially for those with Type 2 diabetes. Aim for a gradual weight loss through sustainable dietary changes and regular physical activity.
+   - **Exercise Promotion**: Regular physical activity, such as walking, swimming, or cycling, is crucial. Aim for at least 150 minutes of moderate-intensity exercise weekly to help manage weight and improve insulin sensitivity.
+
+### 2. **Monitoring and Evaluation**
+   - **Blood Glucose Monitoring**: Encourage regular self-monitoring of blood glucose levels (SMBG) to allow patients to understand how food, activity, and medications affect their diabetes management.
+   - **Routine Check-Ups**: Regular visits to healthcare providers for monitoring HbA1c, blood pressure, and lipid profiles are essential to assess overall management and adjust treatment plans as necessary.
+
+### 3. **Medication Adherence**
+   - **Follow Prescribed Regimen**: Ensure that patients understand their diabetes medications, including when and how to take them. Adjustments may be necessary based on blood glucose readings and individual lifestyle.
+
+### 4. **Education and Support**
+   - **Diabetes Education Programs**: Participating in education programs helps patients learn about managing their condition, recognizing signs of hypo- or hyperglycemia, and making informed lifestyle choices.
+   - **Support Networks**: Encourage the involvement of family, friends, or support groups that can provide emotional support and practical assistance in managing diabetes.
+
+### 5. **Nutrition Counseling**
+   - **Dietician Guidance**: Consulting a registered dietician can help in creating personalized meal plans that cater to the individual’s lifestyle, preferences, and diabetes management goals.
+
+### 6. **Health Monitoring**
+   - **Routine Screening for Complications**: Regular screenings for diabetic complications such as retinopathy, nephropathy, and neuropathy can prevent severe health issues. 
+
+Implementing these strategies with consistent support from healthcare providers can significantly improve diabetes management and overall health outcomes for patients. 
+
+### References
+
+- [1] Guidelines for Preventing and Managing Diabetes Mellitus
+- [2] Lifestyle Changes and Diabetes Management
+- [3] Diabetes Education and Patient Support Programs
+- [4] Optimal Control Indicators for Diabetes Management
+- [5] Blood Glucose Management Strategies for Diabetes Patients
+--------------------------------------------------------------------------------
+QUESTION: Give suggestions to improve diabetes for a patient.
+MODE: global
+ANSWER:
+Improving diabetes management for a patient involves a multifaceted approach focusing on lifestyle changes, education, and supportive healthcare strategies. Here are some comprehensive suggestions based on best practices:
+
+### 1. **Lifestyle Changes**
+- **Dietary Modifications**: Encourage a balanced diet that includes whole grains, fresh fruits, vegetables, lean proteins, and healthy fats. It's important to reduce intake of refined sugars and saturated fats. A **Dietician** can assist in creating a personalized meal plan.
+- **Weight Management**: For overweight individuals, weight loss can significantly improve insulin sensitivity and blood glucose control. Aim for gradual weight loss through healthy eating and exercise.
+- **Regular Exercise**: Incorporating physical activity into daily routines is crucial. Aim for at least 150 minutes of moderate aerobic exercise weekly. It can help control blood glucose levels and improve overall health.
+
+### 2. **Blood Glucose Control**
+- **Monitoring Blood Glucose**: Self-monitoring of blood glucose (SMBG) should be part of the patient's routine, as it allows for immediate adjustments to diet, exercise, or medication.
+- **Medication Compliance**: Ensure adherence to prescribed medications, including any insulin regimen or oral hypoglycemic agents. Education on how these medications work can enhance compliance.
+
+### 3. **Diabetes Education**
+- **Patient Education Programs**: Participation in diabetes education programs can empower individuals with knowledge of managing their condition, recognizing complications, and understanding the importance of lifestyle choices.
+- **Engagement with Diabetes Educators**: Collaborating with a **Diabetes Educator** can significantly improve self-management skills and provide ongoing support.
+
+### 4. **Regular Health Check-Ups**
+- **Routine Medical Appointments**: Regular visits with healthcare providers, including primary care physicians, endocrinologists, and specialists can help manage diabetes and prevent complications.
+- **Screening for Complications**: Annual screenings for diabetic complications such as retinopathy and neuropathy are essential for early detection and management. Monitoring of lipids and blood pressure should also be part of routine care.
+
+### 5. **Support Systems**
+- **Multidisciplinary Diabetes Care Team**: Involve a team consisting of primary care physicians, dieticians, diabetes educators, and specialist teams like nephrologists and foot-care specialists to coordinate care.
+- **Support Groups**: Encourage participation in diabetes support groups where patients can share experiences and strategies.
+
+### 6. **Individualized Care Plans**
+- **Personalized Diabetes Management Plans**: Create management plans tailored to the individual's needs, preferences, and lifestyle. This can include setting specific goals for weight loss, exercise, and blood sugar control.
+
+### 7. **Address Related Conditions**
+- **Management of Comorbidities**: Address other conditions such as hypertension and dyslipidaemia, as they are often present alongside diabetes and can complicate management.
+
+Implementing these suggestions can lead to improved diabetes management and better health outcomes for patients. It's essential to achieve a holistic approach that incorporates physical, emotional, and educational support.
+
+### References
+
+- [1] Guidelines for the prevention, management and care of diabetes mellitus
+- [2] Diabetes education and lifestyle changes
+- [3] Role of lifestyle intervention in diabetes management 
+- [4] Diabetes Management Plan
+- [5] Importance of regular health check-ups and education
+--------------------------------------------------------------------------------
+QUESTION: Give suggestions to improve diabetes for a patient.
+MODE: hybrid
+ANSWER:
+To improve diabetes management for a patient, several strategies can be implemented that focus on lifestyle changes, education, and preventive measures. Here are some comprehensive suggestions:
+
+### Lifestyle Modifications
+1. **Dietary Adjustments**:
+   - **Balanced Diet**: Incorporate a balanced diet rich in vegetables, whole grains, lean proteins, and healthy fats while monitoring carbohydrate intake. It is recommended that carbohydrates make up about 45% of daily intake.
+   - **Nutritional Guidance**: Consult with a qualified dietician for personalized nutrition advice to reinforce healthy eating patterns and meal planning.
+   - **Weight Management**: For individuals with Type 2 diabetes, weight loss is a key component for improving metabolic health and achieving better glycemic control.
+
+2. **Regular Physical Activity**:
+   - **Exercise Routine**: Engage in at least 150 minutes of moderate-intensity aerobic exercise per week. Exercise helps improve insulin sensitivity and blood glucose levels.
+   - **Incorporate Movement**: Encourage activities such as walking, swimming, or cycling. Incorporating movement throughout the day can also help in maintaining blood sugar control.
+
+3. **Avoid Sugary Foods**: Reduce the intake of sugary snacks and beverages to prevent spikes in blood glucose levels.
+
+### Blood Glucose Monitoring
+1. **Self-Monitoring of Blood Glucose (SMBG)**:
+   - Patients should regularly check their blood sugar levels to understand how their diet, exercise, and medications affect their glucose control.
+   - Maintain a log of blood glucose readings to discuss with healthcare providers for better management plans.
+
+### Diabetes Education
+1. **Diabetes Education Programs**:
+   - Participate in structured diabetes education programs to learn more about self-management, prevention of complications, and understanding the disease.
+   - Engage Diabetes Educators to enhance understanding and skills for managing diabetes effectively.
+
+2. **Community Awareness**:
+   - Involvement in community awareness programs can provide additional support and resources for managing diabetes and reducing risks.
+
+### Regular Health Check-Ups
+1. **Routine Medical Appointments**:
+   - Regular follow-ups with healthcare providers, including checks on blood pressure, cholesterol levels, and kidney function.
+   - Annual screenings for diabetes-related complications such as neuropathy, retinopathy, and nephropathy.
+
+2. **Team-Based Care**:
+   - Collaboration with a multidisciplinary diabetes care team, including physicians, endocrinologists, dieticians, and diabetes educators for comprehensive patient management.
+
+### Stress Management
+1. **Stress Reduction Techniques**:
+   - Incorporate stress-relief practices such as yoga, meditation, or mindfulness to support overall health and improve blood glucose levels.
+
+By implementing these strategies, patients can work towards better diabetes management, improved health outcomes, and a reduction in the risk of complications associated with diabetes.
+
+### References
+- [1] Guidelines for the Prevention and Management of Diabetes Mellitus
+- [2] Table 14. Recommendations for metabolic and non-metabolic targets
+- [3] Diabetes Education and Lifestyle Changes
+- [4] Recommendations for dietary management of diabetes
+- [5] Exercise and diabetes management guidelines
+--------------------------------------------------------------------------------
+QUESTION: Evaluate the strengths and weaknesses of **community-level vs. facility-based prevention approaches** in low-resource settings.
+MODE: naive
+ANSWER:
+I do not have enough information to answer that.
+--------------------------------------------------------------------------------
+QUESTION: Evaluate the strengths and weaknesses of **community-level vs. facility-based prevention approaches** in low-resource settings.
+MODE: local
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------
+QUESTION: Evaluate the strengths and weaknesses of **community-level vs. facility-based prevention approaches** in low-resource settings.
+MODE: global
+ANSWER:
+I do not have enough information to answer that.
+--------------------------------------------------------------------------------
+QUESTION: Evaluate the strengths and weaknesses of **community-level vs. facility-based prevention approaches** in low-resource settings.
+MODE: hybrid
+ANSWER:
+I do not have enough information to answer.
+--------------------------------------------------------------------------------

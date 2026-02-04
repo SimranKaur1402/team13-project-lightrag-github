@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Evaluate the strengths and weaknesses of **community-level vs. facility-based prevention approaches** in low-resource settings.",
+    "mode": "naive",
+    "answer": "I do not have enough information to answer that."
+  },
+  {
+    "question": "Evaluate the strengths and weaknesses of **community-level vs. facility-based prevention approaches** in low-resource settings.",
+    "mode": "local",
+    "answer": "I do not have enough information to answer."
+  },
+  {
+    "question": "Evaluate the strengths and weaknesses of **community-level vs. facility-based prevention approaches** in low-resource settings.",
+    "mode": "global",
+    "answer": "I do not have enough information to answer that."
+  },
+  {
+    "question": "Evaluate the strengths and weaknesses of **community-level vs. facility-based prevention approaches** in low-resource settings.",
+    "mode": "hybrid",
+    "answer": "I do not have enough information to answer."
+  }
+]
