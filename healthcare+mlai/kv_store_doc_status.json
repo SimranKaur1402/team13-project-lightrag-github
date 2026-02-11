@@ -1,0 +1,17 @@
+{
+  "doc-c34ed833a3a2fadd5b84f6b8a428d0bf": {
+    "status": "failed",
+    "error_msg": "RetryError[<Future at 0x7173d5f10a10 state=finished raised RateLimitError>]",
+    "content_summary": "INTRODUCTION\nTO\nMACHINE LEARNING\nAN EARLY DRAFT OF A PROPOSED\nTEXTBOOK\nNils J. Nilsson\nRobotics Laboratory\nDepartment of Computer Science\nStanford University\nStanford, CA 94305\ne-mail: nilsson@cs.stanford.edu\nNovember 3, 1998\nCopyright c⃝2005 Nils J....",
+    "content_length": 321113,
+    "created_at": "2026-02-09T06:42:38.089705+00:00",
+    "updated_at": "2026-02-09T06:43:02.745810+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260209_121238_714722e7",
+    "metadata": {
+      "processing_start_time": 1770619359,
+      "processing_end_time": 1770619382
+    },
+    "chunks_list": []
+  }
+}

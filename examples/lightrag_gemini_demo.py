@@ -27,7 +27,7 @@ from lightrag.utils import wrap_embedding_func_with_attrs
 nest_asyncio.apply()
 
 WORKING_DIR = "./rag_storage"
-BOOK_FILE = "./book.txt"
+BOOK_FILE = "./home/skaur/LightRAG/MLBOOK.pdf"
 
 # Validate API key
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
@@ -103,7 +103,7 @@ def main():
     with open(BOOK_FILE, "r", encoding="utf-8") as f:
         rag.insert(f.read())
 
-    query = "What are the top themes?"
+    query = "Explain machine learning."
 
     print("\nNaive Search:")
     print(rag.query(query, param=QueryParam(mode="naive")))

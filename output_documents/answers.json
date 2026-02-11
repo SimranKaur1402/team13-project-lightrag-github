@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Explain machine learning.",
+    "mode": "naive",
+    "answer": "Sorry, I'm not able to provide an answer to that question.[no-context]"
+  },
+  {
+    "question": "Explain machine learning.",
+    "mode": "local",
+    "answer": null
+  },
+  {
+    "question": "Explain machine learning.",
+    "mode": "global",
+    "answer": null
+  },
+  {
+    "question": "Explain machine learning.",
+    "mode": "hybrid",
+    "answer": null
+  }
+]
